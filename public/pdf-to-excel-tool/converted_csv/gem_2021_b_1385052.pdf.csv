@@ -1,0 +1,50 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 15:00:00,
+Bid Opening Date/Time,,09-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Atomic Energy,
+Organisation Name,,N/a,
+Office Name,,Directorate Of Purchase And Stores,
+Total Quantity,,2,
+Item Category,,Laminar air flow cabinets or stations,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Product Description,,UMDNS Name and Code,,"Cabinets, Biological Safety, Class II : 20-653"
+"",,Other Names,,Laminar flow Horizontal (LFH)
+Certifications,,Confirmity to Certifications,,CE European
+"","Confirmity to ManufacturingStandards",,ISO 9001 & ISO 13485,
+"",Confirmity to Safety Standards,,IEC 60601-2-18 or BIS equivalent,
+"",Type of configuration,,Benchtop,
+"",Type of air flow direction,,Horizontal,
+"","Material used for the workbench",,Stainless steel 316 grade,
+"",Type of Sash (front door),,Folding,
+"","Material used for the frontdoor",,Acrylic transparent,
+"","Material used for the Sidepanels",,Acrylic,
+"",Laminar air flow Velocity (m/s),,0.26 to 0.38,
+"",Type of light,,LED,
+"",Number of LED lamps,,2,
+"","Availability of motorizedsliding door",,No,
+"","LCD display for velocity,time & lamp on/off",,No,
+"",UV Hour meter,,No,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,UV Germicidal lamp,,Yes
+"",,DOP HEPA filter testing,,Yes
+"",,"Digital Pressure Gauge withAlarm",,Yes
+"",,"Size of the workingarea(W×D×H) (feets)",,4x2x2
+"",,Availability of display,,Yes
+"",,Type of display,,LCD
+Power Requirements,,Power supply,,230V/50HZ
+"PurchaseInformation",,Warranty,,1.0
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer400085,Material Receipt CellMahesh Gajanan(MRC), North Gate, Central1290PedhaviStores Unit, BARC, TROMBAY,MUMBAI",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Mahesh GajananPedhavi",,"400085,Material Receipt Cell(MRC), North Gate, CentralStores Unit, BARC, TROMBAY,MUMBAI",,2,,90,

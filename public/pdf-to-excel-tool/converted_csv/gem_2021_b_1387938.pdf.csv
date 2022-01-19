@@ -1,0 +1,50 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 14:00:00,
+Bid Opening Date/Time,,06-08-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Finance,
+Department Name,,Department Of Financial Services,
+Organisation Name,,State Bank Of India (sbi),
+Office Name,,Corporate Centre Mumbai,
+Total Quantity,,4,
+Item Category,,Television TV ( PAC Only ),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+Primary product category,,Television TV,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Make,samsung,
+Model,samsung(43)t5350smartfhdtv,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"",Specifications,,Type,,LED Backlit LCD,
+"",,,Screen Size (Inches),,"42, 43, 47, 49, 50, 52, 55, 60, 65, 70, 75, 77, 80, 82,85, 86, 90, 95, 98, 100 Or higher",
+"",,,Resolution (Pixels),,"(1920 x 1080) Full HD, (3840x2160) UHD Or higher",
+"",,,Category,,Smart Or higher,
+"",,,Typical Brightness,,"200 - 299, 300 - 399, 400 - 500 Or higher",
+"",,,"If Yes, Wattage of Speakers",,"10W x 2, 12W x 2, 20W x 2 Or higher",
+"",Certification,,"Energy Star Rating in linewith the Government ofIndiia Notification number SO 1896(E) and S O 1897(E)",,"2, 3, 4, 5 Or higher",
+"",Warranty,,Warranty(Years),,2,
+"",S.No.,,"Consignee/Reporting Officer",,,Address,,Quantity,,Delivery Days
+"",1,,"Pramoda KumarPanda",,,"400021,state bank bhavnamadam cama road narimanpoint",,2,,15
+Make,samsung,
+Model,ua32t4310akxxl,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Specifications,,Type,,LED Backlit LCD
+"",,Screen Size (Inches),,"32, 39, 40, 42, 43, 47, 49, 50, 52, 55, 60, 65, 70, 75,77, 80, 82, 85, 86, 90, 95, 98, 100 Or higher",
+"",,Resolution (Pixels),,"(1366 x 768) HD Ready, (1920 x 1080) Full HD,(3840x2160) UHD Or higher",
+"",,Category,,Smart Or higher,
+"",,Typical Brightness,,"100 - 199, 200 - 299, 300 - 399, 400 - 500 Or higher",
+"",,"If Yes, Wattage of Speakers",,"10W x 2, 12W x 2, 20W x 2 Or higher",
+"",Certification,,"Energy Star Rating in linewith the Government ofIndiia Notification number SO 1896(E) and S O 1897(E)",,"2, 3, 4, 5 Or higher"
+"",Warranty,,Warranty(Years),,1
+"",S.No.,,"Consignee/Reporting Officer",,,Address,,Quantity,,Delivery Days
+"",1,,"Pramoda KumarPanda",,,"400021,state bank bhavnamadam cama road narimanpoint",,2,,15

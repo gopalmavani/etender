@@ -1,0 +1,100 @@
+RA Details,,,
+RA Technical End Date/Time,,09-08-2021 18:00:00,
+RA Opening Date/Time,,09-08-2021 18:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Petroleum And Natural Gas,
+Department Name,,Na,
+Organisation Name,,Hindustan Petroleum Corporation Ltd,
+Office Name,,Petroleum House,
+Total Quantity,,1,
+Item Category,,Power Generator-DG Set (Upto 900 KVA),
+Experience Criteria,,3 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,Certificate (Requestedin ATC),OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+"Time allowed for Technical Clarificationsduring technical evaluation",,7 Days,
+Past Performance,,80 %,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,3.00,
+"",Duration of ePBG required (Months).,,27,
+Brand Type,Registered Brand,
+Specification,Specification Name,Bid Requirement (Allowed Values),
+"Power GeneratorINSTALLATIONCONFIGURATIONS","Power Generatorinstallation configurationsas defined in CPWD GeneralSpecifications for Electricalworks - Part VII (DG Set)","Fixed (Power Generators are permanently installed)""",
+"Nominal Rated Capacity(kVA)",750,,
+"No of Phase (Single Phase-3-5kVA) (Single Phase or ThreePhase-5 & 7-5, 10,15, 20, 25, 30& 40 kVA) (Three Phase-50 to900 kVA)",Three Phase,,
+Specification,Specification Name,Bid Requirement (Allowed Values)
+ENGINE,Rated Engine Power (kWm),"100 % of the required powered at STP(StandardTemperature Pressure) i.e equal to (Nominal RatedCapacity (KVA) of power generator + Any Auxilarypower Consumption by the Power generator) x Powerfactor(0.8) / Alternator efficience, 110 % of therequired powered at STP(Standard TemperaturePressure) i.e equal to (Nominal Rated Capacity (KVA)of power generator Any Auxilary power Consumptionby the Power generator) x Power factor(0.8) /Alternator efficience Or higher"
+"",Type of Engine cooling,Liquid Cooled
+"",Type of governer,Electronic Or higher
+"",Number of cylinders (nos),12
+"",Rated RPM of Engine (RPM),1500
+"",Fuel,High Speed Diesel (HSD)
+"",Starting voltage (volt),24
+"",Salient Features of Engine,Turbo Charged Engine
+GOVERNING CLASS,"""Maximum Change of Speed asa Percentage of Rated Speed onsuddenly taking-off the ratedload(Transient) """,15
+"""Maximum Recovery Time inSeconds on suddenly taking-offthe rated load(Transient) """,15.0,
+"Maximum Change of Speed as aPercentage of Rated Speed onsuddenly taking-off the ratedload(Permanent)",5,
+"""Maximum Change of Speed asa Percentage of Rated SpeedOn a change of load, both onand off, by all steps of 25percent of the rated load(Transient) """,4,
+"""Maximum Recovery Time inSeconds on a change of load,both on and off, by all steps of25 percent of the ratedload(Transient) """,5.0,
+"""Maximum Change of Speed asa Percentage of Rated SpeedOn a change of load, both onand off, by all steps of 25percent of the rated load(Permanent)",1.5,
+Alternator Voltage Rating,415.0,
+"Efficiency at rated Power factorat 75% of full Load",95.0 - 100.0 Or higher,
+"Conformity to Indian Standard(for Alternator)","Generally conforming to IS:13364 (Part-2) latest(Above 20 KVA)",
+Voltage Regulation Grade,VG 3 Or higher,
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"",Alternator IP Rating,IP 23 Or higher
+"",Salient features of Alternator,NA
+CONTROL PANEL,Control Panel,AMF Control Panel
+"",Control Panel Location,Outside the Canopy
+"",IP Rating of Control Panel,"IP 53, IP 54, IP 55 Or higher"
+"","Display meters in the controlpanel (with appropriate ratingand accuracy class ) - inclusivein the scope of supply","Multifunctional Digital display meter (displayingVoltage, Current, Frequency, Power Factor)"
+"","Other devices in the controlpanel (with appropriate rating) -inclusive in the scope of supply","Required switches and cutout, MCB, MCCB, Contactor,Circuit breaker, Battery charger"
+"",Displayed parameters/Features,"Engine Speed, Lube oil pressure, Coolant/cylinderhead Temperature, Engine running hours, Enginebattery voltage, Engine Running status, GeneratorVoltage (Ph-Ph), Generator Voltage (Ph-N), GeneratorCurrent (R, Y, B), Generator apparent Power (kVA),Generator active Power (kW), Powerfactor, Frequency,Fuel level, Event log, Control supply Voltage"
+"",Indicators,"Low Lube oil pressure, High water / coolant / cylinderhead temperature, Low fuel level, Over speed"
+"",Audio Alarm,"Low Lube oil pressure, High water / coolant / cylinderhead temperature, Low fuel level, Over speed"
+"ACOUSTICENCLOSURE",Sheet Thickness(mm),"1.6, 1.8, 2 Or higher"
+"",Thickness of insulation,50.0 - 120.0 Or higher
+"","Density of insulation (kg/cubicm)",64.0 - 100.0 Or higher
+"",Noise level at 1 meter (dB),75
+Fuel Tank,Fuel Tank Capacity,990.0
+"",Number of Fuel tank,1
+"","Fuel Tank Sheet MaterialThickness(mm)","2, 3 Or higher"
+"",Fuel Tank Features,NA for 990 liter
+BATTERY,Battery Type & Specification,"""Low Maintenance free to IS: 14257 for high crankingperformance"""
+"",Battery capacity (Ah),180
+"",No of batteries,2
+SALIENT FEATURES,"Salient Features of PowerGenerator","Glass window on Accoustic Enclosure in front of theControl Panel, Emergency Stop outside the AccousticEnclosure"
+Trailer,NA for Fixed/Skid Mounted Power Generator,
+Pay load of the Trailer,"0, 500, 1000, 2000 Or higher",
+Number of Axlels,0,
+Number of wheels,'NA' for without trailer,
+Wheel Tyre size,0.0,
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"",Brakes,"NA for Fixed/Skid Mounted Power Generator, Hydraulic,Electrical Or higher"
+"Trailer Complying to CMVR actand Regulation",NA for Fixed/Skid Mounted Power Generator,
+Salient Features of trailer,NA,
+Installation,"with installation - inclusive in the scope of supply Orhigher",
+"Scope of installation for DieselGenerating Set when offered bythe vendor - inclusive in thescope of supply(Part-1)","a) Installation of Power Generator when offered by thevendor is inclusive in the scope of supply and shall bedone by the seller. The installation work of PowerGenerator and its constituent parts shall be generallyconforming to CPWD General Specification forElectrical Works, Part - VII - latest. b) Foundation shallbe constructed by the seller. Foundation shall be ofPCC type with the ratio of 4:2:1. The length andbreadth of the foundation shall be 300 mm more fromthe respective length and breadth of the PowerGenerator. The height of the foundation shall be 400mm, i.e., 200 mm below and 200 mm above theground level. All the materials / labour required forfoundation work shall be supplied by the seller.",
+"Scope of installation for DieselGenerating Set when offered bythe vendor - inclusive in thescope of supply(Part-2)","c) Supply, laying and termination of interconnectingpower and control cable shall be done by the seller.The cable supplied shall be ISI marked heavy duty PVCinsulated, armoured cable, with PVC outer Sheath ofType ST-2 (FR Grade, Category C1), with aluminiumconductor having insulation of PVC compound type -C,suitable for rated voltage upto and including 1100volts and conforming to IS: 1554 (Part-1) latest. For 3-Phase Power Generators, 3.5 core or higher corecables shall be used. Total length of the cable suppliedby the seller shall be within 30 meters for each PowerGenerator with manual control panel and within 60metres for each Power Generator with AMF controlpanel. The current rating of the cables shall be asindicated below: 2C, 6 Sq mm for Single Phase, 3.5 &5.0 KVA 2C, 10 Sq mm for Single Phase, 7.5 & 10 KVA2C, 25 Sq mm for Single Phase, 15 KVA 2C, 35 Sq mmfor Single Phase, 20 KVA 2C, 70Sq mm for SinglePhase, 25 KVA 2C, 95Sq mm for Single Phase, 30 KVA2C, 120Sq mm for Single Phase, 40 KVA 4C, 4 Sq mmfor Three Phase,",
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"","Scope of installation for DieselGenerating Set when offered bythe vendor - inclusive in thescope of supply(Part-3)","d) 10 KVA 4C, 6 Sq mm for Three Phase, 15 KVA 4C, 10Sq mm for Three Phase, 20 & 25 KVA 4C, 16 Sq mm forThree Phase, 30 KVA 3.5C, 25 Sq mm for Three Phase,40 KVA 3.5C, 35 Sq mm for Three Phase, 50 KVA 3.5C,70 Sq mm for Three Phase, 62.5 & 75 KVA 3.5C, 95 Sqmm for Three Phase, 82.5 KVA 3.5C, 120 Sq mm forThree Phase, 100 KVA 3.5C, 185 Sq mm for ThreePhase, 125 KVA 3.5C, 300 Sq mm for Three Phase, 160KVA 3.5C, 2 Run of 120 Sq mm for Three Phase, 180KVA 3.5C, 2 Run of 150 Sq mm for Three Phase, 200KVA 3.5C, 2 Run of 185 Sq mm for Three Phase, 225KVA 3.5C, 2 Run of 240 Sq mm for Three Phase, 250 &275 KVA 3.5C, 3 Run of 185 Sq mm for Three Phase,320 KVA 3.5C, 3 Run of 240 Sq mm for Three Phase,380 & 400 KVA 3.5C, 4 Run of 240 Sq mm for ThreePhase, 500, 600 & 750 KVA 3.5C, 6 Run of 240 Sq mmfor Three Phase, 900 KVA"
+"","Scope of installation for DieselGenerating Set when offered bythe vendor - inclusive in thescope of supply(Part-4)","e) Construction of suitable earthing station andnecessary connections shall be done by the seller. Allthe materials / labour required for construction ofearthing station shall be supplied by the seller. Thetotal number of earthing pits/stations shall be 4, i.e., 2for neutral and 2 for body-earthing. Netutral earthingshall be done with copper Plate and Body earthingshall be done with G.I. plate / Copper. The consigneeshould choose installation site in such a way that theearthing stations can be made within 10 metres of thePower Generator. Earthing station shall be typicallyconstructed as per prevalent standard practices andshall be generally conforming to CPWD Generalspecification for Electrical Works, Part - VII & Part - I -latest. e) Installation of Fuel Tank including foundation/ stand shall be done by the seller. f)The warranty isapplicable upto specified value of month/hourswhichever occurs first's."
+"","Above Scope of installation forDiesel Generating Set whenoffered by the vendor has beenseen, read, understood andagreed to comply",Yes
+"WARRANTY/SERVICES","Warranty on Completepower genertor/DG Set","24, 36 Or higher"
+Warranty in running hours,5000.0 - 5000.0 Or higher,
+"Number of preventivemaintenance visits offeredin an year during warrantyperiod (Supply of allconsumables is the buyer'sresponsibilty)*",2,
+"Type of lab which carried outTest of Complete Product toprove the conformity of productas per specification",Certificates required as per CPCB,
+Specification,Specification Name,,Bid Requirement (Allowed Values),
+TEST REPORTS,"Test report Available for(Test/approval)",,"Type Approval Certificate for the specified rating of thePower Generator from any of the designated agencyauthorized by CPCB, COP Certificate for engine, Typetest report for Alternator as per IS:13364 (Part-1)latest / IS:13364 (Part-2) latest to prove conformity tothe specifications",
+"Agree to provide all relevantdocuments TestReport/supporting document/reports etc to the buyer at thetime of bidding or on demand",,YES,,
+"",% of Product Cost Payable on Product Delivery,,80%,
+"",Min Cost Allocation for ICT as a % of product cost,,20%,
+"","Number of days allowed for ICT after site readinesscommunication to seller",,30 Days,
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days,
+1,Arjun,"601201,HPCL ,LPG Bottling Plant,J12, SIPCOT Industrial Complex,Gummudipoondi, Chennai -601201",1,120,
+"",S.No.
+"",1

@@ -1,0 +1,29 @@
+RA Details,,,
+RA Technical End Date/Time,,04-08-2021 11:00:00,
+RA Opening Date/Time,,04-08-2021 11:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,80 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,line matrix printer,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+Brand Type,Registered Brand
+Specification,Specification Name,Bid Requirement (Allowed Values)
+Ungrouped,Type of Line Matrix Printer,Standard
+"Print Speed of StandardLMP ( High Speed DraftMode, Upper Case ) (Linesper minute)",500,
+"Print Speed at 180 x 180 dpi( For High Definition LMP)(Inches per minute)","36, 64, 79, NA",
+Print Width (Column) (Number),136,
+"Acoustics (Noise level whileprinting) (dBA)","50, 60.5",
+"Mean Time Between Failure(MTBF)",10000,
+"On Site OEM Warranty(Years)","3, 1",
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days
+1,***********,***********DIMAPUR,1,15

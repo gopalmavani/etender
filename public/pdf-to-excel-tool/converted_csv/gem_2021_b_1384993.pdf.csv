@@ -1,0 +1,42 @@
+Bid Details,,,
+Bid End Date/Time,,11-08-2021 14:00:00,
+Bid Opening Date/Time,,11-08-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Air Force,
+Office Name,,***********,
+Item Category,,Annual Maintenance service - EPABX System,
+Contract Period,,2 Year(s),
+Years of Past Experience required,,3 Year (s),
+"Past Experience of Similar Servicesrequired",,Yes,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+"SHG Exemption for Years of Experience andTurnover",,No,
+Document required from seller,,"Experience Criteria,Bidder Turnover,Certificate (Requestedin ATC),OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Estimated Bid Value,,83479,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+Specification,,Values
+Core,,
+Amc for,,pabx system-EPABX
+Brand/MAKE OF EPABX SYSTEM,,Progility
+Technology/Architecture of EPABX system,,Conventional ( Card/microcontroller based )
+"Number Phone/end point (Analogue Extensions/FXS) (max)",,448
+Number of Digital Phone (max),,8
+Number of Junction/FXO line (max),,32
+Number of SIP Phones (max),,NA
+Number of SIP Trunks (max),,NA
+"OTHER ASSETS which are integral part of theEPABX system and covered under the scope of theAMC service",,"PRI- card , E&M - card , EPABX system related network andLAN/cabling , Operator Console , related softwares andapplication"
+VINTAGE of the EPABX System,,10 years and above
+Specification,,Values
+"Frequency of Routine/Preventive MaintenanceService",,monthly
+condition of Product ( AT THE TIME OF BIDING),,"Under Warranty and functional; Under AMC and function;Functional;"
+Type of AMC,,Comprehensive
+Addon(s),,
+"Quantity ofaboveConsignee/ReportiAdditionalS.No.Addressmentionedng OfficerRequirementtechnicalspecification1**********************ANANTHNAG1N/A",S.No.,,"Consignee/Reporting Officer",,Address,,"Quantity ofabovementionedtechnicalspecification",,"AdditionalRequirement"
+1,,***********,,***********ANANTHNAG,,1,,N/A,

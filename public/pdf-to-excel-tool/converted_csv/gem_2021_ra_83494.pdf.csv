@@ -1,0 +1,44 @@
+RA Details,,,
+RA Technical End Date/Time,,05-08-2021 16:00:00,
+RA Opening Date/Time,,05-08-2021 16:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,23,
+Item Category,,Line Intractive UPS with AVR,
+Experience Criteria,,3 Year (s),
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"Experience Criteria,Past Performance,Bidder Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+Past Performance,,10 %,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+Brand Type,Unbranded
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"Rating in KVA/ min VAHcapacity of battery(KVA/VAH)",1.0/800,
+Technology,IGBT-PWM,
+Type of battery,"SMF-VRLA confirming to JISC-8702 Pt 1,2 &3",
+Rated Output (Volt),"Single phase sinewave 230v AC , 50Hz",
+Degree of protection,IP-21,
+Inverter Efficiency (%),> / = 70%,
+"Warranty for the batteryfrom the date of delivery",1 year,
+"Warranty for LineInteractive UPS","1 Year, 2 Years",
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"","Installation and commissioninginstructions","Yes, No"
+CONSTRUCTIONAL,Type of enclosure,Mild steel
+"","AC out put for printer (notthrough inverter)",No
+"","Inverter out put socket ACout put for printer (notthrough inverter)",3 Three pin
+FUNCTIONAL,Total harmonic distorsion (%),< / = 40%
+"",Input (Volt),Single phase sinewave(160-280v)
+"",Overload Time (Minutes),> / = 10 minutes
+"",Load power factor,> / = 0.6
+"","Variation in AVR output inAC mode (%) AVR (Voltageregulation) output voltagein AC Mode","230 Volts +/-9%, 50 +/-3 Hz"
+"REPORTS ANDCERTIFICATIONS","As per Meity (Government ofIndia) guidelines UPS shall havevalid BIS CRS certifications asapplicable","Yes, Not applicable presently"
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days
+1,***********,***********ALLAHABAD,23,15

@@ -1,0 +1,70 @@
+Bid Details,,,
+Bid End Date/Time,,11-08-2021 10:00:00,
+Bid Opening Date/Time,,11-08-2021 10:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence Research & Development,
+Organisation Name,,Office Of Dg ( Ns & M),
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,Online Ups-IS:9000,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Rating in KVA (KVA),,6.0 KVA
+"",Technology,,IGBT-PWM with inbuilt isolation transformer
+"",Input Power,,"single phase 160V - 260V sinewave,50Hz"
+"",Output power,,Single phase 230V +/-1% sinewave 50 Hz
+"",Backup time (Minutes),,120
+"",Minimum VAH (VAH),,15600
+"",Warranty for UPS (Years),,2
+"",Movable trolly for Batteries,,Without trollery but with rack
+"",Warranty for battery,,2
+"",Degree of Protection,,IP21
+"","Cabling 5 meters for inputand out put",,With
+"","Paralleling kit forsynchronising",,Without
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Constructional,,"Minimum thickness ofM.S.Sheet Enclosure dulypainted (mm)",,1.2
+"",,Type of Battery,,"SMF-VRLA conforming to JISC:8702(Pt.I,II&III)"
+Functional,,"20% Overload limit forminimum 10 minutes",,Yes
+"",,Overall Efficiency (%),,>/=90%
+"",,"50% Overload limit forminimum 1 minutes",,Yes
+"Reports AndCertification",,"As per Meity (Government ofIndia) guidelines UPS shall havevalid BIS CRS certifications asapplicable",,Yes
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+"Installation and Commissioning,Maximum overshoot and Undershoot of output rated voltage,Voltage Regulation from no loadto full load (%), Total HarmonicDistortion(THD) (%)",,"Yes, 4, < / = 3%, Maximum 3%"
+"Protection for under voltage atbattery terminal at 10.5V per12 V battery, Protection of Overvoltage, Short Circuit & overload at UPS output terminal",,Yes
+"Digital Metering in UPS for ACInput Voltage,Output ACVoltage,Current,Frequency,Battery Voltage and Current,Indicators for mainspresence,Battery charging anddischarging,Output Over Load,Low Battery Voltage",,Yes
+"Damp Heat : in accordance withIS:9000(part 5/sec.2)1981 atTemperature of 40 degreeC,two cycles of (12+12) hourseach 2007), Dry Heat Test : inaccordance with IS:9000 (part3/sec.5)1977 (reaffirmed 2007)at 55 degree C for 16 hrs,",,Yes
+"Specification ParameterName",,Bid Requirement (Allowed Values),
+"Cold Test : in accordance withIS:9000 (Part 2/Sec.4)1977(Reaffirmed 2007) at -10degree C for 4 hrs,",,Yes,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************HYDERABAD130",S.No.
+1,
+"S.No.Document TitleDescriptionApplicable i.r.o. ItemsBattery Specificationsand AcceptanceDetailed specifications of battery and1CriteriaAcceptance Criteria as per Annexure -Online Ups-IS:9000(1)IIIView",S.No.,,,Document Title,,Description,,Applicable i.r.o. Items,
+1,,,"Battery Specificationsand AcceptanceCriteriaView",,"Detailed specifications of battery andAcceptance Criteria as per Annexure -III",,Online Ups-IS:9000(1),,
+"","UPSRating",,"15Minutes",,"30Minutes",,"60Minutes",,"90Minutes",,"120Minutes",,"180Minutes",,"240Minutes",
+"",1 KVA,,400 VAH,,800 VAH,,1600 VAH,,2400 VAH,,3200 VAH,,4800 VAH,,6400 VAH,
+"",2 KVA,,800 VAH,,1600 VAH,,3200 VAH,,4800 VAH,,6400 VAH,,9600 VAH,,12800 VAH,
+"",3 KVA,,1200 VAH,,2400 VAH,,4800 VAH,,7200VAH,,9600 VAH,,14400 VAH,,19200 VAH,
+"",5 KVA,,2000 VAH,,4000 VAH,,8000 VAH,,12000 VAH,,16000 VAH,,24000 VAH,,32000 VAH,
+"",6 KVA,,2400 VAH,,4800 VAH,,9600 VAH,,14400 VAH,,19200 VAH,,28800 VAH,,38400 VAH,
+"",7.5 KVA,,3000 VAH,,6000 VAH,,12000 VAH,,18000 VAH,,24000 VAH,,36000 VAH,,48000 VAH,
+"",10 KVA,,4000 VAH,,8000 VAH,,16000 VAH,,24000 VAH,,32000 VAH,,48000 VAH,,64000 VAH,
+"",15 KVA,,6000 VAH,,12000 VAH,,24000 VAH,,36000 VAH,,48000 VAH,,72000 VAH,,96000 VAH,
+"",20 KVA,,8000 VAH,,16000 VAH,,32000 VAH,,48000 VAH,,64000 VAH,,96000 VAH,,128000 VAH,
+"",30 KVA,,12000 VAH,,24000 VAH,,48000 VAH,,72000 VAH,,96000 VAH,,144000 VAH,,192000 VAH,
+"",40 KVA,,16000 VAH,,32000 VAH,,64000 VAH,,96000 VAH,,128000 VAH,,192000 VAH,,256000 VAH,
+"",60 KVA,,24000 VAH,,48000 VAH,,96000 VAH,,"144000VAH",,192000 VAH,,288000 VAH,,384000 VAH,
+"",80 KVA,,32000 VAH,,64000 VAH,,"128000VAH",,"192000VAH",,256000 VAH,,384000 VAH,,512000 VAH,
+"","UPSRating",,"15Minutes",,"30Minutes",,"60Minutes",,"90Minutes",,"120Minutes",,"180Minutes",,"240Minutes",
+"",100 KVA,,40000 VAH,,80000 VAH,,"160000VAH",,"240000VAH",,320000 VAH,,480000 VAH,,640000 VAH,

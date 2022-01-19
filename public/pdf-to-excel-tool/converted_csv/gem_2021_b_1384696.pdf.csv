@@ -1,0 +1,58 @@
+Bid Details,,,
+Bid End Date/Time,,16-08-2021 13:00:00,
+Bid Opening Date/Time,,16-08-2021 13:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Home Affairs,
+Department Name,,Central Police Organisation,
+Organisation Name,,N/a,
+Office Name,,Cfsl(cbi),
+Total Quantity,,3,
+Item Category,,"DSLR/ COMPACT / HANDHELD CAMCORDER or VIDEOCAMERAS",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,20 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+TYPE,,Classification of Camera,,Still
+"",,Type of Camera,,DSLR APS Format
+IMAGE SENSOR,,Image Sensor,,CMOS
+"","Sensor Size for Fixed LensCamera (inch)",,NA,
+"","Sensor Size forInterchangeable LensCamera (mmxmm)",,22.3 x 14.9,
+"","Effective Pixels (MegaPixels)",,24,
+"","ISO (Sensitivity of theimage Sensor) Max",,"6400, 12800, 25600, 32000, 40000, 51200 Or higher",
+"",Lens Mounting,,Detachable,
+"",Minimum Focal Length,,18.0,
+"",Maximum Focal Length,,55.0,
+"","Minimum Lens Aperture(f/number)",,4,
+"","Maximum Lens Aperture(f/number)",,5.6,
+"",Optical Zoom,,3X to 5X,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Video Recording,,Video Recoding,,Yes
+"",,"Maximum RecordingResolution (Pixels)",,4K (3840 x 2160)
+"",,Frame Rate,,"24, 25"
+"",,Live Video Streaming,,Yes
+AUDIO,,Audio Recording,,Yes
+"",,Audio Output,,Yes
+DISPLAY,,Display,,Yes
+"",,Touch Screen,,"Yes, No"
+"",,Display Size (inch),,2.6 - 3
+"",,Vari Angle Screen,,Yes
+"",,View Finder,,Yes
+FEATURES,,Flash,,Built-in
+"OPERATINGCONDITIONS",,"Minimum OperatingTemperature (for land use)",,0.0
+"",,"Maximum OperatingTemperature (for land use)",,40.0
+"",,"Operating Humidity, Rh at40 deg C",,85.0
+GENERIC,,Housing construction,,Polycarbonate
+"",,IP Protection,,NA
+"",,Carry Case inclusive,,Yes
+WARRANTY,,Warranty,,2.0
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer110003,CFSL (CBI), Block No.4,1Rakesh BishtCGO Complex, Lodhi Road, New315Delhi 110003",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Rakesh Bisht,,"110003,CFSL (CBI), Block No.4,CGO Complex, Lodhi Road, NewDelhi 110003",,3,,15,

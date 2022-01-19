@@ -1,0 +1,67 @@
+Bid Details,,,
+Bid End Date/Time,,11-08-2021 15:00:00,
+Bid Opening Date/Time,,11-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,Secr,
+Total Quantity,,2,
+Item Category,,Handheld Digital Infrared Thermometer,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Certificate (Requested in ATC),OEMAuthorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,5 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,181332,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","Lowest MeasurableTemperature (Infrared Non-contact)",,"-70, -60, -50, -40, -35, -33, -32, -30 Or lower"
+"","Highest MeasurableTemperature (Infrared Non-contact)",,"900, 950, 1000, 1050, 1100, 1200, 1300, 1370, 1400,1470, 1500, 1600, 1700, 1800, 1850, 1900, 2000,2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800,2900, 3000 Or higher"
+"",Display Resolution,,0.1 Or lower
+"",Basic Accuracy (±),,"0.5, 0.75, 1, 1.5, 2 Or lower"
+"",Spectral Range (in micrometer),,8 TO 14
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Optical Resolution-Far field(Distance to spot ratio)(calculated at 90% energy)",,"60:1, 70:1, 75:1, 100:1, 150:1, 200:1, 250:1 Or higher"
+"",,Emissivity (W/m2),,Continuously Adjustable from 0.1 to 1.00
+"",,Response Time,,0.0 - 100.0 Or lower
+"DISPLAY / DATAOUTPUT",,Type of Display,,LCD
+"",,Back-light display,,Yes
+"",,Display Size(in inch),,"2.0 to 2.4, 2.5 to 2.9, 3.0 to 3.4, 3.5 to 3.9, 4.0 to 4.4,4.5 to 4.9, 5.0 to 5.4, 5.5 to 5.9, 6.0 to 6.4, 6.5 to 6.9Or higher"
+"",,"Data Output to otherdevices",,Yes
+"",,Connectivity / interface,,USB
+"",,"Data point loggingcapability (on boardmemory)",,"100, 200, 500, 1000, 2000, 3000, 4000, 4999 Orhigher"
+BATTERY,,Power Source,,Alkaline Batteries (Non-Rechargeable)
+"",,"Battery Size, if NonRechargeable Battery",,AA
+"",,Battery Chemistry,,Ni-Cd
+"",,Capacity of Battery (mAh),,2500.0 - 3000.0 Or higher
+"",,"Battery Chargers forRechargeable Batteries -inclusive in the scope of supply",,Yes
+"",,"Number of Batteries requiredfor operation",,2
+"",,"Number of Batteries supplied(Inclusive in the Scope ofSupply)",,2
+"",,"Battery back-up time undercontinuous use",,"8, 10, 12, 16, 20, 24, 30, 36, 48 Or higher"
+"SALIENT FEATURES /FUNCTIONS",,Salient Features / Functions,,"Datahold, Data Recall, Integral Tripod Mount, Built-InLaser Sighting, Fahrenheit and Celsius Conversion,Low Battery indication, Trigger lock for continuousmonitoring, Maximum and Minimum Reading,Average and Differential reading, Integratedthermocouple Input for contact Measurement"
+ACCESSORIES,,"Standard accessoriesinclusive in the scope ofsupply",,"Data output cabkle, Data transfer software, BeltHolder, Carrying Case, Instruction booklet, UserManual, Thermocouple with TC adapter-T/C Type K,Emissivity Reference Chart"
+"","Built-in laser for preciselyaiming the target",,Yes,
+"",Laser Class,,Class II,
+"",Laser sighting,,Dual laser,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Optional/User Guide/Manual,,Yes
+"OPERATINGCONDITIONS /INGRESSPROTECTION",,"Minimum OperatingTemperature",,"0, -5, -10, -15, -20, -25, -30 Or lower"
+"",,"Maximum OperatingTemperature",,"50, 55, 60, 65, 70 Or higher"
+"",,"Maximum OperatingHumidity at 40 deg C - Non-condensing (Rh)",,"90, 95 Or higher"
+"",,"Maximum Operating Altitude(meters above MSL)",,"501 to 2000, 2001 to 3000 Or higher"
+"",,Ingress Protection,,"NA, IP 40, IP 54, IP 65, IP 66, IP 67 Or higher"
+WARRANTY,,Warranty,,2.0
+"CERTIFICATION /TEST REPORTS",,Compliance to Standards,,"EN 61326-1, EN 61326-2 ElectromagneticCompatibility, EN/IEC 61010-1 General Safety, EN60825-1 Laser Safety, Vibration and shock: IEC 68-2"
+"",,"Hazardous location(Intrinsically Safe / non-incendive) approval",,Yes
+"",,"Availability of Test Reportsfrom Central Govt / NABLapproved / ILAC accreditedLab to prove conformity tothe specification",,Yes
+CALIBRATION,,"Calibration Certificate issuingauthority",,OEM Certificate
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer490025,Electric Loco Shed,1Phagnu Ram MauryaBhilai Marshalling Yard, Bhilai,230Chhattisgarh 490025",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Phagnu Ram Maurya,,"490025,Electric Loco Shed,Bhilai Marshalling Yard, Bhilai,Chhattisgarh 490025",,2,,30,

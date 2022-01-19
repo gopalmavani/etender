@@ -1,0 +1,54 @@
+Bid Details,,,
+Bid End Date/Time,,16-08-2021 14:00:00,
+Bid Opening Date/Time,,16-08-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Odisha,
+Department Name,,"Skill Development And Technical Education Department.Odisha",
+Organisation Name,,N/a,
+Office Name,,"Directorate Of Technical Education And Training , Odisha ,Cuttack",
+Total Quantity,,90,
+Item Category,,Desktop Computers,
+"Minimum Average Annual Turnover of theBidder",,25 Lakh (s),
+OEM Average Turnover (Last 3 Years),,200 Lakh (s),
+Years of Past Experience required,,3 Year (s),
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover,Additional Doc 1(Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,20 %,
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,5 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Advisory Bank,,HDFC Bank,
+EMD Percentage(%),,2.00
+EMD Amount,,107098
+"",Advisory Bank,,HDFC Bank,
+ePBG Percentage(%),,10.00,,
+Duration of ePBG required (Months).,,30,,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Motherboard,,Chipset Series,,"Intel H Series, Intel B Series, Intel Q Series, AMD BSeries, AMD Pro Series, Intel Z Series Or higher"
+"",Chipset Number,,"Intel H110, Intel H270, Intel H310, Intel H370, IntelB250, Intel B360, Intel Q 250, Intel Q 270, Intel Q 370,AMD B350, AMD B300, Intel B 365, AMD B500, AMDPRO 560, AMD PRO 500, Intel H 470, Intel B 460, IntelH 410, Intel Z 490, Intel Q 470, AMD PRO 565 Orhigher",,
+"",Processor Make,,"Intel, AMD",,
+"",Processor Generation,,"7, 8, 9, 10 Or higher",,
+"","Number of Cores perProcessor",,"2, 4, 6, 8, 10, 12 Or higher",,
+"",Processor Description,,"Intel Celeron, Intel Pentium, Intel Core i3, Intel Corei5, Intel Core i7, AMD PRO A6, AMD PRO A8, AMD PROA10, AMD PRO A12, AMD Ryzen 3, AMD Ryzen 5, AMDRyzen 7, Intel Core i9, AMD Athlon, AMD Ryzen 9 Orhigher",,
+Specification,,Specification Name,,"Intel CorBei di5  R7e5q0u0Tir,e Inmteeln Ct o(rAel li5o w74e0d0 V, Ianltueel sC)ore i5"
+Specification,,Specification Name,,"AMD Ryzen 5 4600G, AMD Ryzen 5 4600GE, AMDBid Requirement (Allowed Values)"
+"",,,,"Ryzen 3 4300G, AMD Ryzen 3 4300GE Or higher"
+Operating System,,"Operating System (FactoryPre-Loaded)",,"Windows 10 Professional, Linux, DOS, Windows 10Home, Windows 10 Professional under MicrosoftShape the Future Program"
+Memory,,RAM Size (GB),,"4, 8, 16, 32, 64, 128 Or higher"
+"",,"RAM Expandability up to(using spare DIMM Slots inGB)",,"8, 16, 32, 64, 0, 128 Or higher"
+Storage,,"Type of Drives used topopulate the Internal Bays",,"HDD, SSD, SSHD, SSED, PCIe_SSD"
+"",,Total HDD Capacity (GB),,"500, 1000, 1500, 2000, 2500, 3000, 0, 4000 Or higher"
+"",,Total SSD Capacity (GB),,"128, 256, 384, 512, 768, 0, 1024, 2048, 4096 Orhigher"
+"",,"Total SSHD Capacity inaddition to 8 GB Flash (GB)",,"500, 1000, 2000, 0 Or higher"
+Cabinet,,Cabinet Form Factor,,"SFF ( 7 to 13 Litres), Tower (13.1 to 26 Litres)"
+Monitor,,Monitor Technology,,"IPS, TN, VA Or higher"
+"",,"LED Backlit Monitor Size(INCHES)",,"18.5, 19.5, 21.5, 22, 23, 24, 27, 20, 23.8, 19, 32 Orhigher"
+"",,Monitor Resolution (PIXELS),,"1366x768, 1440 x 900, 1600 x 900, 1920x1080, 1920x 1200, 3200x1800, 3840 x 2160, 1280 x 1024, 2560x 1440 Or higher"
+Warranty,,"On Site OEM Warranty(Year)",,"3, 5, 4 Or higher"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer769004,UGIE Colony,Rourkela,1Bhimsen Tudu9015Sundargarh",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Bhimsen Tudu,,"769004,UGIE Colony,Rourkela,Sundargarh",,90,,15,

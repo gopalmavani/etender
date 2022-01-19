@@ -1,0 +1,44 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 18:00:00,
+Bid Opening Date/Time,,06-08-2021 18:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Power,
+Department Name,,Na,
+Organisation Name,,Ntpc Limited,
+Office Name,,Ssc Coal Mining Ntpc,
+Total Quantity,,3,
+Item Category,,Multifunction Machines MFM,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Type of Machine,,Multifunction Machine
+"",Print Technology,,Laser
+"",Type of Printing,,Mono
+"",Cartridge Technology,,"Composite Cartridge, Separate Drum and Toner(Mono Component), Separate Drum and Toner (DualComponent) Or higher"
+"",Platen/Flatbed Size,,A3 Or higher
+"",Paper Size (Original/Image),,A3/A3
+"",RAM size (MB),,"1024, 2048, 4096, 6144, 3072, 1536, 1500, 1250,2560, 7168, 5120, 8192, 16384, 2816, 4000, 2000,10240, 4608 Or higher"
+"",Hard Disk Capacity(GB),,"0, 8, 128, 160, 256, 320, 500, 1024, 250, 640, 32,1000, 2000, 3000 Or higher"
+"","Minimum Speed per Minuteas per ISO/IEC 24734 in A4Size-Mono",,"25, 26, 27, 28, 30, 31, 35, 36, 38, 40, 43, 45, 46, 47,50, 52, 55, 60, 61, 65, 70, 71, 75, 80, 90, 95, 100,105, 110, 51, 56, 41, 120, 130, 160, 57, 33, 34, 32,85, 81, 53, 140 Or higher"
+"","Minimum Speed per Minuteas per ISO/IEC 24734 in A4Size-Colour",,"12, 15, 16, 18, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31,35, 36, 4, 4.4, 5, 5.7, 5.8, 6.8, 10, 10.4, 15.5, 40, 50,60, 5.5, 11, 46, 120, 130, 160, 65, 45, 7, 34, 55, 38,56, 75, 81, 19, 71, 0, 21, 53, 32, 70, 140 Or higher"
+"","Scanning FeatureAvailability",,Yes Or higher
+"","Duplexing FeatureAvailability",,Yes Or higher
+"",Faxing Feature Availability,,Yes Or higher
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Networking FeatureAvailability",,Yes Or higher
+"",Wi-Fi Availability,,Yes Or higher,
+"","Original Document FeederType",,DADF/RADF Or higher,
+"",Number of Main Paper Tray,,"2, 3, 4, 5 Or higher",
+"",Bypass Facility,,Yes Or higher,
+"","On Site OEM Warranty(Year)",,"1, 2, 3, 4, 5 Or higher",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer825311,Sikri Site Office, PakriDinesh KumarBarwadih CMP, NTPC, Post:1330MandaBarkagaon Sikri, Hazaribagh,Jharkhand",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Dinesh KumarManda",,"825311,Sikri Site Office, PakriBarwadih CMP, NTPC, Post:Barkagaon Sikri, Hazaribagh,Jharkhand",,3,,30,

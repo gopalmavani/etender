@@ -1,0 +1,47 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 13:00:00,
+Bid Opening Date/Time,,06-08-2021 13:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Space,
+Organisation Name,,Isro,
+Office Name,,Isro Inertial Systems Unit,
+Total Quantity,,1,
+Item Category,,Air Curtain,
+MSE Exemption for Years Of Experience,,Yes,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Dimension,,Length,,1523.0
+"",,Width,,345.0
+"",,Effective height,,13.0
+"GenericSpecifications",,Number of Motors,,3
+"",Number of Blowers,,5,
+"",Number of Shafts,,1 Single +2 Double,
+"",Phase,,Single,
+"","Maximum Air velocity at NozzleM/S",,21,
+"",Noise Level dB,,47 - 52,
+"",Power (Hp),,0.56,
+"",Voltage,,220V/50Hz,
+"",Motor Power,,400.0,
+"",RPM ( Max/ Min ),,2100,
+"",CFM,,825,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Warranty,,Warranty Details,,1.0
+"Consignee/ReportiDelivery Schedule (In number of daysS.No.Addressng Officerfrom contract start days)Delivery to695013,ISRO Inertial SystemsQuantitDelivery tobe1Baby P PUnit, Vattiyoorkavu PO,ystart aftercompletedThiruvananthapuramby1015",S.No.,,"Consignee/Reporting Officer",,Address,,"Delivery Schedule (In number of daysfrom contract start days)"
+1,,Baby P P,,"695013,ISRO Inertial SystemsUnit, Vattiyoorkavu PO,Thiruvananthapuram",,"Delivery toQuantitDelivery tobeystart aftercompletedby1015",
+"","Quantity",,"Delivery tostart after",,"Delivery tobecompletedby",,
+1,,0,,15,,,
+"Consignee/ReportiDelivery Schedule (In number of daysS.No.Addressng Officerfrom contract start days)Delivery to695013,ISRO Inertial SystemsQuantitDelivery tobe1Baby P PUnit, Vattiyoorkavu PO,ystart aftercompletedThiruvananthapuramby1015",,,,,,
+"Delivery toQuantitDelivery tobeystart aftercompletedby1015",,,,,,
+"","Quantity",,"Delivery tostart after",,"Delivery tobecompletedby",
+1,,0,,15,,

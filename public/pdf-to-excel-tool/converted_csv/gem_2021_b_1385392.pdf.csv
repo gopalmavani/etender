@@ -1,0 +1,54 @@
+Bid Details,,,
+Bid End Date/Time,,07-08-2021 12:00:00,
+Bid Opening Date/Time,,07-08-2021 12:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,70 (Days),
+Ministry/State Name,,Rajasthan,
+Department Name,,Rajasthan Rajya Vidyut Utpadan Nigam Limited,
+Organisation Name,,Suratgarh Super Thermal Power Station,
+Office Name,,Stps O And M,
+Total Quantity,,10,
+Item Category,,"Lead Acid Battery-IS 16046 , Inverter with sine wave outputas per IS:13314",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+Primary product category,,Inverter with sine wave output as per IS:13314,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Estimated Bid Value,,95000,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GenericTypes of Lead Acid ofStationary cells and Batteries, Lead Acid Type (WithBatteryTubular Positive Plates) conforming to IS:1651/1991Nominal Voltage of Battery12.0 Volt(volts)Material of containerHard RubberRated Capacity at C20150discharge (AH)Warranty (Years)3 YearsBattery ConditionChargedCONSTRUCTIONALDimensions (L x W x H) (mmAs per relevant IS Specificationsx mm x mm)No.of cells per Battery (No.)6 Cells for 12 Volt battery",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,"Types of Lead Acid ofBattery",,"Stationary cells and Batteries, Lead Acid Type (WithTubular Positive Plates) conforming to IS:1651/1991",
+"",,"Nominal Voltage of Battery(volts)",,12.0 Volt,
+"",,Material of container,,Hard Rubber,
+"",,"Rated Capacity at C20discharge (AH)",,150,
+"",,Warranty (Years),,3 Years,
+"",,Battery Condition,,Charged,
+CONSTRUCTIONAL,,"Dimensions (L x W x H) (mmx mm x mm)",,As per relevant IS Specifications,
+"",No.of cells per Battery (No.),,6 Cells for 12 Volt battery,,
+"Specification ParameterBid Requirement (Allowed Values)NameGuarantee3 years free replacementTypeLead Acid battery","Specification ParameterName",,Bid Requirement (Allowed Values)
+Guarantee,,3 years free replacement,
+Type,,Lead Acid battery,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer335804,Administrative1Arvind KumarBuilding, STPS, RVUNL,515Suratgarh",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Arvind Kumar,,"335804,AdministrativeBuilding, STPS, RVUNL,Suratgarh",,5,,15,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GENERICRating in KVA & Min. VAH1 KVA/4320 VAHCapacity of BatteryTechnologyMOSFET-PWMEnergy Star Rating5 StarTrolleywithout trolleyType of BatteryTubular battery confirming to IS:13369Backup time (Minutes)Minimum 180 MinutesFUNCTIONALOutputSingle Phase sine wave 230 V",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERIC,,"Rating in KVA & Min. VAHCapacity of Battery",,1 KVA/4320 VAH,
+"",Technology,,MOSFET-PWM,,
+"",Energy Star Rating,,5 Star,,
+"",Trolley,,without trolley,,
+"",Type of Battery,,Tubular battery confirming to IS:13369,,
+"",Backup time (Minutes),,Minimum 180 Minutes,,
+FUNCTIONAL,,Output,,Single Phase sine wave 230 V,
+"Specification ParameterBid Requirement (Allowed Values)NameInput VoltageDC 12VMaximum Efficiency87% or higherContinuous power1000WWarranty2 years","Specification ParameterName",,Bid Requirement (Allowed Values)
+Input Voltage,,DC 12V,
+Maximum Efficiency,,87% or higher,
+Continuous power,,1000W,
+Warranty,,2 years,
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Arvind Kumar,,"335804,AdministrativeBuilding, STPS, RVUNL,Suratgarh",,5,,15

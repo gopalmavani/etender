@@ -1,0 +1,94 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 14:00:00,
+Bid Opening Date/Time,,06-08-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,"Office Of Principal Chief Materials Manager, South WesternRailway, Hubli",
+Total Quantity,,1,
+Item Category,,Ambulances - R,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,5 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,2750000,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,3.00,
+"",Duration of ePBG required (Months).,,14,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Unregistered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Type of Ambulance,,Type D (as per clause 3.3.4 of AIS:125 Part-1)
+"",Category of Vehicle,,M2
+"",Vehicle Engine Capacity,,"2179, 2200, 2596"
+"",Type of Fuel,,Diesel
+"","Vehicle EmissionComplaince",,BS VI
+"",Colour of the Vehicle,,White
+"","Vehicle Mileage ( declaredby OEM as certified by TestAgency under Rule 115ofCMVR 1989) (Kmpl)",,13.31 - 50.0 Or higher
+"",Top Speed,,"100, 110"
+"",Acceleration(0-70KmPH),,Up to 40
+"",Gradeability of Vehicle,,"14.5, 11.0"
+"",Air Conditioning,,"Whole Ambulance, Only Patient Compartment, NA forwithoutAC"
+"",Engine BHP,,Any applicable numeric value
+"",Rated RPM at Max Engine BHP,,"2950, 3750"
+"",Engine Torque Max (N-m),,Any applicable numeric value
+"","Rated RPM at Max EngineTorque",,"1000, 2200"
+"",Type of Vehicle Body,,Monocoque
+"",No of Doors,,3
+"",Fuel Tank Capacity,,"60.0, 70.0"
+"",Length of Vehicle Body,,"5615.0, 5548.0"
+"",Width of Vehicle Body,,"1900.0, 1905.0"
+"",Height of Vehicle Body,,"2670.0, 2550.0"
+"","Ground Clearance(roadClearance from floor)",,"200.0, 185.0"
+"",Wheel Base,,"3350.0, 3488.0"
+"",Kerb Weight,,"2915.0, 2450.0"
+"",Gross Vehicle Weight,,More than 3343.0 Or higher
+"",Size Of Tyre,,"21575r15tubelesst, 195r15-radial, 21575r15"
+"","Vehicle TransmissionSystem",,Manual
+"",No of Speed/ Forward Gears,,5
+"",Type of Wheel drive,,Two Wheel drive
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Drive Axle,,"Front, Rear"
+"",,Type of Steering,,Power
+"",,Turning Radius,,Less than 6750.0 Or lower
+"",,Front Vehicle Brake,,Disc Brake
+"",,Rear Vehicle Brake,,Drum Brake
+"",,Vehicle Air Intake System,,TurboCharged
+"",,Vehicle features,,"Driver Airbag, Vehicle Brake ABS Fitted, Low Fuelwarning Light"
+Ambulance Body,,Patient Compartment,,As per cl. 4.5 of AIS 125 Pt I
+"",,"Overall Length of PatientCompartment",,"3275.0, 3300.0, 3180.0"
+"",,"Overall Width of PatientCompartment",,"1630.0, 1680.0"
+"",,"Overall Height of PatientCompartment",,"1850.0, 1830.0"
+"",,"Body Main Structure Shape andMaterial",,NA for Monocoque
+"",,Flooring Material,,"Flooring Made Out fromm ISI Marked 12 mm thick FRgrade plywood covered with vinyle sheet"
+"",,"Number of Seats (inciudingdriver)",,"10, 11"
+"",,Number of strecher,,1
+"",,"Min Number of Patient andAttendant Seats",,2
+Main Equipments,,Features of Main Strecher,,"Main strecher with an integral undercarriage, Mainstrecher with separable undercarriage, strecher withminimum of two quick-release patient restraints."
+"","Type of Patient HandlingEquipment",,"Main stretcher with undercarriage, Oxygen CylinderBracket, I.V. Bottle Hanging Hook, First Aid Box in sideof rear saloon",
+"",Ambulance Features,,"Medical cabinet in side of rear saloon, Roof revolvinglight, Siren, Fire Extinguisher as per AIS 125 PT I",
+"","Additional Electric Load ofMedical Equipment’spermissible (Watts) as per AIS125 (Part-1)",,"1080.0, 120.0",
+"","Number of battery(ies)provided other than the vehiclebattery",,1,
+"",Additional Battery Capacity,,Nominal Voltage 12V 80Ah,
+"",Alternator Power,,Alternator power 1200W Type D,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Min no of 12V connections formedical devices in patient'scompartment",,4
+"",,"Min number of 220V AC powersupply connections for medicaldevices in patient compartment",,"4, 6"
+Environment Testing,,"Environment TestingCompliance",,"Flammability Test as per IS 15061: 2002 (asapplicable ), Interior fitting compliance as per AIS-047established, Air conditioning and HeatingPerformance Tests(Clause 4.5.4 as per AIS125 Pt I)Compliance, Acceleration Test (Clause 4.2.1 per AIS125 Pt I and IS:11851-2002) Compliance, WaterProofing Test (IS:11865-1995) Compliance, DustIngress Test (IS:11739-1997) Compliance"
+"",,"Additional Features for COVID19 Ambulance",,Partition Between Driver & Patient Compartment
+"",,Warranty Time,,36.0
+"",,"Warranty Distance (orwarranty time, whicheverearlier)",,300000.0
+"",,Battery Warranty,,12.0
+Certification,,Vehicle Certification,,ARAI
+"Specification ParameterBid Requirement (Allowed Values)NameAplicability of NationalNational Ambulance CodeAIS-125 for type 'D' Part-1 Ambulance shall beAmbulance Codeapplicable for all parameters.Type of tyre and tubeBIS marked Pneumatic typer and tubes for both front and rear.Supply of Medical accosories inBidder have to supply medical accesories as per specification attached inAmbulanceATC","Specification ParameterName",,Bid Requirement (Allowed Values)
+"Aplicability of NationalAmbulance Code",,"National Ambulance CodeAIS-125 for type 'D' Part-1 Ambulance shall beapplicable for all parameters.",
+Type of tyre and tube,,BIS marked Pneumatic typer and tubes for both front and rear.,
+"Supply of Medical accosories inAmbulance",,"Bidder have to supply medical accesories as per specification attached inATC",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer580020,O/o CHIEF MEDICALChikkappaDIRECTOR, CENTRAL1190Malesiddappa RaviHOSPITAL,GADAG ROAD,HUBBALLI 580020",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"ChikkappaMalesiddappa Ravi",,"580020,O/o CHIEF MEDICALDIRECTOR, CENTRALHOSPITAL,GADAG ROAD,HUBBALLI 580020",,1,,90,

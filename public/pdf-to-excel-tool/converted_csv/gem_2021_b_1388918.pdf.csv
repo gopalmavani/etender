@@ -1,0 +1,54 @@
+Bid Details,,,
+Bid End Date/Time,,17-08-2021 18:00:00,
+Bid Opening Date/Time,,17-08-2021 18:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Finance,
+Department Name,,Department Of Financial Services,
+Organisation Name,,Punjab National Bank (pnb),
+Office Name,,Jaipur,
+Total Quantity,,2,
+Item Category,,Lockers- IS 5244,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,7 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","Serial Number marking on theLockers",,Yes
+"","Primer of red oxide-zincchromate conforming to IS2074 : 1979",,Yes
+"","Electrodes as per IS 814 ( Part1 ) : 1974 or IS 814 (Part 2) :1974",,Yes
+"",Color,,"Grey, Other"
+"",Material,,Mild steel
+"",Material of door,,"Stainless Steel as per IS 1570 (Part 5) : 1985, Metal"
+"",Screws as per IS 1365 : 1978,,Yes
+"","Undercoat and final coat paintas per IS 2074 : 1979",,Yes
+"","Types according to thenumber of lockers",,Type 1 - Containing 75 lockers
+"",Finish,,"Powder Coating, Paint Coating, Matt"
+"","Serial Number marking on thekeys",,Yes
+"","If any other type, pleasemention the number of lockerselse write NA",,75
+"",Lock Type,,Dual Lock
+"","Putty conforming to IS 419 :1967",,Yes
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"If any other color, pleasemention the colour else writeNA",,"na, silverdoorgrey"
+Dimension,,"Depth, mm (Outside)",,575 (as per IS 5244:1991)
+"",,"Width, mm (Outside)",,1100 (as per IS 5244:1991)
+"",,"Width, mm (Inside)",,184 (as per IS 5244:1991)
+"",,"Thickness of partitions andshelves of the locker, mm",,2 (as per IS 2062 : 1984 or IS 226 : 1975)
+"",,"Depth, mm (Inside)",,470 (as per IS 5244:1991)
+"",,"Height, mm (Inside)",,115 (as per IS 5244:1991)
+"",,"Minimum thickness of bottomof the locker, mm",,2 (as per IS 2062 : 1984 or IS 226 : 1975)
+"",,"Thickness of two sides top andback of the locker, mm",,5 (as per IS 2062 : 1984 or IS 226 : 1975)
+"",,"Height, mm (Outside)",,2000 (as per IS 5244:1991)
+"",,Thickness of door of the locker,,10 (as per IS 2062 : 1984 or IS 226 : 1975)
+"TechnicalSpecifications",,Tolerance,,25 mm (as per IS 5244:1991)
+Additional Features,,"RustProof,Dampproof,Waterproof,Fireproof,Scratchproof,Assembled,Adjustable shelves,Termiteresistance",,"Yes, No"
+"Certifications &Approvals",,Conforming to IS 5244:1991,,Yes
+"",Standard Mark,,Yes,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer321001,PNB Circle office Supar1Praveen SharmaBazar, Near Bijli Ghar Circle221Bharatpur",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Praveen Sharma,,"321001,PNB Circle office SuparBazar, Near Bijli Ghar CircleBharatpur",,2,,21,

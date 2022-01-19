@@ -1,0 +1,50 @@
+Bid Details,,,
+Bid End Date/Time,,23-07-2021 15:00:00,
+Bid Opening Date/Time,,23-07-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,Central Organisation For Railway Electrification (core),
+Office Name,,Head Quarters,
+Total Quantity,,65,
+Item Category,,"Led Luminaire (For Flood Light)-IS:10322, IS:16107",
+"Minimum Average Annual Turnover of theBidder",,1 Lakh (s),
+OEM Average Turnover (Last 3 Years),,8 Lakh (s),
+Years of Past Experience required,,3 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,30 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,10 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+STANDARDS,,"LED Luminaire conformity toIS:10322/Part 5/Section 5/2012latest and IS: 16107 (Part 2/Sec1):2012 latest",,"Yes, Yes. Including Equipment protection: 'Ex d"",Zone II, Gas Group II C as per lS/lEC 60079-0 and1:2007 latest. And with CCE Approval Certificates forFlameproof equipments"
+"",,"LED Rating/SystemWattage/Rated Power",,"100W, 36 W"
+"",,"Ingress Protection (IPRating) as per IS:10322(Part 1):1982 latest",,"IP66, IP67"
+"",,"Warranty for freereplacement (in Years)",,"2, 3"
+"ELECTRICALEFFICIENCY",,"Input operating Voltagerange and frequency",,"90 to 300 V olts AC at 50 Hz+/-2 Hz, 140 to 270 V oltsAC at 50 Hz+/-2 Hz with auto cutt off at below 120V"
+"",,Rated voltage,,230 V AC 50 Hz
+"",,"Total Harmonics Distortion(in %age)",,? 10
+OPTICAL,,"Colour temperature (+/-500K)",,6000K
+"",,"Working life for LED(Minimum 50,000 burninghours as per LM-80 report)",,Yes
+"",,"Colour RenderingIndex(CRI)",,?70
+"THERMALMANAGEMENT",,"Heat sink should be die-castaluminium along withsufficient heat sink fins todissipate heat effectively",,"Yes, Yes. With Silicon coated layer"
+"",,Junction temperature,,< 85 degC
+"",,"Operating temperaturerange",,-10 deg C to +50 deg C
+PROTECTION,,"The luminaire shall beprotected against surgesand transients ( Internal)",,">/=5KV, >/=4KV"
+"","The luminaire shall beprotected against surgesand transients of >/=10KV(External)",,Yes,
+"","The Luminaires casing/housing(single piece housing) shall bepressure die casted aluminiumalloy with higher thermalconductivity",,Yes,
+"","Number of electroniccontrol gear (powersupplies)",,"1 No., 2 Nos., 3 Nos., 4 Nos.",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Length of ISI marked threecore wire (shall be providedalong with supply ofmaterial)",,"50 cm, 100 cm"
+"REPORTS ANDCERTIFICATIONS",,LED Make,,"OSRAM / NICHIA/CREE / SAMSUNG / SEOUL / LUMILED/ PHILIPS / EDISON / SYSKA / LUMENMAX / EVERLIGHT/ BRIDGELUX / NATIONSTAR / REFOND, Other thanOSRAM / NICHIA/CREE / SAMSUNG / SEOUL / LUMILED/ PHILIPS / EDISON / SYSKA / LUMENMAX / EVERLIGHT/ BRIDGELUX / NATIONSTAR / REFOND"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer678002,Office of Dy. ChiefElectrical Engineer/RE, Annex1Arun VBuilding Behind Bharavi6515Railway Rest House,Olavakkde,",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Arun V,,"678002,Office of Dy. ChiefElectrical Engineer/RE, AnnexBuilding Behind BharaviRailway Rest House,Olavakkde,",,65,,15,

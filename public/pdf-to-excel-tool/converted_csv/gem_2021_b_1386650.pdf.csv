@@ -1,0 +1,50 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 09:00:00,
+Bid Opening Date/Time,,06-08-2021 09:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,3,
+Item Category,,Multifunction Machines MFM,
+OEM Average Turnover (Last 3 Years),,2 Lakh (s),
+Years of Past Experience required,,1 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,20 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)UngroupedType of MachineMultifunction MachinePrint TechnologyInkjetType of PrintingColourCartridge TechnologyComposite Cartridge, Separate Drum and Toner(Mono Component), Separate Drum and Toner (DualComponent), Ink Or higherPlaten/Flatbed SizeA4, A3, Legal Or higherPaper Size (Original/Image)A4/A4RAM size (MB)2, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096,6144, 3072, 320, 768, 1536, 1500, 758, 1250, 2560,7168, 5120, 8192, 16384, 2816, 4000, 2000, 10240,4608 Or higherHard Disk Capacity(GB)0, 8, 128, 160, 256, 320, 500, 1024, 250, 640, 32,1000, 2000, 3000 Or higherMinimum Speed per Minute12, 15, 16, 18, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31,as per ISO/IEC 24734 in A435, 36, 38, 40, 43, 45, 46, 47, 50, 52, 55, 60, 61, 65,Size-Mono70, 71, 75, 80, 90, 95, 100, 105, 110, 51, 56, 13,14.5, 41, 120, 130, 160, 57, 33, 34, 32, 85, 81, 19,21, 53, 140 Or higherMinimum Speed per Minute12, 15, 16, 18, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31,as per ISO/IEC 24734 in A435, 36, 5, 5.7, 5.8, 6.8, 10, 10.4, 15.5, 40, 50, 60, 5.5,Size-Colour11, 46, 120, 130, 160, 65, 45, 7, 34, 55, 38, 56, 75,81, 19, 71, 21, 53, 32, 70, 140 Or higherScanning FeatureYes Or higherAvailabilityDuplexing FeatureYes, No Or higherAvailabilityFaxing Feature AvailabilityYes, No Or higherNetworking FeatureYes, No Or higherAvailabilityWi-Fi AvailabilityYes, No Or higherOriginal Document FeederPlaten, ADF, DADF/RADF, SPDF Or higherTypeNumber of Main Paper Tray1, 2, 3, 4, 5 Or higherBypass FacilityYes, No Or higherOn Site OEM Warranty1, 2, 3, 4, 5 Or higher(Year)",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Ungrouped,,Type of Machine,,Multifunction Machine,
+"",Print Technology,,Inkjet,,
+"",Type of Printing,,Colour,,
+"",Cartridge Technology,,"Composite Cartridge, Separate Drum and Toner(Mono Component), Separate Drum and Toner (DualComponent), Ink Or higher",,
+"",Platen/Flatbed Size,,"A4, A3, Legal Or higher",,
+"",Paper Size (Original/Image),,A4/A4,,
+"",RAM size (MB),,"2, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096,6144, 3072, 320, 768, 1536, 1500, 758, 1250, 2560,7168, 5120, 8192, 16384, 2816, 4000, 2000, 10240,4608 Or higher",,
+"",Hard Disk Capacity(GB),,"0, 8, 128, 160, 256, 320, 500, 1024, 250, 640, 32,1000, 2000, 3000 Or higher",,
+"","Minimum Speed per Minuteas per ISO/IEC 24734 in A4Size-Mono",,"12, 15, 16, 18, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31,35, 36, 38, 40, 43, 45, 46, 47, 50, 52, 55, 60, 61, 65,70, 71, 75, 80, 90, 95, 100, 105, 110, 51, 56, 13,14.5, 41, 120, 130, 160, 57, 33, 34, 32, 85, 81, 19,21, 53, 140 Or higher",,
+"","Minimum Speed per Minuteas per ISO/IEC 24734 in A4Size-Colour",,"12, 15, 16, 18, 20, 22, 23, 24, 25, 26, 27, 28, 30, 31,35, 36, 5, 5.7, 5.8, 6.8, 10, 10.4, 15.5, 40, 50, 60, 5.5,11, 46, 120, 130, 160, 65, 45, 7, 34, 55, 38, 56, 75,81, 19, 71, 21, 53, 32, 70, 140 Or higher",,
+"","Scanning FeatureAvailability",,Yes Or higher,,
+"","Duplexing FeatureAvailability",,"Yes, No Or higher",,
+"",Faxing Feature Availability,,"Yes, No Or higher",,
+"","Networking FeatureAvailability",,"Yes, No Or higher",,
+"",Wi-Fi Availability,,"Yes, No Or higher",,
+"","Original Document FeederType",,"Platen, ADF, DADF/RADF, SPDF Or higher",,
+"",Number of Main Paper Tray,,"1, 2, 3, 4, 5 Or higher",,
+"",Bypass Facility,,"Yes, No Or higher",,
+"","On Site OEM Warranty(Year)",,"1, 2, 3, 4, 5 Or higher",,
+"Specification ParameterBid Requirement (Allowed Values)Nameall in one printersinktank printers","Specification ParameterName",,Bid Requirement (Allowed Values)
+all in one printers,,inktank printers,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************MATHURA315",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********MATHURA,,3,,15,

@@ -1,0 +1,50 @@
+Bid Details,,,
+Bid End Date/Time,,17-08-2021 12:00:00,
+Bid Opening Date/Time,,17-08-2021 12:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,65 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence Production,
+Organisation Name,,Hindustan Aeronautics Limited (hal),
+Office Name,,***********,
+Total Quantity,,350,
+Item Category,,"Surgical isolation Faceshield , surgical isolation or surgicalmasks",
+"MSE Exemption for Years of Experience andTurnover",,No,
+Startup Exemption for Years Of Experience,,Yes,
+Bid to RA enabled,,No,
+Primary product category,,Surgical isolation Faceshield,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,19999.5,
+Evaluation Method,,Item wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Evaluation Schedules,,Estimated Value,,Item/Category,,Quantity
+Schedule 1,,5000,,Surgical Isolation Faceshield,,50
+Schedule 2,,15000,,Surgical Isolation Or Surgical Masks,,300
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)Material and ColourMaterialPlastic, ACRYLICDimensionsThickness2.2GenericCoverageFront Face, Eyes, Nose, Side FaceReusableYesOther FeaturesOptically ClearISO CertifiedYes",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Material and Colour,,Material,,"Plastic, ACRYLIC",
+Dimensions,,Thickness,,2.2,
+Generic,,Coverage,,"Front Face, Eyes, Nose, Side Face",
+"",Reusable,,Yes,,
+"",Other Features,,Optically Clear,,
+"",ISO Certified,,Yes,,
+"Specification ParameterBid Requirement (Allowed Values)Name1-Material. 2- COLOUR1-Polyacrylic/Plastic/ ACRYLIC/PET , 2-TRANSPARENT/CLEAR,","Specification ParameterName",,Bid Requirement (Allowed Values)
+1-Material. 2- COLOUR,,"1-Polyacrylic/Plastic/ ACRYLIC/PET , 2-TRANSPARENT/CLEAR,",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************SULTANPUR5020",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********SULTANPUR,,50,,20,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GENERALConformity to EN 14683YesGSM of the Fabric (G/m2)80.0 - 80.0 Or higherNo of Layers or Plies of5FabricBacterial filteration>=95, >=98, >=99efficiency (BFE)(%)Splash resistantYesBreathing resistance (mm<=5(Splash Resistant)of H2O/ cm2)Securing LoopsElasticAdjustable Flexible noseWith, Withoutclip",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERAL,,Conformity to EN 14683,,Yes,
+"",GSM of the Fabric (G/m2),,80.0 - 80.0 Or higher,,
+"","No of Layers or Plies ofFabric",,5,,
+"","Bacterial filterationefficiency (BFE)(%)",,">=95, >=98, >=99",,
+"",Splash resistant,,Yes,,
+"","Breathing resistance (mmof H2O/ cm2)",,<=5(Splash Resistant),,
+"",Securing Loops,,Elastic,,
+"","Adjustable Flexible noseclip",,"With, Without",,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************SULTANPUR30020",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********SULTANPUR,,300,,20,

@@ -1,0 +1,43 @@
+Bid Details,,,
+Bid End Date/Time,,16-08-2021 15:00:00,
+Bid Opening Date/Time,,16-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence Production,
+Organisation Name,,Indian Ordnance Factories,
+Office Name,,***********,
+Total Quantity,,12600,
+Item Category,,Oil Hydraulic as per IS: 10522,
+"Minimum Average Annual Turnover of theBidder",,12 Lakh (s),
+MSE Exemption for Turnover,,Yes,
+Startup Exemption for Turnover,,Yes,
+Document required from seller,,"Bidder Turnover,Certificate (Requested in ATC),OEMAuthorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,3.00,
+Duration of ePBG required (Months).,,14
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GradeGrade of Oil HydraulicVG-32REQUIREMENTS FORKinematic viscosity at(28.8-35.2) for VG 32 gradeOIL HYDRAULIC40°C,cStEmulsion characteristics, Max40-37-3 (20)Packing , MarkingThe material shall be packed inMS Barreland Labellingcontainers of metal or anyother suitable material asagreed to between thepurchaser and the supplierCertificationWhether ISI MarkedNOTest Report DetailsAvailability of Test Report fromYESCentral Govt/ StateGovt/NABL/ILAC accredited lab(hint: Must be declared)Test Report to be furnished toYESthe Buyer on demand (Must bedeclared, write NA if TestReport is not available)",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Grade,,Grade of Oil Hydraulic,,VG-32,
+"REQUIREMENTS FOROIL HYDRAULIC",,"Kinematic viscosity at40°C,cSt",,(28.8-35.2) for VG 32 grade,
+"",,"Emulsion characteristics, Max",,40-37-3 (20),
+"Packing , Markingand Labelling",,"The material shall be packed incontainers of metal or anyother suitable material asagreed to between thepurchaser and the supplier",,MS Barrel,
+Certification,,Whether ISI Marked,,NO,
+Test Report Details,,"Availability of Test Report fromCentral Govt/ StateGovt/NABL/ILAC accredited lab(hint: Must be declared)",,YES,
+"","Test Report to be furnished tothe Buyer on demand (Must bedeclared, write NA if TestReport is not available)",,YES,,
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+Kinematic viscosity at 40 c cst-,,28.8-35.2
+Packing Size (Liters),,210
+"Viscosity index, Min",,90
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+"Pump wear (Vickers 104c Pumptest) Total ring vane loss, in250 hours mg Max",,100
+"RDSO approval certificate to besubmitted to the buyer ondemand",,YES
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************NAGPUR1260056",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********NAGPUR,,12600,,56,

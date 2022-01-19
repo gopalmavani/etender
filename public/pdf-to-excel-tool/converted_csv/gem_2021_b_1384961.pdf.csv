@@ -1,0 +1,57 @@
+Bid Details,
+Bid End Date/Time,05-08-2021 15:00:00
+Bid Opening Date/Time,05-08-2021 15:30:00
+Bid Life Cycle (From Publish Date),90 (Days)
+Bid Offer Validity (From End Date),80 (Days)
+Ministry/State Name,Ministry Of Home Affairs
+Department Name,Central Armed Police Forces
+Organisation Name,Directorate Of Coordination Police Wireless
+Office Name,New Delhi
+Total Quantity,1
+Item Category,Frequency Counter-IS 9000
+"Minimum Average Annual Turnover of theBidder",1 Lakh (s)
+OEM Average Turnover (Last 3 Years),8 Lakh (s)
+Years of Past Experience required,2 Year (s)
+"MSE Exemption for Years Of Experienceand Turnover",Yes
+"Startup Exemption for Years Of Experienceand Turnover",Yes
+Document required from seller,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer"
+Past Performance,20 %
+Bid to RA enabled,Yes
+"Time allowed for Technical Clarificationsduring technical evaluation",2 Days
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",No
+Estimated Bid Value,339000
+Evaluation Method,Total value wise evaluation
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",FEATURES,,Frequency Range,,2 mHz to 3 GHz
+"",Number of Channels,,"2, 1",,
+"",Type of Input Signal,,"Burst, AM, FM, Noise Signal",,
+"",Resolution (Digit),,"10, 12",,
+"",Input Impedance,,"1 MegaOhm, 50 Ohm",,
+"",Trigger Slope,,"Positive, Negative",,
+"","Aging Rate Per Year (Asdeclared by the OEM)",,2 PPM,,
+"",Measurement,,"Frequency / Period, Time, Phase, Volt, Duty Cycle,Pulse, Rise Time",,
+"",Number of Digits,,"Switchable, Programmable",,
+"",Time Base Type,,"OCXO, TCXO",,
+"",Gate Time,,20 ns to 1000 s,,
+"",Single Shot Time Resolution,,100.0,,
+"","Temperature Stability at 26Degree C",,".02 PPM, 1 PPM",,
+"","Minimum OperatingTemperature",,"0.0, 5.0",,
+"","Maximum OperatingTemperature",,"50.0, 45.0",,
+"","Operating Humidity (RH) @ 40deg C",,"95.0, 90.0",,
+"","Storage Temperature (DegreeC)",,-20 to 50 deg C,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+POWER SUPPLY,,Power Rating,,70 Or lower
+GENERIC,,Indication,,"Frequency Level Status Indication (Bar Graph,Histogram)"
+SERVICE,,Warranty,,3 Or higher
+"CERTIFICATION ANDTEST REPORTDETAILS",,"Safety Certification (Certificateto be furnished whendemanded by buyer)",,"UL, CE, NA"
+"","conformity to Dry Heat for 16hrs at a specified maximumtemp in accordance withIS:9000/part-3/section-5/1977latest",,Yes,
+"","conformity to Cold Test for 4hrs at a specified minimumtemp in accordance withIS:9000/part-2/section-4/1977latest",,Yes,
+"","Conformity to Damp Heat(Cyclic)Test : for 2 Cycles of 24hrs each at a temp of 40degree C & 95% RH",,Yes,
+"","Availability of Test Reports fromCentral Govt/NABL/ILACapproved accredited lab toprove conformity to thespecification",,"Yes, No",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng OfficerPradeep Narayan110003,Block-9, CGO Complex,1130BaliyaLodhi Road, New Delhi",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Pradeep NarayanBaliya",,"110003,Block-9, CGO Complex,Lodhi Road, New Delhi",,1,,30,

@@ -1,0 +1,42 @@
+RA Details,,,
+RA Technical End Date/Time,,16-08-2021 14:00:00,
+RA Opening Date/Time,,16-08-2021 14:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Air Force,
+Office Name,,***********,
+Total Quantity,,15,
+Item Category,,"Low Voltage Surge Protective Devices (Surge ProtectorPanel)-IS:8794, IS:12987",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"OEM Authorization Certificate,Compliance of BoQspecification and supporting document*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+"Time allowed for Technical Clarificationsduring technical evaluation",,5 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+Brand Type,Registered Brand
+Specification,Specification Name,Bid Requirement (Allowed Values)
+No. of Phase,1 Phase,
+No. of ports,Two-port SPD,
+SPD Design,Voltage switching,
+Classification,Class I,
+Installation Location,Indoor,
+"Degree of protection forenclosures (According to IPcode of IEC 60529)",IP 20,
+"Temperature and humidityrange",Normal,
+"Preferred values of impulsedischarge current Iimp forclass I (in kA)",1,
+"Preferred values of nominaldischarge current for class IItests In (in kA)",0.05,
+"Preferred values of open-circuit voltage for class IIItests Uoc (in kV)",6,
+"Preferred values of voltageprotection level Up (in kV)",0.6,
+"Preferred values of r.m.s.maximum continuousoperating voltage Uc (inVolts)",52,
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"","Low Voltage SurgeProtection Device shall haveStatus indicators (Themanufacturer shall provideinformation about thefunction of the indicator andthe actions to be taken afterchange of status indication)",Yes
+"",Terminal type,Screw terminal
+"","Warranty for SurgeProtection Device - (inyears) - Minimum",2
+"","Installation andcommissioning",Yes
+CERTIFICATIONS,CE certification,Yes
+"""Availability of Additionaltests as applicable as per IS16463 (Part 11) : 2016 orIEC 61643-11 : 2011and testreport from Central Govt./NABL/ ILAC acredited labconforming to thespecification""",Yes,
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days
+1,***********,***********KAMRUP,15,20

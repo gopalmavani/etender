@@ -1,0 +1,73 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 12:00:00,
+Bid Opening Date/Time,,06-08-2021 12:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Space,
+Organisation Name,,Isro,
+Office Name,,Isro Inertial Systems Unit,
+Total Quantity,,1,
+Item Category,,Multifunction Machines MFM ( PAC Only ),
+MSE Exemption for Years Of Experience,,Yes,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Make,xerox,
+Model,xeroxworkcentre6515dni(28ppmcolor)3yearswarranty,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Type of Machine,,Multifunction Machine
+"",Print Technology,,Laser
+"",Type of Printing,,Colour
+"",Cartridge Technology,,"Composite Cartridge, Separate Drum and Toner(Mono Component), Separate Drum and Toner (DualComponent) Or higher"
+"",Developer Unit,,"Yes, No Or higher"
+"",Platen/Flatbed Size,,"A4, A3, Legal Or higher"
+"",Paper Size (Original/Image),,A4/A4
+"",RAM size (MB),,"1024, 2048, 4096, 6144, 3072, 1536, 1500, 1250,2560, 7168, 5120, 8192, 16384, 2816, 4000, 2000,10240, 4608 Or higher"
+"",Hard Disk Capacity(GB),,"0, 8, 128, 160, 256, 320, 500, 1024, 250, 640, 32,1000, 2000, 3000 Or higher"
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","Minimum Speed per Minuteas per ISO/IEC 24734 in A4Size-Mono",,"28, 30, 31, 35, 36, 38, 40, 43, 45, 46, 47, 50, 52, 55,60, 61, 65, 70, 71, 75, 80, 90, 95, 100, 105, 110, 51,56, 41, 120, 130, 160, 57, 33, 34, 32, 85, 81, 53, 140Or higher",
+"","Minimum Speed per Minuteas per ISO/IEC 24734 in A4Size-Colour",,"28, 30, 31, 35, 36, 40, 50, 60, 46, 120, 130, 160, 65,45, 34, 55, 38, 56, 75, 81, 71, 53, 32, 70, 140 Orhigher",
+"","Minimum Speed per Minute asper ISO/IEC 24734 in A3 Size-Mono",,"9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26,27, 28, 30, 32, 35, 39, 40, 42, 44, 45, 46, 48, 50, 54,55, 60, 65, 70, 75, 25, 37, 2, 3, 17, 38, 80, 7, 23, 0,19, 34, 36, 53 Or higher",
+"","Minimum Speed per Minute asper ISO/IEC 24734 in A3 Size-Colour",,"9, 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26,27, 28, 30, 32, 35, 39, 40, 42, 44, 45, 46, 48, 50, 54,55, 60, 65, 70, 75, 2, 3, 25, 80, 37, 7, 3.5, 0, 19, 34,36, 53 Or higher",
+"","Scanning FeatureAvailability",,Yes Or higher,
+"","Duplexing FeatureAvailability",,Yes Or higher,
+"",Faxing Feature Availability,,Yes Or higher,
+"","Speed of Fax, If Fax Feature isavailable",,33.6 kbps,
+"","Networking FeatureAvailability",,Yes Or higher,
+"","If yes, Type of NetworkInterface",,Ethernet 10/100/1000 Or higher,
+"",Wi-Fi Availability,,Yes Or higher,
+"","If yes,Wi-Fi Type",,"Wi fi 802.11 b/g/n, Wi Fi Direct, Wi fi 802.11 b/g/n &Wi Fi Direct Or higher",
+"","Original Document FeederType",,"ADF, DADF/RADF, SPDF Or higher",
+"",Feeder Capacity (Number),,"50, 75, 100, 120, 140, 150, 200, 250, 270, 300, 70,220, 110, 130 Or higher",
+"",Number of Main Paper Tray,,"1, 2, 3, 4, 5 Or higher",
+"","Each Main Paper Tray Capacity(Number)",,"250, 300, 500, 550, 750, 1000, 1100, 1150, 1250,1750, 2000, 2100, 2200, 3000, 4000, 1500, 520,1040, 1800, 900, 1200, 3500, 600, 800, 540, 2320,850, 700, 4700 Or higher",
+"",Bypass Facility,,Yes Or higher,
+"","If Yes, Bypass Tray Capacity",,"50, 75, 100, 150, 200, 80, 1000, 120, 250 Or higher",
+"","Yield of the cartridge/InkTank/Ink Pack supplied withMachine as per ISO/IEC:19798/2007(E) for Cyan colour(Number of prints)",,"6000, 7000, 9500, 10000, 11000, 15000, 18000,22500, 24000, 1000, 60000, 19000, 1200, 5400,7400, 2300, 3000, 5000, 119700, 8000, 2000, 5500,10500, 1400, 2500, 32000, 52000, 16000, 1300,2600, 6500, 1500, 33600, 39200, 54500, 78000,31000, 26000, 88000, 9000, 6800, 10300, 5900,9800, 16100, 12000, 20000, 30000 Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","Yield of the cartridge/InkTank/Ink Pack supplied withMachine as per ISO/IEC:19798/2007(E) for Yellowcolour (Number of prints)",,"6000, 7000, 9500, 10000, 11000, 15000, 18000,22500, 24000, 60000, 19000, 1200, 5400, 7400,2300, 3000, 5000, 146400, 8000, 2000, 5500, 10500,1400, 2500, 32000, 52000, 16000, 1000, 1300, 2600,6500, 1500, 33600, 39200, 54500, 71000, 31000,26000, 88000, 9000, 6800, 10300, 5900, 9800,16100, 12000, 20000, 30000 Or higher",
+"","Yield of the cartridge/InkTank/Ink Pack supplied withMachine as per ISO/IEC:19798/2007(E) for Magentacolour (Number of prints)",,"6000, 7000, 9500, 10000, 11000, 15000, 18000,22500, 24000, 16000, 19000, 1200, 5400, 7400,2300, 3000, 5000, 60000, 170600, 8000, 2000, 5500,10500, 1400, 2500, 32000, 52000, 1000, 1300, 2600,6500, 1500, 33600, 39200, 54500, 54000, 31000,26000, 88000, 9000, 6800, 10300, 5900, 9800,16100, 12000, 20000, 30000 Or higher",
+"","Life of Drum in terms ofnumber of Prints in case ofSeparate Drum and Tonercartridge technology - Cyan(Number of Prints)",,"48000, 60000, 70000, 75000, 78000, 80000, 90000,95000, 100000, 120000, 150000, 160000, 175000,180000, 200000, 250000, 270000, 280000, 300000,400000, 500000, 600000, 800000, 1000000,1200000, 214000, 185000, 222000, 54000, 275000,396000, 145000, 67200, 84000, 105000, 480000,135000, 50000, 87000, 109000, 107000, 125000,65000 Or higher",
+"","Life of Drum in terms ofnumber of Prints in case ofSeparate Drum and Tonercartridge technology - Yellow(Number of Prints)",,"48000, 60000, 70000, 75000, 78000, 80000, 90000,100000, 120000, 150000, 160000, 175000, 180000,200000, 250000, 270000, 280000, 300000, 400000,500000, 600000, 800000, 1000000, 1200000,214000, 185000, 222000, 54000, 275000, 396000,145000, 135000, 50000, 87000, 109000, 107000,125000, 65000 Or higher",
+"","Life of Drum in terms ofnumber of Prints in case ofSeparate Drum and Tonercartridge technology - Magenta(Number of Prints)",,"48000, 60000, 70000, 80000, 90000, 95000, 100000,120000, 150000, 160000, 175000, 180000, 200000,250000, 270000, 280000, 300000, 400000, 500000,600000, 800000, 1000000, 1200000, 214000,185000, 222000, 54000, 275000, 396000, 145000,135000, 50000, 87000, 109000, 107000, 125000,65000 Or higher",
+"","Life of Drum in terms ofnumber of Prints in case ofSeparate Drum and Tonercartridge technology - Black(Number of Prints)",,"47420, 55000, 60000, 75000, 80000, 100000,110000, 120000, 135000, 150000, 158000, 160000,175000, 180000, 200000, 250000, 280000, 300000,400000, 500000, 600000, 800000, 1000000,1200000, 97000, 61700, 132000, 314000, 318000,338000, 494000, 417000, 491000, 69000, 66000,63700, 6000000, 490000, 275000, 396000, 145000,59000, 64000, 67200, 84000, 125000, 210000,480000, 520000, 590000, 660000, 720000, 900000,48000, 87000, 109000, 107000, 70000, 65000 Orhigher",
+"",Duty Cycle (No of Prints/month),,"50000, 54000, 55000, 60000, 75000, 80000, 81300,100000, 200000, 300000, 400000, 500000, 150000,140000, 95000, 135000, 170000, 215000, 125000,185000, 240000, 77000, 230000, 280000, 350000,90000, 110000, 120000, 1000000, 66000, 375000,250000, 180000, 59000, 64000, 67200, 84000,105000, 480000, 520000, 590000, 600000, 660000,720000, 2500000, 2250000, 65000, 107000, 129000,153000, 87000, 175000, 225000, 450000 Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Other Certifications Available,,"UL, CE, FCC, RoHS"
+"","On Site OEM Warranty(Year)",,"1, 2, 3, 4, 5 Or higher",
+"Consignee/ReportiDelivery Schedule (In number of daysS.No.Addressng Officerfrom contract start days)Delivery to695013,ISRO Inertial SystemsQuantitDelivery tobe1Baby P PUnit, Vattiyoorkavu PO,ystart aftercompletedThiruvananthapuramby1015",S.No.,,"Consignee/Reporting Officer",,Address,,"Delivery Schedule (In number of daysfrom contract start days)"
+1,,Baby P P,,"695013,ISRO Inertial SystemsUnit, Vattiyoorkavu PO,Thiruvananthapuram",,"Delivery toQuantitDelivery tobeystart aftercompletedby1015",
+"","Quantity",,"Delivery tostart after",,"Delivery tobecompletedby",,
+1,,0,,15,,,
+"Consignee/ReportiDelivery Schedule (In number of daysS.No.Addressng Officerfrom contract start days)Delivery to695013,ISRO Inertial SystemsQuantitDelivery tobe1Baby P PUnit, Vattiyoorkavu PO,ystart aftercompletedThiruvananthapuramby1015",,,,,,
+"Delivery toQuantitDelivery tobeystart aftercompletedby1015",,,,,,
+"","Quantity",,"Delivery tostart after",,"Delivery tobecompletedby",
+1,,0,,15,,

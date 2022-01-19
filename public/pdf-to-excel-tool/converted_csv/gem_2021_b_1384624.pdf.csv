@@ -1,0 +1,35 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 14:00:00,
+Bid Opening Date/Time,,06-08-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,Eastern Railway,
+Total Quantity,,10,
+Item Category,,Submersible Pump Starters (Motor starter controls),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC),OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GenericMotor Starters OilStar Delta Starter - Fully Automatic with Ammeter &Immersed TypeVoltmeterStarter Rating suitability20 HPwith respect to Pump HPPower Supply SuitabilityThree Phase/415 V/50HzThermal bimetalic Relay for20 Aprotection against overload orsingle phasing and severunbalanced load, noncompensate type capacityOverload Relay Range17.4-24.0 AContactor Rating Current(A)10 AConstructionalAuto Manual Switch Position3 position (Auto-Manual)Selection switch TypeRun Capacitor Capacity MFD25 mfdStart Capacitor Capacity (MFD)80-120 mfd",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,"Motor Starters OilImmersed Type",,"Star Delta Starter - Fully Automatic with Ammeter &Voltmeter",
+"",,"Starter Rating suitabilitywith respect to Pump HP",,20 HP,
+"",,Power Supply Suitability,,Three Phase/415 V/50Hz,
+"",,"Thermal bimetalic Relay forprotection against overload orsingle phasing and severunbalanced load, noncompensate type capacity",,20 A,
+"",,Overload Relay Range,,17.4-24.0 A,
+"",,Contactor Rating Current(A),,10 A,
+Constructional,,"Auto Manual Switch PositionSelection switch Type",,3 position (Auto-Manual),
+"",Run Capacitor Capacity MFD,,25 mfd,,
+"",Start Capacitor Capacity (MFD),,80-120 mfd,,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng OfficerPrakash Chand711101,DRM Building Eastern11015MeenaRailway Howrah",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Prakash ChandMeena",,"711101,DRM Building EasternRailway Howrah",,10,,15,

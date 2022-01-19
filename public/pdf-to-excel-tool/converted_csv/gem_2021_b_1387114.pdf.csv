@@ -1,0 +1,83 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 12:00:00,
+Bid Opening Date/Time,,06-08-2021 12:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Chemicals And Fertilizers,
+Department Name,,Department Of Fertilizers,
+Organisation Name,,National Fertilizers Limited (nfl),
+Office Name,,Bathinda,
+Total Quantity,,107,
+Item Category,,Portable Fire extinguishers as per IS 15683 (2018),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC),OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+Primary product category,,Portable Fire extinguishers as per IS 15683 (2018),
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+Estimated Bid Value,,18725,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,Type,,"Stored Pressure, Gas Cartridge Type (as per IS 4947)"
+"",Extinguishing Media,,"Carbon Dioxide Based (as per IS 15222), PowderBased (as per IS 4308 )",
+"",Expellant Medium,,"CO2 Cartridge Based, N2 Based (Stored Pressure)",
+"",Type of Extinguisher,,"High Pressure Extinguisher (Service Pressure >19bar), Low Pressure Extinguisher (Service Pressure?19 bar)",
+"","Material Specification forthe body of High PressureExtinguisher (Hint: SelectNA Low PressureExtinguisher)",,"Steel body (as per latest IS 7285), Aluminium body(as per latest IS 15660), NA",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Material Specification forthe body of Low PressureExtinguisher (Hint: SelectNA High PressureExtinguisher)",,"Welded low carbon steel cylinders (as per Clause9.2.5 of IS 15683), Stainless steel cylinders (as perClause 9.2.6 of IS 15683), Aluminium Cylinderseamless construction (as per Clause 9.2.7 of IS15683), Composite cylinder non-metallic liner (as perClause 9.2.8 of IS 15683), NA"
+"","Foam Based ExtinguishingMedia (Hint: Select NA forExtinguishing Media otherthan Foam Based)",,NA,
+"","Powder BasedExtinguishing Media (Hint:Select NA for ExtinguishingMedia other than PowderBased)",,"ABC, NA",
+"","Type of Clean Agent forClean Agent Based FireExtinguisher (as per CL 5-1-3) (HINT: Select NA forother Extinguishing Media)",,"yes, NA",
+"","Foam Based FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Foam Based)",,NA,
+"","Powder Based FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan Powder Based)",,"1, 2, 4, 6, 9, 12, NA",
+"","Carbon Dioxide Based FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan CO2 Based)",,"2, 3, 4.5, NA",
+"","Water Based FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Water Based)",,NA,
+"","Clean Agents FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan Clean Agents Based)",,NA,
+"","Water Mist FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Water Mist Based)",,NA,
+"","Features of FireExtinguisher",,"Carrying Handle (Mandatory If Extinguisher havingmass ?1.5Kg or Cylinder diameter, Rechargeable, NA",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Class of fire for which FireExtinguisher is suitable",,"Class -B, NA"
+Performance,,"Minimum Effectivedischarge time for FireExtinguisher",,Above 8
+"","Fire Rating of differentclass of fires (Hint: Higheris better)",,"21B, NA",
+"Specification ParameterBid Requirement (Allowed Values)NameCapacity of Cartridge60 GMSRefilling of CO2 gas in 60 GMS capacity cartridge with 99% CO2 confirmingRefilling detailsto IS 307-1966DeliveryDelivery require in one stock of above quantityCO2 CartridgeNFL will provide empty cartridge to party for refilling","Specification ParameterName",,Bid Requirement (Allowed Values)
+Capacity of Cartridge,,60 GMS,
+Refilling details,,"Refilling of CO2 gas in 60 GMS capacity cartridge with 99% CO2 confirmingto IS 307-1966",
+Delivery,,Delivery require in one stock of above quantity,
+CO2 Cartridge,,NFL will provide empty cartridge to party for refilling,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer151003,NATIONAL FERTILIZERSSurinder Kumar1LIMITED, SIBIAN ROAD,4515BagariaBATHINDA",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Surinder KumarBagaria",,"151003,NATIONAL FERTILIZERSLIMITED, SIBIAN ROAD,BATHINDA",,45,,15,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Type,,"Stored Pressure, Gas Cartridge Type (as per IS 4947)"
+"",Extinguishing Media,,"Carbon Dioxide Based (as per IS 15222), PowderBased (as per IS 4308 )"
+"",Expellant Medium,,"CO2 Cartridge Based, N2 Based (Stored Pressure)"
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"ConstructionalMaterial",,Type of Extinguisher,,"High Pressure Extinguisher (Service Pressure >19bar), Low Pressure Extinguisher (Service Pressure?19 bar)"
+"","Material Specification forthe body of High PressureExtinguisher (Hint: SelectNA Low PressureExtinguisher)",,"Steel body (as per latest IS 7285), Aluminium body(as per latest IS 15660), NA",
+"","Material Specification forthe body of Low PressureExtinguisher (Hint: SelectNA High PressureExtinguisher)",,"Welded low carbon steel cylinders (as per Clause9.2.5 of IS 15683), Stainless steel cylinders (as perClause 9.2.6 of IS 15683), Aluminium Cylinderseamless construction (as per Clause 9.2.7 of IS15683), Composite cylinder non-metallic liner (as perClause 9.2.8 of IS 15683), NA",
+"","Foam Based ExtinguishingMedia (Hint: Select NA forExtinguishing Media otherthan Foam Based)",,NA,
+"","Powder BasedExtinguishing Media (Hint:Select NA for ExtinguishingMedia other than PowderBased)",,"ABC, NA",
+"","Type of Clean Agent forClean Agent Based FireExtinguisher (as per CL 5-1-3) (HINT: Select NA forother Extinguishing Media)",,NA,
+"","Foam Based FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Foam Based)",,NA,
+"","Powder Based FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan Powder Based)",,"2, NA",
+"","Carbon Dioxide Based FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan CO2 Based)",,"2, 3, 4.5, NA",
+"","Water Based FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Water Based)",,NA,
+"","Clean Agents FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan Clean Agents Based)",,NA,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Water Mist FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Water Mist Based)",,"2, 3, 4, 6, 9, NA"
+"",,"Features of FireExtinguisher",,"Carrying Handle (Mandatory If Extinguisher havingmass ?1.5Kg or Cylinder diameter, Safety Devices(Mandatory for High Pressure Extinguisher),Rechargeable, Hose Assemblies (Mandatory If massor volume of Extinguishing medium > 3 Kg or Litres),NA"
+"",,"Class of fire for which FireExtinguisher is suitable",,"Class -A, Class -B, Class -C, Class -D, Class -E, Class -F,NA"
+Performance,,"Minimum Effectivedischarge time for FireExtinguisher",,Above 8
+"","Fire Rating of differentclass of fires (Hint: Higheris better)",,"1A, 2A, 3A, 4A, 6A, 10A, 15A, 20A, 8B, 13B, 21B, 34B,55B, 70B, 89B, 113B, 144B, 183B, 233B, 5F, 15F, 25F,75F, NA",
+"Specification ParameterBid Requirement (Allowed Values)NameCapacity of Cartridge120 GMSRefilling of CO2 gas in 60 GMS capacity cartridge with 99% CO2 confirmingRefilling detailsto IS 307-1966DeliveryDelivery require in one stock of above quantityCO2 CartridgeNFL will provide empty cartridge to party for refilling","Specification ParameterName",,Bid Requirement (Allowed Values)
+Capacity of Cartridge,,120 GMS,
+Refilling details,,"Refilling of CO2 gas in 60 GMS capacity cartridge with 99% CO2 confirmingto IS 307-1966",
+Delivery,,Delivery require in one stock of above quantity,
+CO2 Cartridge,,NFL will provide empty cartridge to party for refilling,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer151003,NATIONAL FERTILIZERSSurinder Kumar1LIMITED, SIBIAN ROAD,6215BagariaBATHINDA",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Surinder KumarBagaria",,"151003,NATIONAL FERTILIZERSLIMITED, SIBIAN ROAD,BATHINDA",,62,,15,

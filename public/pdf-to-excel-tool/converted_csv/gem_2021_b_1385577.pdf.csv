@@ -1,0 +1,42 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 17:00:00,
+Bid Opening Date/Time,,09-08-2021 17:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,70 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,"Diesel Loco Modernisation Works, Patiala",
+Total Quantity,,8,
+Item Category,,Industrial Cooling Fan (Man Coolers)- IS: 6272,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Standards,,"Conformity to IS: 6272(1987) or latest",,Yes
+"",,ISI Marked,,Yes
+Fan Construction,,Blades Material,,Cast Aluminium
+"",Material of Body,,MS,
+"",Type,,Tubular Type Man Coolers,
+"",No. of Blades,,6 Or higher,
+"","Fan type based onoscillation",,Non Oscillating,
+"","Min Peak Air Velocity at adistance of 15 times bladesweep (m/min)",,150,
+"","Min Peak Air Velocity at adistance of 12 times bladesweep (m/min)",,225,
+"",Sweep size,,"600, 750, 900, 1200 Or higher",
+"",Motor power,,"1, 2, 3, 5 Or higher",
+"","Min Peak Air Velocity at adistance of 10 times bladesweep (m/min)",,250,
+"",Power Supply Phase,,Three,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,Warranty,,"1, 2, 3, 4, 5 Or higher"
+"Specification ParameterBid Requirement (Allowed Values)NameMake/Brand required byAlfa, Max Air HVACS, Almonard. So, please quote for any of make mentionedConsigneein this bid, otherwise offer will be passed over.","Specification ParameterName",,Bid Requirement (Allowed Values)
+"Make/Brand required byConsignee",,"Alfa, Max Air HVACS, Almonard. So, please quote for any of make mentionedin this bid, otherwise offer will be passed over.",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer147003,AEE/RAC,1Kulwinder SinghAdministrative block, Diesel860Loco Modernisation Works",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Kulwinder Singh,,"147003,AEE/RAC,Administrative block, DieselLoco Modernisation Works",,8,,60,

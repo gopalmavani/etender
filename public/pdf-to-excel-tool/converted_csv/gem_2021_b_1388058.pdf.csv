@@ -1,0 +1,76 @@
+Bid End Date/Time,
+Bid Opening Date/Time,
+Bid Life Cycle (From Publish Date),
+Bid Offer Validity (From End Date),
+Ministry/State Name,
+Department Name,
+Organisation Name,
+Office Name,
+Item Category,
+Contract Period,
+Years of Past Experience required,
+Past Experience of Similar Services required,
+"MSE Exemption for Years Of Experience andTurnover",
+"Startup Exemption for Years Of Experienceand Turnover",
+"SHG Exemption for Years of Experience andTurnover",
+Document required from seller,
+Bid to RA enabled,
+"Time allowed for Technical Clarificationsduring technical evaluation",
+Floor Price,
+Estimated Bid Value,
+Evaluation Method,
+"",Required,
+"",Required,
+Specification,
+Vehicle Type,
+Specification,
+Type of car (Please select at least 3 options),
+Usage Variant,
+Type of Service,
+Year of Vehicle Model,
+Km Travelled,
+Air Conditioning Requirement,
+"The bidder should not have been blacklisted or debarred by any Central/ StateGovernment/ agency of Central/ State Government/ Public Sector Undertaking/ RegulatoryAuthority of India at the time of submission of this bid",
+Area of Operation,
+Outstation night charges applicable,
+S.No.,,"Consignee/Reporting Officer",,Address,,"ServiceNumber ofVehicle(s)",
+1,,Akhila Suresh,,"560067,BPCL-DevanagonthiInstallation, Near DevanagonthiRailway station, Hoskote Taluk,Bengaluru - 560067",,3,
+S.No,Type of vehicle,Route,"Min guaranteeKMs/Month"
+1,"(6+1) seater Marazzo1.Equivalent including driver(Morning Shift)2.3.","Koramangala toDKN – Round trip;Hoodi to DKN –Round tripKoramangala toDKN – Round trip",6000
+2,"(6+1) seater Marazzo1.Equivalent including driver(Second Shift)2.","Amruthahalli toDKN – roundtripDKN to Hoodi –Round trip",4500
+3,"(6+1) seater Marazzo1.Equivalent including driver(Night Shift)","Koramangala toDKN - Round trip 2times",4500
+S.NO,MODEL,REG. NO,YEAR OF MFG,
+1,,,,
+2,,,,
+3,,,,
+4,,,,
+5,,,,
+6,,,,
+NAME OF DRIVER,EMPLOYED SINCE,GROSS SALARY
+"",,
+"",,
+"",,
+"",,
+"",,
+"",,
+"",,
+"",,
+"",,
+"Nameof partywithwhom vehicle supply isexisting","Noofvehicle Underexisting contract",Address,"Nameof contactpersonwithtelephoneno."
+"",,,
+"",,,
+"",,,
+"",,,
+"",,,
+"",,,
+"",,,
+"VEHICLEREGISTRATIONNO","OWNERNAME",MODEL,"ENGINENO","CHASSISNO"
+"",,,,
+"",,,,
+"",,,,
+"",,,,
+"",,,,
+"",,,,
+"",,,,
+"",,,,
+"",,,,

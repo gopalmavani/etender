@@ -1,0 +1,48 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 15:00:00,
+Bid Opening Date/Time,,09-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Atomic Energy,
+Organisation Name,,N/a,
+Office Name,,Directorate Of Purchase And Stores,
+Total Quantity,,60,
+Item Category,,Restaurant Chair,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERIC,,Chair Armrest,,Without
+"",,Type of seat,,Plastic moulded
+"",,Seat Cushion,,Without
+"",,Back Rest Cushion,,Without
+"",,Upholstery,,N.A
+"",,Shape of Seat,,Rectangular
+MATERIAL,,Material of frame,,SS 202
+"",,Thickness of foam,,N.A
+"",,"Density of foam in Kg per CubicMeter",,N.A
+DIMENSION,,"Chair height (overall)±10mm",,820mm
+"",Backrest width ±10mm,,450,
+"",Width of seat ±10mm,,450,
+"","Depth of seat in mm (+/- 10mm)",,570,
+"","Height of seat in mm (+/- 5mm)",,450,
+"",Seat Finish,,"Injection moulded high impact strength polypropylenepolymer compound with indoor grade UV resistance",
+"","Shade offabric/leather/leatherite",,N.A,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Exposed Wooden / MetalParts Finish",,N.A
+WARRANTY,,"Warrantee period innumber of years",,"1, 2, 3, 4, 5 Or higher"
+CERTIFICATION,,"Test reports to be furnished tobuyer on demand",,YES
+"",BIFMA certification,,YES,
+"","OEM of offered product is ISO9001:2015 certified",,YES,
+"","OEM of offered product is ISO14001:2015 certified",,YES,
+"","OEM of offered product is ISO18001:2007 certified",,YES,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer400085,Material Receipt CellMahesh Gajanan(MRC), North Gate, Central16090PedhaviStores Unit, BARC, TROMBAY,MUMBAI",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Mahesh GajananPedhavi",,"400085,Material Receipt Cell(MRC), North Gate, CentralStores Unit, BARC, TROMBAY,MUMBAI",,60,,90,

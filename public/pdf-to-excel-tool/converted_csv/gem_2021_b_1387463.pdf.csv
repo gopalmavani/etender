@@ -1,0 +1,43 @@
+Bid Details,,,
+Bid End Date/Time,,14-08-2021 13:00:00,
+Bid Opening Date/Time,,14-08-2021 13:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Petroleum And Natural Gas,
+Department Name,,Indian Oil Corporation Limited,
+Organisation Name,,Iocl Rajasthan State Office,
+Office Name,,Iocl Chittorgarh Terminal,
+Total Quantity,,2,
+Item Category,,Split Air Conditioner including Green AC,
+MSE Exemption for Turnover,,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Conformity &Certification",,"Green Room Air ConditionerCompliant",,"Green AC -, AC -"
+"TechnicalParameters",,Technology of AC,,Inverter AC (Variable Speed)
+"","Nominal coolingcapacity(Ton) (1 ton = 3000kcal/hr)",,2 Ton,
+"","Energy PerformanceThreshold (ISEER)(Wh/Wh)(for Greenroom AC)",,NA,
+"",Eco-friendly Refrigerant,,Yes,
+"",Compressor Type,,"Rotary Type, Dual Rotary Type, High EER Twin Rotary- BLDC",
+"",Coil Material (Evaporator),,Copper,
+"",Coil Material (Condenser),,Copper,
+"",BEE Star Rating,,5.0,
+"","Rated cooling capacity inWatt (W) as per BEE starlabel",,2635 - 10551,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Rated ISEER value (Wh/Wh)as per BEE star label",,2 - 7
+General Parameters,,"Connecting pipe length(meter)",,3 Mtr
+Warranty/Services,,AC Machine Warranty,,1 Or higher
+"",,Compressor Warranty,,"5, 10 Or higher"
+Installation,,Installation,,Standard installation
+"TestReport/Certification",,"Availability Of Test Report FromCentral Govt/Nabl/IlacAccredited Lab To ProveConformity To Specification",,Yes
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer312001,IOCL CHITTORGARHTERMINAL1Hitesh Laungani215,JALAMPURA,NIMBAHERA ROADN.H. 79 CHITTORGARH",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Hitesh Laungani,,"312001,IOCL CHITTORGARHTERMINAL,JALAMPURA,NIMBAHERA ROADN.H. 79 CHITTORGARH",,2,,15,

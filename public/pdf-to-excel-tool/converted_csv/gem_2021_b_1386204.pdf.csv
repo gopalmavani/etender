@@ -1,0 +1,84 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 19:00:00,
+Bid Opening Date/Time,,05-08-2021 19:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Odisha,
+Department Name,,Revenue And Disaster Management Department Odisha,
+Organisation Name,,N/a,
+Office Name,,Adm Boudh,
+Total Quantity,,80,
+Item Category,,"All in One PC , Line Intractive UPS with AVR",
+"Minimum Average Annual Turnover of theBidder",,5 Lakh (s),
+OEM Average Turnover (Last 3 Years),,10 Lakh (s),
+Years of Past Experience required,,2 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,20 %,
+Bid to RA enabled,,No,
+Primary product category,,All in One PC,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Motherboard,,Chipset Series,,"Intel H Series, Intel B Series, Intel Q Series, Intel ZSeries Or higher"
+"",Chipset Number,,"Intel B460, Intel Q470, Intel H 470, Intel H 410, Intel Z490 Or higher",
+"",Processor Make,,Intel,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,,,
+"",,Processor Generation,,10.0 Or higher
+"",,"Number of Cores perProcessor",,"6, 8, 10 Or higher"
+"",,Processor Description,,"Intel Core i5, Intel Core i7, Intel Core i9 Or higher"
+"",,Processor Number,,"Intel Core i5 10400, Intel Core i9 10900T, Intel Core i510500, Intel Core i5 10600, Intel Core i7 10700, IntelCore i7 10700K, Intel Core i9 10900, Intel Core i910900K, 10th-generation Intel Core i7, Turbo Boostup to 5.0GHz Or higher"
+Graphics,,"Size of Memory in Case ofDedicated Graphic Card(GB)",,"0, 1, 2, 3, 4, 8 Or higher"
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional
+Memory,,RAM Size (GB),,"8, 16, 32, 64 Or higher"
+"",,"RAM Expandability up to(using spare DIMM Slots inGB)",,64 Or higher
+Storage,,"Type of Drives used topopulate the Internal Bays",,HDD
+"",,Total HDD Capacity (GB),,"1000, 1500, 2000, 2500, 3000 Or higher"
+"",,Total SSD Capacity (GB),,"128, 256, 384, 512, 768, 1024, 2048, 4096, 0 Orhigher"
+Display,,Display Size (INCHES),,"21.5, 22, 23.6, 23.8, 27, 34, 37.5 Or higher"
+"",,Display Type,,"Non Touch, Touch Or higher"
+"",,Panel Technology,,"IPS, WVA Or higher"
+"",,Display Resolution (PIXELS),,"1920x1080, 1920 x 1200, 3200x1800, 3840 x 2160,3440 x 1440, 4096x2304, 5120x2880 Or higher"
+"",,"Availability of Webcamintegrated with Display",,Yes
+Warranty,,"On Site OEM Warranty(Year)",,"3, 5 Or higher"
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+Slots,,"Total 4 noS. PCie slot or more with Minimum PCie slot or more with MinimumPCie*16*2 No"
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+Monitor,,Inbuilt Speaker In Monitor. Dual Speaker with TCO Certified monitor
+Certification,,"Windows, ROHS Compliance, Energy Star, EPEAT India, ISO Certification forOEM, ISO 27000, ISO 20000"
+Connectivity,,Inbuilt WIFI+Bt required in the PC
+MAF from OEM,,Bid specification MAF from OEM is mandatory
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng OfficerSAMBIT KUMAR762014,Office of the Collector14015PANDA& DM,Boudh 762014",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"SAMBIT KUMARPANDA",,"762014,Office of the Collector& DM,Boudh 762014",,40,,15,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERIC,,"Rating in KVA/ min VAHcapacity of battery(KVA/VAH)",,0.6/84
+"",Technology,,MOSFET-PWM,
+"",Type of battery,,"SMF-VRLA confirming to JISC-8702 Pt 1,2 &3",
+"",Rated Output (Volt),,"Single Phase Quasi-Sin-wave 230 V AC, 50 Hz",
+"",Degree of protection,,IP 20,
+"",Inverter Efficiency (%),,> / = 70%,
+"","Warranty for the batteryfrom the date of delivery",,2 Years,
+"","Warranty for LineInteractive UPS",,2 Years,
+"","Installation and commissioninginstructions",,Yes,
+"",Type of enclosure,,ABS,
+"","AC out put for printer (notthrough inverter)",,No,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Inverter out put socket ACout put for printer (notthrough inverter)",,3 Three pin
+FUNCTIONAL,,Total harmonic distorsion (%),,< / = 40%
+"",,Input (Volt),,Single phase sinewave(160-280v)
+"",,Overload Time (Minutes),,> / = 10 minutes
+"",,Load power factor,,> / = 0.6
+"",,"Variation in AVR output inAC mode (%) AVR (Voltageregulation) output voltagein AC Mode",,"230 Volts +/-9%, 50 +/-3 Hz"
+"REPORTS ANDCERTIFICATIONS",,"As per Meity (Government ofIndia) guidelines UPS shall havevalid BIS CRS certifications asapplicable",,Yes
+"Specification ParameterBid Requirement (Allowed Values)NameOEM MAFBid specific MAF from OEM is mandatory","Specification ParameterName",,Bid Requirement (Allowed Values)
+OEM MAF,,Bid specific MAF from OEM is mandatory,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng OfficerSAMBIT KUMAR762014,Office of the Collector14015PANDA& DM,Boudh 762014",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"SAMBIT KUMARPANDA",,"762014,Office of the Collector& DM,Boudh 762014",,40,,15,

@@ -1,0 +1,41 @@
+Bid Details,,,
+Bid End Date/Time,,16-08-2021 19:00:00,
+Bid Opening Date/Time,,16-08-2021 19:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,65 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence Production,
+Organisation Name,,Hindustan Aeronautics Limited (hal),
+Office Name,,***********,
+Total Quantity,,10,
+Item Category,,Medical Oxygen Gas Cylinders- Aluminium,
+MSE Exemption for Years Of Experience,,Yes,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Conformity to Standard,,ISO 7866:2012 (Latest)
+"",Product is ISI Marked,,"""NA"" for ISO 7866:2012(latest)"
+"",Colour coding of cylinders,,As per ISO 7866/2012(Latest)
+"",Cylinder type,,B
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Water Capacity of Cylinder(Litres)",,15.0
+"","Oxygen capacity, (Ltrs)",,2250.0,
+"","Outer diameter, (mm)",,176.0,
+"","Minimum wall thickness,(mm)",,"6, 9, 11 Or higher",
+"","Hydrostatic test pressure, (Bar)",,225.0,
+"","Working pressure, (Bar)",,150.0,
+"","Type of Valve fitted to thecylinder",,Type A ( Wheel operated),
+"",Neck ring provided,,Yes,
+"",Foot ring provided,,No,
+"Specification ParameterBid Requirement (Allowed Values)Name1-Matterial of Cylinder Body, 2-High Pressure seamless1- Aluminium Alloy, 2- Yes, 3- (in Kg)13 Kg,Cylinder, 3- Empty Cylinderweight(without valve),","Specification ParameterName",,Bid Requirement (Allowed Values)
+"1-Matterial of Cylinder Body, 2-High Pressure seamlessCylinder, 3- Empty Cylinderweight(without valve),",,"1- Aluminium Alloy, 2- Yes, 3- (in Kg)13 Kg,",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************SULTANPUR1020",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********SULTANPUR,,10,,20,

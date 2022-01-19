@@ -1,0 +1,47 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 18:00:00,
+Bid Opening Date/Time,,05-08-2021 18:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Comptroller And Auditor General (cag) Of India,
+Department Name,,Na,
+Organisation Name,,"Accountant General, Rajasthan",
+Office Name,,Economic & Revenue Sector Audit,
+Total Quantity,,7,
+Item Category,,Laptop-Notebook,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Estimated Bid Value,,415800,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Processor,,Processor Make,,Intel
+"",,Processor Generation,,11.0 Or higher
+"",,"Number of Cores perProcessor",,"4, 6, 8 Or higher"
+"",,Processor Description,,"Intel Core i5, Intel Core i7 Or higher"
+"",,Processor Number,,"Intel Core i7 1165G7, Intel Core i5 1135G7 Or higher"
+Graphics,,"Size of Memory in Case ofDedicated Graphic Card(GB)",,"2, 3, 4, 6 Or higher"
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional
+Memory,,RAM Size (GB),,"8, 16, 32, 64 Or higher"
+"","Type of Drives used topopulate the Internal Bays",,PCIe SSD,
+"",Total HDD Capacity (GB),,"500, 1000, 1500, 2000, 2500, 3000, 0 Or higher",
+"",Capacity of each SSD (GB),,512,
+"",Total SSD Capacity (GB),,"512, 768, 1024, 1280, 2048, 4096 Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Capacity of each SSHD (GB),,"8 GB Flash + 500 GB @5400 rpm, 8 GB Flash + 1000GB @5400 rpm, 8 GB Flash + 2000 GB @5400 rpm,NA Or higher"
+"",,"Total SSHD Capacity inaddition to 8 GB Flash (GB)",,"500, 1000, 1500, 0 Or higher"
+Connectivity,,Wireless Connectivity,,Yes
+Display,,Display Size (Inch),,"15.4, 15.6, 16 Or higher"
+"",,Display Type,,"Non Touch, Touch Or higher"
+"",,Display Resolution (Pixels),,"1920x1080, 1920 x 1200, 3200x1800, 3840 x 2160,2304 x 1440, 2560 x 1600, 2736 x 1824, 2880 x1800, 2256x1504, 3000x2000, 3240x2160, 3272 x1920, 2880 x 1920, 3072 x 1920 Or higher"
+Miscellaneous,,Optical Drive,,"Integrated, External, NA Or higher"
+Warranty,,Battery Warranty,,"3, 4, 5 Or higher"
+"","On Site OEM Warranty(Year)",,3,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng OfficerSudhir Kumar302005,Bhagwan Das Road, C-1715SonkerScheme ,",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Sudhir KumarSonker",,"302005,Bhagwan Das Road, C-Scheme ,",,7,,15,

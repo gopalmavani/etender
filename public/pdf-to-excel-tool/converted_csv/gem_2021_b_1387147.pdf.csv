@@ -1,0 +1,60 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 11:00:00,
+Bid Opening Date/Time,,06-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Home Affairs,
+Department Name,,Central Armed Police Forces,
+Organisation Name,,Border Security Force (bsf),
+Office Name,,130 Bn Bsf Gokulnagar Sepahijala Tripura 799102,
+Total Quantity,,1,
+Item Category,,ECG Machine,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Purpose,,"ECG machine is primary equipment to record ECGsignal with interpretation which is required forrecording and analyzing the waveforms with software."
+"",Number of channels,,3
+"","Number of ECGs which canbe store in ECG Machine",,151-200
+"","ECG machine should havefull screen preview of ECGreport for qualityassessment checks prior toprint",,Yes
+"",Type of inbuilt screen,,LCD
+"",Size of screen in inches,,5
+"","ECG machine should havealphanumeric keyboard forpatient data entry",,Virtual
+"",Size of printing paper,,A4
+"",Provision of battery,,Yes
+"",Battery capacity,,"50 ECG or 1 hour of continous rhythm recording onsingle charge"
+"","Connectivity to ECGMachine",,LAN
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Availability of latestinterpretation software",,Yes
+"",,"Wireless acquisition modulewith RF technology",,"Yes, No"
+"",,"System should have thededicated software todownload the ECG formmachine in PDF format",,Yes
+"",,"Warranty (Option ofcomprehensive warranty isavailable through biddingonly, which if opted willsupersede normal warrantyin the catalogue)",,3
+Trolley,,Provision of trolley,,No
+"",,Material of Frame of trolley,,No Trolley Provided
+"",,Material of Top of trolley,,No Trolley Provided
+"",,Number of castors,,No Trolley Provided
+"",,"Number of brakes forcastors",,No Trolley Provided
+"",,Height of trolley in inch,,No Trolley Provided
+"",,"Provision of railing for topshelf",,No Trolley Provided
+"",,"Availability of suitablecable arm having holder forECG cables when not in use",,No Trolley Provided
+Accessories,,"ECG Machine 12 leads withinterpretation",,1
+"",Patient Cable,,2,
+"","Chest Electrodes Adult (setof Six)",,1,
+"","Chest Electrodes Paediatric(set of Six)",,Not provided,
+"",Limb Electrodes,,4 for adults and 4 for paediatric,
+"","Thermal paper for 500patients",,1 SET,
+"",Power cable for charging,,Yes,
+"",Supplied with Clip electrode,,"Yes, No",
+"","Availability of test reportfrom govt/ NABL/ILACaccredited lab covering allparameters",,No,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Copies of all test reports tobe provided to buyer ondemand at time of supplies,",,"NA ,Incase test reports not availabble"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer799102,GOKULNAGAR1Susil Kumar Jena115BISHALGARH",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Susil Kumar Jena,,"799102,GOKULNAGARBISHALGARH",,1,,15,

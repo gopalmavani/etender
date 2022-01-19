@@ -1,0 +1,59 @@
+Bid Details,,,
+Bid End Date/Time,,10-08-2021 20:00:00,
+Bid Opening Date/Time,,10-08-2021 20:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Urban Development,
+Department Name,,Na,
+Organisation Name,,Government Of India Stationery Office Kolkata,
+Office Name,,Giso Kolkata,
+Total Quantity,,6000,
+Item Category,,Plain Copier Paper-IS:14490,
+"Minimum Average Annual Turnover of theBidder",,5 Lakh (s),
+OEM Average Turnover (Last 3 Years),,40 Lakh (s),
+Years of Past Experience required,,2 Year (s),
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,20 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Estimated Bid Value,,1069020,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,IDBI Bank,
+ePBG Percentage(%),,3.00,,
+Duration of ePBG required (Months).,,14,,
+"",Reserved for Make In India products,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Certification,,"Conformance to IndianStandard",,Conforming to IS14490 : Latest
+"",,,Whether ISI Marked,,Yes
+"",Test Report Details,,"""Test Report to be Submitted tothe Buyer on demand""",,Yes
+"","AdditionalRequirements foreco mark",,"The material shall bemanufactured from pulpcontaining not less than 60%by mass of pulp made frommaterials other thanbamboo,hard woods ,softwoodsand reed or the material shallbe manufactured from pulpmade from 100%waste paper",,Yes
+"",Size of paper,,A4,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,GSM of paper,,80
+Quantity,,"""Number of sheets perReam""",,500
+"","""ISOBrightness,percent,Min""(N>=80)",,More than 85.0 Or higher,
+"","Opacity percent,Min(N>=85)",,More than 88.0 Or higher,
+"","""One minute Cobb test bothsides,g/m2,Max"" (N<=25)",,Less than 30.0 Or lower,
+"","""Tensile Index MachineDirection (MD) ,Nm/g, Min""(N>=40)",,More than 40.0 Or higher,
+"","Tensile Index CrossDirection(CD),Nm/g,Min(N>=25)",,More than 25.0 Or higher,
+"","""Tear Index in mNm2/g,MachineDirection(MD),Min""(N>=3.5)",,More than 3.5 Or higher,
+"","""Tear Index in mNm2/g,CrossDirection(CD)Min,""(N>=4.5)",,More than 4.5 Or higher,
+"","""Smoothness for both sides(Bendtsen) in ml/min,Max""(150<=N<=300)",,More than 200.0 Or higher,
+"","""Ashcontent(900?C),percent bymass,Max"" (N<=16)",,Less than 16.0 Or lower,
+"","Thickness in ?m,Min(N>=100+/-5)",,More than 95.0 Or higher,
+"","""Moisturecontent,percent,Max""(4<=N<=5.5)",,6,
+"","""Taber Stiffness ,MachineDirection(MD),Min"" (N>=2)",,More than 2.0 Or higher,
+"","Taber Stiffness ,CrossDirection(CD),Min (N>=1)",,More than 1.0 Or higher,
+"","""Surface Strength Dennison(Wax Pick)""",,No pick on 12 A,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Packing and Marking,,"Package should be marked withDescription,size ofPaper,Quantity,Mass of500/250 sheets includingwrapping paper in kg/reamChargeable wt should be net wtexcluding the wt of packing,LotNumber and month/year ofmanufacturing,Name ofmanufacturer",,Yes
+"Specification ParameterBid Requirement (Allowed Values)NameThe item to be packed in Reams of 500 Sheets each with a moisture proofpolylaminated blue & white colored cover paper as per the approved design.The GSM of the cover paper shall be 120 (min.). 10 such ream packets shallPackingthen be packed in a strong blue coloured 5 ply corrugated box of not lessthan 650 GSM & having Bursting Strength of 9 (min). Thereafter, thecorrugated boxes shall be closed properly with crosswise strapping by PVCtapes to make a strong and composite pack.Each Ream Packet shall be ISI Marked and ECO marked . The word“Government of India”, Govt. Arrow Mark, the description of the plain copierMarkingpaper, name of the manufacturer, quantity of contents and month & year ofmanufacture shall appear on each corrugated boxes.","Specification ParameterName",,Bid Requirement (Allowed Values)
+Packing,,"The item to be packed in Reams of 500 Sheets each with a moisture proofpolylaminated blue & white colored cover paper as per the approved design.The GSM of the cover paper shall be 120 (min.). 10 such ream packets shallthen be packed in a strong blue coloured 5 ply corrugated box of not lessthan 650 GSM & having Bursting Strength of 9 (min). Thereafter, thecorrugated boxes shall be closed properly with crosswise strapping by PVCtapes to make a strong and composite pack.",
+Marking,,"Each Ream Packet shall be ISI Marked and ECO marked . The word“Government of India”, Govt. Arrow Mark, the description of the plain copierpaper, name of the manufacturer, quantity of contents and month & year ofmanufacture shall appear on each corrugated boxes.",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer600006,Regional StationerySatishkumar1Depot , 63, College Road600060VenkatesanChennai",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"SatishkumarVenkatesan",,"600006,Regional StationeryDepot , 63, College RoadChennai",,6000,,60,

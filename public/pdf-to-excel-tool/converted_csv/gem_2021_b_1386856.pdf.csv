@@ -1,0 +1,102 @@
+Bid Details,,,
+Bid End Date/Time,,03-08-2021 10:00:00,
+Bid Opening Date/Time,,03-08-2021 10:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,"DSLR/ COMPACT / HANDHELD CAMCORDER or VIDEOCAMERAS",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+TYPE,,Classification of Camera,,"Still, Video"
+"",,Type of Camera,,DSLR Full Frame Format
+IMAGE SENSOR,,Image Sensor,,"CCD, CMOS"
+"","Sensor Size for Fixed LensCamera (inch)",,"1, 1/2, 1/2.3, 1/2.33, 1/2.5, 1/2.7, 1/2.8, 1/2.84, 1/3,1/3.1, 1/4, 1/5.8, 4/3, NA",
+"","Sensor Size forInterchangeable LensCamera (mmxmm)",,23.5 x 15.6 to 15.7,
+"","Effective Pixels (MegaPixels)",,"26, 24, 45, 30",
+"","ISO (Sensitivity of theimage Sensor) Max",,"800, 1600, 3200, 6400, 12800, 25600, 32000, 40000,51200, 0 Or higher",
+"",Lens Mounting,,"Fixed, Detachable",
+"",Type of Lens,,Zoom Lens,
+"",Minimum Focal Length,,Above 10,
+"",Maximum Focal Length,,"100.0, 63.5",
+"","Minimum Lens Aperture(f/number)",,Above 0.2,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Maximum Lens Aperture(f/number)",,0 - 22
+"",,Optical Zoom,,"56X to 60X, 61X and above, 6X to 10X"
+"",,Digital Zoom (X),,"1000, 500"
+"",,Maximum Field of View,,120.0
+"",,Focus Mode,,"Auto, Manual"
+Video Recording,,Video Recoding,,Yes
+"",,"Maximum RecordingResolution (Pixels)",,Full HD (1920 x 1080)
+"",,Frame Rate,,"24, 25, 30, 48, 50, 60, 80, 90, 100, 120, NA"
+"",,Video Compression Format,,"H.265, H.265+"
+"",,Live Video Streaming,,"Yes, No"
+"",,Video Output Port,,HDMI
+"",,Video file format,,AVI
+AUDIO,,Audio Recording,,Yes
+"",,Audio Recording Type,,Buit-in
+"",,Number of Audio Input Port,,1
+"",,Type of Audio input Port,,3.5 mm (Stero mini jack)
+"",,Audio Output,,"No, Yes"
+"",,Number of Audio Output Port,,1
+"",,Type of Audio output Port,,3.5 mm (Stero mini jack)
+DISPLAY,,Display,,Yes
+"",Display Type,,"LCD, LED",
+"",Touch Screen,,"Yes, No",
+"",Display Size (inch),,"1-1.5, 1.6-2, 2.1 - 2.5, 2.6 - 3, 3.1 - 3.5, 3.6 andabove, NA",
+"",Vari Angle Screen,,"Yes, No",
+"",View Finder,,"Yes, No",
+"",Flash,,Built-in,
+"","GPS coordinates Stamping ontoVideos / photographs",,Yes,
+"",Gyro Sensor,,Yes,
+"",Voice Control,,Yes,
+"",Connectivity Interface,,"Wi-Fi, USB",
+"",Control,,Remote,
+"","Supported Operating Systemsfor App",,Android,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Picture control system,,"Auto, standard"
+"",,Noise reduction Feature,,Yes
+"",,Flash modes,,Auto
+"",,Shutter type,,mechanical
+"",,Minimum Shutter Speed,,20.0
+"",,Maximum Shutter Speed,,0.3
+"",,Drive modes,,"single shooting, Countinous Shooting"
+STORAGE,,Storage Type,,SD
+"",,Dual Slot,,Yes
+"",,"SD Card Memory inclusive inthe scope of supply (GB)",,128
+"",,"Memory Card expandable upto(GB)",,128
+"",,In-built Memory(GB),,128
+BATTERY,,Power Source,,"Rechargeable Battery, Alkaline Batteries (Non-Rechargeable)"
+"",,"Battery Size, if NonRechargeable Battery",,AAA
+"",,"Battery Chemistry, ifRechargeable Battery",,Li-Ion
+"",,"Number of Batteries supplied(Inclusive in the Scope ofSupply)",,2
+"",,BATTERY CAPACITY (mAh),,2500
+"",,"Battery Charger forRechargeable Batteries",,Yes
+"OPERATINGCONDITIONS",,"Minimum OperatingTemperature (for land use)",,"0, -5, -10, -15, -20, -30, -40"
+"",,"Maximum OperatingTemperature (for land use)",,"40, 50, 55, 60, 70"
+"",,"Operating Humidity, Rh at40 deg C",,75.0
+GENERIC,,Housing construction,,"Metallic, Polycarbonate, Composite polycarbonateouter shell with metallic internal chassis"
+"",,IP Protection,,"IP 21, IP 22, IP 23, IP 52, IP 53, IP 54, IP 55, IP 66, IP67, NA"
+"",,Carry Case inclusive,,Yes
+WARRANTY,,Warranty,,"1, 2, 3, 4, 5"
+"Consignee/ReportiDelivery Schedule (In number of daysS.No.Addressng Officerfrom contract start days)Delivery toQuantitDelivery tobe1**********************PATIALAystart aftercompletedby10130",,,,,,
+"Delivery toQuantitDelivery tobeystart aftercompletedby10130",,,,,,
+"","Quantity",,"Delivery tostart after",,"Delivery tobecompletedby",
+1,,01,,30,,
+"Consignee/ReportiDelivery Schedule (In number of daysS.No.Addressng Officerfrom contract start days)Delivery toQuantitDelivery tobe1**********************PATIALAystart aftercompletedby10130",S.No.,,"Consignee/Reporting Officer",,Address,,"Delivery Schedule (In number of daysfrom contract start days)"
+1,,***********,,***********PATIALA,,"Delivery toQuantitDelivery tobeystart aftercompletedby10130",
+"","Quantity",,"Delivery tostart after",,"Delivery tobecompletedby",,
+1,,01,,30,,,

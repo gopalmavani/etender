@@ -1,0 +1,34 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 15:00:00,
+Bid Opening Date/Time,,05-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,40 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,Western Railway,
+Total Quantity,,2402,
+Item Category,,hand held search light,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERIC,,Type of lamp,,LED
+"",Dia of search light (mm),,50 to 75,
+"",Wattage of lamp (Watt),,3,
+"","Color temperature (DegreeK)",,5500 to 6500 deg. K for other lamps,
+"",Type of battery,,Lithium ion,
+"",Type of housing material,,ABS,
+"","Warranty for HHSL (inyears)",,12 Months (Li-ion battery),
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+FUNCTIONAL,,"Continuous search lightoperation time at maximumlumen output (Hours)",,FOR LED / XENON ./= 5 HRS
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer400055,Building no 159, southHarish Kumar1western railway colony sen240230Rathorenagar santacruz east mumbai",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Harish KumarRathore",,"400055,Building no 159, southwestern railway colony sennagar santacruz east mumbai",,2402,,30,

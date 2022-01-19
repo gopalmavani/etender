@@ -1,0 +1,72 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 12:00:00,
+Bid Opening Date/Time,,06-08-2021 12:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence Research & Development,
+Organisation Name,,Office Of Dg (ecs),
+Office Name,,***********,
+Total Quantity,,13,
+Item Category,,"Desktop Computers , Computer Printers",
+Years of Past Experience required,,3 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,OEM AuthorizationCertificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,50 %,
+Bid to RA enabled,,No,
+Primary product category,,Desktop Computers,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+ePBG Percentage(%),,3.00,,
+Duration of ePBG required (Months).,,62,,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Motherboard,,Chipset Series,,Intel Q Series Or higher
+"",,,Chipset Number,,Intel Q 470 Or higher
+"",Processor,,Processor Make,,Intel
+"",,,Processor Generation,,10.0 Or higher
+"",,,"Number of Cores perProcessor",,"8, 10, 12 Or higher"
+"",,,Processor Description,,"Intel Core i7, Intel Core i9 Or higher"
+"",,,Processor Number,,"Intel Core i9 10900K, Intel Core i9 10900KF, IntelCore i9 10900, Intel Core i9 10900F, Intel Core i710700K, Intel Core i7 10700KF, Intel Core i7 10700,Intel Core i7 10700F Or higher"
+"",Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional
+"",Memory,,RAM Size (GB),,"64, 128 Or higher"
+"",,,"RAM Expandability up to(using spare DIMM Slots inGB)",,"64, 128 Or higher"
+"",Storage,,"Type of Drives used topopulate the Internal Bays",,"HDD, PCIe_SSD"
+"",,,Total HDD Capacity (GB),,"2000, 2500, 3000, 4000 Or higher"
+"",,,Total SSD Capacity (GB),,"1024, 2048, 4096 Or higher"
+"",,,"Total SSHD Capacity inaddition to 8 GB Flash (GB)",,"500, 1000, 2000, 0 Or higher"
+"",Cabinet,,Cabinet Form Factor,,SFF ( 7 to 13 Litres)
+"",Monitor Technology,,IPS Or higher,,
+"","LED Backlit Monitor Size(INCHES)",,"24, 27, 23.8, 32 Or higher",,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Monitor Resolution (PIXELS),,"1920x1080, 1920 x 1200, 3200x1800, 3840 x 2160,2560 x 1440 Or higher"
+Warranty,,"On Site OEM Warranty(Year)",,"3, 5, 4 Or higher"
+"Specification ParameterBid Requirement (Allowed Values)NameMAKE & MODELCPU, MONITOR , KEYBOARD AND MOUSE SHOULD BE FROM SAME MAKE.","Specification ParameterName",,Bid Requirement (Allowed Values)
+MAKE & MODEL,,"CPU, MONITOR , KEYBOARD AND MOUSE SHOULD BE FROM SAME MAKE.",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************HYDERABAD1130",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********HYDERABAD,,11,,30,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Cartridge Technology,,"Composite Cartridge, separate toner and drum Orhigher"
+"",Printing Technology,,Laser
+"",Type of Printing,,Mono
+"",Paper Size,,"A4, A3 Or higher"
+"","Print Speed per minute asper ISO/IEC 24734 in (A4)Size - Mono",,"35, 38, 40, 43, 45, 47, 50, 52, 55, 60, 61, 65, 70, 71,75, 80, 85, 90, 95, 100, 105, 110, 62, 41, 46, 56 Orhigher"
+"","Print Speed per minute asper ISO/IEC 24734 in (A4) -Color",,"4, 7, 8, 10, 12, 15, 16, 18, 20, 25, 30, 35, 40, 45, 50,55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 26,27, 31, 38, 4.4, 5, 5.7, 5.8, 6.8, 10.4, 15.5, 21, 24, 33,46, 34, 19, 0, 14 Or higher"
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Resolution (Dpi),,"1200x1200, 2400x600, 2400x1200, 1440x720,3840x600, 4800x1200, 5760x1440, 9600x600,4800x600 Or higher"
+"",Memory (MB),,"128, 256, 512, 1024, 2048, 4096, 6144, 384, 768,1563, 2560, 1536, 1000, 192, 3072 Or higher",
+"",Duplexing Feature,,Yes Or higher,
+"",Wireless Connectivity,,"Yes, No Or higher",
+"","Number of Main PaperTrays",,"1, 2, 3, 4, 5 Or higher",
+"",Bypass Tray Facility,,Yes Or higher,
+"","If Yes, Bypass Tray Capacity",,"100, 150 Or higher",
+"","On site OEM warranty(Years)",,5 Or higher,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************HYDERABAD230",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********HYDERABAD,,2,,30,

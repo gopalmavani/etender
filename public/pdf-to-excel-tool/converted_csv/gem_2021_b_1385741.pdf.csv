@@ -1,0 +1,41 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 15:00:00,
+Bid Opening Date/Time,,09-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Human Resource Development,
+Department Name,,Department Of Higher Education,
+Organisation Name,,Indian Institute Of Technology (iit),
+Office Name,,Kharagpur,
+Total Quantity,,1,
+Item Category,,Split Air Conditioner including Green AC,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,20 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Conformity &Certification",,"Green Room Air ConditionerCompliant",,AC -
+"TechnicalParameters",,Technology of AC,,Non Inverter AC
+"",,"Nominal coolingcapacity(Ton) (1 ton = 3000kcal/hr)",,1.5 Ton
+"",,"Energy PerformanceThreshold (ISEER)(Wh/Wh)(for Greenroom AC)",,NA
+"",,Eco-friendly Refrigerant,,Yes
+"",,"Refrigerant Ozone DepletionPotential is Zero",,Yes
+"",,Compressor Type,,"Rotary Type, Dual Rotary Type, High EER Twin Rotary- BLDC"
+"",,Coil Material (Evaporator),,Copper
+"",,Coil Material (Condenser),,Copper
+Performance,,BEE Star Rating,,3.0
+"",,"Rated cooling capacity inWatt (W) as per BEE starlabel",,2635 - 10551
+"",,"Rated ISEER value (Wh/Wh)as per BEE star label",,2 - 7
+General Parameters,,"Connecting pipe length(meter)",,3 Mtr
+"",AC Machine Warranty,,1 Or higher,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Compressor Warranty,,"5, 10 Or higher"
+Installation,,Installation,,Standard installation
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1Soumitra Banerjee721302,IIT Kharagpur115",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Soumitra Banerjee,,"721302,IIT Kharagpur",,1,,15,

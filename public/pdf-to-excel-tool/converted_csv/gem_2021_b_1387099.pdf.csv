@@ -1,0 +1,36 @@
+Bid Details,,,
+Bid End Date/Time,,11-08-2021 11:00:00,
+Bid Opening Date/Time,,11-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,Multimedia Projector (MMP),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,15 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Technology,,One Chip DLP
+"",Native Resolution,,"854 x 480 (WVGA), 800 x 600 (SVGA), 1024 x 768(XGA), 1280 x 720 (HD), 1280 x 800 (WXGA), 1280 x1024 (SXGA), 1600 x 1200 (UXGA), 1920 x 1080 (FullHD), 1920 x 1200 (WUXGA), 3840 x 2160 (UHD 4K),2560 x 1600 (WQXGA), 4096 x 2160 (4K), 5120 x3200 (4K+) Or higher"
+"",Brightness (Lumens),,"200, 250, 300, 500, 1000, 1400, 1500, 2000, 2200,2500, 2600, 2700, 2800, 3000, 3100, 3200, 3300,3400, 3500, 3600, 3700, 3800, 4000, 4200, 4300,4500, 5000, 5200, 5500, 6000, 6200, 6500, 7000,7500, 8000, 8500, 9000, 9500, 10000, 12000, 13000,14000, 16000, 18000, 20000, 22000, 25000, 30000,40000, 60000, 5800, 6600, 6700, 21000 Or higher"
+"",Optical Zoom,,"Yes, No Or higher"
+"","If Yes, Optical Zoom (%)",,"110, 120, 135, 140, 145, 150, 160, 170, 175, 200,210, 130, NA Or higher"
+"","If Yes, Type of Projector",,Standard Throw (0.91 to 2.5)
+"",Type of Light Source,,LED
+"","Minimum Life of LightSource (In Normal Mode)(Hours)",,30000 Or higher
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Warranty,,"On Site OEM Warranty forLight Source (Time or Lifein Hours whichever isearlier)",,"1 Year or 5000 Hrs., 3 Year or 5000 Hrs., 3 Year or10000 Hrs., 3 Year or 12000 Hrs., 3 Year or 15000Hrs., 3 Year or 30000 Hrs., 5 Year or 10000 Hrs. Orhigher"
+"",On Site OEM Warranty,,"2, 3, 5 Or higher",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************LUCKNOW130",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********LUCKNOW,,1,,30,

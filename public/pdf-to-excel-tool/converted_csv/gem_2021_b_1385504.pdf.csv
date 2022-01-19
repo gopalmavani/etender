@@ -1,0 +1,33 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 16:00:00,
+Bid Opening Date/Time,,09-08-2021 16:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,70 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,"Diesel Loco Modernisation Works, Patiala",
+Total Quantity,,5,
+Item Category,,Molded Case Circuit Breakers (Mccb)-IS/IEC:60947,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GENERICISI markedYESRated Current (in Ampere)250ANo of poles/Protected4 Polepoles(PP)Rated Short circuit capacityMCCB with RSCB capacity of 10/16/25/35 KA tripping(in KA)rangeBreaking current (in KA)35 KARated Voltage240/415 Volt 50 Hz AC",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERIC,,ISI marked,,YES,
+"",Rated Current (in Ampere),,250A,,
+"","No of poles/Protectedpoles(PP)",,4 Pole,,
+"","Rated Short circuit capacity(in KA)",,"MCCB with RSCB capacity of 10/16/25/35 KA trippingrange",,
+"",Breaking current (in KA),,35 KA,,
+"",Rated Voltage,,240/415 Volt 50 Hz AC,,
+"Specification ParameterBid Requirement (Allowed Values)NameMake/Brand required byLegrand,HPL,ABB,Havells,L&T. So, please quote for any of make mentionedConsigneein this bid, otherwise offer will be passed over.","Specification ParameterName",,Bid Requirement (Allowed Values)
+"Make/Brand required byConsignee",,"Legrand,HPL,ABB,Havells,L&T. So, please quote for any of make mentionedin this bid, otherwise offer will be passed over.",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer147003,AEE/RAC,1Shyam SS@123Administrative block, Diesel560Loco Modernisation Works",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Shyam SS@123,,"147003,AEE/RAC,Administrative block, DieselLoco Modernisation Works",,5,,60,

@@ -1,0 +1,46 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 11:00:00,
+Bid Opening Date/Time,,06-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,80 (Days),
+Ministry/State Name,,Haryana,
+Department Name,,Irrigation Department Haryana,
+Organisation Name,,N/a,
+Office Name,,"Irrigation & Water Resources Department Haryana,Panchkula",
+Total Quantity,,1,
+Item Category,,Power Generator-DG Set (Upto 900 KVA),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,2.00,
+"",Duration of ePBG required (Months).,,26,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Power GeneratorINSTALLATIONCONFIGURATIONS",,"Power Generatorinstallation configurationsas defined in CPWD GeneralSpecifications for Electricalworks - Part VII (DG Set)",,"Fixed (Power Generators are permanently installed)"",Transportable (Skid Mounted) (Power Generators arenot permanently installed)"", Mobile (Trailer mounted)(Power Generators having an integral chassis fittedwith wheels) """
+"OUTPUT CAPACITYRATING/ PHASE",,"Nominal Rated Capacity(kVA)",,400
+"",,"No of Phase (Single Phase-3-5kVA) (Single Phase or ThreePhase-5 & 7-5, 10,15, 20, 25,30 & 40 kVA) (Three Phase-50to 900 kVA)",,Three Phase
+ENGINE,,Rated Engine Power (kWm),,"100 % of the required powered at STP(StandardTemperature Pressure) i.e equal to (Nominal RatedCapacity (KVA) of power generator + Any Auxilarypower Consumption by the Power generator) x Powerfactor(0.8) / Alternator efficience, 110 % of therequired powered at STP(Standard TemperaturePressure) i.e equal to (Nominal Rated Capacity (KVA)of power generator Any Auxilary power Consumptionby the Power generator) x Power factor(0.8) /Alternator efficience Or higher"
+"",,Type of Engine cooling,,Liquid Cooled
+"",,Type of governer,,Electronic Or higher
+"",,Rated RPM of Engine (RPM),,1500
+"",,Fuel,,High Speed Diesel (HSD)
+ALTERNATOR,,Voltage Regulation Grade,,"VG 1, VG 2, VG 3 Or higher"
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+CONTROL PANEL,,Control Panel,,AMF Control Panel
+BATTERY,,No of batteries,,2
+TRAILER,,Trailer,,"Yes, NA for Fixed/Skid Mounted Power Generator"
+"",,Pay load of the Trailer,,"0, 500, 1000, 2000 Or higher"
+"SCOPE OFINSTALLATION",,Installation,,"with installation - inclusive in the scope of supply Orhigher"
+"WARRANTY/SERVICES",,"Warranty on Completepower genertor/DG Set",,"24, 36 Or higher"
+"",,"Number of preventivemaintenance visits offeredin an year during warrantyperiod (Supply of allconsumables is the buyer'sresponsibilty)*",,"1, 2, 3"
+TEST REPORTS,,"Test report Available for(Test/approval)",,"Type Approval Certificate for the specified rating ofthe Power Generator from any of the designatedagency authorized by CPCB, COP Certificate forengine, Type test report and Endurance test reportfor Engine as per IS: 10001 latest / IS: 10002 latest,Type test report for Alternator as per IS:13364 (Part-1) latest / IS:13364 (Part-2) latest to prove conformityto the specifications"
+"Specification ParameterBid Requirement (Allowed Values)NameBrand approved in Irrigation &W.R Department Haryana:-Brand approved in Irrigation & W.R Department Haryana:- Mahindra , Tata,Mahindra , Tata, ashok Leyland,ashok Leyland, Koel Green (Kirloskar), Cummins only will be entertain.Koel Green (Kirloskar),Cummins","Specification ParameterName",,Bid Requirement (Allowed Values)
+"Brand approved in Irrigation &W.R Department Haryana:-Mahindra , Tata, ashok Leyland,Koel Green (Kirloskar),Cummins",,"Brand approved in Irrigation & W.R Department Haryana:- Mahindra , Tata,ashok Leyland, Koel Green (Kirloskar), Cummins only will be entertain.",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1Rahul Kumar134109,irrigation department145",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Rahul Kumar,,"134109,irrigation department",,1,,45,

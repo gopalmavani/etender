@@ -1,0 +1,65 @@
+RA Details,,,
+RA Technical End Date/Time,,06-08-2021 18:00:00,
+RA Opening Date/Time,,06-08-2021 18:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Statistics And Programme Implementation,
+Department Name,,"Field Operations Division (fod), Headquarters, Delhi",
+Organisation Name,,National Sample Survey Office (nsso),
+Office Name,,New Delhi,
+Total Quantity,,32,
+Item Category,,Tablet Computers,
+Average Turnover (Last 3 Years),,4 Lakh (s),
+OEM Average Turnover (Last 3 Years),,44 Lakh (s),
+Experience Criteria,,3 Year (s),
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"Experience Criteria,Past Performance,Bidder Turnover,OEMAuthorization Certificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+"Time allowed for Technical Clarificationsduring technical evaluation",,10 Days,
+Past Performance,,30 %,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+Brand Type,Registered Brand
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"Display Size (Minimum)(Inch)","10, 10.5, 11, 11.5, 12, 12.5, 12.9, 10.2 Or higher",
+Display Resolution (Pixels),"1920 x 1080, 2048 x 1536, 1800 x 1200, 2560 x 1600,2732 x 2048, 2388 x 1668, 2224 x 1668, 2160vx 1620Or higher",
+Brightness (Minimum) (Nits),"390, 400, 412, 450, 500, 600 Or higher",
+Specification,Specification Name,Bid Requirement (Allowed Values)
+Operating System,Operating System Details,"Android Oreo 8.0 or Higher, iOS 12.0 or Higher,Android Pie 9.0 or Higher, Android 10.0 or Higher Orhigher"
+Connectivity,Connectivity Type,Wifi + Cellular Or higher
+"",Cellular Data Support,"3G, 4G / LTE, VoLTE, GSM/Edge, NA Or higher"
+"",GPS,Yes Or higher
+"",AGPS,"Yes, No Or higher"
+"","Number of GSM SIMAvailable","0, 1, 2 Or higher"
+"",Cellular Voice Calling,"Yes, No"
+"",Wi-Fi Connectivity Type,"802.11a/b/g/n, 802.11 ac Or higher"
+"","Bluetooth Connectivity(Minimum Version)","4, 4.1, 4.2, 5 Or higher"
+Processor,"Processor Speed (Minimum)(GHz)","1.51 to 1.8, 1.81 to 1.99, 2.0 & higher Or higher"
+"",Processor Core (Number),"2, 4, 6, 8, NA for iPad Or higher"
+Memory,RAM Type,"LPDDR3, LPDDR4, NA for iPad Or higher"
+"",RAM Size (GB),"3, 4, 8 Or higher"
+Storage,"Internal Storage Capacity(GB)","64, 128, 256, 512, 1024 Or higher"
+"",Micro SD Card Support,Yes Or higher
+"","Storage upgradable upto(Through Micro SD Card) (GB)",128 or higher Or higher
+Camera,Rear Camera (Mega Pixel),"5, 8, 12, 13 Or higher"
+"",Front Camera (Mega Pixel),"2, 5, 7, 8 Or higher"
+General,"Battery Capacity (minimum)(mAH)","6001 - 7000, 7001 & higher Or higher"
+"","Weight including Battery (max)(Grams)","250, 300, 350, 400, 450, 500, 550 Or lower"
+"AdditionalAccessories (OEM /Third Party)",OTG Cable,"Yes, No Or higher"
+"",Docking Station,"Yes, No Or higher"
+"",Compatible Carry Case,"Yes, No Or higher"
+"",Compatible Smart Cover,"Yes, No Or higher"
+"",Compatible Active Stylus,"Yes, No Or higher"
+"",Ear Phone,"Yes, No Or higher"
+Miscellaneous,Audio Port,"3.5mm Jack, Type C, Lightning Or higher"
+"Availability of Mobile DeviceManagement (MDM) Support","Yes, No",
+"Mobile Device Management(MDM) License and Support(Year)","0, 1, 2, 3 Or higher",
+"Mobile Device ManagementHosting (MDM)","Cloud Based, On Premise, NA",
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"","Device Enrolment Program(DEP) License and Support(Year)","Yes, No, NA"
+Warranty,"Availabiliy of Service Centrefor Warranty Obligation","State Level, District Level, None Or higher"
+"OEM Warranty Period forBattery (Year)","1, 2 Or higher",
+"OEM Warranty Period forTablet (Year)","1, 2, 3 Or higher",
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days
+1,Vishakha Sharma,"110032,NATIONAL STATISTICALOFFICE, FIELD OPERATIONSDIVISION, HEADQUARTERS,SANKHYIKI BHAWAN, CBDSHAHDARA",32,15

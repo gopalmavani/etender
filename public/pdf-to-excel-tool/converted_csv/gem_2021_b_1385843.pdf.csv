@@ -1,0 +1,58 @@
+Bid Details,
+Bid End Date/Time,07-08-2021 17:00:00
+Bid Opening Date/Time,07-08-2021 17:30:00
+Bid Life Cycle (From Publish Date),90 (Days)
+Bid Offer Validity (From End Date),70 (Days)
+Ministry/State Name,Ministry Of Railways
+Department Name,Na
+Organisation Name,N/a
+Office Name,Eastern Railway
+Total Quantity,1
+Item Category,"Forklifts-IS 6765-2003, IS 10517, IS 5154, IS 10000, IS10002,"
+"MSE Exemption for Years of Experience andTurnover",No
+"Startup Exemption for Years of Experienceand Turnover",No
+Document required from seller,"Certificate (Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer"
+Bid to RA enabled,No
+"Time allowed for Technical Clarificationsduring technical evaluation",3 Days
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",Yes
+"Inspection to be carried out by Buyers ownempanelled agency",Yes
+Type Of Inspection,Pre Dispatch
+"Name of the Empanelled InspectionAgency/ Authority",RITES
+Quality Assurance Plan document,1627298042.pdf
+Estimated Bid Value,1954960
+Evaluation Method,Total value wise evaluation
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Type of Motor,,NA for engine operated
+"",Engine Capacity (BHP@rpm),,"73, 74"
+"",Rated RPM,,2200
+"",Engine Torque Nm@rpm,,Any applicable numeric value
+"",No of Cylinders,,4
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Engine Cooling System,,Liquid Cooled
+"",,ForkLift Gradeability (%),,Any applicable numeric value
+"",,"AC Traction Motor Capacity,(Kw)",,NA
+"",,"Capacity for AC MotorPump, (Kw)",,NA
+"",,AC/DC motor rating,,NA for engine operated
+"",,DC motor operating voltge,,NA for engine operated & AC motor
+"",,"Standard load centredistance",,DH/DV for Forklift for 5000 &6000 kg 600/600mm
+"",,Brake System,,Hydraulic
+"",,Lifting Stages,,3 Or higher
+"",,Lift Height (metres),,4 to 4.5 meters
+"",,Tyre Type,,Solid
+"",,Mass of Truck (Kg),,Any applicable numeric value
+"",,"Instrument Panel for DieselOperated Forklift",,"Fitted with Engine oil pressure gauge, Coolanttemperature gauge, engine hour-meter & fuel levelgauge and switch key for starting"
+"",,"Alternator shall be provided forcharging the battery in case ofdiesel engine operated fork lift",,yes
+"",,"Suitable battery charger fortraction batteries",,NA for Diesel Engine operated
+GENERIC,,Operating Mode,,Diesel Engine Operated
+"",,"Rated Capacity at StandardLift Height and Load Centre(Kg)",,5000
+"",,Transmission,,automatic
+"",,Type of Drive,,double
+"",,"Rating of Traction Battery(KW/H)",,NA for Diesel Engine operated
+CERTIFICATION,,ISI Marking,,"Yes, No"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer713301,DRM Building, Eastern1Sunny Bishwajeet160Railway, Asansol",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Sunny Bishwajeet,,"713301,DRM Building, EasternRailway, Asansol",,1,,60,

@@ -1,0 +1,40 @@
+Bid Details,,,
+Bid End Date/Time,,10-08-2021 09:00:00,
+Bid Opening Date/Time,,10-08-2021 09:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Power,
+Department Name,,Bhakra Beas Managemet Board,
+Organisation Name,,Bhakra Beas Management Board,
+Office Name,,"Bhakra Beas Management Board, Chandigarh",
+Total Quantity,,60,
+Item Category,,Switch Fuse Unit,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERIC,,"Whether product ISI Marked(Select 2 for ISI Markedproduct, Select 1 for NonISI Marked product",,2 Or higher
+"",,Switch Fue Unit contains,,"Enclosure with door, Fuse units- Rewirable, Terminals,Contactors, Operating handle"
+"",,Utilisation category,,AC-22A
+"",,Warranty (in Years),,1
+RATINGS,,"Rated operational Voltage(in Volt)",,240
+"",Rated frequency (in Hz),,50,
+"",Number of Pole,,2 Pole,
+"",Current rating (in Ampere),,32,
+"","Rated Insulation voltge (inVolt)",,440,
+"","Rated impulse withstandvoltage (in KV)",,3,
+"","Rated short circuit brekingcapacity, Minimum (in KA,r.m.s.)",,3,
+"",Degree of protection,,IP54,
+"","Mechanical Endurance,Minimum (in No.of cycles)",,10000,
+"","Fixing accessories formounting of enclolsures",,No,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+FUSE UNIT,,Type of fuse,,Rewirable Porcelain Fuse units
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer140124,Bhakra Beas1Ashok Singh PanwarManagement Board, Irrigation6056Wing, NANGAL TOWNSHIP",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Ashok Singh Panwar,,"140124,Bhakra BeasManagement Board, IrrigationWing, NANGAL TOWNSHIP",,60,,56,

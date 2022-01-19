@@ -1,0 +1,35 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 15:00:00,
+Bid Opening Date/Time,,05-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,12,
+Item Category,,Desktop Computers,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,2.00,
+"",Duration of ePBG required (Months).,,38,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Processor Make,,Intel
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Processor Description,,"Intel Core i5, Intel Core i7, Intel Core i9 Or higher"
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional
+Memory,,RAM Size (GB),,"8, 16, 32, 64, 128 Or higher"
+Storage,,Total HDD Capacity (GB),,"1000, 1500, 2000, 2500, 3000, 4000 Or higher"
+Monitor,,"LED Backlit Monitor Size(INCHES)",,"19.5, 21.5, 22, 23, 24, 27, 20, 23.8, 32 Or higher"
+Warranty,,"On Site OEM Warranty(Year)",,"3, 5, 4 Or higher"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************NEW DELHI1215",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********NEW DELHI,,12,,15,

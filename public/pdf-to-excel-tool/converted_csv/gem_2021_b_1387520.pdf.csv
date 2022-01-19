@@ -1,0 +1,99 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 13:00:00,
+Bid Opening Date/Time,,06-08-2021 13:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Space,
+Organisation Name,,Isro,
+Office Name,,Isro Inertial Systems Unit,
+Total Quantity,,7,
+Item Category,,"Network Attached Storage (NAS) Device , Hard disk drives",
+MSE Exemption for Years Of Experience,,Yes,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+Primary product category,,Network Attached Storage (NAS) Device,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Number of Nodes (Number),,3
+"","Speed of Front end Ports(Gbps)",,25
+"","Number of Node FailureTolerance",,3 Nodes
+"",Usable Capacity,,60.0
+"","Total no of drive slotpopulated with SAS",,0
+"","Total no of drive slotpopulated with NL-SAS/SATA",,2
+"",Scalability of Nodes,,1024
+"","Operating System, FileSystem and correspondinghardware from a single OEM",,Yes
+"","Total no of drive slotpopulated with NVMe",,0
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Per Node Cache/MemoryOffered",,256.0
+"",,"Scale Out File StorageEssential Specifications",,Global Single Namespace
+"",,"Number of Drive SlotsPopulated with drives ofdifferent type in theStorage System (total DriveCount across all nodes)",,1
+"",,Protocol Support,,"NFS, SMB, HDFS, S3, POSIX, Swift"
+"",,"Number of Front end Portsper node",,1
+"",,"Number of Processoroffered per Node",,1
+"",,"File System Performance inGB/sec",,256
+"",,"Total no of drive slotpopulated with SSD / Flash",,2
+"",,"Number of Sockets offeredper Node",,2
+"",,"Number of Cores perSockets",,12
+"",,"Redundant InterconnectSwitches",,Yes
+"",,"Provide Software or HardwareLoad Balancer to auto balanceclient connections acrossStorage controllers",,Yes
+"",,"Capability to automaticallyLoad Balance existing Dataacross controllers post additionof Controllers/Nodes",,Yes
+"",,Type of Data Reduction,,S/W Level
+"",,"Single Filesystem scalable to50PB",,Yes
+Storage Tiering,,"Automated Storage Tieringfeature License Included",,Yes
+"","Automated Storage Tieringacross SSD, SAS, NL-SAS/SATA Tiers",,Yes,
+"",Different Type of File Support,,"Unstructured, Structured, Semistructured",
+"","High performance NoSQLdatabase management systemLicense included",,Yes,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"High performance NoSQLdatabase management systemSupported",,Yes
+"Data ProtectionFeatures",,"Point in time Snapshot Featurelicense included",,Yes
+"",,"multiple name nodes in highavailability",,Yes
+"",,"Multi-tenancy feature such thatmultiple workloads",,Yes
+"",,"automated data placement andrack awareness to avoid entirerack failure",,Yes
+"",,"Creating multiple copies of thesame data",,Yes
+"",,"Point in time Snapshot FeatureSupported",,Yes
+"ContainerIntegration",,"CSI Drivers for ContainerPlatform",,Yes
+Files Supported,,Number of files Supported,,No Software Limit
+"Remote ReplicationFeatures",,Many to One,,Yes
+"",,"Synchronous ReplicationSupport",,Yes
+"",,"Storage Cluster NameSpace/Federation Supported",,Yes
+"",,Remote Replication,,Yes
+"",,"Synchronous Replicationlicense included",,Yes
+"",,Many to Many,,Yes
+Cloud Integration,,"Storage shall be extensible to acommon data fabric from bothon premise to cloud with aglobal namespace.",,Yes
+"Client LoadingBalancing",,"Storage System should havecapability to load balance clientconnectivity across thesemultiple controllers so that allclients get distributed acrossall existing controllers/nodes toavoid any performancehotspot.",,Yes
+"",On Site OEM Warranty,,5 Years Standard,
+"","Other InternationalCertification",,Yes,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Security,,"Data at Rest Encryption, Access control list fordefining who can use the array and what action canbe performed by users or groups, Support integrationwith Active Directory and LDAP"
+"","Offered with datasetmanagement and storagemonitoring software. Softwareshould have ability to index,identify, classify and move databetween offered storage toother OEM storage systems andthe cloud (public or private)",,Yes,
+"Consignee/ReportiDelivery Schedule (In number of daysS.No.Addressng Officerfrom contract start days)Delivery to695013,ISRO Inertial SystemsQuantitDelivery tobe1Baby P PUnit, Vattiyoorkavu PO,ystart aftercompletedThiruvananthapuramby1015",S.No.,,"Consignee/Reporting Officer",,Address,,"Delivery Schedule (In number of daysfrom contract start days)"
+1,,Baby P P,,"695013,ISRO Inertial SystemsUnit, Vattiyoorkavu PO,Thiruvananthapuram",,"Delivery toQuantitDelivery tobeystart aftercompletedby1015",
+"","Quantity",,"Delivery tostart after",,"Delivery tobecompletedby",,
+1,,0,,15,,,
+"Consignee/ReportiDelivery Schedule (In number of daysS.No.Addressng Officerfrom contract start days)Delivery to695013,ISRO Inertial SystemsQuantitDelivery tobe1Baby P PUnit, Vattiyoorkavu PO,ystart aftercompletedThiruvananthapuramby1015",,,,,,
+"Delivery toQuantitDelivery tobeystart aftercompletedby1015",,,,,,
+"","Quantity",,"Delivery tostart after",,"Delivery tobecompletedby",
+1,,0,,15,,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)SpecificationCapacity of Drive (GB)8000Type of DriveSASInterface TypeSATAPerformance (Sequential write)138(Mb/p)Warranty (Years)3",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Specification,,Capacity of Drive (GB),,8000,
+"",Type of Drive,,SAS,,
+"",Interface Type,,SATA,,
+"","Performance (Sequential write)(Mb/p)",,138,,
+"",Warranty (Years),,3,,
+"Consignee/ReportiDelivery Schedule (In number of daysS.No.Addressng Officerfrom contract start days)Delivery to695013,ISRO Inertial SystemsQuantitDelivery tobe1Baby P PUnit, Vattiyoorkavu PO,ystart aftercompletedThiruvananthapuramby6015",,,,,,
+"Delivery toQuantitDelivery tobeystart aftercompletedby6015",,,,,,
+"","Quantity",,"Delivery tostart after",,"Delivery tobecompletedby",
+6,,0,,15,,
+"Consignee/ReportiDelivery Schedule (In number of daysS.No.Addressng Officerfrom contract start days)Delivery to695013,ISRO Inertial SystemsQuantitDelivery tobe1Baby P PUnit, Vattiyoorkavu PO,ystart aftercompletedThiruvananthapuramby6015",S.No.,,"Consignee/Reporting Officer",,Address,,"Delivery Schedule (In number of daysfrom contract start days)"
+1,,Baby P P,,"695013,ISRO Inertial SystemsUnit, Vattiyoorkavu PO,Thiruvananthapuram",,"Delivery toQuantitDelivery tobeystart aftercompletedby6015",
+"","Quantity",,"Delivery tostart after",,"Delivery tobecompletedby",,
+6,,0,,15,,,

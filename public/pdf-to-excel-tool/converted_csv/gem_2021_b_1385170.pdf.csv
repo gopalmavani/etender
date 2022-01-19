@@ -1,0 +1,35 @@
+Bid Details,,,
+Bid End Date/Time,,16-08-2021 15:00:00,
+Bid Opening Date/Time,,16-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,65 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Space,
+Organisation Name,,Isro,
+Office Name,,Liquid Propulsion Systems Centre,
+Total Quantity,,1,
+Item Category,,hand held terminal,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)SpecificationDisplay Size (inch)? 5.5Processor Speed (GHz)1.3Operating SystemAndroid 5.1 or higherRAM (MB)1024Inbuilt Storage (Flash4 or higherMemory)GBGPS ConnectivityAvailableGSM SIM SlotAvailableIP Rating (Minimum 54 or65higher)On Site OEM Warranty3(Years)",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Specification,,Display Size (inch),,? 5.5,
+"",Processor Speed (GHz),,1.3,,
+"",Operating System,,Android 5.1 or higher,,
+"",RAM (MB),,1024,,
+"","Inbuilt Storage (FlashMemory)GB",,4 or higher,,
+"",GPS Connectivity,,Available,,
+"",GSM SIM Slot,,Available,,
+"","IP Rating (Minimum 54 orhigher)",,65,,
+"","On Site OEM Warranty(Years)",,3,,
+"Specification ParameterBid Requirement (Allowed Values)NameAndroid hand held terminal withISO 1444 type A/B. Mifarein-built smart card reader","Specification ParameterName",,Bid Requirement (Allowed Values)
+"Android hand held terminal within-built smart card reader",,ISO 1444 type A/B. Mifare,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer695547,INDIAN SPACERESEARCH ORGANIZATION,1PHILIPOSE MC115DEPARTMENT OF SPACE,VALIAMALA - 695547",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,PHILIPOSE MC,,"695547,INDIAN SPACERESEARCH ORGANIZATION,DEPARTMENT OF SPACE,VALIAMALA - 695547",,1,,15,

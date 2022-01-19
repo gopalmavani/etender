@@ -1,0 +1,46 @@
+Bid Details,,,
+Bid End Date/Time,,07-08-2021 16:00:00,
+Bid Opening Date/Time,,07-08-2021 16:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Chandigarh,
+Department Name,,Education Department Chandigarh,
+Organisation Name,,Punjab Engineering College (pec),
+Office Name,,Sector 12,
+Total Quantity,,2,
+Item Category,,magnetic stirrers,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+CERTIFICATIONS,,"Product is CE certified(Seller to furnishsupporting document toBuyer on demand)",,Yes
+"CONFIGURATIONAND FEATURES",,Number of stirring Positions,,1
+"",,Calibration,,Automatic Calibration
+"",,Type of Drive Motor,,Motorless magnetic coil type
+"",,"Display Option/Output Readout Option",,Digital
+"",,Magnetic stirrer is:,,"with a hot plate or some other means for heating theliquid"
+"",,Mangnetic stirrer Type,,variable speed
+"",,Controler type,,Electronicaly controlled
+"",,"IP rating or Ingressprotection rating",,21.0 - 68.0 Or higher
+"",,Programmable,,No
+"",,"Speed Control Accuracy ofset speed (+/-) (RPM)",,0.0 - 4.0 Or lower
+"",,"Maximum Stirring capacityper position",,2000.0
+"",,Top plate Material,,Ceramic
+"",,User Interface,,Digital Front Panel
+"",,Last run memory,,No
+WARRANTY,,Warranty on Machine,,"3, 5 Or higher"
+MISC,,"In built-in multi-step safetysystem to continuouslymonitor device operationand protect against damageshould the operationexceed the pre-determinedparameters:",,"Unsafe Hotplate Temperature – Temperatures exceedsafety Parameters, Probe Failure – Probe Break OrBecome Disconnected, Vessel Breakage – Should TheVessel Have A Crack And The Solution Begins ToLeak, provision for preventing liquid from damagingequipment"
+SPEED,,Speed Mode,,Variable Speed
+"",External Dimension: Depth,,1000.0,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Body Material,,Stainless Steel
+TOP PLATE,,Top plate Finish,,Ceramic coated
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer160012,Punjab EngineeringCollege (Deemed to be1Sanjeev Kumar230University), Sector 12Chandigarh",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Sanjeev Kumar,,"160012,Punjab EngineeringCollege (Deemed to beUniversity), Sector 12Chandigarh",,2,,30,

@@ -1,0 +1,55 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 11:00:00,
+Bid Opening Date/Time,,06-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,80 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Atomic Energy,
+Organisation Name,,Uranium Corporation Of India Limited,
+Office Name,,Kadapa,
+Total Quantity,,1,
+Item Category,,Rotary Shaker,
+Years of Past Experience required,,1 Year (s),
+MSE Exemption for Years Of Experience,,Yes,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Mounting,,Bench Top
+"",Controller,,Microprocessor
+"",Type of motor,,Brushless DC
+"","Stepless frequency speedcontrol",,Yes
+"",Speed range in RPM,,20 to 300
+"",Shaking amplitude in mm,,20
+"","Compact counter balancedrive mechanism to ensurestability",,Yes
+"","Platform size in length xwidth in mm x mm",,12 x 12
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Flask sizes which can beaccommodated in plat formin ml",,"50, 100, 250, 500, 1000"
+"",,Display,,LCD
+"",,"Auto restart after powerresumption",,Yes
+"",,Maximum volume in liters,,18
+"",,Power supply,,230 v plus minus 10% 50 hz
+"",,"No of 50 ml clamps suppliedwith machine",,5
+"",,"No of 100 ml clampssupplied with machine",,5
+"",,"No of 250 l clamps suppliedwith machine",,5
+"",,"No of 500 ml clampssupplied with machine",,5
+"",,"No of 1000 ml clampssupplied with machine",,5
+"",,Warranty in years,,1
+Reports,,"Availability of test reportfrom govt/ NABL/ILACaccredited lab covering allparameters",,No
+"","Copies of all certificationsand reports to be providedto buyer on demand at timeof supplies",,"NA ,Incase test reports not available",
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+Material of Body,,MS with powder coating
+"compact counter balance drivemechanism too ensure stability",,yes
+"motor protection in case ofoverload",,"yes(LED Light flash,auto stop)"
+"weight of rotary shaker in kg &Maximum volume in Liter",,95 & 18
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+"Dimension of Rotary shaker &Shaking amplitude in mm",,"370 X 420 X 100 mm , & 20 mm"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer516349,CHIEF CONTROLLER OFPURCHASE, URANIUMCORPORATION OF INDIA1Satish Chandra Bitra130LIMITED, MC PALLE (POST),VEMULA (MANDAL), YSRKADAPA DISTRICT, AP",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Satish Chandra Bitra,,"516349,CHIEF CONTROLLER OFPURCHASE, URANIUMCORPORATION OF INDIALIMITED, MC PALLE (POST),VEMULA (MANDAL), YSRKADAPA DISTRICT, AP",,1,,30,

@@ -1,0 +1,69 @@
+RA Details,,,
+RA Technical End Date/Time,,05-08-2021 16:00:00,
+RA Opening Date/Time,,05-08-2021 16:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,Desktop Computers,
+Experience Criteria,,3 Year (s),
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"Experience Criteria,Past Performance,Bidder Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+Past Performance,,10 %,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated RA Value,,112444,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+Brand Type,Registered Brand
+Specification,Specification Name,Bid Requirement (Allowed Values)
+Motherboard,Chipset Series,Intel Q Series Or higher
+Chipset Number,Intel Q 470 Or higher,
+"Expansion Slots (PCIe x 16)(Number)","1, 2, 3 Or higher",
+Processor Make,Intel,
+Processor Generation,10.0 Or higher,
+Specification,Specification Name,Bid Requirement (Allowed Values)
+Processor,"Number of Cores perProcessor","10, 12 Or higher"
+"","Processor Base Frequency(GHz)","3.7, 3.8, 3.9, 4, 4.1, 4.2, 4.3 Or higher"
+"",Processor Description,Intel Core i9 Or higher
+"",Processor Number,Intel Core i9 10900K Or higher
+"",Out of Band Management,"Intel vPro, AMD DASH Or higher"
+"",Cache (MB),20.0 - 96.0 Or higher
+Graphics,Graphics Type,Dedicated/Discrete
+"","Size of Memory in Case ofDedicated Graphic Card (GB)","2, 3, 4, 6, 8 Or higher"
+Operating System,"Operating System (FactoryPre-Loaded)",Windows 10 Professional
+Memory,RAM Size (GB),"32, 64, 128 Or higher"
+"","RAM Expandability up to(using spare DIMM Slots inGB)",128 Or higher
+Storage,"Type of Drives used topopulate the Internal Bays","HDD, SSD"
+"",Total HDD Capacity (GB),"2000, 2500, 3000, 4000 Or higher"
+"",Total SSD Capacity (GB),"512, 768, 1024, 2048, 4096 Or higher"
+"","Total SSHD Capacity inaddition to 8 GB Flash (GB)","500, 1000, 2000, 0 Or higher"
+"",Optane Memory (GB),"8, 16, 32, 0, 64 Or higher"
+Cabinet,Cabinet Form Factor,Tower (13.1 to 26 Litres)
+"",Optical Drive,DVD R/W
+Monitor,Monitor Technology,IPS Or higher
+"","LED Backlit Monitor Size(INCHES)","24, 27, 23.8, 32 Or higher"
+"",Monitor Resolution (PIXELS),"1920x1080, 1920 x 1200, 3200x1800, 3840 x 2160,2560 x 1440 Or higher"
+"","If Yes, Resolution of Webcam","HD, FHD, NA Or higher"
+"","If Yes, Number of Speakersavailable","0, 1, 2 Or higher"
+Input Devices,Mouse Connectivity,"Wired, Wireless Or higher"
+"",Keyboard Connectivity,"Wired, Wireless Or higher"
+Warranty,"On Site OEM Warranty(Year)","3, 5, 4 Or higher"
+"","Specification ParameterName",,Bid Requirement (Allowed Values)
+"","Recovery Image Media & OSCertification",,CD form OEM
+"",Type of RAM & speed,,"DDR4, Speed 2666, DIMM Slots -04 & DIMM Slots populated - 02"
+"",Storage,,"Internal Bays Available -03, 02 point 5 inches Bays -02, 3 point 5 inchesinternal Bays -01, 02 point 5 inches internal Bays populated -01, 03 point 5inches internal Bays populated -01, Type of Drives uses to populated theinternal Bays - HDD, SSD, Number of internal Bays populated with HDD - 01,Number of internal bays populated with SSD -01 & capacity of each HDD(GB) - 2000@5400 rpm"
+"",Connectivity,,"Number of Ethernet Ports - 01 & Type of Ethernet Ports - 10/100/1000onboard Integrated Gigabit Port"
+"",Ports,,"USB version 2 point o ports - 04, USB version 3 point 0/ point 1, Gen 01 - 02,USB version 3 point 1, Gen 2 ports -01, Number of USB Type C Ports - 01, DPPorts - 01, VGA Ports -01 and HDMI Ports - 01"
+"","Recovery Image Media & OSCertification",,CD form OEM
+"",Type of RAM & speed,,"DDR4, Speed 2666, DIMM Slots -04 & DIMM Slots populated - 02"
+"",Storage,,"Internal Bays Available -03, 02 point 5 inches Bays -02, 3 point 5 inchesinternal Bays -01, 02 point 5 inches internal Bays populated -01, 03 point 5inches internal Bays populated -01, Type of Drives uses to populated theinternal Bays - HDD, SSD, Number of internal Bays populated with HDD - 01,Number of internal bays populated with SSD -01 & capacity of each HDD(GB) - 2000@5400 rpm"
+"",Connectivity,,"Number of Ethernet Ports - 01 & Type of Ethernet Ports - 10/100/1000onboard Integrated Gigabit Port"
+"",Ports,,"USB version 2 point o ports - 04, USB version 3 point 0/ point 1, Gen 01 - 02,USB version 3 point 1, Gen 2 ports -01, Number of USB Type C Ports - 01, DPPorts - 01, VGA Ports -01 and HDMI Ports - 01"
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days,
+1,***********,***********ALLAHABAD,1,15,

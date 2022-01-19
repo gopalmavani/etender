@@ -1,0 +1,120 @@
+Bid Details,,,
+Bid End Date/Time,,30-07-2021 15:00:00,
+Bid Opening Date/Time,,30-07-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Power,
+Department Name,,Power Grid Corporation Of India Limited,
+Organisation Name,,Power Grid Corporation Of India Limited,
+Office Name,,Corporate Office Gurgaon,
+Total Quantity,,76,
+Item Category,,"All in One PC , Desktop Computers",
+"Minimum Average Annual Turnover of theBidder",,26 Lakh (s),
+Years of Past Experience required,,2 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,Bidder Turnover,OEMAuthorization Certificate,Additional Doc 1 (Requested inATC),Compliance of BoQ specification and supportingdocument*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,60 %,
+Bid to RA enabled,,No,
+Primary product category,,Desktop Computers,
+"Time allowed for Technical Clarificationsduring technical evaluation",,7 Days,
+Estimated Bid Value,,5299772,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+ePBG Percentage(%),,3.00,,
+Duration of ePBG required (Months).,,62,,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Motherboard,,Chipset Series,,"Intel Q Series, Intel Z Series Or higher"
+"",,,Chipset Number,,Intel Q470 Or higher
+"",Processor,,Processor Make,,Intel
+"",,,Processor Generation,,10.0 Or higher
+"",,,"Number of Cores perProcessor",,"6, 8, 10 Or higher"
+"",,,Processor Description,,"Intel Core i5, Intel Core i7, Intel Core i9 Or higher"
+"",,,Processor Number,,"Intel Core i5 10500, Intel Core i5 10600, Intel Core i710700, Intel Core i7 10700K, Intel Core i9 10900, IntelCore i9 10900K, 10th-generation Intel Core i7, TurboBoost up to 5.0GHz Or higher"
+"",Graphics,,"Size of Memory in Case ofDedicated Graphic Card(GB)",,"0, 1, 2, 3, 4, 8 Or higher"
+"",Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional
+"",RAM Size (GB),,"8, 16, 32, 64 Or higher",,
+"","RAM Expandability up to(using spare DIMM Slots inGB)",,"8, 16, 32, 64, 0 Or higher",,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Storage,,"Type of Drives used topopulate the Internal Bays",,"HDD, SSD"
+"",,Total HDD Capacity (GB),,"500, 1000, 1500, 2000, 2500, 3000 Or higher"
+"",,Total SSD Capacity (GB),,"256, 384, 512, 768, 1024, 2048, 4096 Or higher"
+Display,,Display Size (INCHES),,"23.6, 23.8, 27, 34, 37.5 Or higher"
+"",,Display Type,,"Non Touch, Touch Or higher"
+"",,Panel Technology,,"IPS, WVA Or higher"
+"",,Display Resolution (PIXELS),,"1920x1080, 1920 x 1200, 3200x1800, 3840 x 2160,3440 x 1440, 4096x2304, 5120x2880 Or higher"
+"",,"Availability of Webcamintegrated with Display",,Yes
+"",,"If yes, Resolution of Webcam",,"FHD, NA Or higher"
+"",,"Availability of Speakersintegrated with Display",,Yes
+"",,"If Yes, Number of Speakersavailable",,2 Or higher
+Warranty,,"On Site OEM Warranty(Year)",,5 Or higher
+"Specification ParameterBid Requirement (Allowed Values)NameMotherboard- Processor - Inaddition to main specification,AMD RYZEN 5 3600 3.6GHz 6 cores , betterfollowing Ryzen processor isacceptableMin 4 No. of USB Ports (at leasttwo usb ports with 3.0) , AudioYESport for microphone &headphoneStandard OEM Keyboard &mouse without any additionalYEScostResolution of WebcamFHD, HIGHERGraphics cardIntegrated","Specification ParameterName",,Bid Requirement (Allowed Values)
+"Motherboard- Processor - Inaddition to main specification,following Ryzen processor isacceptable",,"AMD RYZEN 5 3600 3.6GHz 6 cores , better",
+"Min 4 No. of USB Ports (at leasttwo usb ports with 3.0) , Audioport for microphone &headphone",,YES,
+"Standard OEM Keyboard &mouse without any additionalcost",,YES,
+Resolution of Webcam,,"FHD, HIGHER",
+Graphics card,,Integrated,
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Mohan Kumar Nair,,"462016,Powergrid Corporationof India ltd. E-3/201, AreraColony, Near Habib GanjStation, Bhopal-462016",,5,,45
+2,,"Dileep KumarRathore",,"390008,Powergrid Corporationof India Ltd. WR2HQ PLOTNO.54, ADJACENT TO PRIYAREVATI RESORT OPP AMBEVIDYALAYA, SAMA-SAVLI ROADVADODARA",,17,,45
+3,,Arpit Kumar Jain,,"385575,POWERGRIDCORPORATION OF INDIALIMITED, 400/220 kV,Banaskantha (Radhanesda)(GIS) new Substation PowerGrid Corporation Of IndiaLimited, Survey No. 196,Village-Khimanavas, TalukaVav, Dist.-Banaskantha,Gujarat-385575",,6,,45
+4,,Chander Singh,,"382305,Power Grid Corporationof India, 400/220kC Sub-station, Vasna-Rathod Road,Near Ganeshpura Village,Dehgam, Gujrat – 382305",,2,,45
+5,,"Neeraj KumarMishra",,"475001,Powergrid Corporationof India Limited, Gwalior765/400/220 kV Sub-station,Jhansi Higway, Vill-Adupura, PO-Rora, Dist-Gwalior, M.P. PIN: 475001",,2,,45
+6,,"Kumara SwamyJadda",,"461111,POWER GRIDCORPORATION OF INDIALIMITED, 400/220 KV Sub-station, Betul Road , Pathrota,Itarsi-,Dist:Hoshangabad,Madhya Pradesh-461111",,1,,45
+7,,Devendra Pathak,,"382427,Power Grid CorporationOf India Limited, 400/220 KVS/S, Pirana, Sardar Patel RingRoad, Near Gaay BachhadaCircle, Kamod Ahmedabad -382427",,1,,45
+8,,"Mahendra PratapSingh Rathore",,"454116,POWER GRIDCORPORATION OF INDIA LTD.,RAJGARH SUBSTATION,VILLAGE- DHULET, JHABUAROAD, RAJGARH, DIST-DHAR,Madhya Pradesh-454116",,2,,45
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+9,,Manish Kumar Saw,,"465333,""Power GridCorporation of India limited,Shujalpur 400/200 KV S/SShujalpur-Pachore Road Nr.Village – Chittoda District –Sajapur (M.P) -465333",,2,,45
+10,,"Narasimha RaoModugula",,"396191,POWER GRIDCORPORATION OF INDIALIMITED 400kV /220KVSubstation, Village-Ambethi,Tal-Kaparada, Via-Vapi, Dist :Valsad, Gujrat-396191",,5,,45
+11,,Rakesh Singh,,"391760,POWER GRIDCORPORATION OF INDIALIMITED 765/400/220Kv Sub-station, Near GIDC Waghodia,Village: Khanda, Tal.:Waghodia, Vadodara Gujarat,Pin-391760",,1,,45
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Motherboard,,Chipset Series,,Intel Q Series Or higher
+"",,Chipset Number,,Intel Q 470 Or higher
+Processor,,Processor Make,,Intel
+"",,Processor Generation,,10.0 Or higher
+"",,"Number of Cores perProcessor",,"6, 8, 10, 12 Or higher"
+"",,Processor Description,,"Intel Core i5, Intel Core i7, Intel Core i9 Or higher"
+"",,Processor Number,,"Intel Core i9 10900K, Intel Core i9 10900KF, IntelCore i9 10900, Intel Core i9 10900F, Intel Core i710700K, Intel Core i7 10700KF, Intel Core i7 10700,Intel Core i7 10700F, Intel Core i5 10600K, Intel Corei5 10600KF, Intel Core i5 10600, Intel Core i5 10500Or higher"
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional
+"",RAM Size (GB),,"8, 16, 32, 64, 128 Or higher",
+"","RAM Expandability up to(using spare DIMM Slots inGB)",,"8, 16, 32, 64, 0, 128 Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Storage,,"Type of Drives used topopulate the Internal Bays",,"HDD, SSD"
+"",,Total HDD Capacity (GB),,"1000, 1500, 2000, 2500, 3000, 4000 Or higher"
+"",,Total SSD Capacity (GB),,"256, 384, 512, 768, 1024, 2048, 4096 Or higher"
+"",,"Total SSHD Capacity inaddition to 8 GB Flash (GB)",,"500, 1000, 2000, 0 Or higher"
+Cabinet,,Cabinet Form Factor,,"SFF ( 7 to 13 Litres), Tower (13.1 to 26 Litres)"
+Monitor,,Monitor Technology,,IPS Or higher
+"",,"LED Backlit Monitor Size(INCHES)",,"24, 27, 23.8, 32 Or higher"
+"",,Monitor Resolution (PIXELS),,"1920x1080, 1920 x 1200, 3200x1800, 3840 x 2160,2560 x 1440 Or higher"
+"",,"Availability of Webcamintegrated with Monitor",,"Yes, No"
+"",,"If Yes, Resolution of Webcam",,"HD, FHD, NA Or higher"
+"",,"Availability of Speakersintegrated with Monitor",,"Yes, No"
+"",,"If Yes, Number of Speakersavailable",,"0, 1, 2 Or higher"
+Warranty,,"On Site OEM Warranty(Year)",,5 Or higher
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+"Motherboard- Processor - Inaddition to main specification,following Ryzen processor isacceptable",,"AMD RYZEN 5 3600 3.6GHz 6 cores , better"
+"Min 4 No. of USB Ports (at leasttwo usb ports with 3.0) , Audioport for microphone &headphone AND DVD ROM drive",,YES
+"Standard OEM Keyboard &mouse without any additionalcost + Webcam FHD or higher",,YES
+"Storage- Total HDD Capacity(GB) - In additional to aboverequirement, following capacityis also acceptable",,"500 GB , Higher"
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+Graphics card,,Integrated
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Mohan Kumar Nair,,"462016,Powergrid Corporationof India ltd. E-3/201, AreraColony, Near Habib GanjStation, Bhopal-462016",,3,,45
+2,,Arpit Kumar Jain,,"385575,POWERGRIDCORPORATION OF INDIALIMITED, 400/220 kV,Banaskantha (Radhanesda)(GIS) new Substation PowerGrid Corporation Of IndiaLimited, Survey No. 196,Village-Khimanavas, TalukaVav, Dist.-Banaskantha,Gujarat-385575",,1,,45
+3,,"Chhalaliya JayBharatkumar",,"370240,POWER GRIDCORPORATION OF INDIALIMITED, VILLAGE BHIMASAR,TALUKA ANJAR, DISTKUTCH,PIN 370240 (GUJARAT)",,3,,45
+4,,Chander Singh,,"382305,Power Grid Corporationof India, 400/220kC Sub-station, Vasna-Rathod Road,Near Ganeshpura Village,Dehgam, Gujrat – 382305",,1,,45
+5,,"Sachin RameshwarSavke",,"482002,POWERGRIDCORPORATION OF INDIA LTD,400/220 KV Substation, PatanRoad, near sukha village,Jabalpur, Madhya Pradesh-482002",,8,,45
+6,,"Jitendra KumarPrajapati",,"483119,POWER GRIDCORPORATION OF INDIALIMITED 765/400kV PoolingStation Hirapur Bandha Village,Post _Saharjpur, Tahsil-Shahpura, Jabalpur-483119",,3,,45
+7,,Devendra Pathak,,"382427,Power Grid CorporationOf India Limited, 400/220 KVS/S, Pirana, Sardar Patel RingRoad, Near Gaay BachhadaCircle, Kamod Ahmedabad -382427",,3,,45
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+8,,"Mahendra PratapSingh Rathore",,"454116,POWER GRIDCORPORATION OF INDIA LTD.,RAJGARH SUBSTATION,VILLAGE- DHULET, JHABUAROAD, RAJGARH, DIST-DHAR,Madhya Pradesh-454116",,2,,45
+9,,Sanjay Sahu,,"485446,""Power GridCorporation of India limited,765/400/220 KV Sub-StationVillage-Lalpur, Post-sitpura,NH-75, Panna Road, Dist-satna-485445(M.P.)",,3,,45
+10,,Kunal Sagar,,"486885,POWERGRIDCORPORATION OF INDIALIMITED, VINDHYACHAL HVDCBTB STATION,INSIDE NTPCVINDHYACHAL PLANTPREMISES, POST:VINDHYANAGAR, SINGRAULI,Madhya PRadesh-486885",,1,,45
+11,,"Narasimha RaoModugula",,"396191,POWER GRIDCORPORATION OF INDIALIMITED 400kV /220KVSubstation, Village-Ambethi,Tal-Kaparada, Via-Vapi, Dist :Valsad, Gujrat-396191",,1,,45
+12,,Rakesh Singh,,"391760,POWER GRIDCORPORATION OF INDIALIMITED 765/400/220Kv Sub-station, Near GIDC Waghodia,Village: Khanda, Tal.:Waghodia, Vadodara Gujarat,Pin-391760",,3,,45

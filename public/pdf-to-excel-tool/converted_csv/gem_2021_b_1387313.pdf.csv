@@ -1,0 +1,46 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 12:00:00,
+Bid Opening Date/Time,,06-08-2021 12:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Gujarat,
+Department Name,,Energy And Petro Chemicals Department Gujarat,
+Organisation Name,,"Gujarat Electricity Board (geb) - Gujarat Urja Vikas NigamLimited (guvnl)",
+Office Name,,Pgvcl,
+Total Quantity,,1,
+Item Category,,true rms clamp meter  ( PAC Only ),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Make,kusam-meco,
+Model,kusam-meco2790,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"",GENERAL FEATURES,,Type,,Hand Held,
+"",Display,,3.5 digit Backlit LCD,,,
+"",Measurement Type,,True RMS,,,
+"",count,,3000,,,
+"","Resistance MeasurementRange",,10.0,,,
+"","Resistance MeasurementAccuracy (+/-)",,0.5,,,
+"","Frequency MeasurementRange",,10.0,,,
+"","Frequency MeasurementAccuracy (+/-)",,0.5,,,
+"","AC Current MeasurementRange",,100.0,,,
+"","AC Current MeasurementAccuracy (+/-)",,1.5,,,
+"","AC Voltage MeasurementRange",,750.0,,,
+"","AC Voltage MeasurementAccuracy (+/-)",,1.5,,,
+"","DC Current MeasurementRange",,100.0,,,
+"","DC Current MeasurementAccuracy (+/-)",,2.0,,,
+"","DC Voltage MeasurementRange",,1000.0,,,
+"","DC Voltage MeasurementAccuracy (+/-)",,1.0,,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+SAFETY,,Safety Rating,,CAT III 600 V of IEC 61010 -2-D31
+SERVICE,,Warranty,,1.0
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer360001,City Division office-1,Dhuliya PareshFirst floor, Old Power House1115Sharadchandracompund, Kanak Road, Rajkot-360001",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Dhuliya PareshSharadchandra",,"360001,City Division office-1,First floor, Old Power Housecompund, Kanak Road, Rajkot-360001",,1,,15,

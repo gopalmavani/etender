@@ -1,0 +1,52 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 11:00:00,
+Bid Opening Date/Time,,06-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Air Force,
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,Electric Scooter,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Power Drive,,Electric Motor
+"",Power Storage,,Battery
+"",Vehicle Emission,,Zero emission green Vehicle
+"",Vehicle Colour Type,,Soild
+"","Driving range(Mileage) withfull charge battery (Kmph)",,60
+"","Max Speed at rated load(Kmph) (25kmph for lowspeed & 45kmph for highspeed)",,25
+"","Maximum Motor W@rpm(250W for low speed &800W for high speed)",,250
+"",Motor Torque Max@rpm,,250
+"","Traction Battery Capacity(Ah)",,200
+"","If others ,Declare thebattery capacity (Ah)",,0
+"",Battery Chemistry,,Lithium ion
+"",Battery Life Cycles,,3000.0
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Power Regeneration facility,,Yes
+"",,Ground Clearance,,500.0
+"",,Wheel Base,,500.0
+"",,Kerb Weight,,1000.0
+"",,Gross Weight,,1000.0
+"",,"Vehicle TransmissionSystem",,Automatic
+"ConstructionalParameters",,Type of Wheel,,Alloy Wheel
+"",,Type of tyre,,Tubeless
+"PerformanceParameters",,"Normal Charging Time for100Kms range",,6.0
+"","Fast Charging Time for 100Kms range",,28.0,
+"",Warranty Time,,36.0,
+"",Warranty Distance,,20000.0,
+"",Battery Warranty,,36.0,
+"",No Of Free Service,,0,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************THANJAVUR115",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********THANJAVUR,,1,,15,

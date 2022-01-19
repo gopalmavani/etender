@@ -1,0 +1,73 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 11:00:00,
+Bid Opening Date/Time,,06-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence,
+Organisation Name,,Border Road Organisation,
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,Lathe Machine-IS 6893-1988,
+"Minimum Average Annual Turnover of theBidder",,7 Lakh (s),
+OEM Average Turnover (Last 3 Years),,54 Lakh (s),
+Years of Past Experience required,,1 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AnnualTurnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,10 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Standards,,"Lathe Machine Confirmingto IS 6893-1988 Latest (ForTechnical Evaluation)",,Yes
+"","Lathe Machine MaterialConfirming to IS 210Latest(For Casting )",,Yes,,
+"",Lathe Machine Type,,Center Lathe,,
+"","Nature of Duty of Operationof Lathe",,Light Duty Lathe,,
+"","Distance Between centers(mm) x Swing over Bed(mm)",,1000 x 400,,
+"",Swing Over Bed (in mm),,420.0,,
+"",Center Height in mm,,200.0,,
+"","Swing Over Cross Slide inmm",,220.0,,
+"","Swing Over Carriage Wingin mm",,400.0,,
+"",Swing in Gap in mm,,Any applicable numeric value,,
+"","Width of Gap in Front inmm",,Any applicable numeric value,,
+"",Type of Bed,,Inverted V type,,
+"",Length of Bed in mm,,1950.0,,
+"",Width of Bed in mm,,300.0,,
+"","Gap in Bed in mm ( Only forGap Lathe ) for rest Put 0",,Any applicable numeric value,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Rapid Transverse of saddle& Cross Slide",,"Yes, No"
+"",Maximum Feed Force,,1030,
+"","Maximum Facing Diameterin mm",,430.0,
+"","Maximum Weight of workpiece that can be heldbetween chuck andsupported by Live center inkg",,150.0,
+"","Maximum Weight of workpiece that can be heldbetween chuck andsupported by dead centerin kg",,350.0,
+"","Maximum Torque onSpindle in NM",,280,
+"",Size of Spindle in mm,,133.0,
+"",Type of Chuck,,3 Jaw Self Centered,
+"",Travel of Cross Slide in mm,,215.0,
+"",Travel of Top Slide in mm,,105.0,
+"",Main Motor Power in kw,,3.0,
+"",Types of power supply,,3 Phase,
+"","Erection and CommisioningCharges included in OfferedPrices without Foundation",,Yes,
+"",Warranty in Years,,1,
+"","Annual MaintenanceContract Rate included forMachine",,"Yes, No",
+"",Period of AMC,,"0, 1, 2, 3, 4, 5",
+"","Coolant Pump output in kwas per IS 2161:1962 Latest",,0.12,
+"","Minimum ChuckingDiameter in mm",,10.0,
+"","Maximum ChuckingDiameter in mm",,400.0,
+"","Tail Stock Sleeve Diameterin mm",,70.0,
+"","Maximum Offset ofTailstock on either side ofCenter Line in mm",,5.0,
+"","Sleeve Travel Type(TailStock)",,Manual,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Length of Lathe Machine inmm",,2300.0
+"","Width of Lathe Machine inmm",,1100.0,
+"","Height of Lathe Machine inmm",,1335.0,
+"","Weight of Lathe Machinewith electrical andstandards Accessories",,1300.0,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************KULLU125",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********KULLU,,1,,25,

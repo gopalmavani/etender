@@ -1,0 +1,35 @@
+Bid Details,,,
+Bid End Date/Time,,10-08-2021 15:00:00,
+Bid Opening Date/Time,,10-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Petroleum And Natural Gas,
+Department Name,,Indian Oil Corporation Limited,
+Organisation Name,,Iocl- Panipat Refinery,
+Office Name,,Iocl- Panipat Refinery,
+Total Quantity,,149,
+Item Category,,Lead Acid Battery-IS 16046,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Additional Doc 1 (Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,4 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,521500,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GenericTypes of Lead Acid ofSmall sized Valve Regulated Lead -Acid BatteriesBattery(SMF) conforming to JISC: 8702/1998 (Part 1,2 & 3)with latest amendmentsNominal Voltage of Battery12.0 Volt(volts)Material of containerPolypropylene, ABSRated Capacity at C2065discharge (AH)Warranty (Years)2 Years, 3 Years, 4 Years, 5 YearsCONSTRUCTIONALDimensions (L x W x H) (mmAs per relevant IS Specificationsx mm x mm)No.of cells per Battery (No.)6 Cells for 12 Volt battery",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,"Types of Lead Acid ofBattery",,"Small sized Valve Regulated Lead -Acid Batteries(SMF) conforming to JISC: 8702/1998 (Part 1,2 & 3)with latest amendments",
+"",,"Nominal Voltage of Battery(volts)",,12.0 Volt,
+"",,Material of container,,"Polypropylene, ABS",
+"",,"Rated Capacity at C20discharge (AH)",,65,
+"",,Warranty (Years),,"2 Years, 3 Years, 4 Years, 5 Years",
+CONSTRUCTIONAL,,"Dimensions (L x W x H) (mmx mm x mm)",,As per relevant IS Specifications,
+"",No.of cells per Battery (No.),,6 Cells for 12 Volt battery,,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer132140,INDIANOILCORPORATION LTD. PANIPAT1Alok Kumar1542REFINERY , PO. BOHALI ,PANIPAT132140,INDIANOILCORPORATION LTD. PANIPAT2Gopal Ji13442REFINERY , PO. BOHALI ,PANIPAT",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Alok Kumar,,"132140,INDIANOILCORPORATION LTD. PANIPATREFINERY , PO. BOHALI ,PANIPAT",,15,,42,
+2,,Gopal Ji,,"132140,INDIANOILCORPORATION LTD. PANIPATREFINERY , PO. BOHALI ,PANIPAT",,134,,42,

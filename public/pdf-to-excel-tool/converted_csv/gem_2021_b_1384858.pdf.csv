@@ -1,0 +1,42 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 19:00:00,
+Bid Opening Date/Time,,05-08-2021 19:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Finance,
+Department Name,,Banking Sector,
+Organisation Name,,Punjab National Bank,
+Office Name,,Guwahati,
+Total Quantity,,1,
+Item Category,,Note Sorting Machines,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,7 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Certifications andStandards",,"Availability of TestCertificates",,"Endurance Test Certificate, Speed Test Certificate,Consistency Test Certificate, Stress Test Certificate"
+"",Certifications,,"RoHS, FC, CE, IS, GS, CB, CS",
+"",Detection technology,,"Twin CIS, UV, MG, MT, IR",
+"","Hopper capacity(Continuous feeding), notes",,500.0 - 2000.0 Or higher,
+"",Display Available,,Yes,
+"","Reject Capacity, notes",,100.0 - 300.0 Or higher,
+"",Pocket Type,,2+1,
+"","Feeding Capacity, notes",,500.0 - 1500.0 Or higher,
+"","Counting speed, notes/min",,1000.0 - 1500.0 Or higher,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Processing Speed(Notes/Hour)",,25000.0 - 50000.0 Or higher
+"",,"Machine should havecapability to read andcompare note Serial Nos(OCR), of the processedbank notes",,"Yes, No"
+"",,"Capability of Upgrading ofSoftware as per RBI Directive",,Yes
+"",,"Stacker capacity, notes",,200
+Generic,,Interface,,"Printer, USB, SD card, LAN, RS - 232"
+"",,Warranty,,"1, 2, 3, 4, 5 Or higher"
+Additional Features,,Fitness Sorting,,"Soiling, Limpness, Dog-Ears, Tears, Holes, Stains,Graffiti, Crumples/Folds, De colouration, Repair,Mismatched Notes"
+"",Functions,,"First Note Recognition, Denomination Sorting,Orientation Sorting, Batching Arrangement, FacingSorting, Fake Note Detection, Black Listing, SerialNumber Search, Dynamic Stacking, Banknote ImageCapture",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer781005,Punjab National Bank1Gautam MedhiCircle office. Nilgiri Mansion,17Bhangagarh, Guwahati",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Gautam Medhi,,"781005,Punjab National BankCircle office. Nilgiri Mansion,Bhangagarh, Guwahati",,1,,7,

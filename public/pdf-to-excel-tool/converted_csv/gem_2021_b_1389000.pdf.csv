@@ -1,0 +1,44 @@
+Bid Details,,,
+Bid End Date/Time,,14-08-2021 18:00:00,
+Bid Opening Date/Time,,14-08-2021 18:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Finance,
+Department Name,,Department Of Financial Services,
+Organisation Name,,Lic - Life Insurance Corporation Of India,
+Office Name,,Divisional Office Jeevan Prakash Tagor Marg Rajkot,
+Total Quantity,,3,
+Item Category,,Split Air Conditioner including Green AC  ( PAC Only ),
+MSE Exemption for Turnover,,Yes,
+Startup Exemption for Years Of Experience,,Yes,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,7 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Make,carrier,
+Model,carrieremperianxi,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"","Conformity &Certification",,"Green Room Air ConditionerCompliant",,AC -,
+"","TechnicalParameters",,Technology of AC,,Inverter AC (Variable Speed),
+"","Nominal coolingcapacity(Ton) (1 ton = 3000kcal/hr)",,2 Ton,,,
+"","Energy PerformanceThreshold (ISEER)(Wh/Wh)(for Greenroom AC)",,NA,,,
+"",Compressor Type,,Rotary Type,,,
+"",Heating,,Cool Only,,,
+"",Coil Material (Evaporator),,Copper,,,
+"",Coil Material (Condenser),,Copper,,,
+"",BEE Star Rating,,3.0,,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Rated cooling capacity inWatt (W) as per BEE starlabel",,6200
+"",,"Rated ISEER value (Wh/Wh)as per BEE star label",,3.9
+General Parameters,,"Connecting pipe length(meter)",,3 Mtr
+Warranty/Services,,AC Machine Warranty,,1 Or higher
+"",,Compressor Warranty,,"5, 10 Or higher"
+Installation,,Installation,,Standard installation
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer370201,PLOT NO.312 WARD1Manshani ChanderNO.12B JEEVAN BIMA MARG215GANDHIDHAM-370201360001,L I C OF INDIADIVISIONAL OFFICE JEEVAN2Mer Jitendra115PRAKASH TAGOR MARG RAJKOT360001",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Manshani Chander,,"370201,PLOT NO.312 WARDNO.12B JEEVAN BIMA MARGGANDHIDHAM-370201",,2,,15,
+2,,Mer Jitendra,,"360001,L I C OF INDIADIVISIONAL OFFICE JEEVANPRAKASH TAGOR MARG RAJKOT360001",,1,,15,

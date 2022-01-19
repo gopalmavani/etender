@@ -1,0 +1,59 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 09:00:00,
+Bid Opening Date/Time,,09-08-2021 09:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,45 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,Southern Railway,
+Total Quantity,,1,
+Item Category,,"Electronic Weighing Scales-IS:9281-3 (1981) part I,II, III &Part IV",
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"Bidder Turnover,Certificate (Requested in ATC),OEMAuthorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","Type of Electronic WeighingMachine",,"electronic weighing scale, electronic weighing scaleplatform"
+"",Rated Load/ Capacity(kg),,500 kg
+"",Resolution(gms),,50 gm
+"",Class type,,"Class-II, Class-III"
+"",Display,,led
+"",Number of Display,,single
+"",Speed of measurement,,More than 2.0 Or higher
+"",Internal calibration,,Yes
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Tare provision,,Manual
+"",,Connectivity to Computer,,No
+"",,Number of RS232 ports,,1
+"",,Power Requirement,,mains operated battery operated
+"",,Power Supply,,Single Phase
+"",,Battery Backup,,Yes
+"",,Backup time(hour),,12
+"",,Battery type,,rechargeable
+"",,Type of Sensing Element,,Load Cell
+"",,Class of Protection,,IP 65
+"",,Warranty in Years,,2
+STANDARDS,,"Conformity to IndianStandrad, IS:9281-3 (1981)part I,II, III & Part IV(latest)",,Yes
+"",,BIS Marked,,No
+"",,CE Certified,,No
+"DIMENSIONAL &MATERIALPARAMETERS",,Pan/ Platform Shape,,rectangular
+"",,Pan/ Platform Size,,600 mm x 600 mm
+"ADDITIONALFEATURES",,"Alarm for overload &Malfunctioning",,Yes
+REPORTS,,"Availability of test certificatefrom Government/ NABL/ ILACacredited lab to proveconfirmity of specification asper (IS: 9281-2 (1979)",,Yes
+"","Each weighing machine shallbe supplied with calibrationcertificate under weights andmeasures act",,Yes,
+"Specification ParameterBid Requirement (Allowed Values)NameELECTRONIC WEIGHTINGMACHINE500KGCAPACITY(sartorius) (ASB12) ConformityBidder should be ensure this through ATC via uploading catalogue whileto Indian Standard, IS:9281-3bidding(1981)part I,II, III &Part IV(latest) : YesType of Electronic WeighingMachine: electronic weighingBidder should be ensure this through ATC via uploading catalogue whilescale Rated Load/ Capacity(kg)bidding500kg Resolution (gms) 50 gmClass type Class-II Display : ledNumber of Display : DoubleSpeed of measurement : 2second Power RequirementBidder should be ensure this through ATC via uploading catalogue whilemains operated batterybiddingoperated Power Supply : SinglePhase DC Operating voltage inVolts : 220 VoltBattery Backup No Backuptime(hour) 15 Battery type :rechargeable Battery rating 2Bidder should be ensure this through ATC via uploading catalogue whileType of Sensing Element LoadbiddingCell Number of load cell/ EMFC 1Class of Protection IP 65Warranty in Years 2","Specification ParameterName",,Bid Requirement (Allowed Values)
+"ELECTRONIC WEIGHTINGMACHINE500KGCAPACITY(sartorius) (ASB12) Conformityto Indian Standard, IS:9281-3(1981)part I,II, III &Part IV(latest) : Yes",,"Bidder should be ensure this through ATC via uploading catalogue whilebidding",
+"Type of Electronic WeighingMachine: electronic weighingscale Rated Load/ Capacity(kg)500kg Resolution (gms) 50 gmClass type Class-II Display : led",,"Bidder should be ensure this through ATC via uploading catalogue whilebidding",
+"Number of Display : DoubleSpeed of measurement : 2second Power Requirementmains operated batteryoperated Power Supply : SinglePhase DC Operating voltage inVolts : 220 Volt",,"Bidder should be ensure this through ATC via uploading catalogue whilebidding",
+"Battery Backup No Backuptime(hour) 15 Battery type :rechargeable Battery rating 2Type of Sensing Element LoadCell Number of load cell/ EMFC 1Class of Protection IP 65Warranty in Years 2",,"Bidder should be ensure this through ATC via uploading catalogue whilebidding",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer670307,OFFICE OF THE SENIORSECTION ENGINEER1SANDEEP CPERMANENT WAY SOUTHERN130RAILWAY PAYYANUR-670307KANNUR DIST KERALA",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,SANDEEP C,,"670307,OFFICE OF THE SENIORSECTION ENGINEERPERMANENT WAY SOUTHERNRAILWAY PAYYANUR-670307KANNUR DIST KERALA",,1,,30,

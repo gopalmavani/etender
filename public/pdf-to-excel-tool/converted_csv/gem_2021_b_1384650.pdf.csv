@@ -1,0 +1,65 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 09:00:00,
+Bid Opening Date/Time,,06-08-2021 09:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,Southern Railway,
+Total Quantity,,6,
+Item Category,,Handheld Digital Infrared Thermometer,
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"Bidder Turnover,Certificate (Requested in ATC),OEMAuthorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","Lowest MeasurableTemperature (Infrared Non-contact)",,"-70, -60, -50, -40, -35, -33, -32, -30 Or lower"
+"","Highest MeasurableTemperature (Infrared Non-contact)",,"300, 350, 360, 380, 400, 450, 500, 535, 550, 600,650, 700, 750, 760, 800, 900, 950, 1000, 1050, 1100,1200, 1300, 1370, 1400, 1470, 1500, 1600, 1700,1800, 1850, 1900, 2000, 2100, 2200, 2300, 2400,2500, 2600, 2700, 2800, 2900, 3000 Or higher"
+"",Display Resolution,,0.1 Or lower
+"",Basic Accuracy (±),,"0.5, 0.75, 1, 1.5 Or lower"
+"",Emissivity (W/m2),,Fixed at 0.95
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Response Time,,0.0 - 1.0 Or lower
+"DISPLAY / DATAOUTPUT",,Type of Display,,LCD
+"",,Back-light display,,Yes
+"",,Display Size(in inch),,"2.0 to 2.4, 2.5 to 2.9, 3.0 to 3.4, 3.5 to 3.9, 4.0 to 4.4,4.5 to 4.9, 5.0 to 5.4, 5.5 to 5.9, 6.0 to 6.4, 6.5 to 6.9Or higher"
+"",,"Data Output to otherdevices",,No
+"",,"Data point loggingcapability (on boardmemory)",,"0, 10, 12, 20, 30, 40, 50, 100, 200, 500, 1000, 2000,3000, 4000, 4999 Or higher"
+BATTERY,,Power Source,,Alkaline Batteries (Non-Rechargeable)
+"",,"Battery Size, if NonRechargeable Battery",,9-V Rectangular Battery
+"",,Battery Chemistry,,Li-ion
+"",,"Battery Chargers forRechargeable Batteries -inclusive in the scope of supply",,Yes
+"",,"Number of Batteries requiredfor operation",,2
+"",,"Number of Batteries supplied(Inclusive in the Scope ofSupply)",,1
+"",,"Battery back-up time undercontinuous use",,"5, 6, 8, 10, 12, 16, 20, 24, 30, 36, 48 Or higher"
+"SALIENT FEATURES /FUNCTIONS",,Salient Features / Functions,,"Datahold, Fahrenheit and Celsius Conversion, LowBattery indication, Maximum and Minimum Reading"
+ACCESSORIES,,"Standard accessoriesinclusive in the scope ofsupply",,"Wrist Strap, Carrying Case, Instruction booklet"
+GENERIC,,"Built-in laser for preciselyaiming the target",,Yes
+"",Laser Class,,Class II,
+"",Laser sighting,,Single-point laser,
+"",Optional/User Guide/Manual,,Yes,
+"","Minimum OperatingTemperature",,"0, -5, -10, -15, -20, -25, -30 Or lower",
+"","Maximum OperatingTemperature",,"50, 55, 60, 65, 70 Or higher",
+"","Maximum OperatingHumidity at 40 deg C - Non-condensing (Rh)",,"90, 95 Or higher",
+"","Maximum Operating Altitude(meters above MSL)",,"Upto 500, 501 to 2000, 2001 to 3000 Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+WARRANTY,,Warranty,,1.0
+"CERTIFICATION /TEST REPORTS",,Compliance to Standards,,"EN 61326-1, EN 61326-2 ElectromagneticCompatibility"
+"",,"Hazardous location(Intrinsically Safe / non-incendive) approval",,Yes
+"",,"Availability of Test Reportsfrom Central Govt / NABLapproved / ILAC accreditedLab to prove conformity tothe specification",,No
+CALIBRATION,,"Calibration Certificate issuingauthority",,OEM Certificate
+"Specification ParameterBid Requirement (Allowed Values)NameHandheld, non-contact typeDigital Infrared Thermometer,class II type, measurableBidder should be ensure this through ATC via uploading catalogue whiletemperature range (InfraredbiddingNon-contact) between -30degree Celsius to +300 degreeCelsius,display resolution 0.1 degreeCelsius, basic accuracy +/- 1.5Bidder should be ensure this through ATC via uploading catalogue whiledegree Celsius, emissivitybidding(W/m2) -0.95 with LCD displayof minimum size 2 inchAcceptable Make :- Fluke,Bidder should be ensure this through ATC via uploading catalogue whileSiemens, ABB, Bosch, L&T.bidding","Specification ParameterName",,Bid Requirement (Allowed Values)
+"Handheld, non-contact typeDigital Infrared Thermometer,class II type, measurabletemperature range (InfraredNon-contact) between -30degree Celsius to +300 degreeCelsius,",,"Bidder should be ensure this through ATC via uploading catalogue whilebidding",
+"display resolution 0.1 degreeCelsius, basic accuracy +/- 1.5degree Celsius, emissivity(W/m2) -0.95 with LCD displayof minimum size 2 inch",,"Bidder should be ensure this through ATC via uploading catalogue whilebidding",
+"Acceptable Make :- Fluke,Siemens, ABB, Bosch, L&T.",,"Bidder should be ensure this through ATC via uploading catalogue whilebidding",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer670001,Office of the SeniorSection Engineer / Electrical1Sijed BhaskaranNear Kannur railway station,630Southern Railway, Kannur-670001",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Sijed Bhaskaran,,"670001,Office of the SeniorSection Engineer / ElectricalNear Kannur railway station,Southern Railway, Kannur-670001",,6,,30,

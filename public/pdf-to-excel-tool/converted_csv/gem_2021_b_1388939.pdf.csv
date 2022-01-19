@@ -1,0 +1,57 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 18:00:00,
+Bid Opening Date/Time,,06-08-2021 18:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,80 (Days),
+Ministry/State Name,,Puducherry,
+Department Name,,Health And Family Welfare Services Department Puducherry,
+Organisation Name,,N/a,
+Office Name,,Puducherry,
+Total Quantity,,2,
+Item Category,,General Operating Table,
+"Minimum Average Annual Turnover of theBidder",,1 Lakh (s),
+OEM Average Turnover (Last 3 Years),,1 Lakh (s),
+Years of Past Experience required,,3 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,30 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Type of OT table Actuator,,Electro-hydraulic
+"","Type of mechanism forfunctioning or controllingthe table movements",,Remote & Table mounted
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Remote controlled positions,,"Trendelenburg / reverse Trendelenburg, lateraltilt,longitudinalshift, height adjustment, antiflex andflex position and back plate up / down"
+"",,C-Arm Compatible,,Yes
+"",,Range of Table top Height,,635 mm to 1035 mm
+"",,"Provision of X ray cassettechannel",,"Yes, No"
+Table Positions,,"Head Section UP/DownAngle, Range",,"upto 600 to 900, upto 450 to 900"
+"",,"Leg Section UP/Down,Range",,200-900
+"",,"Table top longitudinalsliding, Range",,"5"" to 12"""
+"",,Patient Weight Capacity,,150-270 Kgs
+"",,Kidney Bridge required,,Yes
+"",,"Split leg section ,detachable-1 pair",,Yes
+"",,Battery backup provided,,Yes
+"",,"Battery backup of operatingtable in hrs",,3 or more than 3 hrs
+"",,Foot Pump,,Yes
+"",,"Both arm board shouldhave up and down androtation function",,Yes
+"StandardsAccessories",,"Number of HorizontalAttachments",,1
+"",,"Bariatric table Extensions-Only for BariatricProcedures-2 Inch Full set",,"Yes, No"
+"",,"Bariatric table Extensions-Only for BariatricProcedures-4 Inch Full set",,"Yes, No"
+"",,Restraint body strap-1pair,,Yes
+"",,Remote-1 no,,Yes
+Reports,,"Warranty (Option ofcomprehensive warranty isavailable through biddingonly, which if opted willsupersede normal warrantyin the catalogue)",,"3, 5, 1, 2, 4"
+"Specification ParameterBid Requirement (Allowed Values)Namethe operating table should bekidney bridge and c-armthe operating table should be kidney bridge and c-arm compatible.compatible.","Specification ParameterName",,Bid Requirement (Allowed Values)
+"the operating table should bekidney bridge and c-armcompatible.",,the operating table should be kidney bridge and c-arm compatible.,
+"",% of Product Cost Payable on Product Delivery,,90%,
+Min Cost Allocation for ICT as a % of product cost,,10%,,
+"Number of days allowed for ICT after site readinesscommunication to seller",,20 Days,,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer605001,OFFICE OF THEMEDICAL SUPERINTENDENT,INDIRA GANDHI GOVT.1SivasamyGENERAL HOSPITAL & POST215GRADUATE INSTITUTE, No 1,VICTOR SIMONEL STREET,PUDUCHERRY. 605001",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Sivasamy,,"605001,OFFICE OF THEMEDICAL SUPERINTENDENT,INDIRA GANDHI GOVT.GENERAL HOSPITAL & POSTGRADUATE INSTITUTE, No 1,VICTOR SIMONEL STREET,PUDUCHERRY. 605001",,2,,15,

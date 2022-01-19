@@ -1,0 +1,60 @@
+Bid Details,,,
+Bid End Date/Time,,07-08-2021 17:00:00,
+Bid Opening Date/Time,,07-08-2021 17:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Steel,
+Department Name,,Sail,
+Organisation Name,,Steel Authority Of India Limited,
+Office Name,,Durgapur,
+Total Quantity,,8,
+Item Category,,Digital Multimeter-IS:9000,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",DC Voltage Range,,1000.0
+"",DC Voltage Accuracy,,0.5
+"",DC Voltage resolution,,0.001
+"",AC Voltage Range,,1000.0
+"",AC Voltage Accuracy,,1.0
+"",AC Voltage resolution,,1.0
+"",DC Current Range,,10.0
+"",DC Current Accuracy,,1.0
+"",DC Current resolution,,0.001
+"",AC Current Range,,10.0
+"",AC Current Accuracy,,1.5
+"",AC Current resolution,,0.001
+"",Resistance Range,,40.0
+"",Resistance Accuracy,,1.0
+"",Resistance resolution,,0.01
+"","Capacitance Range ( Microfarad )",,1 to 100
+"",Capacitance Accuracy ( % ),,1.5
+"","Capacitance resolution ( nF)",,0.01
+"",Frequency Range ( KHz ),,100
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Frequency Accuracy ( % ),,1
+"",,Frequency resolution ( Hz ),,1
+"",,"Temperature Range (Degree C )",,-50 to 1000
+"",,Temperature Accuracy ( % ),,1.5
+"",,"Temperature resolution (Degree C )",,0.1
+FEATURES,,Type,,Hand Held
+"",,Display (Digits),,3.5
+"",,Measurement Type,,"Average, True RMS"
+"",,Counts,,"4000, 6000, 50000, 10000, 20000, 30000, 40000,60000, 70000, 80000, 90000, 100000, 200000,20000000, 2000 Or higher"
+OTHER FEATURES,,Continuity test and Diode test,,Available
+SAFETY,,Safety Rating,,Category IV 600 V of IEC 61010
+"POWERREQUIREMENTS",,Power Requirements,,Battery Operated
+"",,"if Battery Operated, then Typeof Battery",,Non- Rechargeable (Alkaline)
+"",,"if rechargeable , thenchemistry of the battery",,"lithium ion, NA"
+WARRANTY,,Warranty,,3.0
+"TEST REPORTDETAILS",,"The equipment supplied withcalibration certificate",,YES
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer713203,Ispat Bhawan, 3rdShyamal Kumar1Floor, Purchase Department,830KunduDurgapur Steel Plant, Durgapur",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Shyamal KumarKundu",,"713203,Ispat Bhawan, 3rdFloor, Purchase Department,Durgapur Steel Plant, Durgapur",,8,,30,

@@ -1,0 +1,77 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 15:00:00,
+Bid Opening Date/Time,,05-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Consumer Affairs Food And Public Distribution,
+Department Name,,Department Of Food And Public Distribution,
+Organisation Name,,Food Corporation Of India (fci),
+Office Name,,West Bengal Regional Office/east Zone,
+Total Quantity,,27,
+Item Category,,"GRAIN MOISTURE METER (ELECTRICAL MOISTURE METERSFOR FOOD GRAINS)",
+"Minimum Average Annual Turnover of theBidder",,4 Lakh (s),
+OEM Average Turnover (Last 3 Years),,32 Lakh (s),
+Years of Past Experience required,,3 Year (s),
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover,Additional Doc 1(Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,20 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","Type / MeasurementModes",,"Type of Grain MoistureMeter",,Bench Type
+"",,,"Grain Moisture MeterTechnology / Principle ofoperation",,Conductivity / Resistance Measurement
+"",,,Type of sensor / probe,,Cup type
+"",,,Measured parameters,,"Moisture content of food grain, Temperature,Humidity, Weight / Bulk Density"
+"",,,Calibration,,Automatic
+"",,,Food Grains suitable for:,,"Wheat, Paddy, Rice, Maize, Barley, Oats, Millets, Urad,Moong, Rajma, Mustard, Arhar, Tuvar, Toor, Chana,Soyabean, Sunflower seeds"
+"","Measurement ofMoisture Content",,"Lower value for measurementof Moisture content",,"3.0, 4.0"
+"","Maximum value formeasurement of Moisturecontent",,40.0,,
+"",Resolution,,"0.1, 0.2",,
+"","Lower value for measurementof Temperature (C)",,"0, 5",,
+"","Maximum value formeasurement of Temperature (C)",,"50, 55",,
+"",Resolution (degree Celsius),,"0.1, 0.2, 1",,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Measurement ofHumidity",,"Lower value for measurementof Humidity (in %)",,"0, 5, 10, 15, 20"
+"",,"Maximum value formeasurement of Humidity (in%)",,"60, 65, 70, 75, 85, 90, 95, 100"
+"",,Resolution ( in % ),,"0.2, 0.5, 1"
+"Measurement ofWeight / BulkDensity",,Measurement Range,,"0.0, 30.0"
+"",,Resolution (in grams),,"0.5, 1, NA"
+"",,"Volume - Weight (Bulk Density)Conversion display",,NA
+"Compensation /Correction",,Temperature Correction,,Automatic
+"",,Humidity Correction,,Automatic
+"",,Bulk Density Compensation,,"Manual, NA"
+"Display / Storage /Interface",,Type of Display,,"LCD, LCD with backlight iluumination"
+"",,Number of Digits in Display,,"3, 3.5, 5"
+"",,Date /time Stamp in Entries,,Yes
+"",,Connectivity interface,,"Bluetooth, RS 232"
+Power Source,,Power Source,,"Alkaline Batteries (Non-Rechargeable), Mains (230±10 Volts / 50 Hz AC)"
+"",,Number of Batteries,,4
+"",,Battery Life,,"1.0, 600.0, 100.0, 50.0, 55.0, 800.0, 60.0"
+"",,Low battery indication,,Yes
+"",,"Suitable Adapter to be suppliedto make the equipment Workon 230 V ± 10 %, 50 Hz",,Yes
+Generic,,Availability of Hopper,,"Yes, No"
+"",,"Carry Case included in thescope of supply",,Yes
+"OperatingConditions",,"Minimum OperatingTemperature",,0.0
+"",,"Maximum OperatingTemperature",,"50.0, 55.0"
+"",,"Operating Relative Humidity,Non-Condensing",,"60.0, 75.0, 90.0"
+Warranty,,Warranty,,"1.0, 2.0"
+Certification,,"Availability of Test Reportsfrom Central Govt / NABLapproved / ILAC accreditedLab to prove conformity tothe specification",,"Yes, No"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer734004,CSD DABGRAM1Ranjit BarariCOMPLEX FOOD CORPORATION1015OF INDIA SILIGURI 734004700088,27, Hyde Road2Himachal MridhaExtension,FCI, FSD, JJP, Kolkata-1715700088",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Ranjit Barari,,"734004,CSD DABGRAMCOMPLEX FOOD CORPORATIONOF INDIA SILIGURI 734004",,10,,15,
+2,,Himachal Mridha,,"700088,27, Hyde RoadExtension,FCI, FSD, JJP, Kolkata-700088",,17,,15,
+Excel sheet for explanation to Buyback ATC,,,,,,,
+"S.no","CostofFreshGood(A)","%age of GST onFresh Good asconsidered by sellerat the time of quote(B).","GSTAmountonFreshGood(C)","CostofBuybackitem(D)","%age of GST onBuyback items(E) as fixed bybuyer in the bid","GST Amount onBuyback item (F) asapplicable at thetime of invoice bybuyer","Quote oftheBidder(G={A+C-D})"
+1,100,28,28,20,8,1.6,108
+2,100,9,9,20,8,1.6,89
+3,110,10,11,24,8,1.92,97
+"Seller after the award of the GeM contract, will indicate all column A to G which will not alter their quotedprice indicated in Colum-G",,,,,,,
+"NameoftheBank",State Bank if India.
+Branch,"Commercial Branch, Kolkata"
+IFSC Code,SBIN0007502

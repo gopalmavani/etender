@@ -1,0 +1,43 @@
+Bid Details,,,
+Bid End Date/Time,,23-07-2021 14:00:00,
+Bid Opening Date/Time,,23-07-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,80 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,3900,
+Item Category,,"Laying & Installation Charges for Cables (with or withoutconduit) Suitable for CCTV System(Accessor",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+Primary product category,,"Laying & Installation Charges for Cables (with or withoutconduit) Suitable for CCTV System(Accessor",
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)Laying & InstallationSuitable Conduit PipeWithCharges for Cables(with or withoutConduit materialHDPE Pipeconduit) Suitable forCCTVLaying locationUnder GroundSystem(Accessories)Depth of laying in case of90.0under ground layingNumber of Cables to be laidSingle Cable of any type",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Laying & InstallationCharges for Cables(with or withoutconduit) Suitable forCCTVSystem(Accessories)",,Suitable Conduit Pipe,,With,
+"",Conduit material,,HDPE Pipe,,
+"",Laying location,,Under Ground,,
+"","Depth of laying in case ofunder ground laying",,90.0,,
+"",Number of Cables to be laid,,Single Cable of any type,,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************HYDERABAD120045",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********HYDERABAD,,1200,,45,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)Laying & InstallationSuitable Conduit PipeWithoutCharges for Cables(with or withoutConduit materialNAconduit) Suitable forCCTVLaying locationAbove SurfaceSystem(Accessories)Depth of laying in case of0, 30, 60, 90under ground layingNumber of Cables to be laidBunch upto 3 Cables of any type",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Laying & InstallationCharges for Cables(with or withoutconduit) Suitable forCCTVSystem(Accessories)",,Suitable Conduit Pipe,,Without,
+"",Conduit material,,NA,,
+"",Laying location,,Above Surface,,
+"","Depth of laying in case ofunder ground laying",,"0, 30, 60, 90",,
+"",Number of Cables to be laid,,Bunch upto 3 Cables of any type,,
+"Specification ParameterBid Requirement (Allowed Values)Namework includes pulling of cablesinside the pipes fitted under theYESwallPatch work for joints in theYESpipes","Specification ParameterName",,Bid Requirement (Allowed Values)
+"work includes pulling of cablesinside the pipes fitted under thewall",,YES,
+"Patch work for joints in thepipes",,YES,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************HYDERABAD270045",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********HYDERABAD,,2700,,45,

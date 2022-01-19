@@ -1,0 +1,43 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 14:00:00,
+Bid Opening Date/Time,,06-08-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Manipur,
+Department Name,,Health Services Department Manipur,
+Organisation Name,,Directorate Of Health Services,
+Office Name,,Lamphel,
+Total Quantity,,1,
+Item Category,,Power Generator-DG Set (Upto 900 KVA),
+"Minimum Average Annual Turnover of theBidder",,4 Lakh (s),
+OEM Average Turnover (Last 3 Years),,4 Lakh (s),
+Years of Past Experience required,,3 Year (s),
+MSE Exemption for Years Of Experience,,Yes,
+Startup Exemption for Turnover,,Yes,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,80 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)Power GeneratorPower GeneratorFixed (Power Generators are permanently installed)""INSTALLATIONinstallation configurationsCONFIGURATIONSas defined in CPWD GeneralSpecifications for Electricalworks - Part VII (DG Set)OUTPUT CAPACITYNominal Rated Capacity62.5RATING/ PHASE(kVA)ENGINERated Engine Power (kWm)100 % of the required powered at STP(StandardTemperature Pressure) i.e equal to (Nominal RatedCapacity (KVA) of power generator + Any Auxilarypower Consumption by the Power generator) x Powerfactor(0.8) / Alternator efficience, 110 % of therequired powered at STP(Standard TemperaturePressure) i.e equal to (Nominal Rated Capacity (KVA)of power generator Any Auxilary power Consumptionby the Power generator) x Power factor(0.8) /Alternator efficience Or higherType of governerMechanical, Electronic Or higherRated RPM of Engine (RPM)1500FuelHigh Speed Diesel (HSD)ALTERNATORVoltage Regulation GradeVG 3 Or higherCONTROL PANELControl PanelManual Control PanelTRAILERTrailerNA for Fixed/Skid Mounted Power GeneratorPay load of the Trailer0, 500, 1000, 2000 Or higherSCOPE OFInstallationwith installation - inclusive in the scope of supply OrINSTALLATIONhigherWARRANTY/SERVICEWarranty on Complete24, 36 Or higherSpower genertor/DG SetNumber of preventive2maintenance visits offeredin an year during warrantyperiod (Supply of allconsumables is the buyer'sresponsibilty)*TEST REPORTSTest report Available forType Approval Certificate for the specified rating of(Test/approval)the Power Generator from any of the designatedagency authorized by CPCB, COP Certificate forengine, Type test report for Alternator as perIS:13364 (Part-1) latest / IS:13364 (Part-2) latest toprove conformity to the specifications",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Power GeneratorINSTALLATIONCONFIGURATIONS",,"Power Generatorinstallation configurationsas defined in CPWD GeneralSpecifications for Electricalworks - Part VII (DG Set)",,"Fixed (Power Generators are permanently installed)""",
+"OUTPUT CAPACITYRATING/ PHASE",,"Nominal Rated Capacity(kVA)",,62.5,
+ENGINE,,Rated Engine Power (kWm),,"100 % of the required powered at STP(StandardTemperature Pressure) i.e equal to (Nominal RatedCapacity (KVA) of power generator + Any Auxilarypower Consumption by the Power generator) x Powerfactor(0.8) / Alternator efficience, 110 % of therequired powered at STP(Standard TemperaturePressure) i.e equal to (Nominal Rated Capacity (KVA)of power generator Any Auxilary power Consumptionby the Power generator) x Power factor(0.8) /Alternator efficience Or higher",
+"",,Type of governer,,"Mechanical, Electronic Or higher",
+"",,Rated RPM of Engine (RPM),,1500,
+"",,Fuel,,High Speed Diesel (HSD),
+ALTERNATOR,,Voltage Regulation Grade,,VG 3 Or higher,
+CONTROL PANEL,,Control Panel,,Manual Control Panel,
+TRAILER,,Trailer,,NA for Fixed/Skid Mounted Power Generator,
+"",,Pay load of the Trailer,,"0, 500, 1000, 2000 Or higher",
+"SCOPE OFINSTALLATION",,Installation,,"with installation - inclusive in the scope of supply Orhigher",
+"WARRANTY/SERVICES",,"Warranty on Completepower genertor/DG Set",,"24, 36 Or higher",
+"",,"Number of preventivemaintenance visits offeredin an year during warrantyperiod (Supply of allconsumables is the buyer'sresponsibilty)*",,2,
+TEST REPORTS,,"Test report Available for(Test/approval)",,"Type Approval Certificate for the specified rating ofthe Power Generator from any of the designatedagency authorized by CPCB, COP Certificate forengine, Type test report for Alternator as perIS:13364 (Part-1) latest / IS:13364 (Part-2) latest toprove conformity to the specifications",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng OfficerSanasam Gopal795004,Medical Directorate1130SinghLamphel, Imphal west - 795004",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Sanasam GopalSingh",,"795004,Medical DirectorateLamphel, Imphal west - 795004",,1,,30,

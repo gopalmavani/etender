@@ -1,0 +1,46 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 17:00:00,
+Bid Opening Date/Time,,05-08-2021 17:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,Rail Coach Factory Kapurthala,
+Office Name,,Kapurthala,
+Total Quantity,,10,
+Item Category,,Portable Fire extinguishers as per IS 15683 (2018),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",Reserved for MSE,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,Type,,Stored Pressure
+"",,Extinguishing Media,,Powder Based (as per IS 4308 )
+"",,Expellant Medium,,N2 Based (Stored Pressure)
+"ConstructionalMaterial",,Type of Extinguisher,,Low Pressure Extinguisher (Service Pressure ?19 bar)
+"","Material Specification forthe body of High PressureExtinguisher (Hint: SelectNA Low PressureExtinguisher)",,NA,
+"","Material Specification forthe body of Low PressureExtinguisher (Hint: SelectNA High PressureExtinguisher)",,"Welded low carbon steel cylinders (as per Clause9.2.5 of IS 15683)",
+"","Foam Based ExtinguishingMedia (Hint: Select NA forExtinguishing Media otherthan Foam Based)",,NA,
+"","Powder BasedExtinguishing Media (Hint:Select NA for ExtinguishingMedia other than PowderBased)",,ABC,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Type of Clean Agent forClean Agent Based FireExtinguisher (as per CL 5-1-3) (HINT: Select NA forother Extinguishing Media)",,NA
+"",,"Foam Based FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Foam Based)",,NA
+"",,"Powder Based FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan Powder Based)",,2
+"",,"Carbon Dioxide Based FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan CO2 Based)",,NA
+"",,"Water Based FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Water Based)",,NA
+"",,"Clean Agents FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan Clean Agents Based)",,NA
+"",,"Water Mist FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Water Mist Based)",,NA
+"",,"Features of FireExtinguisher",,"Carrying Handle (Mandatory If Extinguisher havingmass ?1.5Kg or Cylinder diameter, Rechargeable"
+"",,"Class of fire for which FireExtinguisher is suitable",,Class -A
+Performance,,"Minimum Effectivedischarge time for FireExtinguisher",,13.0
+"","Fire Rating of differentclass of fires (Hint: Higheris better)",,2A,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer144602,Cheif Plant Engineer,1Arvind Kumar Singh1060Rail coach Factory, Kapurthala,",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Arvind Kumar Singh,,"144602,Cheif Plant Engineer,Rail coach Factory, Kapurthala,",,10,,60,

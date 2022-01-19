@@ -1,0 +1,46 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 11:00:00,
+Bid Opening Date/Time,,06-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Mines,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,Mineral Exploration Corporation Limited Nagpur,
+Total Quantity,,320,
+Item Category,,Plain Copier Paper-IS:14490 ( PAC Only ),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,7 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Make,copypower,
+Model,copypowera4plainpaper,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Certification,,Whether ISI Marked,,No
+"",Size,,Size of paper,,A4
+"",,,GSM of paper,,75
+"",Quantity,,"""Number of sheets perReam""",,500
+"","""ISOBrightness,percent,Min""(N>=80)",,More than 87.0 Or higher,,
+"","Opacity percent,Min(N>=85)",,More than 94.0 Or higher,,
+"","""One minute Cobb test bothsides,g/m2,Max"" (N<=25)",,Less than 25.0 Or lower,,
+"","""Tensile Index MachineDirection (MD) ,Nm/g, Min""(N>=40)",,More than 42.0 Or higher,,
+"","Tensile Index CrossDirection(CD),Nm/g,Min(N>=25)",,More than 27.0 Or higher,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"""Tear Index in mNm2/g,MachineDirection(MD),Min""(N>=3.5)",,More than 4.0 Or higher
+"","""Tear Index in mNm2/g,CrossDirection(CD)Min,""(N>=4.5)",,More than 5.0 Or higher,
+"","""Smoothness for both sides(Bendtsen) in ml/min,Max""(150<=N<=300)",,More than 240.0 Or higher,
+"","""Ashcontent(900?C),percent bymass,Max"" (N<=16)",,Less than 16.0 Or lower,
+"","Thickness in ?m,Min(N>=100+/-5)",,More than 95.0 Or higher,
+"","""Moisturecontent,percent,Max""(4<=N<=5.5)",,5,
+"","""Taber Stiffness ,MachineDirection(MD),Min"" (N>=2)",,More than 3.0 Or higher,
+"","Taber Stiffness ,CrossDirection(CD),Min (N>=1)",,More than 2.0 Or higher,
+"","""Surface Strength Dennison(Wax Pick)""",,NA,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer440006,Dr. BABASAHEBAMBEDKAR BHAWAN, OPP.1Jagdish Kumar32015CGO COMPLEX, SEMINARYHILLS, NAGPUR",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Jagdish Kumar,,"440006,Dr. BABASAHEBAMBEDKAR BHAWAN, OPP.CGO COMPLEX, SEMINARYHILLS, NAGPUR",,320,,15,

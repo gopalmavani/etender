@@ -1,0 +1,69 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 10:00:00,
+Bid Opening Date/Time,,09-08-2021 10:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,45 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,Southern Railway,
+Total Quantity,,134,
+Item Category,,Safety Footwear - Bis Specification-IS:15298 Part 2,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC),OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+SPECIFICATION,,"Technical Specification ofthe Product",,"Personal Protective Equipment - Safety Footwear asper BIS specification No IS 15298 ( Part 2 ): 2016,Latest along with Dte. General of Mines Safety(DGMS) approval"
+CERTIFICATION,,BIS Certification,,Yes
+UTILITY,,Utility,,Men
+CLASSIFICATION,,Classification,,"Class I ( Footwear made from leather and othermaterials, excluding all-rubber or all-polymericfootwear )"
+DESIGN,,Design,,A ( Low shoe )
+SIZE,,Size,,"Assorted sizes (5, 6, 7, 8, 9, 10, 11, 12 and 13) as perbuyer's requirements"
+"",Upper for Class 1 Footwear,,Leather,
+"","Surface Finish of UpperLeather for Class 1Footwear",,Buff Barton Print,
+"","Material for Class IIFootwear",,All Polyurethane,
+"",Vamp Lining,,With ( Classification I and Classification II Footwear ),
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Vamp Lining Material,,Textile
+"",,Quarter Lining,,Yes
+"",,Quarter Lining Material,,Textile
+"",,Toe Cap,,( Steel ) Metallic
+COLOUR,,Colour,,Black
+"OTHERREQUIREMENTS",,Insole,,Yes
+"",,Insocks,,Full Insocks Non Removable
+"",,"Tongue ( For Designation IFootwear )",,Full Bellow Tongue
+"",,Collar,,"Collar with PU Foam padding, 12 mm thick, density 25kg per cubic meter"
+"LACING/ CLOSINGOF SHOES",,Closing ( Tieing ),,Laces
+"",,Lacing of Shoes,,Eyelets
+"",,Eyelets ( Pairs ),,4 pairs
+"",,Material of Eyelets,,Aluminium
+"",,Laces,,Nylon
+"",,Cross Section Shape of Laces,,Round
+"",,Breaking Load of Laces ( min ),,600 N
+"",,Length of Laces,,90 cm
+SOLE,,Sole Description/ Material,,Direct Moulded Double Density Polyurethane
+"",,Sole Design,,Cleated
+"",,Construction,,Multi layer
+SLIP RESISTANT,,Slip Resistant,,"As per clause 5.3.5.2 of IS 15298 ( Part 2 )- Slipresistance on ceramic tile floor with sodium laurylsulphate (NaLS) solution"
+"ADDITIONALREQUIREMENTS FORSPECIALAPPLICATIONS-WHOLE FOOTWEAR",,"Additional Requirements forSpecial Applications- WholeFootwear",,Water resistance
+"ADDITIONALREQUIREMENTS FORSPECIALAPPLICATIONS (UPPER )",,"Water penetration andabsorption",,Yes
+"ADDITIONALREQUIREMENTS FORSPECIALAPPLICATIONS (OUTSOLE )",,"Additional Requirements forSpecial Applications-Outsole",,"Resistance to hot contact, Resistance to fuel oil"
+LOGO AND MARKING,,"Logo/ Totem/ EmblemMarking",,As per buyer's requirements
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Test Report,,"Availability of Test Reportfrom Designated AHSP/NABL/ ILAC accredited orCentral Government Lab toprove conformity ofproducts to thespecification",,Yes
+"",,"Test reports to be furnished tobuyer on demand, if claimed tobe available",,Yes
+ADVANCE SAMPLE,,"Agree to provide AdvanceSample(s) for buyer'sapproval beforecommencement of supply",,Yes
+"Specification ParameterBid Requirement (Allowed Values)NamePreferable MakeAllen Cooper, Lancer, Liberty, & BataSize:13 = 01 pair, Size:12 = 01 pair, Size:11 = 01 pair, Size:10 = 13 Pair,SizeSize 09 =28 Pairs, Size 08 = 49 Pair, Size 07 = 23 Pairs, Size 06 =14 Pairs,Size:05 = 04 pair.","Specification ParameterName",,Bid Requirement (Allowed Values)
+Preferable Make,,"Allen Cooper, Lancer, Liberty, & Bata",
+Size,,"Size:13 = 01 pair, Size:12 = 01 pair, Size:11 = 01 pair, Size:10 = 13 Pair,Size 09 =28 Pairs, Size 08 = 49 Pair, Size 07 = 23 Pairs, Size 06 =14 Pairs,Size:05 = 04 pair.",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer641001,Office of the SeniorSection Engineer, TrainSukumar1Lighting & Air Conditioning,13415ShanmugamCoaching Depot, SouthernRailway, Coimbatore-641001.",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"SukumarShanmugam",,"641001,Office of the SeniorSection Engineer, TrainLighting & Air Conditioning,Coaching Depot, SouthernRailway, Coimbatore-641001.",,134,,15,

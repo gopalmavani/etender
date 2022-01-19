@@ -1,0 +1,63 @@
+Bid Details,,,
+Bid End Date/Time,,10-08-2021 15:00:00,
+Bid Opening Date/Time,,10-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Petroleum And Natural Gas,
+Department Name,,Indian Oil Corporation Limited,
+Organisation Name,,Iocl- Panipat Refinery,
+Office Name,,Iocl- Panipat Refinery,
+Total Quantity,,300,
+Item Category,,Flameproof Manual Call Point-IS:2148,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Additional Doc 1 (Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,4 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,1350000,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Certification andStandard",,Conformity to IS 2148,,Yes
+"",,CE Certification,,Yes
+"ConstructionalParameter",,Finish,,Anti corrosive epoxy powder coated
+"",Color,,Red,
+"",Body material,,Aluminum Alloy LM-6,
+"",Power Mode,,"Automatic, Manual",
+"",Type of MCP,,Break glass call point,
+"",Gasket material,,Neoprene,
+"",Ingress Protection,,IP 66,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Accessories,,"Stopping plugs, Dust cap, LED status indication,stainless steel lift flap, Duty label, Tag label, Resistors"
+"",,Gasket,,Yes
+"TechnicalParameters",,Terminal Wire (mm2),,2.5
+"",,Mounting,,Wall
+"",,Terminal,,3
+"",,Cable Entry,,2
+"",,Break Glass,,Glass with chain and Hammer
+"",,Zone protection,,"IIA, IIB, I, 2, 21, 22"
+Electrical Parameter,,Power Supply,,DC
+"",,Input Power,,24.0
+"EnvironmentalCondition",,"Temperature,degree Celsius",,-40 to 70
+Dimension and Size,,Height,,245.0
+"",,Width,,145.0
+"",,Depth,,130.0
+Additional feature,,Features,,"High reliability, Simple to installation, Highperformance, Perfect functioning, Preciseengineering, Corrosion-resistant, Weather-resistant"
+Shelf Life,,Warranty,,1.0 - 10.0 Or higher
+Test Report,,"Test Report To Be Submitted ToThe Buyer On Demand",,Yes
+"","Name and Address of the lab(Please write NA if notapplicable)",,csircimfrdhanbad,
+"","Availability of Test Report fromCentral Govt/NABL/ILACaccredited lab to proveconformity to specification",,Yes,
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+Zone protection,,"Bidder to ignore above values against Zone Protection i.e. IIA, IIB, I, 2, 21,22. Our requirement for Zome Protection is Zone-1 & Zone-2, Gas group -IIA, IIB & IIC as per as per IS:2148-1981"
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+"Manual Call point (enclosurethread type) with Canopy",,Confirm
+Earthing,,"Earthing Shall be provided with one internal and two external earthingterminals of Brass/SS (M4/M6) dimensions with screw/bolt & plain washersand shall be located at a place easy to approach and carry out maintenance."
+Cable gland,,"The FLP MCP shall be provided with two numbers 3/4"" ET/BSC doublecompression brass nickel FLP cable gland and additional one no. plug ofsame material suitable for Gas Groups IIA, IIB & IIC for the cable entries andshall be approved by CIMFR/ PESO."
+Actuator Type and Allen bolts,,"Actuator Type shall be Red color mushroom head press & spring return typeactuator. Allen bolts shall be provided with retainable standard Allen typehexagonal socket head stainless steel screws to ensure they don't fall offduring maintenance."
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer132140,INDIANOILCORPORATION LTD. PANIPAT1Gopal Ji30042REFINERY , PO. BOHALI ,PANIPAT",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Gopal Ji,,"132140,INDIANOILCORPORATION LTD. PANIPATREFINERY , PO. BOHALI ,PANIPAT",,300,,42,

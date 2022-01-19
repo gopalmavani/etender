@@ -1,0 +1,44 @@
+Bid Details,,,
+Bid End Date/Time,,07-08-2021 16:00:00,
+Bid Opening Date/Time,,07-08-2021 16:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,Central Organisation For Railway Electrification (core),
+Office Name,,Head Quarters,
+Total Quantity,,11,
+Item Category,,"Led Luminaire (For Flood Light)-IS:10322, IS:16107",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,87230,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","LED Rating/SystemWattage/Rated Power",,200W
+"","Ingress Protection (IPRating) as per IS:10322(Part 1):1982 latest",,IP65
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Warranty for freereplacement (in Years)",,2
+"ELECTRICALEFFICIENCY",,"Input operating Voltagerange and frequency",,90 to 300 V olts AC at 50 Hz+/-2 Hz
+"",,Rated voltage,,230 V AC 50 Hz
+"",,"Total Harmonics Distortion(in %age)",,? 10
+OPTICAL,,"Colour temperature (+/-500K)",,6000K
+"",,"Working life for LED(Minimum 50,000 burninghours as per LM-80 report)",,Yes
+"",,"Colour RenderingIndex(CRI)",,?70
+"THERMALMANAGEMENT",,"Heat sink should be die-castaluminium along withsufficient heat sink fins todissipate heat effectively",,Yes
+"",,Junction temperature,,< 85 degC
+"",,"Operating temperaturerange",,-10 deg C to +50 deg C
+PROTECTION,,"The luminaire shall beprotected against surgesand transients ( Internal)",,>/=5KV
+"",,"The luminaire shall beprotected against surgesand transients of >/=10KV(External)",,Yes
+CONSTRUCTIONAL,,"Number of electroniccontrol gear (powersupplies)",,1 No.
+"",,"Length of ISI marked threecore wire (shall be providedalong with supply ofmaterial)",,50 cm
+"REPORTS ANDCERTIFICATIONS",,LED Make,,"OSRAM / NICHIA/CREE / SAMSUNG / SEOUL / LUMILED/ PHILIPS / EDISON / SYSKA / LUMENMAX / EVERLIGHT/ BRIDGELUX / NATIONSTAR / REFOND"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer713142,Office of theSSE/RE/BWCN, DS-10,ArindamBOWAICHANDI Railway Quarter11130BhattacharyyaPO BOWAICHANDI, Distt. PurboBardhaman (West Bengal)-713142",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"ArindamBhattacharyya",,"713142,Office of theSSE/RE/BWCN, DS-10,BOWAICHANDI Railway QuarterPO BOWAICHANDI, Distt. PurboBardhaman (West Bengal)-713142",,11,,30,

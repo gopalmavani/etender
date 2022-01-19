@@ -1,0 +1,40 @@
+Bid Details,,,
+Bid End Date/Time,,02-08-2021 13:00:00,
+Bid Opening Date/Time,,02-08-2021 13:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,5,
+Item Category,,Movable File Storage System (Compactor),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,119999,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Unbranded,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERIC,,Number of Bays,,1-Bay
+"",Type of Drive,,Mechnized Drive Type,
+"","Number of Movable Bodies(= A) (Double Faced / DualCabinets covering all bays)(Total number of availablesections = 2 X number ofbays X A)",,6,
+"","Number of Shelves in EachSection / Cabinet",,3 Shelves/4 Compartments,
+"","Load Carring Capacity ofEach Shelf (Kg)",,70 Kg,
+"","M S Sheet Thickness of theCabinet Body (mm)",,"0.8 mm thick CRC sheet conforming to Grade D of IS513/2008 latest",
+"","M S Sheet Thickness of theShelf Pannels (mm)",,"0.8 mm thick CRC sheet conforming to Grade D of IS513/2008 latest",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"M S Sheet Thickness of theDoor Pannels (mm)",,"0.8 mm thick CRC sheet conforming to Grade D of IS513/2008 latest"
+DIMENSION,,"Overall Height of theCabinet from the ground inmm ±10 (mm)",,2350
+"",,"Depth of the Cabinet±10(mm)",,457.0
+"",,"Width of the Cabinet in mm(± 5 mm) (THIS IS WIDTHOF EACH SECTION OR EACHBAY) Overall width of entirecompactor will be thiswidth multiplied by numberof bays)",,915.0
+WARRANTY,,"Warranty Period IN NUMBEROF YEARS",,"2, 3, 4, 5 Or higher"
+"DOORS ANDLOCKING",,"Central Locking System forlocking entire compactorunit",,YES
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************AHMED NAGAR545",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********AHMED NAGAR,,5,,45,

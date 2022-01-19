@@ -1,0 +1,61 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 19:00:00,
+Bid Opening Date/Time,,06-08-2021 19:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Electronics And Information Technology,
+Department Name,,Na,
+Organisation Name,,National Informatics Centre Services Incorporated (nicsi),
+Office Name,,"Hall No. 2 & 3, 6th Floor, Nbcc Tower-15, Bhikaji CamaPlace, New Delhi-110066",
+Total Quantity,,13,
+Item Category,,Online Ups-IS:9000,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,ICICI,
+"",ePBG Percentage(%),,3.00,
+"",Duration of ePBG required (Months).,,62,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GenericRating in KVA (KVA)2.0 KVATechnologyIGBT-PWM with inbuilt isolation transformerInput Powersingle phase 160V - 260V sinewave,50HzOutput powerSingle phase 230V +/-1% sinewave 50 HzBackup time (Minutes)120Minimum VAH (VAH)6550Warranty for UPS (Years)5Movable trolly for BatteriesWithWarranty for battery2Degree of ProtectionIP21Cabling 5 meters for inputWithand out putParalleling kit forWithoutsynchronisingConstructionalMinimum thickness of1.2M.S.Sheet Enclosure dulypainted (mm)Type of BatterySMF-VRLA conforming to JISC:8702(Pt.I,II&III)Functional20% Overload limit forYesminimum 10 minutesOverall Efficiency (%)>/=90%50% Overload limit forYesminimum 1 minutesReports AndAs per Meity (Government ofYesCertificationIndia) guidelines UPS shall havevalid BIS CRS certifications asapplicable",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,Rating in KVA (KVA),,2.0 KVA,
+"",,Technology,,IGBT-PWM with inbuilt isolation transformer,
+"",,Input Power,,"single phase 160V - 260V sinewave,50Hz",
+"",,Output power,,Single phase 230V +/-1% sinewave 50 Hz,
+"",,Backup time (Minutes),,120,
+"",,Minimum VAH (VAH),,6550,
+"",,Warranty for UPS (Years),,5,
+"",,Movable trolly for Batteries,,With,
+"",,Warranty for battery,,2,
+"",,Degree of Protection,,IP21,
+"",,"Cabling 5 meters for inputand out put",,With,
+"",,"Paralleling kit forsynchronising",,Without,
+Constructional,,"Minimum thickness ofM.S.Sheet Enclosure dulypainted (mm)",,1.2,
+"",,Type of Battery,,"SMF-VRLA conforming to JISC:8702(Pt.I,II&III)",
+Functional,,"20% Overload limit forminimum 10 minutes",,Yes,
+"",,Overall Efficiency (%),,>/=90%,
+"",,"50% Overload limit forminimum 1 minutes",,Yes,
+"Reports AndCertification",,"As per Meity (Government ofIndia) guidelines UPS shall havevalid BIS CRS certifications asapplicable",,Yes,
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,,Delivery Days,
+1,,"Santosh KumarMishra",,"273016,Commercial Court,Budh-Vihar Part-B DeoriaByePass Road, PO- RampurShivpuri, New Colony,Taramandal, Gorakhpur "" 13no.UPS shall be delivered asper Annexure of 13 location inUP. Annexure will be shared toL1 Bidder at the time ofissuance of GeM PO""",,13,,,45,
+"","UPSRating",,"15Minutes",,"30Minutes",,"60Minutes",,"90Minutes",,"120Minutes",,"180Minutes",,"240Minutes",
+"",1 KVA,,400 VAH,,800 VAH,,1600 VAH,,2400 VAH,,3200 VAH,,4800 VAH,,6400 VAH,
+"",2 KVA,,800 VAH,,1600 VAH,,3200 VAH,,4800 VAH,,6400 VAH,,9600 VAH,,12800 VAH,
+"",3 KVA,,1200 VAH,,2400 VAH,,4800 VAH,,7200VAH,,9600 VAH,,14400 VAH,,19200 VAH,
+"",5 KVA,,2000 VAH,,4000 VAH,,8000 VAH,,12000 VAH,,16000 VAH,,24000 VAH,,32000 VAH,
+"",6 KVA,,2400 VAH,,4800 VAH,,9600 VAH,,14400 VAH,,19200 VAH,,28800 VAH,,38400 VAH,
+"",7.5 KVA,,3000 VAH,,6000 VAH,,12000 VAH,,18000 VAH,,24000 VAH,,36000 VAH,,48000 VAH,
+"",10 KVA,,4000 VAH,,8000 VAH,,16000 VAH,,24000 VAH,,32000 VAH,,48000 VAH,,64000 VAH,
+"",15 KVA,,6000 VAH,,12000 VAH,,24000 VAH,,36000 VAH,,48000 VAH,,72000 VAH,,96000 VAH,
+"",20 KVA,,8000 VAH,,16000 VAH,,32000 VAH,,48000 VAH,,64000 VAH,,96000 VAH,,128000 VAH,
+"",30 KVA,,12000 VAH,,24000 VAH,,48000 VAH,,72000 VAH,,96000 VAH,,144000 VAH,,192000 VAH,
+"",40 KVA,,16000 VAH,,32000 VAH,,64000 VAH,,96000 VAH,,128000 VAH,,192000 VAH,,256000 VAH,
+"",60 KVA,,24000 VAH,,48000 VAH,,96000 VAH,,"144000VAH",,192000 VAH,,288000 VAH,,384000 VAH,
+"",80 KVA,,32000 VAH,,64000 VAH,,"128000VAH",,"192000VAH",,256000 VAH,,384000 VAH,,512000 VAH,
+"",100 KVA,,40000 VAH,,80000 VAH,,"160000VAH",,"240000VAH",,320000 VAH,,480000 VAH,,640000 VAH,

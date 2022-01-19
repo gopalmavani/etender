@@ -1,0 +1,80 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 09:00:00,
+Bid Opening Date/Time,,06-08-2021 09:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence Research & Development,
+Organisation Name,,Office Of Dg (mss),
+Office Name,,***********,
+Total Quantity,,5,
+Item Category,,Micro PC (MPC) ( PAC Only ),
+Years of Past Experience required,,2 Year (s),
+MSE Exemption for Years Of Experience,,Yes,
+Startup Exemption for Years Of Experience,,Yes,
+Document required from seller,,"Experience Criteria,Certificate (Requested in ATC),OEMAuthorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,595000,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,3.00,
+Duration of ePBG required (Months).,,40
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Make,hp,
+Model,hp400g6dmintelcorei710700t16256ssd3win10pwith27,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"",Processor Make,,"Intel, AMD Or higher",,,
+"",Processor Generation,,"8, 9, 10 Or higher",,,
+"",Processor Description,,"Intel Core i7-7700 (3.6 GHz, 8 MB Cache, 4 Cores),Intel Core i7-7700T (2.9 GHz, 8 MB Cache, 4 Cores),Intel Core i5-8250U (1.6 GHz, 6 MB Cache, 4 cores),Intel Core i5-8259U (2.3 GHz, 6 MB Cache, 4 cores),Intel Core i5-8350U (1.7 GHz, 6 MB Cache, 4 cores),Intel Core i7-8550U (1.8 GHz, 8 MB Cache, 4 cores),Intel Core i7-8559U (2.7 GHz, 8 MB Cache, 4 cores),Intel Core i7-8565U (1.8 GHz, 8 MB Cache, 4 cores),Intel Core i7-8650U (1.9 GHz, 8 MB Cache, 4 cores),Intel Core i5-8600 (3.1 GHz, 9 MB Cache, 6 Cores),Intel Core i7-8700T (3.1 GHz,12 MB Cache, 6 Cores),Intel Core i7-8700 (3.2 GHz,12 MB Cache, 6 Cores),Intel Core i5-9600T (2.3 GHz, 9 MB Cache, 6 Cores),Intel Core i7-9700T (2.0 GHz, 12 MB Cache, 8 Cores),Intel Core i5-8265U (1.6 GHz, 6 MB Cache, 4 cores),Intel Core i5-8365U (1.6 GHz, 6 MB Cache, 4 cores),Intel Core i5-8665U (1.9 GHz, 8 MB Cache, 4 cores),Intel Core i9 10900K, Intel Core i9 10900, Intel Corei7 10700K, Intel Core i7 10700, Intel Core i5 10600K,Intel Core i5 10600, Intel Core i5 10500, Intel Core i910900T, Intel Core i3 10320, Intel Core i5 10400, IntelCore i7 10700T, Intel Core i3 10300, Intel Core i510600T, Intel Core i3 10100, Intel Core i5 10500T Orhigher",,,
+"","Maximum PowerConsumption in fullyOperating Mode (Watt)",,"upto 30, 30 to 60 Or higher",,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Motherboard,,Chipset,,"Intel Q370, Intel Q470 Or higher"
+Graphics,,Graphic Card Memory (GB),,"0, 1, 2, 3, 4 Or higher"
+Operating System,,"Operating System (Pre-Loaded)",,Windows 10 Professional
+RAM,,Type of RAM,,DDR4 Or higher
+"",,RAM Size (GB),,"16, 32 Or higher"
+"",,"RAM Expandability upto(GB)",,64 Or higher
+Storage,,Type of Storage 1,,SATA
+"",,Storage 1 Capacity (GB),,"1024, 2048, 1000, 2000 Or higher"
+"",,Speed of Storage 1 (rpm),,"7200, 10000 Or higher"
+"",,Availability of Storage 2,,Yes Or higher
+"",,"If available Type of Storage2",,SSD
+"",,"If available, Storage 2Capacity (GB)",,"500, 1000, 256, 512, 1024, 2048, 2000 Or higher"
+"",,Optane Memory,,"Yes, No Or higher"
+"",,Size of Optane Memory (GB),,"8, 16, 32, 0 Or higher"
+Connectivity,,Wi Fi Connectivity,,Yes
+"",,"If Yes, type of Wi FiConnectivity",,"802.11ac, 802.11 ax Or higher"
+"",,Bluetooth Connectivity,,Yes
+Ports,,USB Port 2.0 (Number),,"2, 3, 4, 5, 6 Or higher"
+"",,USB Port 3.0 (Number),,"4, 5, 6 Or higher"
+"",,USB Type C (Number),,"1, 2 Or higher"
+"",,VGA Port (Number),,"0, 1, 2 Or higher"
+"",,HDMI Port (Number),,"1, 2 Or higher"
+"",,Display Port (Number),,"1, 2 Or higher"
+"",,Serial Port (Number),,"0, 1 Or higher"
+Cabinet,,DIMM Slots (Number),,2 Or higher
+"",Availability of Vesa Mount Kit,,Yes,
+"",Availability of Monitor,,Yes,
+"","If Yes, Monitor Size(INCHES)",,27 Or higher,
+"","If Yes, Monitor Resolution(PIXELS)",,"1920 x 1080, 3200 x 1800, 3840 x 2160, 1920 x 1200Or higher",
+"",Support for Dual Display,,Yes,
+"",Monitor Stand,,Height Adjustable Or higher,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,,,
+"",,TCO Certification for Monitor,,7 or above Or higher
+Input Devices,,Availability of Mouse,,Yes Or higher
+"",,"If Yes, Mouse Connectivity",,"Wired, Wireless Or higher"
+"",,Availability of Keyboard,,Yes Or higher
+"",,"If Yes, Keyboard Connectivity",,"Wired, Wireless Or higher"
+"",,"If yes, Type of Keyboard",,"Standard, Bilingual Or higher"
+"",,Security Lock,,Yes Or higher
+Certification,,"BEE / Energy Star for the givenModel",,Yes Or higher
+Warranty,,"On Site OEM Warranty(Year)",,"3, 5 Or higher"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************HYDERABAD560",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********HYDERABAD,,5,,60,

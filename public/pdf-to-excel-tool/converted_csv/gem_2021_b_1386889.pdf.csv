@@ -1,0 +1,50 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 14:00:00,
+Bid Opening Date/Time,,06-08-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,80 (Days),
+Ministry/State Name,,Ministry Of Heavy Industries And Public Enterprises,
+Department Name,,Department Of Heavy Industry,
+Organisation Name,,Bharat Heavy Electricals Limited (bhel),
+Office Name,,"10120029-herp, Varanasi",
+Total Quantity,,25,
+Item Category,,"Led Luminaire (For Road And Street Lights)-IS:10322, IS:16107, IS:16108,IS: 16103,IS:10322",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","LED Rating (inWatts)/SystemWattage/Rated Power",,45W
+"","Luminaire System Efficacy(Lumen/watt)",,>/= 100 Lm/Watt
+"","Ingress Protection (IPRating) as per IS:10322(Part 1):1982 latest",,IP66
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Warranty for freereplacement (in years)",,5
+"ELECTRICALEFFICIENCY",,"Input operating Voltagerange and frequency",,90 to 300 Volts AC at 50 Hz+/-2
+OPTICAL,,LED chip Efficacy,,?130 Lm/Watt
+"THERMALMANAGEMENT",,"Heat sink should be die-castaluminium along withsufficient heat sink fins todissipate heat effectively",,Yes
+"",,"Operating temperaturerange",,-10 deg C to +50 deg C
+PROTECTION,,Short circuit Protection,,Yes
+"",,Over load protecton,,Yes
+"",,Over Voltage protection,,Yes
+"",,Reverse polarity,,Yes
+"",,"The luminaire shall beprotected against surgesand transients ( Internal)",,>/=5KV
+CONSTRUCTIONAL,,"Protection of the entirehousing (both LED sectionand driver section) as perIS:10322 (Part 1):1982latest",,IP66
+"",,"Number of electroniccontrol gear (powersupplies)",,1 No.
+"",,Light Source,,SMD LED Chip as per LM 80/IS16106
+"",,"Length of ISI marked threecore wire (shall be providedalong with supply ofmaterial)",,50 cm
+MARKING,,"""Manufactures Name andand brand on the aluminiumdie cast body """,,Engraved/Embossed
+"",LED Make,,"OSRAM / NICHIA / CREE / SAMSUNG / SEOUL /LUMILEDS / PHILIPS / SYSKA / LUMENMAX / EVERLIGHT/ EDISON / BRIDGELUX / NATIONSTAR / REFOND",
+"","LM 79 (Photometry)(Ref.IS:16106:2012) reportfrom Central GovernmentLab /NABL/ILAC accrediatedlab. Reports shall be furnishto the buyer / consignee ondemand (LM-79 report shallhave total lumen output,power, PF, Current in Amps,CRI & CCT etc.,",,Yes,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"LM 80 & TM 21 (Ref.IS:16105:2012) Report andPhoto biological report forLED report from CentralGovernment Lab /NABL/ILACaccrediated lab. Reportsshall be furnish to thebuyer / consignee ondemand (LM-80 report shallhave the Pohoto Biologicalre",,Yes
+"","Availability of test Reportfrom Central GovernmentLab /NABL/ILAC accrediatedlab to Indian StandradIS:10322/part 5/sec-3/2012and IS 16107 (Part 2/Sec 1): 2012",,Yes,
+"","Seller shall furnish the Typetest reports to the buyer /consignee on demand",,Yes,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer221003,BHEL HERP, Tarna,1Ramesh Prasad2545Shivpur",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Ramesh Prasad,,"221003,BHEL HERP, Tarna,Shivpur",,25,,45,

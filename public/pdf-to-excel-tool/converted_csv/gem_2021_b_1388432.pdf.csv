@@ -1,0 +1,31 @@
+Bid Details,,,
+Bid End Date/Time,,30-07-2021 15:00:00,
+Bid Opening Date/Time,,30-07-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Civil Aviation,
+Department Name,,Air India Air Transport Services Limited,
+Organisation Name,,Air India Air Transport Services Limited,
+Office Name,,Aiatsl Hq Terminal 2 Igi Airport N Delhi,
+Total Quantity,,10000,
+Item Category,,Single Use Rubber Examination Gloves-IS 15354,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Unbranded,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GENERALSterilitySterile, Non SterilePowder FreeYES, NoDIMENSIONSSize (Palm Width in mm)Medium ( 95 mm)MATERIALMaterialCompounded NaturalPACKINGPacking for GolvesIndividual Packing for Sterilized Gloves, As permanufacturer's choice for Non-sterilized GlovesMulti Units in one Packet50, 100, 1000, 2000(Number)MARKINGISI MarkedNo",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERAL,,Sterility,,"Sterile, Non Sterile",
+"",,Powder Free,,"YES, No",
+DIMENSIONS,,Size (Palm Width in mm),,Medium ( 95 mm),
+MATERIAL,,Material,,Compounded Natural,
+PACKING,,Packing for Golves,,"Individual Packing for Sterilized Gloves, As permanufacturer's choice for Non-sterilized Gloves",
+"",,"Multi Units in one Packet(Number)",,"50, 100, 1000, 2000",
+MARKING,,ISI Marked,,No,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer700052,AIATSL, GSD,NTA,1SUSHANTA ROY100007NSCBI Airport, Kolkata.",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,SUSHANTA ROY,,"700052,AIATSL, GSD,NTA,NSCBI Airport, Kolkata.",,10000,,7,

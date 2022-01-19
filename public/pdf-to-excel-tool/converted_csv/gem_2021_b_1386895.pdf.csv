@@ -1,0 +1,62 @@
+Bid Details,
+Bid End Date/Time,11-08-2021 10:00:00
+Bid Opening Date/Time,11-08-2021 10:30:00
+Bid Life Cycle (From Publish Date),90 (Days)
+Bid Offer Validity (From End Date),75 (Days)
+Ministry/State Name,Ministry Of Labour And Employment
+Department Name,Na
+Organisation Name,Employees State Insurance Corporation (esic)
+Office Name,Hyderabad
+Total Quantity,1
+Item Category,Gel Documentation System
+"Minimum Average Annual Turnover of theBidder",24 Lakh (s)
+OEM Average Turnover (Last 3 Years),196 Lakh (s)
+Years of Past Experience required,3 Year (s)
+"MSE Exemption for Years Of Experienceand Turnover",Yes
+"Startup Exemption for Years Of Experienceand Turnover",Yes
+Document required from seller,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover,Additional Doc 1(Requested in ATC),Additional Doc 2 (Requested inATC),Additional Doc 3 (Requested in ATC),Additional Doc 4(Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer"
+Past Performance,50 %
+Bid to RA enabled,Yes
+"Comprehensive Maintenance ChargesRequired",Yes
+"Time allowed for Technical Clarificationsduring technical evaluation",2 Days
+Evaluation Method,Total value wise evaluation
+"",Advisory Bank,,State Bank of India,
+EMD Percentage(%),,2.00,,
+EMD Amount,,99379,,
+"",Advisory Bank,,State Bank of India,
+ePBG Percentage(%),,3.00,,
+Duration of ePBG required (Months).,,36,,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"","Camera imager for imagingapplications",,"DNA gels, Protein gels, Fluorescence, Colorimetricdetection, Chemi, 3 colour detection, Infraredfluorescence",,,
+"",Type of Camera,,CCD,,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"System should enabledetection of picogramlevels of sample withchemiluminescence",,Yes Or higher
+"",,Display,,Touch screen
+"",,"Machine should haveonboard capture andanalyse software for easeof use and automation, withPC connectivity and USBconnection",,Yes Or higher
+"",,"Camera with fixed focusmotorized lens",,Yes Or higher
+"",,"Cooling Temperatureavailable for the camera in°C",,-25
+"",,"Camera resolution in MegaPixel (MP)",,>= 8 Mega Pixel
+"",,"Compact dark room shouldinclude",,UV Transilluminater
+"",,"UV transilluminationwavelength (nm)",,365
+"",,"Imaging area in cm x cmwith tolerance of ±10%",,25x30
+"",,"Machine should includepositions motorised filterwheel with suitable filterfor EtBr, SYBR Green,Coomassie Blue, SilverStain",,5
+"",,"Sample placement slotshould be adjustable as peruser requirement andapplication specific traysfor UV, White andChemiluminescent Blotsamples should be provided",,Yes Or higher
+"",,Modes of image capturing,,"Automatic, Semi automatic, Manual"
+"",,Analysis software,,1D & 2D
+"MiscellaneousParameters",,"Comprehensive Warranty inyears",,2
+"","Number of installations ofthe Machine machines inCentral /State/PSU GovtHospitals( Note: Sellershould supply a performacecertificate of the device tothe buyer if demanded afterplacement of order)",,More than 3,
+"Comprehensive MaintenanceWarranty of required product2 YearComprehensive Maintenance Duration (Post5 YearWarranty)",Comprehensive Maintenance,
+Warranty of required product,,2 Year
+"Comprehensive Maintenance Duration (PostWarranty)",,5 Year
+"Specification ParameterBid Requirement (Allowed Values)Namea. Type of Camera b. megapixela. CCD b. 5-9 mega pixel(MP) c. Peltier based cooling of -30oC Absolute or -c. cooling temperature for the50oCcamera in 0ca. Compact dark room shouldinclude b UV transilluminationa UV Transilluminator with White, Blue Light source b 302 c Yes 590nmwavelength (nm) c Suitablestandard filter chemilumiscence filter 518-546 nm filter 577-613nm filterfilter for ETBr, SYBR Green,675-725nm filter 700-730nm filter 813-860nm filterCoomassie Blue, Silver staina Should have bright lens,Automatic focusing andcalibrations for quantitative blota Yes b 20-25 x 20-30 cmand gel imaging b Imaging areain cm x cm with tolerance of 10percentagea Sample placement slot shouldbe adjustable for specific trays –UV, White and Chemilimiscencea Yes b Automatic semi automatic manual c 1D, 2Db Modes of Image capturing cAnalysis of softwareSystem should enable detectionYesof picogram levels of sample","Specification ParameterName",,Bid Requirement (Allowed Values)
+"a. Type of Camera b. megapixelc. cooling temperature for thecamera in 0c",,"a. CCD b. 5-9 mega pixel(MP) c. Peltier based cooling of -30oC Absolute or -50oC",
+"a. Compact dark room shouldinclude b UV transilluminationwavelength (nm) c Suitablefilter for ETBr, SYBR Green,Coomassie Blue, Silver stain",,"a UV Transilluminator with White, Blue Light source b 302 c Yes 590nmstandard filter chemilumiscence filter 518-546 nm filter 577-613nm filter675-725nm filter 700-730nm filter 813-860nm filter",
+"a Should have bright lens,Automatic focusing andcalibrations for quantitative blotand gel imaging b Imaging areain cm x cm with tolerance of 10percentage",,a Yes b 20-25 x 20-30 cm,
+"a Sample placement slot shouldbe adjustable for specific trays –UV, White and Chemilimiscenceb Modes of Image capturing cAnalysis of software",,"a Yes b Automatic semi automatic manual c 1D, 2D",
+"System should enable detectionof picogram levels of sample",,Yes,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer500038,Sanathanagar,1Sailaja Vani Batchu130Hyderabad",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Sailaja Vani Batchu,,"500038,Sanathanagar,Hyderabad",,1,,30,

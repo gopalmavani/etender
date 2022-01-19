@@ -1,0 +1,76 @@
+Bid Details,,,
+Bid End Date/Time,,03-08-2021 11:00:00,
+Bid Opening Date/Time,,03-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Power,
+Department Name,,Contracts And Materials,
+Organisation Name,,Damodar Valley Corporation,
+Office Name,,Damodar Valley Corporation,
+Total Quantity,,1136,
+Item Category,,Plain Copier Paper-IS:14490,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+Primary product category,,Plain Copier Paper-IS:14490,
+"Time allowed for Technical Clarificationsduring technical evaluation",,7 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Certification,,"Conformance to IndianStandard",,Conforming to IS14490 : Latest
+"",,Whether ISI Marked,,Yes
+Test Report Details,,"""Test Report to be Submitted tothe Buyer on demand""",,Yes
+"AdditionalRequirements foreco mark",,"The material shall bemanufactured from pulpcontaining not less than 60%by mass of pulp made frommaterials other thanbamboo,hard woods ,softwoodsand reed or the material shallbe manufactured from pulpmade from 100%waste paper",,Yes
+Size,,Size of paper,,Legal
+"",,GSM of paper,,75
+Quantity,,"""Number of sheets perReam""",,500
+"","""ISOBrightness,percent,Min""(N>=80)",,80 Or higher,
+"","Opacity percent,Min(N>=85)",,85 Or higher,
+"","""One minute Cobb test bothsides,g/m2,Max"" (N<=25)",,25 Or lower,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"""Tensile Index MachineDirection (MD) ,Nm/g, Min""(N>=40)",,40 Or higher
+"",,"Tensile Index CrossDirection(CD),Nm/g,Min(N>=25)",,25 Or higher
+"",,"""Tear Index in mNm2/g,MachineDirection(MD),Min""(N>=3.5)",,Any applicable numeric value
+"",,"""Tear Index in mNm2/g,CrossDirection(CD)Min,""(N>=4.5)",,Any applicable numeric value
+"",,"""Smoothness for both sides(Bendtsen) in ml/min,Max""(150<=N<=300)",,Any applicable numeric value
+"",,"""Ashcontent(900?C),percent bymass,Max"" (N<=16)",,16 Or lower
+"",,"Thickness in ?m,Min(N>=100+/-5)",,Any applicable numeric value
+"",,"""Moisturecontent,percent,Max""(4<=N<=5.5)",,Any applicable numeric value
+"",,"""Taber Stiffness ,MachineDirection(MD),Min"" (N>=2)",,2 Or higher
+"",,"Taber Stiffness ,CrossDirection(CD),Min (N>=1)",,1 Or higher
+"",,"""Surface Strength Dennison(Wax Pick)""",,"No pick on 12 A, ""No pick on 13 A"", NA"
+Packing and Marking,,"Package should be marked withDescription,size ofPaper,Quantity,Mass of500/250 sheets includingwrapping paper in kg/reamChargeable wt should be net wtexcluding the wt of packing,LotNumber and month/year ofmanufacturing,Name ofmanufacturer",,Yes
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer722183,Office of the Store InCharge, Central Stores, Mejia1Sachinandan Das11790Thermal Power Station (MTPS)-DVC, Mejia",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Sachinandan Das,,"722183,Office of the Store InCharge, Central Stores, MejiaThermal Power Station (MTPS)-DVC, Mejia",,117,,90,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Certification,,"Conformance to IndianStandard",,Conforming to IS14490 : Latest
+"",,Whether ISI Marked,,"Yes, No"
+Test Report Details,,"""Test Report to be Submitted tothe Buyer on demand""",,Yes
+"AdditionalRequirements foreco mark",,"The material shall bemanufactured from pulpcontaining not less than 60%by mass of pulp made frommaterials other thanbamboo,hard woods ,softwoodsand reed or the material shallbe manufactured from pulpmade from 100%waste paper",,"Yes, NA"
+Size,,Size of paper,,A4
+"",,GSM of paper,,80
+Quantity,,"""Number of sheets perReam""",,500
+"","""ISOBrightness,percent,Min""(N>=80)",,80 Or higher,
+"","Opacity percent,Min(N>=85)",,85 Or higher,
+"","""One minute Cobb test bothsides,g/m2,Max"" (N<=25)",,25 Or lower,
+"","""Tensile Index MachineDirection (MD) ,Nm/g, Min""(N>=40)",,40 Or higher,
+"","Tensile Index CrossDirection(CD),Nm/g,Min(N>=25)",,25 Or higher,
+"","""Tear Index in mNm2/g,MachineDirection(MD),Min""(N>=3.5)",,Any applicable numeric value,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,,,
+"",,"""Tear Index in mNm2/g,CrossDirection(CD)Min,""(N>=4.5)",,Any applicable numeric value
+"",,"""Smoothness for both sides(Bendtsen) in ml/min,Max""(150<=N<=300)",,Any applicable numeric value
+"",,"""Ashcontent(900?C),percent bymass,Max"" (N<=16)",,16 Or lower
+"",,"Thickness in ?m,Min(N>=100+/-5)",,Any applicable numeric value
+"",,"""Moisturecontent,percent,Max""(4<=N<=5.5)",,Any applicable numeric value
+"",,"""Taber Stiffness ,MachineDirection(MD),Min"" (N>=2)",,2 Or higher
+"",,"Taber Stiffness ,CrossDirection(CD),Min (N>=1)",,1 Or higher
+"",,"""Surface Strength Dennison(Wax Pick)""",,"No pick on 12 A, ""No pick on 13 A"", NA"
+Packing and Marking,,"Package should be marked withDescription,size ofPaper,Quantity,Mass of500/250 sheets includingwrapping paper in kg/reamChargeable wt should be net wtexcluding the wt of packing,LotNumber and month/year ofmanufacturing,Name ofmanufacturer",,Yes
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer722183,Office of the Store InCharge, Central Stores, Mejia1Sachinandan Das101990Thermal Power Station (MTPS)-DVC, Mejia",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Sachinandan Das,,"722183,Office of the Store InCharge, Central Stores, MejiaThermal Power Station (MTPS)-DVC, Mejia",,1019,,90,

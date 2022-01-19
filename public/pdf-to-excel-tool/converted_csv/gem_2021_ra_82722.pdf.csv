@@ -1,0 +1,29 @@
+RA Details,,,
+RA Technical End Date/Time,,16-08-2021 15:00:00,
+RA Opening Date/Time,,16-08-2021 15:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,Buy Back - Stationary Value Regulated lead acid batteries,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,7 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+Brand Type,Registered Brand
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"Description of NewBattery to besupplied by Seller",BIS Marked,"Yes, No"
+"",Battery Voltage,12 Volt
+"","Battery Capacity (in Ah) at10 H Rate","120 Ah, 150 Ah"
+"",Material of Container,"Polypropylene Co-polymenr (PPCP), Acrylonitrilebutadiene styrene (ABS)"
+CONSTRUCTIONAL,Number of cells per battery,6 Cells for 12 Volt Battery
+"Method of connectionsbetween cells",Bolted,
+Warranty (in Years),"1, 5",
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days
+1,***********,***********PUNE,1,30

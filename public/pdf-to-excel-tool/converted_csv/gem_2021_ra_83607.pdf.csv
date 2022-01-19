@@ -1,0 +1,41 @@
+RA Details,,,
+RA Technical End Date/Time,,31-07-2021 18:00:00,
+RA Opening Date/Time,,31-07-2021 18:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Navy,
+Office Name,,***********,
+Total Quantity,,50,
+Item Category,,Plain Copier Paper-IS:14490,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+Brand Type,Registered Brand
+Specification,Specification Name,Bid Requirement (Allowed Values)
+Certification,Whether ISI Marked,"Yes, No"
+Size,Size of paper,A4
+"",GSM of paper,75
+Quantity,"""Number of sheets perReam""",500
+"""ISOBrightness,percent,Min""(N>=80)",80 Or higher,
+"Opacity percent,Min(N>=85)",85 Or higher,
+"""One minute Cobb test bothsides,g/m2,Max"" (N<=25)",25 Or lower,
+"""Tensile Index MachineDirection (MD) ,Nm/g, Min""(N>=40)",40 Or higher,
+"Tensile Index CrossDirection(CD),Nm/g,Min(N>=25)",25 Or higher,
+"""Tear Index in mNm2/g,MachineDirection(MD),Min""(N>=3.5)",Any applicable numeric value,
+"""Tear Index in mNm2/g,CrossDirection(CD)Min,"" (N>=4.5)",Any applicable numeric value,
+"""Smoothness for both sides(Bendtsen) in ml/min,Max""(150<=N<=300)",Any applicable numeric value,
+"""Ashcontent(900?C),percent bymass,Max"" (N<=16)",16 Or lower,
+"Thickness in ?m,Min(N>=100+/-5)",Any applicable numeric value,
+"""Moisturecontent,percent,Max""(4<=N<=5.5)",Any applicable numeric value,
+"""Taber Stiffness ,MachineDirection(MD),Min"" (N>=2)",2 Or higher,
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"","Taber Stiffness ,CrossDirection(CD),Min (N>=1)",1 Or higher
+"""Surface Strength Dennison(Wax Pick)""","No pick on 12 A, ""No pick on 13 A"", NA",
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days
+1,***********,***********MUMBAI,50,15

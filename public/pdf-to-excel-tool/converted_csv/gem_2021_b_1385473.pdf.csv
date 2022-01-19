@@ -1,0 +1,39 @@
+Bid Details,,,
+Bid End Date/Time,,17-08-2021 14:00:00,
+Bid Opening Date/Time,,17-08-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,65 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence Production,
+Organisation Name,,Indian Ordnance Factories,
+Office Name,,***********,
+Total Quantity,,1000,
+Item Category,,Power Cable For Direct Burial Xlpe Ugac Cable-IS: 10418,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,3.00,
+"",Duration of ePBG required (Months).,,5,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GENERICSize of Cable (in Sq.mm)240.0Number of cores (nos)3.5, 4Cable TypeCross linked polyethylene and XLPE insulated PVCouter sheathed cable with aluminum conductorsuitable for rated voltage at 1100 volts grade andconforming to IS: 7098 Part-1 1988 with amendmentnumber 1 and 2 and 3 Reaffirmed 2005ArmouringGalvanised steel Strip armouredArmouring Typesingle wire or strip armouringshape of conductorStranded and ShapedCONSTRUCTIONALMaterial of conductorAluminium EC Gradestandard cable length on a1000 meterdrumCERTIFICATIONSAvailability of Type test reportyesfrom Centralgovernment/NABL/ILACaccridiated laboratory to proveconformity to the specificationfor minimum and maximumratings.",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERIC,,Size of Cable (in Sq.mm),,240.0,
+"",,Number of cores (nos),,"3.5, 4",
+"",,Cable Type,,"Cross linked polyethylene and XLPE insulated PVCouter sheathed cable with aluminum conductorsuitable for rated voltage at 1100 volts grade andconforming to IS: 7098 Part-1 1988 with amendmentnumber 1 and 2 and 3 Reaffirmed 2005",
+"",,Armouring,,Galvanised steel Strip armoured,
+"",,Armouring Type,,single wire or strip armouring,
+"",,shape of conductor,,Stranded and Shaped,
+CONSTRUCTIONAL,,Material of conductor,,Aluminium EC Grade,
+"",,"standard cable length on adrum",,1000 meter,
+CERTIFICATIONS,,"Availability of Type test reportfrom Centralgovernment/NABL/ILACaccridiated laboratory to proveconformity to the specificationfor minimum and maximumratings.",,yes,
+"Specification ParameterBid Requirement (Allowed Values)NameArmouring TypeStrip Armouring","Specification ParameterName",,Bid Requirement (Allowed Values)
+Armouring Type,,Strip Armouring,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************BHANDARA100090",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********BHANDARA,,1000,,90,

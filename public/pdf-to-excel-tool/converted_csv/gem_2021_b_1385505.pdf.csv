@@ -1,0 +1,38 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 16:00:00,
+Bid Opening Date/Time,,05-08-2021 16:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Finance,
+Department Name,,Department Of Financial Services,
+Organisation Name,,Indian Overseas Bank,
+Office Name,,Chennai,
+Total Quantity,,24,
+Item Category,,"Buy Back - Stationary lead acid batteries (with tubularpositive plates) in monobloc containers",
+Years of Past Experience required,,3 Year (s),
+MSE Exemption for Turnover,,Yes,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Certificate (Requested in ATC),OEMAuthorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)Description of NewBIS MarkedYes, NoBattery to besupplied by SellerBattery Voltage/Capacity (in12 V/100 AhAh) at 10 H RateMaterial of ContainerFRP (Fibre reinforced plasticMaximum overall dimension535 x 295 x 450 for 12 Volt upto 200 Ah(Length x Width x Height)in mm",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Description of NewBattery to besupplied by Seller",,BIS Marked,,"Yes, No",
+"","Battery Voltage/Capacity (inAh) at 10 H Rate",,12 V/100 Ah,,
+"",Material of Container,,FRP (Fibre reinforced plastic,,
+"","Maximum overall dimension(Length x Width x Height)in mm",,535 x 295 x 450 for 12 Volt upto 200 Ah,,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer626123,INDIAN OVERSEASBANK, SIVAKASI BRANCH, NO.41Vinoth Kumar V C815, GEETHALAYA BUILDING, NEARWATER TANK, SIVAKASI623601,INDIAN OVERSEASBANK ABHIRAMAM BRANCH ,2Shibu C TNo 6/ 1-2, Muslim Bazaar ,815Abhiramam, Kamuthi Taluk,Ramanathapuram623603,INDIAN OVERSEASBondeli NarendraBANK , KAMUDHI BRANCH,3815Singh28,LOCAL FUNDROAD,KAMUTHI(KAMUDI),",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days,
+1,,Vinoth Kumar V C,,"626123,INDIAN OVERSEASBANK, SIVAKASI BRANCH, NO.4, GEETHALAYA BUILDING, NEARWATER TANK, SIVAKASI",,8,,15,,
+2,,Shibu C T,,"623601,INDIAN OVERSEASBANK ABHIRAMAM BRANCH ,No 6/ 1-2, Muslim Bazaar ,Abhiramam, Kamuthi Taluk,Ramanathapuram",,8,,15,,
+3,,"Bondeli NarendraSingh",,"623603,INDIAN OVERSEASBANK , KAMUDHI BRANCH,28,LOCAL FUNDROAD,KAMUTHI(KAMUDI),",,8,,15,,
+Excel sheet for explanation to Buyback ATC,,,,,,,
+"S.no","CostofFreshGood(A)","%age of GST onFresh Good asconsidered by sellerat the time of quote(B).","GSTAmountonFreshGood(C)","CostofBuybackitem(D)","%age of GST onBuyback items(E) as fixed bybuyer in the bid","GST Amount onBuyback item (F) asapplicable at thetime of invoice bybuyer","Quote oftheBidder(G={A+C-D})"
+1,100,28,28,20,8,1.6,108
+2,100,9,9,20,8,1.6,89
+3,110,10,11,24,8,1.92,97
+"Seller after the award of the GeM contract, will indicate all column A to G which will not alter their quotedprice indicated in Colum-G",,,,,,,

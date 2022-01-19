@@ -1,0 +1,96 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 14:00:00,
+Bid Opening Date/Time,,09-08-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Atomic Energy,
+Organisation Name,,N/a,
+Office Name,,Directorate Of Purchase And Stores,
+Total Quantity,,2,
+Item Category,,"DSLR/ COMPACT / HANDHELD CAMCORDER or VIDEOCAMERAS",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+TYPE,,Classification of Camera,,Still
+"",,Type of Camera,,Compact Digital camera
+IMAGE SENSOR,,Image Sensor,,CMOS
+"","Sensor Size for Fixed LensCamera (inch)",,1,
+"","Sensor Size forInterchangeable LensCamera (mmxmm)",,17.3 x 13.0,
+"","Effective Pixels (MegaPixels)",,20,
+"","ISO (Sensitivity of theimage Sensor) Max",,"25600, 32000, 40000, 51200 Or higher",
+"",Lens Mounting,,Detachable,
+"",Type of Lens,,Zoom Lens,
+"",Minimum Focal Length,,146.0,
+"",Maximum Focal Length,,592.0,
+"","Minimum Lens Aperture(f/number)",,2.8,
+"","Maximum Lens Aperture(f/number)",,8,
+"",Optical Zoom,,16X to 20X,
+"",Digital Zoom (X),,4,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Maximum Field of View,,90.0
+"",,Focus Mode,,"Auto, Manual"
+Video Recording,,Video Recoding,,Yes
+"",,"Maximum RecordingResolution (Pixels)",,4K (3840 x 2160)
+"",,Frame Rate,,120
+"",,Video Compression Format,,"MJPEG, MPEG4"
+"",,Live Video Streaming,,Yes
+"",,Video Output Port,,"Mini HDMI, HDMI"
+"",,Video file format,,"AVCHD, MP4"
+AUDIO,,Audio Recording,,Yes
+"",,Audio Recording Type,,Buit-in
+"",,Number of Audio Input Port,,1
+"",,Type of Audio input Port,,3.5 mm (Stero mini jack)
+"",,Audio Output,,Yes
+"",,Number of Audio Output Port,,NA
+"",,Type of Audio output Port,,NA
+DISPLAY,,Display,,Yes
+"",Display Type,,LCD,
+"",Touch Screen,,No,
+"",Display Size (inch),,2.6 - 3,
+"",Vari Angle Screen,,Yes,
+"",View Finder,,Yes,
+"",Flash,,"Built-in, External (Not inclusive in the scope ofsupply), NA",
+"","GPS coordinates Stamping ontoVideos / photographs",,No,
+"",Gyro Sensor,,No,
+"",Voice Control,,Yes,
+"",Connectivity Interface,,"Wi-Fi, USB",
+"",Control,,"Remote, App",
+"","Supported Operating Systemsfor App",,"iOs, Android, Windows",
+"",Picture control system,,"Auto, standard, portrait, monochrome, landscape",
+"",Noise reduction Feature,,Yes,
+"",Flash modes,,Auto,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Shutter type,,electronically controlled
+"",,Minimum Shutter Speed,,60.0
+"",,Maximum Shutter Speed,,0.1
+"",,Drive modes,,Countinous Shooting
+STORAGE,,Storage Type,,SD
+"",,Dual Slot,,No
+"",,"SD Card Memory inclusive inthe scope of supply (GB)",,NA
+"",,"Memory Card expandable upto(GB)",,128
+"",,In-built Memory(GB),,0
+BATTERY,,Power Source,,Rechargeable Battery
+"",,"Battery Size, if NonRechargeable Battery",,9 - V Rectangular Battery
+"",,"Battery Chemistry, ifRechargeable Battery",,Li-Ion
+"",,"Number of Batteries requiredfor operation",,1
+"",,"Number of Batteries supplied(Inclusive in the Scope ofSupply)",,1
+"",,BATTERY CAPACITY (mAh),,1200
+"",,"Battery Charger forRechargeable Batteries",,Yes
+"OPERATINGCONDITIONS",,"Minimum OperatingTemperature (for land use)",,-5.0
+"",,"Maximum OperatingTemperature (for land use)",,60.0
+"",,"Operating Humidity, Rh at40 deg C",,90.0
+GENERIC,,Housing construction,,Metallic
+"",,IP Protection,,IP 21
+"",,Carry Case inclusive,,No
+WARRANTY,,Warranty,,2.0
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer400085,Material Receipt CellMahesh Gajanan(MRC), North Gate, Central1290PedhaviStores Unit, BARC, TROMBAY,MUMBAI",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Mahesh GajananPedhavi",,"400085,Material Receipt Cell(MRC), North Gate, CentralStores Unit, BARC, TROMBAY,MUMBAI",,2,,90,

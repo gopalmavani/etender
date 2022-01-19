@@ -1,0 +1,49 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 17:00:00,
+Bid Opening Date/Time,,05-08-2021 17:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,West Bengal,
+Department Name,,Finance Department West Bengal,
+Organisation Name,,Directorate Of Treasuries And Accounts West Bengal,
+Office Name,,Kolkata,
+Total Quantity,,973,
+Item Category,,"END POINT PROTECTION SOFTWARE/ APPLIANCES (Version2.0) ( PAC Only )",
+"Minimum Average Annual Turnover of theBidder",,5 Lakh (s),
+OEM Average Turnover (Last 3 Years),,5 Lakh (s),
+Years of Past Experience required,,3 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,Bidder Turnover,OEMAnnual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,50 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Make,quickheal,
+Model,quickhealeps7.6totalstandard3year51-350antivirus(seqrite),
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"",Software Type,,End Point Protection Software/ Appliances,,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Component of End PointProtectionSoftware/Appliance offeredin the scope of supply",,"Policy Management, Centralized Management,Updation and Upgradation Management, AdvancedEndpoint Protection, Device Control, Data LossProtection, Mobile and Virtual Environment"
+"",Types of Licence,,Subscription,
+"",""" Duration of Subscription(in Years) (Hint :- Select '0'if not applicable)""",,3.0 - 5.0 Or higher,
+"","OEM Licensing policy (Hint:-Device means Server,Desktop, Laptop,Thin clientetc)",,Per Device,
+"","Number of devices forlicense offered in the scopeof supply (Hint :- Select '0'if not applicable)",,10000.0 - 10000.0 Or higher,
+"","Number of users for licenseoffered in the scope ofsupply (Hint :- Select '0' ifnot applicable)",,10000.0 - 10000.0 Or higher,
+"",Scope of Installation,,"Installation, Integration, Configuration, End to EndWorkflow Implementation, User Acceptance Testing ofoffered modules",
+"",Deployment option,,"On premises, Cloud",
+"","The offered product havesupport from OEM for",,"Updation for Patches and Bug fixes within supportperiod, Upgradation of version within support period",
+"","Number of Years for OEMsupport for updation(Patches and Bug fixes) isincluded in the scope ofsupply (Hint :- Select '0' ifnot applicable)",,3.0 - 5.0 Or higher,
+"","Number of Years for OEMsupport for Upgradation ofversion is included in thescope of supply (Hint :-Select '0' if not applicable)",,3.0 - 5.0 Or higher,
+"",Training Options,,"On-Site, Virtual, Training Material",
+"","Number of days TrainingProvided (Hint :- Select '0' ifnot applicable)",,5.0 - 30.0 Or higher,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Advanced EndpointProtection",,"Advanced EndpointProtection Features",,"Blended Threats/Malware Protection,(HIPS)/Behavioral Analytics, HTTP Malware Detection,HTTPS Malware Detection, Automated Malware andThreat Removal, Web Filtering, Suspicious emailattachments scanning, Enhanced remediationcapabilities, Global Threat Intelligence with ReputaionSource configuration capability, Advanced Protectionagainst fileless attack methods, Data Protection / Fulldisk and file Encryption, Data backup / Data recovery/ Roll Back, End point forensic, Memory Protection,Advance machine learning and AI based nextgeneration End point security, Integration with asandboxing solution for APT detection, Applicationstartup Control"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1Sumit Gupta700001,8,Lyons Range97315",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Sumit Gupta,,"700001,8,Lyons Range",,973,,15,

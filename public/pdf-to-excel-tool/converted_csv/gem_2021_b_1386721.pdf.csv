@@ -1,0 +1,53 @@
+Bid Details,,,
+Bid End Date/Time,,17-08-2021 10:00:00,
+Bid Opening Date/Time,,17-08-2021 10:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,65 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence Production,
+Organisation Name,,Hindustan Aeronautics Limited (hal),
+Office Name,,***********,
+Total Quantity,,200,
+Item Category,,Ventury Medical Oxygen Mask,
+"MSE Exemption for Years of Experience andTurnover",,No,
+Startup Exemption for Years Of Experience,,Yes,
+Bid to RA enabled,,No,
+Primary product category,,Ventury Medical Oxygen Mask,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,15849,
+Evaluation Method,,Item wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+"",Evaluation Schedules,,Estimated Value,,Item/Category,,Quantity,
+Schedule 1,,7949,,Ventury Medical Oxygen Mask,,100,,
+Schedule 2,,7900,,Ventury Medical Oxygen Mask,,100,,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Type,,Adult
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Sterile,,Yes
+"",,Utility,,Single use disposable
+DIMENSION,,Size,,2
+MATERIAL,,"Material of body(LightWeight ,Transparent ,Medical Grade)",,PVC
+CONSTRUCTION,,Edges of Mask,,Feathered
+"",,Swivel Adaptor,,Yes
+"",,Venturi Connector,,Single with different FIO2 settings
+PACKING,,Type of Packing,,Single Individually packed in Soft Wrap
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************SULTANPUR10020",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********SULTANPUR,,100,,20,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GENERALTypePediatricSterileYesUtilitySingle use disposableDIMENSIONSizeAny applicable numeric valueMATERIALMaterial of body(LightChloroprene Rubber, Silicon Rubber, PVCWeight ,Transparent ,Medical Grade)CONSTRUCTIONEdges of MaskFeathered, Non FeatheredSwivel AdaptorYes, NoVenturi ConnectorSingle with different FIO2 settings, Multiple colourcoded connector for different FIO2 settingPACKINGType of PackingSingle Individually packed in Soft Wrap",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERAL,,Type,,Pediatric,
+"",,Sterile,,Yes,
+"",,Utility,,Single use disposable,
+DIMENSION,,Size,,Any applicable numeric value,
+MATERIAL,,"Material of body(LightWeight ,Transparent ,Medical Grade)",,"Chloroprene Rubber, Silicon Rubber, PVC",
+CONSTRUCTION,,Edges of Mask,,"Feathered, Non Feathered",
+"",,Swivel Adaptor,,"Yes, No",
+"",,Venturi Connector,,"Single with different FIO2 settings, Multiple colourcoded connector for different FIO2 setting",
+PACKING,,Type of Packing,,Single Individually packed in Soft Wrap,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************SULTANPUR10020",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********SULTANPUR,,100,,20,

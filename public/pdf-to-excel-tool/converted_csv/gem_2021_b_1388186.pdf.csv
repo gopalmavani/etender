@@ -1,0 +1,39 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 15:00:00,
+Bid Opening Date/Time,,06-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Niti Aayog - National Institution For Transforming India,
+Department Name,,Atal Innovation Mission,
+Organisation Name,,Atal Tinkering Lab,
+Office Name,,Sansad Marg,
+Total Quantity,,2,
+Item Category,,Microcontroller Educational Kit ( PAC Only ),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Make,aimtechs,
+Model,aimtechsarduinotrainerkitforataltinkeringlab,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"",Name of Microcontroller kit,,"8051, 8031, 8051/89C51, 8081, 8255, 8751, Others,TI MSP430",,,
+"","Onboard study cardsincluded in the scope ofsupply",,"8255-6 (Deal with Programmable peripheralsinterface chip in various modes), 8251-4 (Deal withUniversal Synchronous/Asynchronous RecieverTransmitter), 8254-4(Deal with programmabletimer/counter chip in all modes), 8279-4 (Keyboarddisplay controller), 8259-4(Programmable Interruptcontroller), DMA-4(Direct Memory Access chip indifferent modes), A to D-6 (Analog to Digitalconversion), D to A-6 (Digital to Analog conversion),Card for Stepper Motor, Card for DC Motor, Otherstudy cards",,,
+"","Availabilty of interfacingpresent on microcontrollerkit",,"LED interfacing, Keyboard interfacing, LCDinterfacing, Relay interfacing, Seven segment displayinterfacing, Other, ADC interfacing, DAC interfacing,STEPPER MOTOR interfacing, DC MOTOR interfacing,PWM generation interfacing",,,
+"","Availabilty of memorystorage devices present onmicrocontroller kit",,"Monitor EEPROM, SRAM for user Data, Battery BackupRAM, EE, Other",,,
+"","If Other in above parameterthen indicate types ofmemory storage devices",,Any applicable text(s),,,
+"","Memory capacity of MonitorEEPROM",,"4, 8, 16, 32, 64, 128, 256, NA, Others",,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Number of I/O Pins forExternal Interface",,"8, 16, 32, 24, 28, 40, Others"
+"",,"Number of Onboardswitches available",,"4, 8, 16, 32, 64, 72, NA, Others"
+"TEST CERTIFICATIONAND PASTEXPERIENCE",,"Whether the offered kittested at Central Govt /NABL approved / ILACaccredited Lab, any NABLaccredited lab, govtlab/international lab toprove conformity to thespecification",,"Yes, No"
+"GENERICPARAMETERS",,"List of items and its numberincluded in the offeredpackage",,Any applicable text(s)
+"","Warranty of Microcontrollerkit",,"1, 2, 3, 5, 4, Others",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng OfficerChaudhari Vikram414501,A/P Maka Tal-Newasa1260DnyandeoDist-Ahmednagar",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Chaudhari VikramDnyandeo",,"414501,A/P Maka Tal-NewasaDist-Ahmednagar",,2,,60,

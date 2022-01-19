@@ -1,0 +1,125 @@
+Bid Details,,,
+Bid End Date/Time,,11-08-2021 16:00:00,
+Bid Opening Date/Time,,11-08-2021 16:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Commerce And Industry,
+Department Name,,Department Of Commerce,
+Organisation Name,,Indian Institute Of Foreign Trade (iift),
+Office Name,,"Qutab Institutional Area, New Delhi - 110016",
+Total Quantity,,4,
+Item Category,,Workstation,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC),OEM AuthorizationCertificate,Additional Doc 1 (Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Advisory Bank,,State Bank of India,
+"",EMD Percentage(%),,2.00,
+"",EMD Amount,,12520,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Type,,Form Factor,,Desktop
+Processor,,Processor Make,,Intel
+"",,Processor Generation,,"NA, 10 Or higher"
+"",,"Number of Cores perProcessor",,"8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 64 Orhigher"
+"",,"Processor Base Frequency(GHz)",,"3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 4, 4.1, 4.2, 4.3, 5.2 Orhigher"
+"",,Processor Description,,"Intel Xeon W Series, Intel Xeon Bronze Series, IntelXeon Silver Series, Intel Xeon Gold Series, Intel XeonPlatinum Series Or higher"
+"",,Processor Number,,"Intel Xeon W-3245, Intel Xeon W-3245M, Intel XeonW-3265, Intel Xeon W-3265M, Intel Xeon W-3275, IntelXeon W-3275M, Intel Xeon W-2235, Intel Xeon W-2255, Intel Xeon W 10855M, Intel Xeon W 10885M,Intel Xeon W 1290P, Intel Xeon W 1290, Intel Xeon W1270P, Intel Xeon W 1270, Xeon 2286M, Xeon 2276MOr higher"
+"",,"Number of Socketspopulated with theProcessors",,"1, 2 Or higher"
+"",,Cache (MB),,16.0 - 64.0 Or higher
+"",,Out of Band Management,,"Intel vPro, AMD DASH, NA Or higher"
+Motherboard,,Chipset Number,,"Intel C246, Intel CM246, Intel C422, Intel C621, IntelC622, Intel C624, Intel X99, Intel X299, Intel W480,Intel WM490 Or higher"
+"","Expansion Slots (PCIe x 1)(Number)",,"0, 1, 2, 3, 4 Or higher",
+"","Expansion Slots (PCIe x 4)(Number)",,"1, 2, 3 Or higher",
+"","Expansion Slots (PCIe x 8)(Number)",,"0, 1, 2 Or higher",
+"","Expansion Slots (PCIe x 16)(Number)",,"1, 2, 3, 4 Or higher",
+"",Graphics Type,,Dedicated/Discrete,
+"",Number of Graphic Cards,,"1, 2, 3, 4 Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Graphic Card Description,,"nVIDIA NVS 510 2GB, nVIDIA NVS 810 4GB, nVIDIAQuadro P400 2GB, nVIDIA Quadro P620 2GB, nVIDIAQuadro P1000 4GB, nVIDIA Quadro P2000 5GB,nVIDIA Quadro P3000 6GB, nVIDIA Quadro RTX 30006GB, nVIDIA Quadro P4000 8GB, nVIDIA Quadro RTX4000 8GB, nVIDIA Quadro P5000 16GB, nVIDIAQuadro RTX 5000 16GB, nVIDIA Quadro P6000 24GB,nVIDIA Quadro GP100 16GB, nVIDIA Quadro RTX 600024GB, nVIDIA Quadro RTX 8000 48GB, nVIDIA QuadroGV100 32GB, nVIDIA Tesla V100 SXM2 32GB, nVIDIAQuadro P620 4GB, NVIDIA® Quadro P600 4GBGDDR5, NVIDIA Quadro P2200 5GB GDDR5, NVIDIAQuadro P520 4 GB GDDR5 Or higher"
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional 64 bit
+Applications,,"Applications Compatible withthe Workstation (Requisitedocument may be furnished asand when demanded by thebuyer)",,"Adobe After Effects CS/CC, Adobe Illustrator CC,Adobe Media Encoder CS/CC, Adobe PhotoshopCS/CC, Adobe Premiere Pro CS/CC, AdobeSpeedGrade CC, ANSYS Fluent, Autodesk 3ds Max,Autodesk AutoCAD, Autodesk Inventor, AutodeskMaya, Autodesk MotionBuilder, Autodesk Mudbox,Avid Media Composer, G1 Autodesk Revit"
+Memory,,RAM Speed (MHz),,2933 Or higher
+"",,Type of Memory,,Non ECC
+"",,RAM Size (GB),,"32, 64, 128, 256, 512, 1024, 2048, 3072, 4096, 48,96, 192, 384, 768, 1536 Or higher"
+"",,"RAM Expandability uptousing spare DIMM Slots(GB)",,"128, 256, 512, 1024, 3072, 4096, 384, 1536, 2048,768 Or higher"
+"Primary Storage/Boot Drive",,"Type of Drives used topopulate the internal Bays",,PCle
+"",Number of Drives,,1,
+"",RAID for Operating System,,NA,
+"",Capacity of each Drive (GB),,"256, 300, 384, 500, 512, 600, 768, 800, 900, 1000,1024, 1200, 1800, 2000, 2048, 4000, 4096, 8000,6000 Or higher",
+"","Type of Drives used topopulate the Internal Bays",,SATA,
+"","Number of Internal Bayspopulated with SATA Drive",,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10 Or higher",
+"","Each SATA Drive Capacity(GB)",,"500, 1000, 2000, 4000, 8000, 0, 6000 Or higher",
+"","Speed of each SATA Drive(RPM)",,7200 Or higher,
+"","Total SATA Drive Capacity(GB)",,"2000, 4000, 8000, 3000, 5000, 6000, 7000, 9000,12000, 16000, 20000, 24000, 28000, 32000 Orhigher",
+"","Number of Internal Bayspopulated with SAS Drive",,"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Capacity of each SAS Drive(GB)",,"300, 600, 900, 1200, 1800, 800, 0, 4000 Or higher"
+"",,Speed of each SAS Drive (RPM),,"10000, 15000, 0, 7200 Or higher"
+"",,"Total SAS Drive Capacity(GB)",,"300, 600, 900, 1200, 1800, 2100, 0, 4000 Or higher"
+"",,"Number of Internal Bayspopulated with SSD Drive",,"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 Or higher"
+"",,"Capacity of each SSD Drive(GB)",,"128, 256, 512, 1024, 2048, 800, 0 Or higher"
+"",,Total SSD Capacity (GB),,"128, 256, 384, 512, 768, 1024, 2048, 4096, 0, 5120,3072 Or higher"
+"",,"Number of Internal Bayspopulated with PCIe Drive",,"0, 1, 2, 3, 4, 5, 6, 7, 8 Or higher"
+"",,"Capacity of each PCIe Drive(GB)",,"128, 256, 512, 1024, 2048, 0 Or higher"
+"",,"Total PCIe Drive Capacity(GB)",,"128, 256, 512, 1024, 2048, 4096, 0, 1536, 6144 Orhigher"
+"",,Class of PCIe Drives,,"Class 20, Class 30, Class 35, Class 40, Class 50, NA Orhigher"
+RAID,,RAID level,,"0, 1"
+"",,"Number of RAID ControllerPorts",,"4, 5, 6, 7, 8, 10 Or higher"
+"",,"Speed of RAID ControllerPorts (Gbps)",,"6, 12 Or higher"
+"",,RAID Controller Cache (GB),,"0, 1, 2, 4, 6, 8 Or higher"
+Connectivity,,Type of Ethernet Ports,,Single Gigabit NIC 10/100/1000
+"",Number of Ethernet Ports,,"1, 2, 3, 4, 6 Or higher",
+"",Wireless Connectivity,,"Yes, No Or higher",
+"","If Yes, Type of WirelessConnectivity",,"Wi-Fi 802.11b/g/n, Wi-Fi 802.11ac, NA Or higher",
+"",Bluetooth Connectivity,,"Yes, No Or higher",
+"","If Yes, Version of BluetoothAvailable",,"4, 4.1, 4.2, 5, 0 Or higher",
+"","Number of USB Version 2 Point0 Ports",,"4, 5, 6 Or higher",
+"","Number of USB Version 3 point0 / 3 point 1, Gen 1 Ports",,"3, 4, 5, 6, 7, 8, 9, 10 Or higher",
+"","Number of USB Version 3 point1, Gen 2 Ports",,"2, 3, 4, 5, 6, 7, 8, 9, 10 Or higher",
+"",Number of USB Type C Ports,,"1, 2 Or higher",
+"",Number of VGA Ports,,"0, 1 Or higher",
+"",Number of HDMI Ports,,"0, 1 Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,,,
+"",,Number of Mini DP Ports,,"4, 6, 8, 12, 9, 16 Or higher"
+"",,Number of DP Ports,,"0, 1, 2, 3, 4, 6, 8, 9, 12, 16 Or higher"
+Display,,Display Availability,,Monitor
+"",,Display Size (cm),,"68- 71, 72- 81, 82 - 87, 88 - 93, 94 - 97, 98 - 105, 107- 110, 111 - 115, 116 - 120, 121 - 125, 126 - 130 Orhigher"
+"",,Display Type,,"Non Touch, Touch Or higher"
+"",,Panel Type,,"Flat, Curved Or higher"
+"",,Panel Technology,,"IPS, OLED Or higher"
+"",,Display Resolution (Pixels),,"1920x1080, 1920 x 1200, 3200x1800, 3840 x 2160,2560 x 1080, 2560 x 1440, 2560 x 1600, 3440 x1440, 3840 x 1600, 5120 x 1440, 7680 x 4320 Orhigher"
+"",,LED Backlit,,"Yes, No, NA Or higher"
+"",,TCO Compliance for Monitor,,TCO 07
+"",,Colour Gamut,,"100% AdobeRGB, 100% sRGB, 100% Rec 709, 98%DCI-P3, 99% sRGB, 90% CIE1976, 75% CIE 1931, 45%Color Gamut, 72% Color Gamut, 72sRGB, 92% sRGB,95% sRGB Or higher"
+"",,Monitor Stand,,Height Adjustable Or higher
+Power,,Minimum Power Efficiency (%),,90 Or higher
+"",,Redundant Power Supply,,"Yes, No Or higher"
+Input Devices,,"Mouse Connectivity, If available",,"Wired, Wireless Or higher"
+"","Type of Mouse, If available",,Optical Scroll,
+"","Keyboard Connectivity, ifavailable",,"Wired, Wireless Or higher",
+"","Type of Keyboard, if available",,Standard with Rupee Symbol Or higher,
+"","Type of Keyboard in case ofMobile Workstation",,"Backlit, Non Backlit, NA Or higher",
+"",Optical Drive,,"Blue Ray Drive, NA",
+"",Security,,H/W Based,
+"","Docking Station for MobileWorkstation",,"Yes, No Or higher",
+"",Type of Bundled Software,,"Artificial Intelligence Based PerformanceImprovement Software, Remote CollaborationSoftware & Performance Advisor Or higher",
+"","Finger Print Reader in case ofMobile Workstation",,"Yes, No, NA Or higher",
+"","Carry Case in case of MobileWorkstation",,"Back Pack, With Shoulder Strap, NA Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Warranty,,"Battery Warranty in case ofMobile Workstation",,"1, 2, 3, 0 Or higher"
+"","On Site OEM Warranty(Year)",,"3, 4, 5 Or higher",
+"Specification ParameterBid Requirement (Allowed Values)NameOS CertificationWindows,Ubuntu Linux,Redhat LinuxRAM TypeDDR4BIS Registration Number and itsR-67000094ValidityROHS ComplianceYesOther Certification Available(Requisite certificate may beUL,CE,FCCfurnished as and whendemanded by the buyer)","Specification ParameterName",,Bid Requirement (Allowed Values)
+OS Certification,,"Windows,Ubuntu Linux,Redhat Linux",
+RAM Type,,DDR4,
+"BIS Registration Number and itsValidity",,R-67000094,
+ROHS Compliance,,Yes,
+"Other Certification Available(Requisite certificate may befurnished as and whendemanded by the buyer)",,"UL,CE,FCC",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer110016,IIFT Bhawan, B-21,1Karun DuggalQutab Institutional Area, New430Delhi",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Karun Duggal,,"110016,IIFT Bhawan, B-21,Qutab Institutional Area, NewDelhi",,4,,30,

@@ -1,0 +1,55 @@
+RA Details,,,
+RA Technical End Date/Time,,09-08-2021 16:00:00,
+RA Opening Date/Time,,09-08-2021 16:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence Research & Development,
+Organisation Name,,Office Of Dg (mss),
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,DESIGNING SOFTWARE (Version 2.0),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC),OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,3.00,
+"",Duration of ePBG required (Months).,,17,
+Brand Type,Unregistered Brand
+Specification,Specification Name,Bid Requirement (Allowed Values)
+BASIC INFORMATION,"Modules of DesigningSoftware offered in thescope of supply",Mechanical Design
+"Type of Edition of theoffered product",Commerical Edition,
+Types of Licence,Perpetual,
+""" Duration of Subscription(in years) (Hint :- Select '0'if not applicable)""",0.0 - 5.0 Or higher,
+OEM Licensing policy,Per Server,
+"Number of licensingincluded in the offeredproduct as per OEM definedlicensing policy",1.0 - 100.0 Or higher,
+Scope of Installation,Installation,
+"The offered product havesupport from OEM for","Unlimited updation for Patches and Bug fixes withinmaintenance & support period, Unlimited upgradationof version within support period",
+"Number of Years for OEMsupport for updation(Patches and Bug fixes) isincluded in the scope ofsupply (Hint :- Select '0' ifnot applicable)",1.0 - 5.0 Or higher,
+Specification,Specification Name,Bid Requirement (Allowed Values),
+"","Number of Years for OEMsupport for Upgradation ofversion is included in thescope of supply (Hint :-Select '0' if not applicable)",1.0 - 5.0 Or higher,
+"",Training Options,"On-Site, OEM Training Centre, Virtual, TrainingMaterial",
+"","No of days TrainingProvided (Hint :- Select '0' ifnot applicable)",3.0 - 10.0 Or higher,
+"ARCHITECTUREDESIGN","Architecture DesignFeatures",NA,
+"MECHANICALDESIGN",Mechanical Design Features,"Fluid Flow Simulation, Mesh CAD Models",
+STRUCTURE DESIGN,Structure Design Features,NA,
+"INFRASTRUCTUREDESIGN","Infrastructure DesignFeatures 1",NA,
+"","Infrastructure DesignFeatures 2",NA,
+ELECTRICAL DESIGN,Electrical Design Features,NA,
+ELECTRONIC DESIGN,Electronic Design Features 1,NA,
+"",Electronic Design Features 2,NA,
+"",Electronic Design Features 3,NA,
+"",EM simulation method used,NA,
+"","Number of Core for EM Multi-thread supported by theoffered product",NA,
+"COMMONPARAMETERS","Common parametersfeatures 1",NA,
+"Common parametersfeatures 2",NA,,
+"Basic information modelingsupported by the offeredproduct","2 D, 3 D",,
+"","Specification ParameterName",,Bid Requirement (Allowed Values),
+"",,,,
+"",OnSite Training,,The successful vendor should provide OnSite Training for 5 Days,
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days
+1,***********,***********HYDERABAD,1,75

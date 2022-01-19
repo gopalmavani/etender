@@ -1,0 +1,42 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 09:00:00,
+Bid Opening Date/Time,,09-08-2021 09:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,70 (Days),
+Ministry/State Name,,Ministry Of Information And Broadcasting,
+Department Name,,Na,
+Organisation Name,,Prasar Bharati Broadcasting Corporation Of India,
+Office Name,,Delhi,
+Total Quantity,,2,
+Item Category,,IP Encoder,
+"Minimum Average Annual Turnover of theBidder",,1 Lakh (s),
+Years of Past Experience required,,1 Year (s),
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"Experience Criteria,Bidder Turnover,Certificate (Requestedin ATC),OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Width,,400.0
+"",Weight,,2.0
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Depth,,41.0
+"",,Length,,145.0
+Video Characterstics,,Frame Rate (ips),,7.5
+"",,Video Compression,,H.264
+"",,Bit Rates,,250Kbps - 30Mbps
+"",,Resolution,,D1
+Audio Characterstics,,Compression,,AAC
+"NetworkCharacterstics",,Interface,,Ethernet
+"",,Supported Protocols,,TCP/IP
+"AdditionalInformation",,Serial Port Connector,,9 Pin D-Type
+"",Warranty,,1.0,
+"",Serial Port Interface,,RS232,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer110001,O/o Director(Engg),Central Store, All India1Ram Avtar SinghRadio, Room No.445,2180Akashvani Bhawan, SansadMarg",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Ram Avtar Singh,,"110001,O/o Director(Engg),Central Store, All IndiaRadio, Room No.445,Akashvani Bhawan, SansadMarg",,2,,180,

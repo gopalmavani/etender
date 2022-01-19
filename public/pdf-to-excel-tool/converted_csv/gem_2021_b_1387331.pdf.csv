@@ -1,0 +1,42 @@
+Bid Details,,,
+Bid End Date/Time,,18-08-2021 14:00:00,
+Bid Opening Date/Time,,18-08-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,65 (Days),
+Ministry/State Name,,Ministry Of Power,
+Department Name,,Sjvn Limited,
+Organisation Name,,Sjvn Limited,
+Office Name,,Njhps Sjvn Jhakri Hp 172201,
+Total Quantity,,3,
+Item Category,,Ultrasonic Level Transmitter,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,10 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GenericTransmitter Type2-WireWarranty2 Or higherDisplayLCDMeasuring principleUltrasonicProtection ClassIP67ConstructionBody MaterialPVDFPerformanceMinimum Measuring Range500, 1000, 5000, 10000, 15000, 20000, 25000,Parameter(mm) liquid30000 Or higherAccuracy (%fs)0.2 Or lowerMinimum Output current, mA4Maximum input Voltage36, 42, 48 Or higherBeam AngleUpto 5 degreeMaximum Output current, mA20Maximum Measuring Range15000, 20000, 25000, 30000, 50000, 60000 Or(mm) liquidhigherMechanicalResolution1, 3, 4, 5, 10 Or higherPropertiesConnectionThreaded",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,Transmitter Type,,2-Wire,
+"",,Warranty,,2 Or higher,
+"",,Display,,LCD,
+"",,Measuring principle,,Ultrasonic,
+"",,Protection Class,,IP67,
+Construction,,Body Material,,PVDF,
+"PerformanceParameter",,"Minimum Measuring Range(mm) liquid",,"500, 1000, 5000, 10000, 15000, 20000, 25000,30000 Or higher",
+"",,Accuracy (%fs),,0.2 Or lower,
+"",,"Minimum Output current, mA",,4,
+"",,Maximum input Voltage,,"36, 42, 48 Or higher",
+"",,Beam Angle,,Upto 5 degree,
+"",,"Maximum Output current, mA",,20,
+"",,"Maximum Measuring Range(mm) liquid",,"15000, 20000, 25000, 30000, 50000, 60000 Orhigher",
+"MechanicalProperties",,Resolution,,"1, 3, 4, 5, 10 Or higher",
+"",Connection,,Threaded,,
+"Specification ParameterBid Requirement (Allowed Values)Name(1)Maximum input voltage (2)(1) 36 VDC (2) 0.2Accuracy class(3) Minimum measuring range(3) 0.5 Meter (4) 15 Meter(4) Maximum measuring range","Specification ParameterName",,Bid Requirement (Allowed Values)
+"(1)Maximum input voltage (2)Accuracy class",,(1) 36 VDC (2) 0.2,
+"(3) Minimum measuring range(4) Maximum measuring range",,(3) 0.5 Meter (4) 15 Meter,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer172201,OFFICE COMPLEX1Rohit Verma360NJHPS SJVN JHAKRI",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Rohit Verma,,"172201,OFFICE COMPLEXNJHPS SJVN JHAKRI",,3,,60,

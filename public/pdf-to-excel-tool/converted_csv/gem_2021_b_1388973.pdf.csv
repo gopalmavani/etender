@@ -1,0 +1,48 @@
+Bid Details,,,
+Bid End Date/Time,,11-08-2021 18:00:00,
+Bid Opening Date/Time,,11-08-2021 18:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Finance,
+Department Name,,Department Of Revenue,
+Organisation Name,,Central Board Of Excise And Customs (cbec),
+Office Name,,"Nacin, Zti, Kolkata",
+Total Quantity,,1,
+Item Category,,oxygen concentrator,
+Years of Past Experience required,,3 Year (s),
+MSE Exemption for Years Of Experience,,Yes,
+Startup Exemption for Years Of Experience,,Yes,
+Document required from seller,,"Experience Criteria*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Flow Rate,,"Flow Rate (Minimum) at93% + - 3% oxygen purity(Litres per minute)",,1 - 10
+"Oxygen outlet andpressure and tankcapacity",,Oxygen outlet(s),,Single
+"",Outlet pressure (KPa),,"90, 75, 80, 275, 150, 110, 107, 106, 105, 104, 100",
+"",Oxygen tank capacity (Ltrs),,5.0 - 25.0 Or higher,
+"",Power Source,,Electrical Operated,
+"","Battery duration in hours (IfBattery operated orElectrical cum Batteryoperated)",,"3, 6, 9, 12, 0 Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Battery Charging (If Batteryoperated or Electrical cumBattery operated) (Hrs)",,0.0 - 8.0 Or lower
+"operatingtemperaturehumidity andaltitude",,"Operating altitude Rangeup to (in meters) above sealevel",,0 - 10000
+Type of Operation,,Type of operation,,Continuous Flow Type
+Air Delivery,,"Adjustable Air Deliverymechanism",,Yes
+Noise Level,,Noise Level (dB),,"less than 10 dB silent type, Less than 40 db, Less than60 db"
+Alarms and Alerts,,Digital Display,,"LCD, LED"
+"Weight andDimensions",,Weight (Kg),,Up to 35
+Flame Retardancy,,Flame Retardant,,"Yes, No"
+Warranty,,"Manufacturer warrantyPeriod (Years)",,"1, 2, 3 Or higher"
+"standards andcertifications",,"Comply with InternationalStandards",,"Yes, No"
+"",,FDA approved,,"Yes, No"
+"",,"Availability of test report CE orEC certification (to be furnishedby Seller to Buyer on demand)in accordance with AppendixII(excluding section 4) ofmedical device directive93/42/EC &amp; itsamendment or equivalent",,"Yes, No"
+"",,"Availability of Test Report(To befurnished by Seller to Buyer ondemand) from Central Govt/NABL/ILAC accredited lab toprove conformity tospecification",,"Yes, No"
+specification,,Continious flow setting,,"0.5 LPM, 1 LPM, 1.5 LPM, 2 LPM"
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Ram Pal SinghRajwar",,"700067,P-27, C. I. T Scheme,VIII (M), Bidhan Nagar Road,Ultadanga, Kolkata - 700 067",,1,,15

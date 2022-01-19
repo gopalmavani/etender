@@ -1,0 +1,122 @@
+Bid Details,
+Bid End Date/Time,28-07-2021 18:00:00
+Bid Opening Date/Time,28-07-2021 18:30:00
+Bid Life Cycle (From Publish Date),90 (Days)
+Bid Offer Validity (From End Date),60 (Days)
+Ministry/State Name,Ministry Of Petroleum And Natural Gas
+Department Name,Na
+Organisation Name,Oil And Natural Gas Corporation Limited
+Office Name,609604
+Total Quantity,17
+Item Category,"Digital Multimeter-IS:9000 , Digital Earth Resistance Meter-IS 9000 , Insulation Tester-IS 9000 , true rms clamp meter ,Sound Level Meter/Noise Level Meter(Sound measuringapparatus or decibel meter)"
+"Minimum Average Annual Turnover of theBidder",1 Lakh (s)
+OEM Average Turnover (Last 3 Years),1 Lakh (s)
+Years of Past Experience required,2 Year (s)
+"MSE Exemption for Years Of Experienceand Turnover",Yes
+"Startup Exemption for Years of Experienceand Turnover",No
+Document required from seller,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover,Additional Doc 1(Requested in ATC),Additional Doc 2 (Requested inATC),Additional Doc 3 (Requested in ATC),Additional Doc 4(Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer"
+Past Performance,10 %
+Bid to RA enabled,No
+Primary product category,"Sound Level Meter/Noise Level Meter(Sound measuringapparatus or decibel meter)"
+"Time allowed for Technical Clarificationsduring technical evaluation",3 Days
+Bid Details,,,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,Yes,
+"Inspection to be carried out by Buyers ownempanelled agency",,Yes,
+Type Of Inspection,,Post Dispatch,
+"Name of the Empanelled InspectionAgency/ Authority",,CONCERNED ONGC QUALITY ASSURANCE DEPARTMENT,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",MEASUREMENTS,,DC Voltage Range,,600.0
+"",DC Voltage Accuracy,,0.5,,
+"",DC Voltage resolution,,0.1,,
+"",AC Voltage Range,,600.0,,
+"",AC Voltage Accuracy,,1.0,,
+"",AC Voltage resolution,,0.1,,
+"",DC Current Range,,10.0,,
+"",DC Current Accuracy,,1.0,,
+"",DC Current resolution,,0.01,,
+"",AC Current Range,,10.0,,
+"",AC Current Accuracy,,1.5,,
+"",AC Current resolution,,0.01,,
+"",Resistance Range,,60.0,,
+"",Resistance Accuracy,,1.0,,
+"",Resistance resolution,,0.01,,
+"","Capacitance Range ( Microfarad )",,"1 to 100, 1 to 200, .01 to 1000, NA, 0 to 300",,
+"",Capacitance Accuracy ( % ),,"1.5, 2.5, 3.5, 5, NA, 0.2",,
+"","Capacitance resolution ( nF)",,"0.001, 0.01, 0.1, 1, 10, 100, NA",,
+"",Frequency Range ( KHz ),,"50, 100, 200, 300, 400, 1000, 10000, 100000, NA",,
+"",Frequency Accuracy ( % ),,0.1,,
+"",Frequency resolution ( Hz ),,0.01,,
+"","Temperature Range (Degree C )",,"-40 to 400, -50 to 1000, NA, -200 to +600",,
+"",Temperature Accuracy ( % ),,"1.5, 2, NA, 0.5",,
+"","Temperature resolution (Degree C )",,"0.001, 0.01, 0.1, 1, 10, 100, NA",,
+"",Type,,Hand Held,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Display (Digits),,4.5
+"",,Measurement Type,,True RMS
+"",,Counts,,"4000, 6000, 50000, 10000, 20000, 30000, 40000,60000, 70000, 80000, 90000, 100000, 200000,20000000, 2000 Or higher"
+SAFETY,,Safety Rating,,Category III 600 V of IEC 61010.
+WARRANTY,,Warranty,,3.0
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer610001,VJ # 5, CAUVERYASSET, ONGC, AYYANAR KOVIL1Ganesh Sahu430STREET, BEHIND HOTEL KASIS,TIRUVARUR",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Ganesh Sahu,,"610001,VJ # 5, CAUVERYASSET, ONGC, AYYANAR KOVILSTREET, BEHIND HOTEL KASIS,TIRUVARUR",,4,,30,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)FEATURESDisplay type31?2 digit LCD display, 4 digit LCD displayMeasurable EarthRange selection through a switchresistance range selectionMethod for resistance4-polemeasurementCounts2000, 3000, 4000, 6000, 10000OTHER FEATURESStakeless test(Clamp On)Yes, No",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+FEATURES,,Display type,,"31?2 digit LCD display, 4 digit LCD display",
+"",,"Measurable Earthresistance range selection",,Range selection through a switch,
+"",,"Method for resistancemeasurement",,4-pole,
+"",,Counts,,"2000, 3000, 4000, 6000, 10000",
+OTHER FEATURES,,Stakeless test(Clamp On),,"Yes, No",
+"Specification ParameterBid Requirement (Allowed Values)NameWarrantyMinimum One Year","Specification ParameterName",,Bid Requirement (Allowed Values)
+Warranty,,Minimum One Year,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer610001,VJ # 5, CAUVERYASSET, ONGC, AYYANAR KOVIL1Ganesh Sahu430STREET, BEHIND HOTEL KASIS,TIRUVARUR",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Ganesh Sahu,,"610001,VJ # 5, CAUVERYASSET, ONGC, AYYANAR KOVILSTREET, BEHIND HOTEL KASIS,TIRUVARUR",,4,,30,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)PERFORMANCETypeHand HeldMeasurement Range0.01 M Ohm to 10 G OhmMeasurement Accuracy2.0Measurement Resolution0.01, 0.1Test Voltage500.0Test Current1.0SAFETYSafety ratingCategory III 600 V of IEC 61010WARRANTYWarranty1.0",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+PERFORMANCE,,Type,,Hand Held,
+"",,Measurement Range,,0.01 M Ohm to 10 G Ohm,
+"",,Measurement Accuracy,,2.0,
+"",,Measurement Resolution,,"0.01, 0.1",
+"",,Test Voltage,,500.0,
+"",,Test Current,,1.0,
+SAFETY,,Safety rating,,Category III 600 V of IEC 61010,
+WARRANTY,,Warranty,,1.0,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer610001,VJ # 5, CAUVERYASSET, ONGC, AYYANAR KOVIL1Ganesh Sahu430STREET, BEHIND HOTEL KASIS,TIRUVARUR",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Ganesh Sahu,,"610001,VJ # 5, CAUVERYASSET, ONGC, AYYANAR KOVILSTREET, BEHIND HOTEL KASIS,TIRUVARUR",,4,,30,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GENERAL FEATURESTypeHand HeldDisplay3.5 digit Backlit LCDMeasurement TypeTrue RMScount3000, 4000, 6000, 10000MEASUREMENTResistance Measurement1000.0FEATURESRangeResistance Measurement1.0, 1.5Accuracy (+/-)Frequency Measurement500.0RangeFrequency Measurement0.1, 0.5, 0.3Accuracy (+/-)AC Current Measurement1000.0RangeAC Current Measurement1.5, 2.5, 2.0Accuracy (+/-)AC Voltage Measurement600.0RangeAC Voltage Measurement1.0, 1.5, 2.0Accuracy (+/-)DC Current Measurement1000.0RangeDC Current Measurement1.0, 1.5, 2.0Accuracy (+/-)DC Voltage Measurement1000.0RangeDC Voltage Measurement1.0, 1.5, 2.0Accuracy (+/-)SAFETYSafety RatingCAT III 600 V of IEC 61010 -2-D31SERVICEWarranty1.0, 2.0",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERAL FEATURES,,Type,,Hand Held,
+"",Display,,3.5 digit Backlit LCD,,
+"",Measurement Type,,True RMS,,
+"",count,,"3000, 4000, 6000, 10000",,
+"MEASUREMENTFEATURES",,"Resistance MeasurementRange",,1000.0,
+"","Resistance MeasurementAccuracy (+/-)",,"1.0, 1.5",,
+"","Frequency MeasurementRange",,500.0,,
+"","Frequency MeasurementAccuracy (+/-)",,"0.1, 0.5, 0.3",,
+"","AC Current MeasurementRange",,1000.0,,
+"","AC Current MeasurementAccuracy (+/-)",,"1.5, 2.5, 2.0",,
+"","AC Voltage MeasurementRange",,600.0,,
+"","AC Voltage MeasurementAccuracy (+/-)",,"1.0, 1.5, 2.0",,
+"","DC Current MeasurementRange",,1000.0,,
+"","DC Current MeasurementAccuracy (+/-)",,"1.0, 1.5, 2.0",,
+"","DC Voltage MeasurementRange",,1000.0,,
+"","DC Voltage MeasurementAccuracy (+/-)",,"1.0, 1.5, 2.0",,
+SAFETY,,Safety Rating,,CAT III 600 V of IEC 61010 -2-D31,
+SERVICE,,Warranty,,"1.0, 2.0",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer610001,VJ # 5, CAUVERYASSET, ONGC, AYYANAR KOVIL1Ganesh Sahu430STREET, BEHIND HOTEL KASIS,TIRUVARUR",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Ganesh Sahu,,"610001,VJ # 5, CAUVERYASSET, ONGC, AYYANAR KOVILSTREET, BEHIND HOTEL KASIS,TIRUVARUR",,4,,30,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)POWER SOURCEPower SourceRechargeable batteries, Alkaline Batteries (Non-Rechargeable)APPLICATION/TYPE/PMinimum level of30 Or lowerERFORMANCEnoise/sound Measuring (dB)Maximum level of130, 140, 150 Or highernoise/sound Measuring (dB)Resolution (dB)0.01, 0.1 Or lowerPRINTERPortable Wireless PrinterWithoutDISPLAYDisplayLCD, LED, TFT, OLED, NA for analog Display,Touchscreen displayWARRANTYWARRANTY12, 24 Or higher",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+POWER SOURCE,,Power Source,,"Rechargeable batteries, Alkaline Batteries (Non-Rechargeable)",
+"APPLICATION/TYPE/PERFORMANCE",,"Minimum level ofnoise/sound Measuring (dB)",,30 Or lower,
+"",,"Maximum level ofnoise/sound Measuring (dB)",,"130, 140, 150 Or higher",
+"",,Resolution (dB),,"0.01, 0.1 Or lower",
+PRINTER,,Portable Wireless Printer,,Without,
+DISPLAY,,Display,,"LCD, LED, TFT, OLED, NA for analog Display,Touchscreen display",
+WARRANTY,,WARRANTY,,"12, 24 Or higher",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer610001,VJ # 5, CAUVERYASSET, ONGC, AYYANAR KOVIL1Ganesh Sahu130STREET, BEHIND HOTEL KASIS,TIRUVARUR",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Ganesh Sahu,,"610001,VJ # 5, CAUVERYASSET, ONGC, AYYANAR KOVILSTREET, BEHIND HOTEL KASIS,TIRUVARUR",,1,,30,

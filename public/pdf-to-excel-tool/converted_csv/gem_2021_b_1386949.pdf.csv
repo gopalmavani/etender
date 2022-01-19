@@ -1,0 +1,47 @@
+Bid Details,,,
+Bid End Date/Time,,11-08-2021 21:00:00,
+Bid Opening Date/Time,,11-08-2021 21:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Bihar,
+Department Name,,Co-operative Department Bihar,
+Organisation Name,,Co-operative Department,
+Office Name,,Bceo Ariari,
+Total Quantity,,1,
+Item Category,,Hydraulic Tractor Trailer-IS:8213,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC),OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Estimated Bid Value,,265000,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Brand Type,Unbranded,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Type of Trailers,,"Balanced Trailer (Double Axle), Semi Trailer (SingleAxle)"
+"","Capacity of Trailer (GrossLoad)(tonnes)",,"2, 3, 4, 5, 6, 8, 10"
+"",Pay load of Trailer,,Any applicable numeric value
+"","Type of Axle Assembly (Thecapacity of Single AxleTrailers is not more that 5Tonnes)",,"Class-A (Load carrying capacity upto 3 Tonne), Class-B (Load carrying capacity upto 5 Tonne), Double Axle(Load carrying capacity upto 10 Tonne)"
+"","Overall length of Trailers (shall not exceed 5 m upto 6tonne load, 6.7m for above6 tonne load",,Up to 7
+"","Overall Width of Trailersbetween extreme points(meter)",,Up to 2.5
+"","Overall Height of Trailerswith tyre inflated from thesupporting surface to top ofplatform (meter)",,Up to 1.5
+"","Overall Height of Trailerswith tyre inflated from thesupporting surface tosideboard (meter)",,Up to 2.2
+"",Ground Clearance (mm),,Above 300
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Axle Assembly WheelTrack(mm)",,"1500, 1700, TURN TABLE- TURN TABLEARRANGEMENT FOR TRAILOR TO MAKE MAXIMUMSHORT RADIUS TURN."
+"",,Tipping Angle (degree),,42 - 50
+"",,"Single telescopic cylinder asper IS:12371 (Latest)",,"Yes, NO,NON-HYDRAULIC TRAILER"
+"",,Number of Wheels,,Any applicable numeric value
+Performance,,Warranty (in months),,"36, 48, 60"
+"ConstructionParameters",,"Diameter of the Axle ofchassis (Min) (mm)",,Above 80
+"","Nos. Of spring leaves platesfitted (Nos.)",,Above 15,
+"",No of Hooks,,Any applicable numeric value,
+"",Capacity of Towing,,Any applicable numeric value,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1Ugal Kishor Prasad811105,KASAR PACS145",S.No.
+1,
+"S.No.Document TitleDescriptionApplicable i.r.o. ItemsScope of Work forTrolley (Hydraulic)Refer to Uploaded Document under theHydraulic Tractor Trailer-1scope of work as golden parameterIS:8213(1)View",S.No.,,,Document Title,,Description,,Applicable i.r.o. Items
+1,,,"Scope of Work forTrolley (Hydraulic)View",,"Refer to Uploaded Document under thescope of work as golden parameter",,"Hydraulic Tractor Trailer-IS:8213(1)",

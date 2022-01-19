@@ -1,0 +1,77 @@
+Bid Details,,,
+Bid End Date/Time,,31-07-2021 12:00:00,
+Bid Opening Date/Time,,31-07-2021 12:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,South Central Railway,
+Total Quantity,,1,
+Item Category,,Cardiac Monitor with defibrillator,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Past Performance,Certificate (Requested in ATC),OEMAuthorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,20 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,155000,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Standards,,"Confirmity to ManufacturesCertification",,ISO 9001 & ISO 13485
+"","Capability parameter ofdefibrillator",,"ECG monitoring,external defibrillation, externalpacing (transcutaneous), internal defibrillation andrecording",
+"",Modes in defibrillator,,Automated external defibrillation and manual,
+"",Number of wave-forms,,4,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","Patient compatibility todefibrillate",,"Adult ,pediatric patients",
+"",Type of display,,TFT,
+"","Facility to havesynchronized cardio version",,Yes,
+"","Ability to display CPR indexon screen real time",,No,
+"","Ability to filter out CPRartefacts to see organisedrhythms withoutinterrupting chestcompression",,Yes,
+"","Provision of in builtrecorder",,Yes,
+"","Provision of printing ECGtrace & stored information",,Yes,
+"","Facility of External non-invasive pacing",,Yes,
+"","Type of externaltranscutaneous pacingmodes",,Both Demand mode and fixed mode,
+"","Pulse width of External non-invasive pacing in milliseconds",,40,
+"","Ability to measure chestcompression rate and depthin real time with visualfeedback on screen withrate and depth indicator",,Not Provided,
+"",Facility to monitor EtCO2,,Yes,
+"",Facility to monitor NIBP,,Yes,
+"",Facility to monitor SPO2,,Yes,
+"","Upgradability to monitorEtCO2",,Yes,
+"","Upgradability to monitorNIBP",,Yes,
+"","Upgradability to monitorSPO2",,Yes,
+"",ECG monitoring,,Using 3 lead,
+"","Facility for internaldefibrillation",,Yes,
+"","Provision of stainless steeltrolley with lockablecastors",,No,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Suitability of defibrillatorfor transport on ground(ambulance)",,Yes
+"",,"Defibrillator suitable to useat high altitudes and in aircraft",,No
+"",,"Defibrillator should displayselected energy",,Yes
+"",,"Defibrillator should displaydelivered energy",,Yes
+"",,"Suitability of defibrillatorfor transportation in air(aircraft)",,No
+"",,"Availaibility of suitableprotection for dust andwater",,Yes
+Accessories,,Li-ion Battery,,1
+"",,ECG cable,,1
+"",,"NIBP pediatric cuff withhose",,Not provided
+"",,NIBP adult cuff with hose,,1
+"",,"Reusable airway adaptor tobe used with ETCO2 mainstream / side stream sensorand cable",,1
+"",,"Disposable airway adpaterwith EtCO2 mainstreamsensor and cable",,Not provided
+"",,"External defibrillatorpaddles (pediatric in built inadult)",,1
+"",,"Multi Function Defibrillator& Monitoring pads/gelsheets",,5
+"",,Recorder paper roll,,10
+"",,"Reusable CPR feedbacksensor/or similar productreused",,Not provided
+"MiscellaneousParameters",,"Warranty (Option ofcomprehensive warranty isavailable through biddingonly, which if opted willsupersede normal warrantyin the catalogue)",,5
+"",,,"Specification ParameterName",,,,Bid Requirement (Allowed Values),,,
+"",,,,,,,,,,
+"",,"Conformity to Certification (Incase of EU CE/CE Europeancertification from notified body)",,,,European CE,,,,
+"",,Conformity to Safety Standards,,,,IEC 60601-2-4 or Equivalent BIS,,,,
+"",,"Trolley is to be supplied withCardiac Monitor",,,,YES,,,,
+"",,,S.No.,,,,"Consignee/Reporting Officer",,,,Address,,,,Quantity,,,,Delivery Days,,,
+"",,,,,,,,,,,,,,,,,,,,,,
+"",,1,,,,S Radha Bai,,,,"500071,O/o Sr Divl. MaterialsManager, Hyderabad Bhavan,opp. to Rail NilayamSecunderabad. S.C.railway",,,,1,,,,15,,,,

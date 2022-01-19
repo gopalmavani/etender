@@ -1,0 +1,42 @@
+Bid Details,,,
+Bid End Date/Time,,10-08-2021 09:00:00,
+Bid Opening Date/Time,,10-08-2021 09:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,65 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Air Force,
+Office Name,,***********,
+Total Quantity,,8,
+Item Category,,Disinfection System- Spraying type,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,4 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Requirements,,"Form in which chemical isloaded",,Tablet
+"",Method of loading of chemical,,"manual mixing of powder in the tank, Through Hypoventuri system attached with the gun",
+"","Hydro Venturi should havecontainer to hold jacketed solidcylindrical tablet",,"yes, NA",
+"","Type of tablet to be used incontainer",,NA,
+"","dia of tablet (in mm) write zeroif NA",,0,
+"","Calcium Hypo Chlorite cancentra ion in the spray solution(in PPM)",,225,
+"",Pressure (in bars),,3,
+"",Hydro Venturi system Material,,NA,
+"","Weight of hydro venturi system(in kgs)",,1,
+"",Power Source,,Internal - Rechargeable Battery with battery Charge,
+"",Battery Chemistry,,Li-ion,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Battery Size (Alkalinebattery)",,
+"","Battery Operating Voltage(individual battery)",,12,
+"","Number of Batteriesrequired for operation",,"1, 2, 3, 4",
+"","Battery Operating Duration(Minimum) (In hr)",,"3, 4, 8, 12, 16",
+"","Battery Charger forRechargeable Batteriesinclusive in the scope ofsupply",,"Yes, NA for Alkaline batteries",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************BARMER860",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********BARMER,,8,,60,

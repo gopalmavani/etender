@@ -1,0 +1,36 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 20:00:00,
+Bid Opening Date/Time,,06-08-2021 20:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Niti Aayog - National Institution For Transforming India,
+Department Name,,Atal Innovation Mission,
+Organisation Name,,Atal Tinkering Lab,
+Office Name,,India,
+Total Quantity,,9,
+Item Category,,Microcontroller Educational Kit,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"FEATURES ANDFUNCTIONALITYPARAMETERS OFMICROCONTROLLEREDUCATIONAL KIT",,Name of Microcontroller kit,,8051
+"",,"Onboard study cardsincluded in the scope ofsupply",,"A to D-6 (Analog to Digital conversion), D to A-6(Digital to Analog conversion)"
+"",,"Availabilty of interfacingpresent on microcontrollerkit",,"LCD interfacing, LED interfacing, Relay interfacing,Seven segment display interfacing"
+"",,"Availabilty of memorystorage devices present onmicrocontroller kit",,"Monitor EEPROM, EE"
+"",,"If Other in above parameterthen indicate types ofmemory storage devices",,na
+"",,"Memory capacity of MonitorEEPROM",,32
+"",,"Number of I/O Pins forExternal Interface",,16
+"",,"Number of Onboardswitches available",,4
+"TEST CERTIFICATIONAND PASTEXPERIENCE",,"Whether the offered kittested at Central Govt /NABL approved / ILACaccredited Lab, any NABLaccredited lab, govtlab/international lab toprove conformity to thespecification",,No
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"GENERICPARAMETERS",,"List of items and its numberincluded in the offeredpackage",,25
+"","Warranty of Microcontrollerkit",,1,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng OfficerThangamani621713,MANAKKAL ROAD19180ArumugamGOVINDAPURAM ARIYALUR- DT",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"ThangamaniArumugam",,"621713,MANAKKAL ROADGOVINDAPURAM ARIYALUR- DT",,9,,180,

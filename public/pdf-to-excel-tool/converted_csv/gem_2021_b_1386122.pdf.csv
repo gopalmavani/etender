@@ -1,0 +1,46 @@
+Bid Details,,,
+Bid End Date/Time,,10-08-2021 18:00:00,
+Bid Opening Date/Time,,10-08-2021 18:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Steel,
+Department Name,,Sail,
+Organisation Name,,Steel Authority Of India Limited,
+Office Name,,Materials Management Dept Iisco Steel Plant,
+Total Quantity,,3,
+Item Category,,Split Air Conditioner including Green AC,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC),OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,7 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"Conformity &Certification",,"Green Room Air ConditionerCompliant",,"Green AC -, AC -"
+"TechnicalParameters",,Technology of AC,,"Non Inverter AC, Inverter AC (Variable Speed)"
+"",,"Nominal coolingcapacity(Ton) (1 ton = 3000kcal/hr)",,1.5 Ton
+"",,"Energy PerformanceThreshold (ISEER)(Wh/Wh)(for Greenroom AC)",,"1.5-1.9 Ton>= ISEER 5.4, NA"
+"",,Eco-friendly Refrigerant,,Yes
+"",,Compressor Type,,"Rotary Type, Dual Rotary Type, High EER Twin Rotary- BLDC"
+"",,Coil Material (Evaporator),,Copper
+"",,Coil Material (Condenser),,Copper
+Performance,,BEE Star Rating,,3.0
+"",,"Rated cooling capacity inWatt (W) as per BEE starlabel",,2635 - 10551
+"",,"Rated ISEER value (Wh/Wh)as per BEE star label",,2 - 7
+General Parameters,,"Connecting pipe length(meter)",,3 Mtr
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Warranty/Services,,AC Machine Warranty,,1 Or higher
+"",,Compressor Warranty,,"5, 10 Or higher"
+Installation,,Installation,,Standard installation
+"Specification ParameterBid Requirement (Allowed Values)Nameconformity to indian standardIS 1391 LatestMinimum length of copper pipe5 meter (Any value as mentioned in General parameter as above shall notand suitable electrical cable forbe accepted)installing and commissioningType of Air conditionerHigh wall split ACInstallation and CommissioningYes","Specification ParameterName",,Bid Requirement (Allowed Values)
+conformity to indian standard,,IS 1391 Latest,
+"Minimum length of copper pipeand suitable electrical cable forinstalling and commissioning",,"5 meter (Any value as mentioned in General parameter as above shall notbe accepted)",
+Type of Air conditioner,,High wall split AC,
+Installation and Commissioning,,Yes,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer713325,STORES SECTION,MATERIALS MANAGEMENT DPT.STEEL AUTHORITY OF INDIALTD. IISCO STEEL PLANT,1Amitav Mahala330Burnpur, 713325, West BengalIndia, IISCO STEEL PLANT,GSTIN Number19AAACS7062F6Z6,",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Amitav Mahala,,"713325,STORES SECTION,MATERIALS MANAGEMENT DPT.STEEL AUTHORITY OF INDIALTD. IISCO STEEL PLANT,Burnpur, 713325, West BengalIndia, IISCO STEEL PLANT,GSTIN Number19AAACS7062F6Z6,",,3,,30,

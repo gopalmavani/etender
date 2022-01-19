@@ -1,0 +1,29 @@
+RA Details,,,
+RA Technical End Date/Time,,05-08-2021 16:00:00,
+RA Opening Date/Time,,05-08-2021 16:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Corporate Affairs,
+Department Name,,Na,
+Organisation Name,,Indian Institute Of Corporate Affairs (iica),
+Office Name,,Manesar,
+Total Quantity,,18,
+Item Category,,Wireless Access Point ( PAC Only ),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,5 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+Make,hewlettpackardenterprise
+Model,arubaap-505(rw)unifiedap
+Brand Type,Registered Brand
+Specification,Specification Name,Bid Requirement (Allowed Values)
+Specification,Type of Access Point,Stand alone
+Deployment,Indoor,
+Wireless Speed Up to (Mbps),"aggregateddatarate1.6gbps(1300mbpsinthe5ghzbandand300mbpsinthe2.4ghzband)",
+"Max Wireless Signal Rangeim Mts",30mtrs,
+Supported Encryption,"WPA-PSK, WEP, WPA2 AES, 802.11i, EAP-TLS., WPA-TKIP, WPA AES",
+"On Site OEM Warranty(Years)",3,
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days
+1,Vineet Aggarwal,"122052,Indian Institute ofCorporate Affairs Ministry ofCorporate Affairs Govt. of India,Plot No. 6,7, 8, Sector 5, IMT,Manesar",18,15

@@ -1,0 +1,49 @@
+Bid Details,
+Bid End Date/Time,23-07-2021 14:00:00
+Bid Opening Date/Time,23-07-2021 14:30:00
+Bid Life Cycle (From Publish Date),90 (Days)
+Bid Offer Validity (From End Date),70 (Days)
+Ministry/State Name,Ministry Of Health And Family Welfare
+Department Name,Department Of Health And Family Welfare
+Organisation Name,Lady Hardinge Medical College New Delhi
+Office Name,"Lady Hardinge Medical College & Smt. S. K. Hospital NewDelhi 110001"
+Total Quantity,1
+Item Category,Real time PCR (ICMR specs)
+"Minimum Average Annual Turnover of theBidder",9 Lakh (s)
+OEM Average Turnover (Last 3 Years),9 Lakh (s)
+Years of Past Experience required,3 Year (s)
+"MSE Exemption for Years Of Experienceand Turnover",Yes
+"Startup Exemption for Years Of Experienceand Turnover",Yes
+Document required from seller,"Experience Criteria,Past Performance,Bidder Turnover,OEMAuthorization Certificate,OEM Annual Turnover,AdditionalDoc 1 (Requested in ATC),Additional Doc 2 (Requested inATC),Additional Doc 3 (Requested in ATC),Additional Doc 4(Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer"
+Past Performance,80 %
+Bid to RA enabled,No
+"Comprehensive Maintenance ChargesRequired",Yes
+"Time allowed for Technical Clarificationsduring technical evaluation",2 Days
+Evaluation Method,Total value wise evaluation
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+ePBG Percentage(%),,3.00,,
+Duration of ePBG required (Months).,,62,,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)PerformanceSource of ExcitationLEDParametersData managementOperating systemWindows 10systemProviding compatible OnlineYes Or higherUPS with backup of ? 1hour (for data managementsystem)",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"PerformanceParameters",,Source of Excitation,,LED,
+"Data managementsystem",,Operating system,,Windows 10,
+"","Providing compatible OnlineUPS with backup of ? 1hour (for data managementsystem)",,Yes Or higher,,
+"Comprehensive MaintenanceWarranty of required product5 YearComprehensive Maintenance Duration (Post5 YearWarranty)",Comprehensive Maintenance,
+Warranty of required product,,5 Year
+"Comprehensive Maintenance Duration (PostWarranty)",,5 Year
+"Specification ParameterBid Requirement (Allowed Values)NameDynamic True Thermal GradientDynamic True Thermal Gradient Capacity with 8 different gradientcapacitytemperaturesSystem should be IVD approvedYesSystem should be capable ofperforming high resolution meltYes(HRM) AnalysisWarranty and Comprehensive5 Year warranty and 5 year CMC including all computer hardware and UPSMaintenance ContractDemonstration of actual equipment at the time of technical evaluation isDemonstrationrequired at the consignee site","Specification ParameterName",,Bid Requirement (Allowed Values)
+"Dynamic True Thermal Gradientcapacity",,"Dynamic True Thermal Gradient Capacity with 8 different gradienttemperatures",
+System should be IVD approved,,Yes,
+"System should be capable ofperforming high resolution melt(HRM) Analysis",,Yes,
+"Warranty and ComprehensiveMaintenance Contract",,5 Year warranty and 5 year CMC including all computer hardware and UPS,
+Demonstration,,"Demonstration of actual equipment at the time of technical evaluation isrequired at the consignee site",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer110001,Lady Hardinge Medical1MITHLESH KUMARCollege & Smt. S. K. Hospital,130New Delhi",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,MITHLESH KUMAR,,"110001,Lady Hardinge MedicalCollege & Smt. S. K. Hospital,New Delhi",,1,,30,
+"Dynamic True Thermal Gradientcapacity","Dynamic True Thermal GradientCapacity with 8 different gradienttemperatures"
+System should be IVD approved,Yes
+"System should be capable ofperforming high resolution melt(HRM) Analysis",Yes
+"Warranty and ComprehensiveMaintenance Contract","5 Year warranty and 5 year CMCincluding all computer hardwareand UPS"
+Demonstration,"Demonstration of actualequipment at the time of technicalevaluation is required at theconsignee site"

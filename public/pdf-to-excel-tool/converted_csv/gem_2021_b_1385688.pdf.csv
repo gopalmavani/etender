@@ -1,0 +1,45 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 17:00:00,
+Bid Opening Date/Time,,05-08-2021 17:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Atomic Energy,
+Organisation Name,,Irel India Limited,
+Office Name,,Ho,
+Total Quantity,,2,
+Item Category,,"portable single operated rectifier type dc arc welding setsuitable for manual arc welding process - as per IS 4559 (PAC Only )",
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Estimated Bid Value,,52800,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Make,ador,
+Model,ador-champ200,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"",Standards,,"Welding set conforming toIS:4559/1993 with latestamendments",,Yes,
+"","Capacitor conforming toIS:13340/2012",,Yes,,,
+"",BIS Marked,,No,,,
+"",Type of welding set,,Rectifier inverter based(IGTB) double bridge type,,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Type of power supply,,Single phase
+"",,Rated input voltage,,"240V,single Phase"
+"",,"Current rating for rectifiertype power source inampere",,200.0
+"",,"Maximum ContinuousAutomatic Current inampere",,150.0
+"",,"Maximum Continuous HandWelding Current in Amp",,200.0
+"",,"Open-Circuit Voltage inVolts",,71.0
+"",,"Min Welding load voltage(at min welding current) inVolts",,20.0
+"",,"Max Welding loadVoltage(at max weldingcurrent) in Volts",,24.0
+"",,"Maximum continuouswelding current at 100%duty cycle(Amp @ dutycycle)",,120.0
+"",,"Maximum continuouswelding current at 60%duty cycle(Amp @ dutycycle)",,150.0
+"",,Warranty in Years,,1
+"Dimensional andMaterial Parameters",,"Dimension of electrode inmm",,3.2
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer629252,IREL(India) LimitedP.O.: MANAVALAKURICHI DIST.:1K Sateesh Kumar230KANYAKUMARI, STATE:TAMILNADU PIN -629 252",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,K Sateesh Kumar,,"629252,IREL(India) LimitedP.O.: MANAVALAKURICHI DIST.:KANYAKUMARI, STATE:TAMILNADU PIN -629 252",,2,,30,

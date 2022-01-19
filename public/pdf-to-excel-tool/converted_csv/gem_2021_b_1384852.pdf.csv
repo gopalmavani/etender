@@ -1,0 +1,44 @@
+Bid Details,,,
+Bid End Date/Time,,10-08-2021 14:00:00,
+Bid Opening Date/Time,,10-08-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,Storage System,
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,Yes,
+"Inspection to be carried out by Buyers ownempanelled agency",,Yes,
+Type Of Inspection,,Post Dispatch,
+"Name of the Empanelled InspectionAgency/ Authority",,Board of Officers,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Specification,,Storage System Type,,"SAN, Unified Storage"
+"",Group2,,Storage Capacity (TB),,16.0 - 5000.0 Or higher
+"",Disk Type,,"SSD, NL-SAS, Flash Drive, SAS, NVMe SSD, Sata",,
+"","Number of Drive SlotsPopulated with drives ofdifferent type in theStorage System",,"4, 5, 7, 8, 12, 18",,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Automated Storage tieringfeature across thepopulated Drives types( incase of multiple drivesystem)",,"Yes, No"
+Connectivity/Port,,Number of Front end Ports,,Any applicable text(s)
+"",,"Speed of front end Ports inGbps",,Any applicable numeric value
+"",,Number of Back end Ports,,Any applicable numeric value
+"",,"Speed of Back end ports inGbps",,More than 2.0 Or higher
+Controllers,,"Number of Controllers/VSD/Node available in thestorage System on commonback plane without usingexternal switch/device ORwithout common backplaneusing switches",,1
+System Cache,,Cache Availability Type,,Global
+"",,"Total Configurable Cache(GB)",,8 - 8192
+Group19,,On Site OEM Warranty,,"3, 5"
+"Specification ParameterBid Requirement (Allowed Values)NameStorage Device (Hard Disk)Rate quoted should be including 16TB Storage Device (Hard Disk)","Specification ParameterName",,Bid Requirement (Allowed Values)
+Storage Device (Hard Disk),,Rate quoted should be including 16TB Storage Device (Hard Disk),
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************BANGALORE130",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********BANGALORE,,1,,30,

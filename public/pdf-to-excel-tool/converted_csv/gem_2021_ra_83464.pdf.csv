@@ -1,0 +1,44 @@
+RA Details,,,
+RA Technical End Date/Time,,03-08-2021 16:00:00,
+RA Opening Date/Time,,03-08-2021 16:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Bihar,
+Department Name,,Urban Development & Housing Department Bihar,
+Organisation Name,,Urban Development And Housing Department,
+Office Name,,Hajipur,
+Total Quantity,,1,
+Item Category,,Off-Grid Solar Photovoltaic (PV) power plant,
+Average Turnover (Last 3 Years),,3 Lakh (s),
+OEM Average Turnover (Last 3 Years),,25 Lakh (s),
+Experience Criteria,,3 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Past Performance,,80 %,
+Evaluation Method,,Total value wise evaluation,
+"",Advisory Bank,,State Bank of India,
+"",EMD Percentage(%),,2.00,
+"",EMD Amount,,15840,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,3.00,
+"",Duration of ePBG required (Months).,,14,
+Brand Type,Registered Brand,
+Specification,Specification Name,Bid Requirement (Allowed Values)
+PV Module,Type of Solar Module,Polycrystalline
+"",Module efficiency,>=16%
+"",Module product warranty,25.0
+"Power ConditioningUnit (PCU)",Charger technology,MPPT
+"",Warranty of PCU,60.0
+"",Output phase,Single
+"",Rated Power (kVA),10
+"","Efficiency at STP for linearloading",>=92%
+"",Input Phase,Single
+"","Nominal battery DC systemvoltage",120.0
+Generic,"capacity of power plant(kVA)",10
+"Batteryspecifications",Battery warranty,3.0
+No of battery,10,
+Battery capacity (Ah),150,
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days
+1,Manoj Kumar Sahni,"844101,RAMBALAK CHOWK,HAJIPUR",1,30

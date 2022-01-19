@@ -1,0 +1,52 @@
+Bid Details,,,
+Bid End Date/Time,,29-07-2021 20:00:00,
+Bid Opening Date/Time,,29-07-2021 20:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,"Industrial Refrigerator,Chiller and Deep Freezer",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+ITEM,,item,,Commercial Refrigerator
+DESIGN,,No of Door,,Three
+"",Position of Door,,Front Opening,
+"",Door Type,,Hinged,
+"",Air Tight Door,,Yes,
+"",No Of shelves,,12,
+"",Wheels,,Yes,
+"",Visibility of Item Stored,,Yes,
+"",Type of Insulation,,PUF,
+"",Method of Defrosting,,Forst free,
+"",Type of cooling,,Frost Free,
+"",Material of chamber interior,,Prepainted Sheet,
+"","Material of chamberexterior",,Prepainted Sheet,
+"",Door Material,,Glass Door,
+"",Cooling Coil Material,,Copper,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"CAPACITY ANDDIMENSION",,"Storage Volume(NetCapacity)(Liters)",,1000
+"",,Over all length(mm),,1500
+"",,Over all width(mm),,700
+"",,Over all Height(mm),,1000
+"",,Insulation Thickness(in mm),,60
+"",,Holdover Time(minute),,60
+PERFORMANCE,,Compressor,,AC Reciprocating Compressor
+"","Set temperaturerange(delta)",,5,
+"","Minimum achievableTemperature At 32 degreeCentigrade",,0°C,
+"",Voltage,,"220-240, Single Phase , 50 Hz",
+"","PowerConsumption(kw/day)",,5,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************PANCHKULA130",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********PANCHKULA,,1,,30,

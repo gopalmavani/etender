@@ -1,0 +1,54 @@
+Bid Details,,,
+Bid End Date/Time,,10-08-2021 17:00:00,
+Bid Opening Date/Time,,10-08-2021 17:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Space,
+Organisation Name,,N/a,
+Office Name,,National Atmospheric Research Laboratory,
+Total Quantity,,1000,
+Item Category,,Network Monitoring Software (Version 2.0) ( PAC Only ),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC),OEM AuthorizationCertificate,Additional Doc 1 (Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Advisory Bank,,State Bank of India,
+"",EMD Percentage(%),,0.50,
+"",EMD Amount,,13494,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,3.00,
+"",Duration of ePBG required (Months).,,12,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Make,gfisoftware,
+Model,gfiunlimited,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"",BASIC INFORMATION,,Software Domain / Type,,Network Monitoring Software(NMS),
+"",,,"Modules of NetworkMonitoring Softwareoffered in the scope ofsupply",,"Network monitoring, Syslog, Physical host monitoring",
+"",SCOPE OF LICENCE,,Types of Licence,,Subscription,
+"","Duration of Subscription (inmonths) (Hint :- Select '0' ifnot applicable)",,12.0 - 60.0 Or higher,,,
+"",OEM Licensing policy,,Per Device,,,
+"","Number of licensingincluded in the offeredproduct as per OEM definedlicensing policy",,500.0 - 500.0 Or higher,,,
+"",Scope of Installation,,NA,,,
+"","Hosting Enviroment/Deployment Option",,On Premises,,,
+"","The offered product havesupport from OEM for",,"Unlimited updation for Patches and Bug fixes withinmaintenance & support period, Unlimited upgradationof version within support period, NA",,,
+"","Number of Years for OEMsupport for updation(Patches and Bug fixes) isincluded in the scope ofsupply (Hint :- Select '0' ifnot applicable)",,1.0 - 5.0 Or higher,,,
+"","Number of Years for OEMsupport for Upgradation ofversion is included in thescope of supply (Hint :-Select '0' if not applicable)",,1.0 - 5.0 Or higher,,,
+"",Training Options,,Training Material,,,
+"","No of days TrainingProvided (Hint :- Select '0' ifnot applicable)",,0.0 - 10.0 Or higher,,,
+"","Network PerformanceMonitoring features",,"Capable to do trend analysis of stored historicalrecords of network performance data, NA",,,
+"",WAN link monitoring,,"Supports instant diagnosis of the node status throughPing, Telnet and SNMP walk, NA",,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Monitoring of Networkmetrics supported by theoffered product",,"Errors, Discards, Interface packets count, Responsetime, NA"
+Server Monitoirng,,Server Monitoring,,"Capable to support Virtual Machine, Hypervisor andCluster monitoring, Capable to monitor availabilityand performance of web server , email server anddatabase server etc., NA"
+Syslog,,Syslog,,"Provision to collect and store system logs from targetdevices including firewalls, routers, switches, WLC,servers, applications & databases., Provision formultiple filtering options for incoming system logsbased on target device, log_ID, severity, level,message, OS type, application / database etc.,Provision to export specific syslog messages to usersvia email / SMS, NA"
+"Traffic Analytics (Netflow )",,Traffic Analytics Features,,"Capable to support Network based ApplicationRecognition(NBAR ), NA"
+"Networkconfigurationmanagement",,Configuration Backup,,"Capable to perform device configuration backup,maintain history by tracking changes, and compareversions from a centralized web GUI., Capable toperform scheduled backup of configuration fromnetwork devices and backup files are to be centrallystored and organized by device and version, Capableto generate alerts for failed configuration backup.,Capable to generate configuration backup reports.,NA"
+"",Configuration Management,,"Provision to perform standard compliance checksacross all target network devices., NA",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer517112,Gadanki, Pakala1Nambi Narayanan100045Mandal",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Nambi Narayanan,,"517112,Gadanki, PakalaMandal",,1000,,45,

@@ -1,0 +1,48 @@
+Bid Details,,,
+Bid End Date/Time,,10-08-2021 10:00:00,
+Bid Opening Date/Time,,10-08-2021 10:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,70 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,17,
+Item Category,,Desktop Computers,
+Years of Past Experience required,,3 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,80 %,
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,4 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",Reserved for MSE,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Motherboard,,Chipset Series,,"Intel H Series, Intel B Series, Intel Q Series Or higher"
+"",Chipset Number,,"Intel H310, Intel H370, Intel B360, Intel Q 250, Intel Q270, Intel Q 370, Intel B 365 Or higher",
+"",Processor Make,,Intel,
+"",Processor Generation,,8.0 Or higher,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Number of Cores perProcessor",,"4, 6, 8, 10, 12 Or higher"
+"",,Processor Description,,"Intel Core i3, Intel Core i5, Intel Core i7, Intel Core i9Or higher"
+"",,Processor Number,,"Intel Core i3 8100, Intel Core i3 8300, Intel Core i57400T, Intel Core i5 7500T, Intel Core i5 7400, IntelCore i5 7600T, Intel Core i5 8400T, Intel Core i5 7500,Intel Core i5 8500T, Intel Core i5 7600, Intel Core i57600K, Intel Core i5 8400, Intel Core i5 8500, IntelCore i5 8600, Intel Core i5 8600K, Intel Core i7 7700T,Intel Core i7 7700, Intel Core i7 8700T, Intel Core i77700K, Intel Core i7 8700, Intel Core i7 8700K, IntelCore i3 9100, Intel Core i3 9300, Intel Core i3 9320,Intel Core i5 9400, Intel Core i5 9500, Intel Core i59600, Intel Core i7 9700, Intel Core i9 9900, Intel Corei7 9700K, Intel Core i9 9900K, Intel Core i9 9900KS,Intel Core i9 9900KF, Intel Core i7 9700KF, Intel Corei7 9700F, Intel Core i7 8086K, Intel Core i5 9600K,Intel Core i5 9600KF, Intel Core i9 9900T, Intel Core i59500F, Intel Core i5 9400F, Intel Core i3 9350KF, IntelCore i3 9350K, Intel Core i7 9700T, Intel Core i38350K, Intel Core i5 9600T, Intel Core i5 8600T, IntelCore i3 9100F, Intel Core i5 9500T, Intel Core i59400T, Intel Core i3 9300T, Intel Core i3 9100T Orhigher"
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Home
+Memory,,RAM Size (GB),,"4, 8, 16, 32, 64, 128 Or higher"
+"",,"RAM Expandability up to(using spare DIMM Slots inGB)",,"32, 64, 128 Or higher"
+Storage,,"Type of Drives used topopulate the Internal Bays",,HDD
+"",,Total HDD Capacity (GB),,"1000, 1500, 2000, 2500, 3000, 4000 Or higher"
+"",,Total SSD Capacity (GB),,"128, 256, 384, 512, 768, 0, 1024, 2048, 4096 Orhigher"
+"",,"Total SSHD Capacity inaddition to 8 GB Flash (GB)",,"500, 1000, 2000, 0 Or higher"
+Cabinet,,Cabinet Form Factor,,SFF ( 7 to 13 Litres)
+Monitor,,Monitor Technology,,IPS Or higher
+"",,"LED Backlit Monitor Size(INCHES)",,"21.5, 22, 23, 24, 27, 23.8, 32 Or higher"
+"",,Monitor Resolution (PIXELS),,"1920x1080, 1920 x 1200, 3200x1800, 3840 x 2160,2560 x 1440 Or higher"
+Warranty,,"On Site OEM Warranty(Year)",,"3, 5, 4 Or higher"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************BARMER1715",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********BARMER,,17,,15,

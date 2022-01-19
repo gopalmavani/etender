@@ -1,0 +1,47 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 09:00:00,
+Bid Opening Date/Time,,09-08-2021 09:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,South Central Railway,
+Total Quantity,,10,
+Item Category,,Paint spray gun,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Past Performance*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,30 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Type of feed,,Pressure feed Spray Gun
+"",Working Air Pressure,,upto 30 psi
+"","Max weight of the spraygun with cup in grams",,600
+"","Capacity of the paintcup/container in ml",,500
+"",Fluid (paint) output in l/min,,upto 500
+"","Air Consumption Rate inlitre /Min",,upto 200
+"","Availability of Air controlregulator",,Yes
+"","Availability of Paint flowcontrol regulator",,Yes
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Availability of Spary controlvalve",,Yes
+"",,"Availability of Extra Nozzlesof Different diameters withspray gun",,Yes
+"",,Type of Power,,Electric
+"",,Warranty,,1
+"DimensionalParameters",,Air inlet diameter in mm,,7
+"",,Pattern width in mm,,120
+"",,Spary distance in inch,,7
+"",,"Size of Standard Nozzle inmm",,1 mm
+Material Parameters,,Material of Cup / Container,,Stainless Steel
+"",Material of the Nozzle,,Stainless Steel,
+"",Spray Gun body material,,Stailness Steel,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer505208,The Senior SectionEngineer, Carriage and Wagondepartment, ROH depot, Near1Korra PanduRailway Station, Ramagundam1030(Post), Pedapalli (District),Telangana (State). Pincode:505208. PH: 9701372349",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Korra Pandu,,"505208,The Senior SectionEngineer, Carriage and Wagondepartment, ROH depot, NearRailway Station, Ramagundam(Post), Pedapalli (District),Telangana (State). Pincode:505208. PH: 9701372349",,10,,30,

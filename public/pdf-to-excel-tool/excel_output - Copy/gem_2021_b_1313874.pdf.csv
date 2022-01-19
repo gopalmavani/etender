@@ -1,0 +1,57 @@
+Bid Details,,,
+Bid End Date/Time,,22-07-2021 10:00:00,
+Bid Opening Date/Time,,22-07-2021 10:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,45 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,West Central Railway,
+Total Quantity,,1,
+Item Category,,Platform Truck - as per IS:10311 latest,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","Conformity to IndianStandard",,IS:10311 latest
+"",ISI Marking,,"Yes, No"
+"",Rated load Capacity (Kg),,2000
+"",Battery operated,,Yes
+"",Type of Plateform Truck,,Fixed
+"",No. of Wheels (nos.),,4
+"","Min Power Rating of DCMotor (Kw)",,2.6
+"","Rated voltage of DC Motor(Volts)",,36
+"","Tubular Lead Acid TractionBattery of minimum 299 Ahcapacity @ 5 hr discharge",,Yes
+"","Overall Truck Size (LxWxH)(mm)",,3270x1200x1488
+"",Size of Platform (LxWxH) (mm),,2000x1200x690
+"",Platform Height (mm),,650.0
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Seating Height from ground(mm)",,1250.0
+"",,Number of Seats (Nos.),,2
+"",,"Operating Floor Height(mm)",,760.0
+"",,"Minimum Turning Radius(mm)",,3600.0
+"",,Front Suspension Type,,springshockabsorb
+"",,Rear Suspension Type,,springshockabsorb
+"",,No. of Head Lights (Nos.),,2
+"",,Ground clearance (mm),,More than 160.0 Or higher
+"",,Type of Service Brake,,hydraulic
+"",,Type of Parking Brake,,mechanical
+"",,"Maximum Speed in unladencondition (Km/hr)",,9
+"",,"Maximum Speed in ladencondition (Km/hr)",,7
+"",,Wheel Base (mm),,1860.0
+"",,Wheel Track (mm),,1030.0
+"",,Type of Tyre,,Solid
+"",,Tyre Size (mm),,535
+"",,"Tare weight of PlatformTruck (Kg)",,1215.0
+"CertificationParamerters",,"Availability of complete &satisfactory test Reportfrom Central govt/ NABL/ILAC accredited laboratory",,Yes
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer485001,BCN ROH Depot Satna,Near Satna Railway Station1Kamran Ahmad190Platform 3, Satna, MadhyaPradesh",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Kamran Ahmad,,"485001,BCN ROH Depot Satna,Near Satna Railway StationPlatform 3, Satna, MadhyaPradesh",,1,,90,

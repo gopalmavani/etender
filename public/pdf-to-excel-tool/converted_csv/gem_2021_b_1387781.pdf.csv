@@ -1,0 +1,100 @@
+Bid Details,
+Bid End Date/Time,06-08-2021 13:00:00
+Bid Opening Date/Time,06-08-2021 13:30:00
+Bid Life Cycle (From Publish Date),90 (Days)
+Bid Offer Validity (From End Date),30 (Days)
+Ministry/State Name,Ministry Of Defence
+Department Name,Department Of Military Affairs
+Organisation Name,Indian Army
+Office Name,***********
+Total Quantity,9
+Item Category,"Desktop Computers , Line Intractive UPS with AVR ,Computer Printers , Multimedia Projector (MMP)"
+"Minimum Average Annual Turnover of theBidder",1 Lakh (s)
+OEM Average Turnover (Last 3 Years),1 Lakh (s)
+Years of Past Experience required,2 Year (s)
+"MSE Exemption for Years of Experience andTurnover",No
+"Startup Exemption for Years of Experienceand Turnover",No
+Document required from seller,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer"
+Past Performance,50 %
+Bid to RA enabled,No
+Primary product category,Desktop Computers
+"Time allowed for Technical Clarificationsduring technical evaluation",2 Days
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",No
+Evaluation Method,Total value wise evaluation
+"",Required,,No,
+"",Required,,No,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)MotherboardChipset SeriesIntel H Series, Intel B Series, Intel Q Series Or higherChipset NumberIntel H310, Intel H370, Intel B360, Intel Q 250, Intel Q270, Intel Q 370, Intel B 365 Or higherProcessorProcessor MakeIntelProcessor Generation9.0 Or higherNumber of Cores per4, 6, 8, 10, 12 Or higherProcessorProcessor DescriptionIntel Core i3, Intel Core i5, Intel Core i7, Intel Core i9Or higherProcessor NumberIntel Core i5 7600K, Intel Core i5 8400, Intel Core i58500, Intel Core i5 8600, Intel Core i5 8600K, IntelCore i7 7700T, Intel Core i7 7700, Intel Core i7 8700T,Intel Core i7 7700K, Intel Core i7 8700, Intel Core i78700K, Intel Core i3 9100, Intel Core i3 9300, IntelCore i3 9320, Intel Core i5 9400, Intel Core i5 9500,Intel Core i5 9600, Intel Core i7 9700, Intel Core i99900, Intel Core i7 9700K, Intel Core i9 9900K, IntelCore i9 9900KS, Intel Core i9 9900KF, Intel Core i79700KF, Intel Core i7 9700F, Intel Core i7 8086K, IntelCore i5 9600K, Intel Core i5 9600KF, Intel Core i99900T, Intel Core i5 9500F, Intel Core i5 9400F, IntelCore i3 9350KF, Intel Core i3 9350K, Intel Core i79700T, Intel Core i3 8350K, Intel Core i5 9600T, IntelCore i5 8600T Or higherOperating SystemOperating System (FactoryWindows 10 ProfessionalPre-Loaded)MemoryRAM Size (GB)8, 16, 32, 64, 128 Or higherRAM Expandability up to(32, 64, 128 Or higherusing spare DIMM Slots inGB)StorageType of Drives used toHDDpopulate the Internal BaysTotal HDD Capacity (GB)1000, 1500, 2000, 2500, 3000, 4000 Or higherTotal SSD Capacity (GB)128, 256, 384, 512, 768, 0, 1024, 2048, 4096 OrhigherTotal SSHD Capacity in500, 1000, 2000, 0 Or higheraddition to 8 GB Flash (GB)CabinetCabinet Form FactorSFF ( 7 to 13 Litres)MonitorMonitor TechnologyIPS, TN, VA Or higherLED Backlit Monitor Size19.5, 21.5, 22, 23, 24, 27, 20, 23.8, 32 Or higher(INCHES)Monitor Resolution (PIXELS)1600 x 900, 1920x1080, 1920 x 1200, 3200x1800,3840 x 2160, 1280 x 1024, 2560 x 1440 Or higherWarrantyOn Site OEM Warranty3, 5, 4 Or higher(Year)",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Motherboard,,Chipset Series,,"Intel H Series, Intel B Series, Intel Q Series Or higher",
+"",,Chipset Number,,"Intel H310, Intel H370, Intel B360, Intel Q 250, Intel Q270, Intel Q 370, Intel B 365 Or higher",
+Processor,,Processor Make,,Intel,
+"",,Processor Generation,,9.0 Or higher,
+"",,"Number of Cores perProcessor",,"4, 6, 8, 10, 12 Or higher",
+"",,Processor Description,,"Intel Core i3, Intel Core i5, Intel Core i7, Intel Core i9Or higher",
+"",,Processor Number,,"Intel Core i5 7600K, Intel Core i5 8400, Intel Core i58500, Intel Core i5 8600, Intel Core i5 8600K, IntelCore i7 7700T, Intel Core i7 7700, Intel Core i7 8700T,Intel Core i7 7700K, Intel Core i7 8700, Intel Core i78700K, Intel Core i3 9100, Intel Core i3 9300, IntelCore i3 9320, Intel Core i5 9400, Intel Core i5 9500,Intel Core i5 9600, Intel Core i7 9700, Intel Core i99900, Intel Core i7 9700K, Intel Core i9 9900K, IntelCore i9 9900KS, Intel Core i9 9900KF, Intel Core i79700KF, Intel Core i7 9700F, Intel Core i7 8086K, IntelCore i5 9600K, Intel Core i5 9600KF, Intel Core i99900T, Intel Core i5 9500F, Intel Core i5 9400F, IntelCore i3 9350KF, Intel Core i3 9350K, Intel Core i79700T, Intel Core i3 8350K, Intel Core i5 9600T, IntelCore i5 8600T Or higher",
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional,
+Memory,,RAM Size (GB),,"8, 16, 32, 64, 128 Or higher",
+"",,"RAM Expandability up to(using spare DIMM Slots inGB)",,"32, 64, 128 Or higher",
+Storage,,"Type of Drives used topopulate the Internal Bays",,HDD,
+"",,Total HDD Capacity (GB),,"1000, 1500, 2000, 2500, 3000, 4000 Or higher",
+"",,Total SSD Capacity (GB),,"128, 256, 384, 512, 768, 0, 1024, 2048, 4096 Orhigher",
+"",,"Total SSHD Capacity inaddition to 8 GB Flash (GB)",,"500, 1000, 2000, 0 Or higher",
+Cabinet,,Cabinet Form Factor,,SFF ( 7 to 13 Litres),
+Monitor,,Monitor Technology,,"IPS, TN, VA Or higher",
+"",,"LED Backlit Monitor Size(INCHES)",,"19.5, 21.5, 22, 23, 24, 27, 20, 23.8, 32 Or higher",
+"",,Monitor Resolution (PIXELS),,"1600 x 900, 1920x1080, 1920 x 1200, 3200x1800,3840 x 2160, 1280 x 1024, 2560 x 1440 Or higher",
+Warranty,,"On Site OEM Warranty(Year)",,"3, 5, 4 Or higher",
+"Specification ParameterBid Requirement (Allowed Values)NameONLY HP AND DELL BRAND AREPRELOADED OS WINDOWS 10 PRO 64 BIT ALLOWEDALLOWED","Specification ParameterName",,Bid Requirement (Allowed Values)
+"ONLY HP AND DELL BRAND AREALLOWED",,PRELOADED OS WINDOWS 10 PRO 64 BIT ALLOWED,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************HISAR215",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********HISAR,,2,,15,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERIC,,"Rating in KVA/ min VAHcapacity of battery(KVA/VAH)",,1.0/168
+"",,Technology,,MOSFET-PWM
+"",,Type of battery,,"SMF-VRLA confirming to JISC-8702 Pt 1,2 &3"
+"",,Rated Output (Volt),,"Single phase sinewave 230v AC , 50Hz"
+"",,Degree of protection,,IP-21
+"",,Inverter Efficiency (%),,> / = 70%
+"",,"Warranty for the batteryfrom the date of delivery",,3 Years
+"",,"Warranty for LineInteractive UPS",,5 Years
+CONSTRUCTIONAL,,"AC out put for printer (notthrough inverter)",,Yes
+"","Inverter out put socket ACout put for printer (notthrough inverter)",,3 Three pin,
+"",Overload Time (Minutes),,> / = 10 minutes,
+"",Load power factor,,> / = 0.6,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Variation in AVR output inAC mode (%) AVR (Voltageregulation) output voltagein AC Mode",,"230 Volts +/-9%, 50 +/-3 Hz"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************HISAR115",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********HISAR,,1,,15,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)SpecificationsCartridge TechnologyComposite Cartridge, separate toner and drum, Ink OrhigherPrinting Technologyinkjet, LaserType of PrintingMono, ColourPaper SizeA4, A3 Or higherPrint Speed per minute as10, 12, 15, 16, 18, 20, 21, 22, 25, 27, 28, 30, 35, 38,per ISO/IEC 24734 in (A4)40, 43, 45, 47, 50, 52, 55, 60, 61, 65, 70, 71, 75, 80,Size - Mono85, 90, 95, 100, 105, 110, 26, 31, 32, 7.7, 8, 8.6, 8.8,9, 9.9, 13, 14.5, 24, 62, 33, 41, 46, 56, 29, 34, 19, 14Or higherPrint Speed per minute as4, 7, 8, 10, 12, 15, 16, 18, 20, 25, 30, 35, 40, 45, 50,per ISO/IEC 24734 in (A4) -55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 26,Color27, 31, 38, 4.4, 5, 5.7, 5.8, 6.8, 10.4, 15.5, 21, 24, 33,46, 34, 19, 0, 14 Or higherDuplexing FeatureYes, No Or higherWireless ConnectivityYes, No Or higherNumber of Main Paper1, 2, 3, 4, 5 Or higherTraysBypass Tray FacilityYes, No Or higherOn site OEM warranty1, 3, 5, 2, 4 Or higher(Years)",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Specifications,,Cartridge Technology,,"Composite Cartridge, separate toner and drum, Ink Orhigher",
+"",Printing Technology,,"inkjet, Laser",,
+"",Type of Printing,,"Mono, Colour",,
+"",Paper Size,,"A4, A3 Or higher",,
+"","Print Speed per minute asper ISO/IEC 24734 in (A4)Size - Mono",,"10, 12, 15, 16, 18, 20, 21, 22, 25, 27, 28, 30, 35, 38,40, 43, 45, 47, 50, 52, 55, 60, 61, 65, 70, 71, 75, 80,85, 90, 95, 100, 105, 110, 26, 31, 32, 7.7, 8, 8.6, 8.8,9, 9.9, 13, 14.5, 24, 62, 33, 41, 46, 56, 29, 34, 19, 14Or higher",,
+"","Print Speed per minute asper ISO/IEC 24734 in (A4) -Color",,"4, 7, 8, 10, 12, 15, 16, 18, 20, 25, 30, 35, 40, 45, 50,55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 26,27, 31, 38, 4.4, 5, 5.7, 5.8, 6.8, 10.4, 15.5, 21, 24, 33,46, 34, 19, 0, 14 Or higher",,
+"",Duplexing Feature,,"Yes, No Or higher",,
+"",Wireless Connectivity,,"Yes, No Or higher",,
+"","Number of Main PaperTrays",,"1, 2, 3, 4, 5 Or higher",,
+"",Bypass Tray Facility,,"Yes, No Or higher",,
+"","On site OEM warranty(Years)",,"1, 3, 5, 2, 4 Or higher",,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************HISAR515",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********HISAR,,5,,15,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"TechnicalSpecifications",,Technology,,"LCD, One Chip DLP, Lcos, SXRD, Three Chip DLP"
+"",Native Resolution,,"640 x 480 (VGA), 854 x 480 (WVGA), 800 x 600(SVGA), 1024 x 768 (XGA), 1280 x 720 (HD), 1280 x800 (WXGA), 1280 x 1024 (SXGA), 1600 x 1200(UXGA), 1920 x 1080 (Full HD), 1920 x 1200(WUXGA), 3840 x 2160 (UHD 4K), 2560 x 1600(WQXGA), 4096 x 2160 (4K), 5120 x 3200 (4K+) Orhigher",
+"",Brightness (Lumens),,"50, 100, 130, 200, 250, 300, 500, 1000, 1400, 1500,2000, 2200, 2500, 2600, 2700, 2800, 3000, 3100,3200, 3300, 3400, 3500, 3600, 3700, 3800, 4000,4200, 4300, 4500, 5000, 5200, 5500, 6000, 6200,6500, 7000, 7500, 8000, 8500, 9000, 9500, 10000,12000, 13000, 14000, 16000, 18000, 20000, 22000,25000, 30000, 40000, 60000, 5800, 6600, 6700,21000 Or higher",
+"",Optical Zoom,,"Yes, No Or higher",
+"","If Yes, Optical Zoom (%)",,"110, 120, 135, 140, 145, 150, 160, 170, 175, 200,210, 130, NA Or higher",
+"","If Yes, Type of Projector",,"Long Throw (above 2.5), Standard Throw (0.91 to2.5), Short Throw (0.41 to 0.9), Ultra Short Throw(below 0.4)",
+"",Type of Light Source,,"UHP / UHE / UHM, LED, Laser, LED & Laser Hybrid",
+"","Minimum Life of LightSource (In Normal Mode)(Hours)",,"2000, 4000, 5000, 6000, 8000, 10000, 15000, 20000,25000, 30000 Or higher",
+"","On Site OEM Warranty forLight Source (Time or Lifein Hours whichever isearlier)",,"6 Months or 500 Hrs., 1 Year or 1000 Hrs., 1 Year or1200 Hrs., 1 Year or 1500 Hrs., 1 Year or 2000 Hrs., 1Year or 5000 Hrs., 3 Year or 5000 Hrs., 3 Year or10000 Hrs., 3 Year or 12000 Hrs., 3 Year or 15000Hrs., 3 Year or 30000 Hrs., 5 Year or 10000 Hrs. Orhigher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,On Site OEM Warranty,,"1, 2, 3, 5 Or higher"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************HISAR115",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********HISAR,,1,,15,

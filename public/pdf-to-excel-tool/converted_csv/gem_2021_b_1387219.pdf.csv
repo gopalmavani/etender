@@ -1,0 +1,51 @@
+Bid Details,,,
+Bid End Date/Time,,11-08-2021 11:00:00,
+Bid Opening Date/Time,,11-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Atomic Energy,
+Organisation Name,,N/a,
+Office Name,,"Niser (national Institute Of Science Education & Research),Bhubaneswar, Odisha",
+Total Quantity,,3,
+Item Category,,"Sanitary Napkins Incinetator Machine with Smoke ControlUnit",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Estimated Bid Value,,105000,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERAL,,Stand provided,,No
+"DIMENSIONS OFMAIN UNIT",,"Thickness of thermalInsulation material (mm)",,40.0
+"","Thickness of MS/SS sheet ofburning chamber (internal)(mm) (Min)",,"3, 5 Or higher",
+"",Machine Weight(kg),,16-30,
+"","Thickness of door includinginsulation (mm)",,20.0,
+"","Flexible emission Outletpipe dia (mm)",,50.0,
+"","Material of Housing cabinet(External)",,Mild Steel(CRCA) sheet,
+"","Material of Burningchamber (Internal)",,Stainless Steel sheet of SS-304 grade,
+"","Material of ThermalInsulation",,High Density Ceramic Fiber sheet,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"CONTROL &FUNCTIONALFEATURES",,"Temperature indicatorprovided",,Yes
+"",,"Minimum Burningtemperature (degree C)",,800
+"",,"Burning Capacity per day(Number of Napkins)",,100-200
+"",,"Burning Capacity at a time(Number of Napkins)",,16-25
+"",,"Burning time of fullcapacity Napkins/pads(minutes) (Max)",,20.0
+"ELECTRICAL ANDSAFETY FEATURES",,"Automatic digital controllerfor time",,Yes
+"",,"Automatic digital controllerfor temperature",,Yes
+"SMOKE CONTROLUNIT (SCU)",,"Type of SCU (Smoke ControlUnit)",,Top mounted
+"",,"Material of housing ofSmoke Control Unit (SCU)",,Mild Steel(CRCA) cabinet
+"",,"Both carbon Control andFoul odour ControlChambers for filteration ofsmoke emission",,Yes
+"",,"Number of filters in Carboncontrol chamber",,Three
+"",,"Type of filters in Carboncontrol chamber",,Ceramic blanket as a filter
+"",,"Number of filters in Odourcontrol chamber",,Two
+"",,Blower RPM,,1800
+"PERFORMANCEREQUIREMENTS",,"Warranty in Years (Optionof comprehensive warrantyis available through biddingonly, which if opted willsupersede normal warrantyin the catalogue)",,"3, 4, 5 Or higher"
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"PURNA CHANDRASAHU",,"752050,National Institute ofScience Education andResearch NISER Campus PostOffice Jatani",,3,,60

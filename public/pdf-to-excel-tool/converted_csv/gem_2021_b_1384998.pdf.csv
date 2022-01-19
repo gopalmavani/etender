@@ -1,0 +1,39 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 15:00:00,
+Bid Opening Date/Time,,05-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Coal,
+Department Name,,Eastern Coalfields Limited,
+Organisation Name,,Eastern Coalfields Limited,
+Office Name,,West Bengal,
+Total Quantity,,17,
+Item Category,,Battery Secondary Lead Acid MT Type (Defence),
+"Minimum Average Annual Turnover of theBidder",,1 Lakh (s),
+OEM Average Turnover (Last 3 Years),,1 Lakh (s),
+Years of Past Experience required,,3 Year (s),
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"Experience Criteria,Past Performance,Bidder Turnover,OEMAuthorization Certificate,OEM Annual Turnover,AdditionalDoc 1 (Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,30 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GENERICBattery Rating and12 V 200 Ah@ C20/521X278X220/270/6140-005299capicity/Maximum overallDimension(Lengthxwidthxcontainerheight)/Battery Height/CatNo LV6/MT4/Part NoDGQA registered for MTYes, NoBattery defenceMaterial of Container andPolypropyleneLidSeparator typeEnvelope with glassWarranty2 Years, 3 Years, 4 Years, 5 Years",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERIC,,"Battery Rating andcapicity/Maximum overallDimension(Lengthxwidthxcontainerheight)/Battery Height/CatNo LV6/MT4/Part No",,12 V 200 Ah@ C20/521X278X220/270/6140-005299,
+"","DGQA registered for MTBattery defence",,"Yes, No",,
+"","Material of Container andLid",,Polypropylene,,
+"",Separator type,,Envelope with glass,,
+"",Warranty,,"2 Years, 3 Years, 4 Years, 5 Years",,
+"Specification ParameterBid Requirement (Allowed Values)NameBattery should be 25 PlatesMaintenance free and FactoryConfirmed the additional specification parameterCharged.Bidder should be an Indianmanufacturer or authorisedAcceptedrepresentative of Indianmanufacturer.","Specification ParameterName",,Bid Requirement (Allowed Values)
+"Battery should be 25 PlatesMaintenance free and FactoryCharged.",,Confirmed the additional specification parameter,
+"Bidder should be an Indianmanufacturer or authorisedrepresentative of Indianmanufacturer.",,Accepted,
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Dr Partha SarathiManna",,"713346,Pandaveswar Area, PO.Pandaveswar, PaschimBurdwan, WB",,17,,15

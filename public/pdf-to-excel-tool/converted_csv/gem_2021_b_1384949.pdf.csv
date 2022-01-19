@@ -1,0 +1,54 @@
+Bid Details,
+Bid End Date/Time,05-08-2021 15:00:00
+Bid Opening Date/Time,05-08-2021 15:30:00
+Bid Life Cycle (From Publish Date),90 (Days)
+Bid Offer Validity (From End Date),30 (Days)
+Ministry/State Name,Ministry Of Defence
+Department Name,Department Of Military Affairs
+Organisation Name,Indian Army
+Office Name,***********
+Total Quantity,10
+Item Category,Desktop Computers
+"Minimum Average Annual Turnover of theBidder",2 Lakh (s)
+OEM Average Turnover (Last 3 Years),4 Lakh (s)
+Years of Past Experience required,1 Year (s)
+MSE Exemption for Years Of Experience,Yes
+Startup Exemption for Years Of Experience,Yes
+Document required from seller,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer"
+Past Performance,10 %
+Bid to RA enabled,Yes
+"Time allowed for Technical Clarificationsduring technical evaluation",3 Days
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",Yes
+"Inspection to be carried out by Buyers ownempanelled agency",Yes
+Type Of Inspection,Post Dispatch
+"Name of the Empanelled InspectionAgency/ Authority",Board of Officers
+Evaluation Method,Total value wise evaluation
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand
+"SpecificationSpecification NameBid Requirement (Allowed Values)MotherboardChipset SeriesIntel Q Series Or higherChipset NumberIntel Q 470 Or higherProcessorProcessor MakeIntelProcessor Generation10.0 Or higherNumber of Cores per4, 6, 8, 10, 12 Or higherProcessorProcessor DescriptionIntel Core i3, Intel Core i5, Intel Core i7, Intel Core i9Or higherProcessor NumberIntel Core i9 10900K, Intel Core i9 10900KF, IntelCore i9 10900, Intel Core i9 10900F, Intel Core i710700K, Intel Core i7 10700KF, Intel Core i7 10700,Intel Core i7 10700F, Intel Core i5 10600K, Intel Corei5 10600KF, Intel Core i5 10600, Intel Core i5 10500,Intel Core i9 10900T, Intel Core i3 10320, Intel Core i510400, Intel Core i5 10400F, Intel Core i7 10700T,Intel Core i3 10300, Intel Core i5 10600T, Intel Core i310100 Or higherOperating SystemOperating System (FactoryWindows 10 ProfessionalPre-Loaded)MemoryRAM Size (GB)8, 16, 32, 64, 128 Or higherRAM Expandability up to(128 Or higherusing spare DIMM Slots inGB)StorageType of Drives used toHDDpopulate the Internal BaysTotal HDD Capacity (GB)1000, 1500, 2000, 2500, 3000, 4000 Or higherTotal SSD Capacity (GB)128, 256, 384, 512, 768, 0, 1024, 2048, 4096 OrhigherTotal SSHD Capacity in500, 1000, 2000, 0 Or higheraddition to 8 GB Flash (GB)CabinetCabinet Form FactorTower (13.1 to 26 Litres)MonitorMonitor TechnologyIPS Or higherLED Backlit Monitor Size21.5, 22, 23, 24, 27, 23.8, 32 Or higher(INCHES)Monitor Resolution (PIXELS)1920x1080, 1920 x 1200, 3200x1800, 3840 x 2160,2560 x 1440 Or higherWarrantyOn Site OEM Warranty3, 5, 4 Or higher(Year)",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Motherboard,,Chipset Series,,Intel Q Series Or higher,
+"",,Chipset Number,,Intel Q 470 Or higher,
+Processor,,Processor Make,,Intel,
+"",,Processor Generation,,10.0 Or higher,
+"",,"Number of Cores perProcessor",,"4, 6, 8, 10, 12 Or higher",
+"",,Processor Description,,"Intel Core i3, Intel Core i5, Intel Core i7, Intel Core i9Or higher",
+"",,Processor Number,,"Intel Core i9 10900K, Intel Core i9 10900KF, IntelCore i9 10900, Intel Core i9 10900F, Intel Core i710700K, Intel Core i7 10700KF, Intel Core i7 10700,Intel Core i7 10700F, Intel Core i5 10600K, Intel Corei5 10600KF, Intel Core i5 10600, Intel Core i5 10500,Intel Core i9 10900T, Intel Core i3 10320, Intel Core i510400, Intel Core i5 10400F, Intel Core i7 10700T,Intel Core i3 10300, Intel Core i5 10600T, Intel Core i310100 Or higher",
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional,
+Memory,,RAM Size (GB),,"8, 16, 32, 64, 128 Or higher",
+"",,"RAM Expandability up to(using spare DIMM Slots inGB)",,128 Or higher,
+Storage,,"Type of Drives used topopulate the Internal Bays",,HDD,
+"",,Total HDD Capacity (GB),,"1000, 1500, 2000, 2500, 3000, 4000 Or higher",
+"",,Total SSD Capacity (GB),,"128, 256, 384, 512, 768, 0, 1024, 2048, 4096 Orhigher",
+"",,"Total SSHD Capacity inaddition to 8 GB Flash (GB)",,"500, 1000, 2000, 0 Or higher",
+Cabinet,,Cabinet Form Factor,,Tower (13.1 to 26 Litres),
+Monitor,,Monitor Technology,,IPS Or higher,
+"",,"LED Backlit Monitor Size(INCHES)",,"21.5, 22, 23, 24, 27, 23.8, 32 Or higher",
+"",,Monitor Resolution (PIXELS),,"1920x1080, 1920 x 1200, 3200x1800, 3840 x 2160,2560 x 1440 Or higher",
+Warranty,,"On Site OEM Warranty(Year)",,"3, 5, 4 Or higher",
+"Specification ParameterBid Requirement (Allowed Values)NamePAN INDIA SERVICEPAN INDIA SERVICE , OEM AUTHORISATION, ANNUAL TURNOVER","Specification ParameterName",,Bid Requirement (Allowed Values)
+PAN INDIA SERVICE,,"PAN INDIA SERVICE , OEM AUTHORISATION, ANNUAL TURNOVER",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************NEW DELHI1015",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********NEW DELHI,,10,,15,

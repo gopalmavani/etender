@@ -1,0 +1,48 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 20:00:00,
+Bid Opening Date/Time,,05-08-2021 20:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Tamil Nadu,
+Department Name,,Agriculture Department Tamil Nadu,
+Organisation Name,,"Directorate Of Horticulture And Plantation CropsGovernment Of Tamil Nadu",
+Office Name,,Joint Director Of Horticulture,
+Total Quantity,,2,
+Item Category,,Laptop-Notebook,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,10 Days,
+Estimated Bid Value,,89000,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Processor Make,,Intel
+"",Processor Generation,,"7.0, 8.0, 0.0, 9.0, 10.0, 11.0 Or higher"
+"","Number of Cores perProcessor",,"2, 4, 6, 8 Or higher"
+"",Processor Description,,"Intel Core i5, Intel Core i7, Intel Core i9 Or higher"
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Processor Number,,"Intel Core i5 7Y54, Intel Core i5 7Y57, Intel Core i77Y75, Intel Core i5 7200U, Intel Core i5 7300U, IntelCore i7 7500U, Intel Core i5 7260U, Intel Core i57267U, Intel Core i5 7360U, Intel Core i5 7287U, IntelCore i7 7600U, Intel Core i7 7560U, Intel Core i77660U, Intel Core i7 7567U, Intel Core i5 8250U, IntelCore i5 8259U, Intel Core i5 8269U, Intel Core i58300U, Intel Core i5 8350U, Intel Core i7 8550U, IntelCore i7 8559U, Intel Core i7 8650U, Intel Core i58300H, Intel Core i5 8400H, Intel Core i7 8650H, IntelCore i7 8750H, Intel Core i7 8850H, Intel Core i58265U, Intel Core i7 8565U, Intel Core i5 8365U, IntelCore i7 8665U, Intel Core i5 9300H, Intel Core i59400H, Intel Core i7 9750H, Intel Core i7 9850H, IntelCore i9, Turbo Boost up to 4.8GHz, with 16MB sharedL3 cache, Intel Core i9-9880H, Intel Core i5, TurboBoost up to 3.9GHz, with 128MB of eDRAM, Intel Corei7, Turbo Boost up to 4.5GHz, with 12MB shared L3cache, Intel Core i5 8200Y, Intel Core i7 8500Y, IntelCore i5 10210Y, Intel Core i5 10310Y, Intel Core i710510Y, Intel Core i5 1030G4, Intel Core i5 1030G7,Intel Core i5 1035G1, Intel Core i5 10210U, Intel Corei5 1035G4, Intel Core i5 1035G7, Intel Core i71060G7, Intel Core i7 1065G7, Intel Core i7 10510U,Intel Core i7 10710U, Intel Core i9 10980HK, IntelCore i9 10880H, Intel Core i7 10875H, Intel Core i710850H, Intel Core i9 9980HK, Intel Core i7 10750H,Intel Core i9 8950HK, Intel Core i5 10400H, Intel Corei5 10300H, Intel Core i7 10810U, Intel Core i7 8569U,Intel Core i7 10610U, Intel Core i5 10310U, Intel Corei7 10410Y, Intel Core i5, Turbo Boost up to 3.5GHz,with 6MB L3 cache, Intel Core i5, Turbo Boost up to3.8GHz, with 6MB shared L3 cache, Intel Core i71165G7, Intel Core i5 1135G7 Or higher"
+Graphics,,"Size of Memory in Case ofDedicated Graphic Card(GB)",,"0, 1, 2, 3, 4, 6 Or higher"
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional
+Memory,,RAM Size (GB),,"4, 8, 16, 32, 64 Or higher"
+Storage,,"Type of Drives used topopulate the Internal Bays",,"HDD, SSD, SSHD, SSED, PCIe SSD, EMMC"
+"",,Total HDD Capacity (GB),,"500, 1000, 1500, 2000, 2500, 3000, 0 Or higher"
+"",,Capacity of each SSD (GB),,"128, 256, 512, 1024, 2048, 0"
+"",,Total SSD Capacity (GB),,"128, 256, 384, 512, 768, 1024, 1280, 2048, 4096, 0Or higher"
+"",,Capacity of each SSHD (GB),,"8 GB Flash + 500 GB @5400 rpm, 8 GB Flash + 1000GB @5400 rpm, 8 GB Flash + 2000 GB @5400 rpm,NA Or higher"
+"",,"Total SSHD Capacity inaddition to 8 GB Flash (GB)",,"500, 1000, 1500, 0 Or higher"
+Connectivity,,Wireless Connectivity,,"Yes, No"
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Display,,Display Size (Inch),,"11, 11.6, 12, 12.3, 12.5, 13.3, 13.5, 14, 15, 15.4, 15.6,16, 13 Or higher"
+"",,Display Type,,"Non Touch, Touch Or higher"
+"",,Display Resolution (Pixels),,"1366x768, 1440 x 900, 1600 x 900, 1920x1080, 1920x 1200, 2304 x 1440, 2560 x 1600, 2736 x 1824,2880 x 1800, 3200x1800, 3840 x 2160, 2256x1504,3000x2000, 3240x2160, 3272 x 1920, 2880 x 1920,3072 x 1920 Or higher"
+Miscellaneous,,Optical Drive,,"Integrated, External, NA Or higher"
+Warranty,,Battery Warranty,,"1, 3, 4, 5 Or higher"
+"","On Site OEM Warranty(Year)",,"1, 3, 5, 4",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer643001,POST BOX NO:72,1Murali215ROSE GARDNE OOTY",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Murali,,"643001,POST BOX NO:72,ROSE GARDNE OOTY",,2,,15,

@@ -1,0 +1,56 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 11:00:00,
+Bid Opening Date/Time,,06-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Air Force,
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,Electronic Tyre Inflator Kit For Educational Purpose,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERAL,,Mounting,,Floor Mounted
+"",,"Measurement UnitsSupported other than 'psi'",,BAR
+"",,"Compressor (Scope ofsupply)",,Without
+"",,Air Storage Tank,,Without
+PERFORMANCE,,Compressor,,NA
+"","Type of Compressor(Electric Motor Driven)",,NA,
+"","Rating of Compressor (inCFM - Cubic Feet perMinute)",,"5 - 10, 11 - 20, 21 - 30, 31 - 40, 41 - 50, 51 - 60, 61 -70, 71 - 80, 81 - 90, 91 - 100, NA",
+"",Wattage of Compressor,,0 - 10,
+"",Pressure Range (in psi),,"0-150, 0-175, 0-200 Or higher",
+"",Accuracy of Pressure Filling,,0.1 Or lower,
+"",Resolution,,"0.05, 0.1, 0.2, 0.5, 1, 2",
+"",Air Storage Tank Volume,,"0, 10, 20, 30, 50, 75, 100, 125, 150, 175, 200",
+"",Hose Pipe Material,,Rubber,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Hose Pipe Size,,10.0
+"",,Length of Hose Pipe,,10.0
+"",,"Length of Air Pipe betweenCompressor and Main Unit",,0 - 20
+"DISPLAY /INTERFACE /STORAGE",,"Measurement Entry StoringCapability",,"0, 1, 2, 5, 10, 20 Or higher"
+"",,Interface,,"Touch Screen, Microswitch, KeyPad"
+"",,Type of Display,,LCD
+GENERIC,,Ingress Protection,,"IP 54, IP 55, IP 56, IP 57, IP 64, IP 65, IP 66, IP 67 Orhigher"
+POWER,,Power Source,,230 V AC ± 10 % ; 50 Hz ± 10 %
+"",,"If Battery Operated, Type ofBattery",,"Rechargeable Battery, Non-Rechargeable Battery, NA"
+"",,"Battery Operating (BackUp) Time",,"0, 4, 5, 6, 8, 10, 12, 16, 20, 24, 30, 36, 48, 60, 90,120, 150, 180"
+"OPERATINGCONDITIONS",,"Minimum OperatingTemperature",,"0, -5, -10, -15, -20, -25, -30"
+"",,"Maximum OperatingTemperature",,"50, 55, 60, 65, 70"
+"",,"Operating Humidity, Rh(in%)",,"65, 70, 75, 80, 85, 90, 95"
+"SERVICES ANDACCESSORIES",,Warranty,,1.0
+"",,"Installation andDemonstration included inthe Scope of Supply",,"Yes, No"
+"",,"Supplied withComprehensive UserManual",,"Yes, No"
+CERTIFICATIONS,,"Availability of Test Reportsfrom Central Govt / NABLapproved / ILAC accreditedLab to prove conformity tothe specification",,"Yes, No"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************TIRUPPUR130",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********TIRUPPUR,,1,,30,

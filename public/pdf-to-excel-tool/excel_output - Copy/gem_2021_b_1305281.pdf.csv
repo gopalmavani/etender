@@ -1,0 +1,91 @@
+Bid Details,,,
+Bid End Date/Time,,30-07-2021 14:00:00,
+Bid Opening Date/Time,,30-07-2021 14:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Power,
+Department Name,,Power Grid Corporation Of India Limited,
+Organisation Name,,Power Grid Corporation Of India Limited,
+Office Name,,Corporate Office Gurgaon,
+Total Quantity,,410,
+Item Category,,Plain Copier Paper-IS:14490 ( PAC Only ),
+"Minimum Average Annual Turnover of theBidder",,1 Lakh (s),
+OEM Average Turnover (Last 3 Years),,1 Lakh (s),
+Years of Past Experience required,,1 Year (s),
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"Experience Criteria,Past Performance,Bidder Turnover,OEMAuthorization Certificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,10 %,
+Bid to RA enabled,,No,
+Primary product category,,Plain Copier Paper-IS:14490,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",Reserved for MSE,,Yes,
+Make,jkcopier,
+Model,jkcopiera475gsm,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"",Certification,,"Conformance to IndianStandard",,Conforming to IS14490 : Latest,
+"",,,Whether ISI Marked,,"Yes, No",
+"",Test Report Details,,"""Test Report to be Submitted tothe Buyer on demand""",,Yes,
+"","AdditionalRequirements foreco mark",,"The material shall bemanufactured from pulpcontaining not less than 60%by mass of pulp made frommaterials other thanbamboo,hard woods ,softwoodsand reed or the material shallbe manufactured from pulpmade from 100%waste paper",,Yes,
+"",Size,,Size of paper,,A4,
+"",,,GSM of paper,,75,
+"",Quantity,,"""Number of sheets perReam""",,500,
+"","""ISOBrightness,percent,Min""(N>=80)",,More than 92.0 Or higher,,,
+"","Opacity percent,Min(N>=85)",,More than 94.0 Or higher,,,
+"","""One minute Cobb test bothsides,g/m2,Max"" (N<=25)",,Less than 25.0 Or lower,,,
+"","""Tensile Index MachineDirection (MD) ,Nm/g, Min""(N>=40)",,More than 40.0 Or higher,,,
+"","Tensile Index CrossDirection(CD),Nm/g,Min(N>=25)",,More than 25.0 Or higher,,,
+"","""Tear Index in mNm2/g,MachineDirection(MD),Min""(N>=3.5)",,More than 4.0 Or higher,,,
+"","""Tear Index in mNm2/g,CrossDirection(CD)Min,""(N>=4.5)",,More than 5.0 Or higher,,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"""Smoothness for both sides(Bendtsen) in ml/min,Max""(150<=N<=300)",,More than 220.0 Or higher
+"",,"""Ashcontent(900?C),percent bymass,Max"" (N<=16)",,Less than 16.0 Or lower
+"",,"Thickness in ?m,Min(N>=100+/-5)",,More than 103.0 Or higher
+"",,"""Moisturecontent,percent,Max""(4<=N<=5.5)",,4.4
+"",,"""Taber Stiffness ,MachineDirection(MD),Min"" (N>=2)",,More than 2.0 Or higher
+"",,"Taber Stiffness ,CrossDirection(CD),Min (N>=1)",,More than 2.0 Or higher
+"",,"""Surface Strength Dennison(Wax Pick)""",,No pick on 12 A
+Packing and Marking,,"Package should be marked withDescription,size ofPaper,Quantity,Mass of500/250 sheets includingwrapping paper in kg/reamChargeable wt should be net wtexcluding the wt of packing,LotNumber and month/year ofmanufacturing,Name ofmanufacturer",,Yes
+"Specification ParameterBid Requirement (Allowed Values)NameJ K COPIER 75 GSM A-4 sizeJ K COPIER 75 GSM A-4 size paper.paper.","Specification ParameterName",,Bid Requirement (Allowed Values)
+"J K COPIER 75 GSM A-4 sizepaper.",,J K COPIER 75 GSM A-4 size paper.,
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+"",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days,
+"",1,,"Sachin RameshwarSavke",,"482002,POWERGRIDCORPORATION OF INDIA LTD,400/220 KV Substation, PatanRoad, near sukha village,Jabalpur, Madhya Pradesh-482002",,400,,15,
+Make,jkcopeirpapersizea3,
+Model,lordsform,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"",Certification,,"Conformance to IndianStandard",,Conforming to IS14490 : Latest,
+"",,,Whether ISI Marked,,Yes,
+"",Test Report Details,,"""Test Report to be Submitted tothe Buyer on demand""",,Yes,
+"","AdditionalRequirements foreco mark",,"The material shall bemanufactured from pulpcontaining not less than 60%by mass of pulp made frommaterials other thanbamboo,hard woods ,softwoodsand reed or the material shallbe manufactured from pulpmade from 100%waste paper",,Yes,
+"",Size,,Size of paper,,A3,
+"",,,GSM of paper,,75,
+"",Quantity,,"""Number of sheets perReam""",,500,
+"","""ISOBrightness,percent,Min""(N>=80)",,More than 93.0 Or higher,,,
+"","Opacity percent,Min(N>=85)",,More than 92.0 Or higher,,,
+"","""One minute Cobb test bothsides,g/m2,Max"" (N<=25)",,Less than 25.0 Or lower,,,
+"","""Tensile Index MachineDirection (MD) ,Nm/g, Min""(N>=40)",,More than 41.0 Or higher,,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Tensile Index CrossDirection(CD),Nm/g,Min(N>=25)",,More than 26.0 Or higher
+"",,"""Tear Index in mNm2/g,MachineDirection(MD),Min""(N>=3.5)",,More than 4.0 Or higher
+"",,"""Tear Index in mNm2/g,CrossDirection(CD)Min,""(N>=4.5)",,More than 4.5 Or higher
+"",,"""Smoothness for both sides(Bendtsen) in ml/min,Max""(150<=N<=300)",,More than 300.0 Or higher
+"",,"""Ashcontent(900?C),percent bymass,Max"" (N<=16)",,Less than 16.0 Or lower
+"",,"Thickness in ?m,Min(N>=100+/-5)",,More than 98.0 Or higher
+"",,"""Moisturecontent,percent,Max""(4<=N<=5.5)",,5
+"",,"""Taber Stiffness ,MachineDirection(MD),Min"" (N>=2)",,More than 2.0 Or higher
+"",,"Taber Stiffness ,CrossDirection(CD),Min (N>=1)",,More than 1.0 Or higher
+"",,"""Surface Strength Dennison(Wax Pick)""",,"""No pick on 13 A"""
+Packing and Marking,,"Package should be marked withDescription,size ofPaper,Quantity,Mass of500/250 sheets includingwrapping paper in kg/reamChargeable wt should be net wtexcluding the wt of packing,LotNumber and month/year ofmanufacturing,Name ofmanufacturer",,Yes
+"Specification ParameterBid Requirement (Allowed Values)NameJ K COPIER 75 GSM A-3 sizeJ K COPIER 75 GSM A-3 size paperpaper","Specification ParameterName",,Bid Requirement (Allowed Values)
+"J K COPIER 75 GSM A-3 sizepaper",,J K COPIER 75 GSM A-3 size paper,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer482002,POWERGRIDCORPORATION OF INDIA LTD,Sachin Rameshwar400/220 KV Substation, Patan11015SavkeRoad, near sukha village,Jabalpur, Madhya Pradesh-482002",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Sachin RameshwarSavke",,"482002,POWERGRIDCORPORATION OF INDIA LTD,400/220 KV Substation, PatanRoad, near sukha village,Jabalpur, Madhya Pradesh-482002",,10,,15,

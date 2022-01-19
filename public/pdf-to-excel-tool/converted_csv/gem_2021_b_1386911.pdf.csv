@@ -1,0 +1,50 @@
+Bid Details,,,
+Bid End Date/Time,,10-08-2021 11:00:00,
+Bid Opening Date/Time,,10-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Atomic Energy,
+Organisation Name,,N/a,
+Office Name,,Directorate Of Purchase And Stores,
+Total Quantity,,21,
+Item Category,,"M S Structural Plate as per IS 2062 (Unit- Mass) , SteelChannels And Hot Rolled Steel Section-IS 808 (in metrictonne)",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+Primary product category,,"Steel Channels And Hot Rolled Steel Section-IS 808 (inmetric tonne)",
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+Estimated Bid Value,,1581030,
+Evaluation Method,,Item wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+"","EvaluationSchedules",,"EstimatedValue",,Item/Category,,"Quantity",
+Schedule 1,,838530,,M S Structural Plate As Per Is 2062 (unit- Mass),,11,,
+Schedule 2,,742500,,"Steel Channels And Hot Rolled Steel Section-is 808 (inMetric Tonne)",,10,,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)GenericMild Steel PlateHOT ROLLED MEDIUM AND HIGH TENSILESpecificationSTRUCTURAL STEEL conforming to IS:2062 latestConstructionalNominal Thickness of Plate6.0Nominal Length of Plate5000.0Nominal Width of Plate1250.0Mode of DeoxidationKilled/Semi-KilledSupply Conditionas-rolledPerformanceSteel Grade DesignationE 250Quality Of Steel as applicableA : Impact test not required, semi-killed/killedCertificationsType Test ReportOEM test Report as per specification for complete lotto be submitted along with the supply to proveconformity of product for declared parameters to theInspecting Officer/ Consignee by the Primary Producer",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,"Mild Steel PlateSpecification",,"HOT ROLLED MEDIUM AND HIGH TENSILESTRUCTURAL STEEL conforming to IS:2062 latest",
+Constructional,,Nominal Thickness of Plate,,6.0,
+"",,Nominal Length of Plate,,5000.0,
+"",,Nominal Width of Plate,,1250.0,
+"",,Mode of Deoxidation,,Killed/Semi-Killed,
+"",,Supply Condition,,as-rolled,
+Performance,,Steel Grade Designation,,E 250,
+"",,Quality Of Steel as applicable,,"A : Impact test not required, semi-killed/killed",
+Certifications,,Type Test Report,,"OEM test Report as per specification for complete lotto be submitted along with the supply to proveconformity of product for declared parameters to theInspecting Officer/ Consignee by the Primary Producer",
+"Specification ParameterBid Requirement (Allowed Values)NameMATERIAL OF SAIL, TATA, JSWYESOR RINL MAKE","Specification ParameterName",,Bid Requirement (Allowed Values)
+"MATERIAL OF SAIL, TATA, JSWOR RINL MAKE",,YES,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer323303,Stores Unit, Heavy1Thomas GeorgeWater Plant (Kota), PO1160ANUSHAKTI VIA KOTA",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Thomas George,,"323303,Stores Unit, HeavyWater Plant (Kota), POANUSHAKTI VIA KOTA",,11,,60,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)ClassificationSectionAnglesClassificationISASpecificationConformity to Indian StandardYes, IS 2062IS 808DesignationDesignationL75x75x8",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Classification,,Section,,Angles,
+"",,Classification,,ISA,
+Specification,,"Conformity to Indian StandardIS 808",,"Yes, IS 2062",
+Designation,,Designation,,L75x75x8,
+"Specification ParameterBid Requirement (Allowed Values)NameMATERIAL OF SAIL, TATA, JSWYESOR RINL MAKE","Specification ParameterName",,Bid Requirement (Allowed Values)
+"MATERIAL OF SAIL, TATA, JSWOR RINL MAKE",,YES,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer323303,Stores Unit, Heavy1Thomas GeorgeWater Plant (Kota), PO1060ANUSHAKTI VIA KOTA",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Thomas George,,"323303,Stores Unit, HeavyWater Plant (Kota), POANUSHAKTI VIA KOTA",,10,,60,

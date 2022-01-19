@@ -1,0 +1,38 @@
+Bid Details,,,
+Bid End Date/Time,,16-08-2021 16:00:00,
+Bid Opening Date/Time,,16-08-2021 16:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,Isro Satellite Centre,
+Total Quantity,,50,
+Item Category,,Alcohol Based Hand Rub/Hand Sanitizer,
+MSE Exemption for Years Of Experience,,Yes,
+Startup Exemption for Years Of Experience,,Yes,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Hand Rub Contains,,Ethanol 60-95% w/w
+"",Conformity to Standard,,IP
+"",Composition,,ethanol70
+"",Form of Supply,,Liquid
+"","Shelf life (in months) fromthe Date of Manufacturing",,"24, 30, 36 Or higher"
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Efficacy of Killing ~ 100%germs after contact",,Yes
+"",,"Hand Rub shall be clear andcolorless",,Yes
+PACKING,,Pack Size (ml),,5000 ml
+"",,Type of Packing,,Plastic Bottle
+"",,"Dispenser Provided withthe Container",,No
+"",,Type of Dispenser,,NA
+CERTIFICATIONS,,"Availability of Valid DrugLicence",,"Approval/Permission to manufacture by theConcerned State Drug Authority(Mfrs/Suppliers arerequired to upload the products only for the State forwhich approval/permission is given)"
+"",Valid GMP Certificate,,NA,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer560017,U R RAO SATELLITECENTRE (URSC) DEPARTMENT1N S Vadivambal5030OF SPACE OLD AIRPORTROAD,VIMANAPURA PO",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,N S Vadivambal,,"560017,U R RAO SATELLITECENTRE (URSC) DEPARTMENTOF SPACE OLD AIRPORTROAD,VIMANAPURA PO",,50,,30,

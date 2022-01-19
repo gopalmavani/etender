@@ -1,0 +1,50 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 16:00:00,
+Bid Opening Date/Time,,05-08-2021 16:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,Southern Railway,
+Total Quantity,,175,
+Item Category,,Portable Fire extinguishers as per IS 15683 (2018),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Past Performance*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,20 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,Type,,Gas Cartridge Type (as per IS 4947)
+"",Extinguishing Media,,Powder Based (as per IS 4308 ),
+"",Expellant Medium,,CO2 Cartridge Based,
+"",Type of Extinguisher,,Low Pressure Extinguisher (Service Pressure ?19 bar),
+"","Material Specification forthe body of High PressureExtinguisher (Hint: SelectNA Low PressureExtinguisher)",,NA,
+"","Material Specification forthe body of Low PressureExtinguisher (Hint: SelectNA High PressureExtinguisher)",,"Welded low carbon steel cylinders (as per Clause9.2.5 of IS 15683)",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Construction,,"Foam Based ExtinguishingMedia (Hint: Select NA forExtinguishing Media otherthan Foam Based)",,NA
+"","Powder BasedExtinguishing Media (Hint:Select NA for ExtinguishingMedia other than PowderBased)",,ABC,
+"","Type of Clean Agent forClean Agent Based FireExtinguisher (as per CL 5-1-3) (HINT: Select NA forother Extinguishing Media)",,NA,
+"","Foam Based FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Foam Based)",,NA,
+"","Powder Based FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan Powder Based)",,6,
+"","Carbon Dioxide Based FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan CO2 Based)",,NA,
+"","Water Based FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Water Based)",,NA,
+"","Clean Agents FireExtinguisher Capacity in Kg(Hint: Select NA forExtinguisher Capacity otherthan Clean Agents Based)",,NA,
+"","Water Mist FireExtinguisher Capacity inLiters (Hint: Select NA forExtinguisher Capacity otherthan Water Mist Based)",,NA,
+"","Features of FireExtinguisher",,"Carrying Handle (Mandatory If Extinguisher havingmass ?1.5Kg or Cylinder diameter, Rechargeable,Hose Assemblies (Mandatory If mass or volume ofExtinguishing medium > 3 Kg or Litres)",
+"","Class of fire for which FireExtinguisher is suitable",,Class -A,
+"","Minimum Effectivedischarge time for FireExtinguisher",,13.0,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Fire Rating of differentclass of fires (Hint: Higheris better)",,3A
+"Specification ParameterBid Requirement (Allowed Values)NameTEST CERTIFICATE FROM NABL ACCREDITED LABORATORY TO BENOTE:SUBMITTED ALONG WITH EQUIPMENT DURING SUPPLY.","Specification ParameterName",,Bid Requirement (Allowed Values)
+NOTE:,,"TEST CERTIFICATE FROM NABL ACCREDITED LABORATORY TO BESUBMITTED ALONG WITH EQUIPMENT DURING SUPPLY.",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer631001,OFFICE OF THE SENIORDIVISIONAL ELECTRICALPaul Prabhu Raj1ENGINEER ROLLING STOCK17515CharlesARAKKONAM TAMIL NADU-631001",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Paul Prabhu RajCharles",,"631001,OFFICE OF THE SENIORDIVISIONAL ELECTRICALENGINEER ROLLING STOCKARAKKONAM TAMIL NADU-631001",,175,,15,

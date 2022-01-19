@@ -1,0 +1,67 @@
+Bid Details,,,
+Bid End Date/Time,,07-08-2021 19:00:00,
+Bid Opening Date/Time,,07-08-2021 19:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Communications,
+Department Name,,Department Of Posts,
+Organisation Name,,Ap Postal Circle Department Of Posts,
+Office Name,,A.p. Postal Circle,
+Total Quantity,,1,
+Item Category,,Online Ups-IS:9000,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,5 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,Rating in KVA (KVA),,5.0 KVA
+"",,Technology,,IGBT-PWM with inbuilt isolation transformer
+"",,Input Power,,"single phase 160V - 260V sinewave,50Hz"
+"",,Output power,,Single phase 230V +/-1% sinewave 50 Hz
+"",,Backup time (Minutes),,30
+"",,Minimum VAH (VAH),,5040
+"",,Warranty for UPS (Years),,2
+"",,Movable trolly for Batteries,,With
+"",,Warranty for battery,,1
+"",,Degree of Protection,,IP20
+"",,"Cabling 5 meters for inputand out put",,With
+"",,"Paralleling kit forsynchronising",,Without
+Constructional,,"Minimum thickness ofM.S.Sheet Enclosure dulypainted (mm)",,1.2
+"",Type of Battery,,"SMF-VRLA conforming to JISC:8702(Pt.I,II&III)",
+"","20% Overload limit forminimum 10 minutes",,Yes,
+"",Overall Efficiency (%),,>/=90%,
+"","50% Overload limit forminimum 1 minutes",,Yes,
+Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"Reports AndCertification",,"As per Meity (Government ofIndia) guidelines UPS shall havevalid BIS CRS certifications asapplicable",,Yes,
+"Specification ParameterBid Requirement (Allowed Values)NameALONG WITH 10 NUMBER OFBATTERIES OF CAPACITY 42 AHALONG WITH 10 NUMBER OF BATTERIES OF CAPACITY 42 AH EACHEACH","Specification ParameterName",,Bid Requirement (Allowed Values),
+"ALONG WITH 10 NUMBER OFBATTERIES OF CAPACITY 42 AHEACH",,ALONG WITH 10 NUMBER OF BATTERIES OF CAPACITY 42 AH EACH,,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng OfficerYadama1520001,VIJAYAWADA115Venkateshwarlu",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,,Delivery Days,
+1,,"YadamaVenkateshwarlu",,"520001,VIJAYAWADA",,1,,,15,,
+"","UPSRating",,"15Minutes",,"30Minutes",,"60Minutes",,"90Minutes",,"120Minutes",,"180Minutes",,"240Minutes",
+"",1 KVA,,400 VAH,,800 VAH,,1600 VAH,,2400 VAH,,3200 VAH,,4800 VAH,,6400 VAH,
+"",2 KVA,,800 VAH,,1600 VAH,,3200 VAH,,4800 VAH,,6400 VAH,,9600 VAH,,12800 VAH,
+"",3 KVA,,1200 VAH,,2400 VAH,,4800 VAH,,7200VAH,,9600 VAH,,14400 VAH,,19200 VAH,
+"",5 KVA,,2000 VAH,,4000 VAH,,8000 VAH,,12000 VAH,,16000 VAH,,24000 VAH,,32000 VAH,
+"",6 KVA,,2400 VAH,,4800 VAH,,9600 VAH,,14400 VAH,,19200 VAH,,28800 VAH,,38400 VAH,
+"",7.5 KVA,,3000 VAH,,6000 VAH,,12000 VAH,,18000 VAH,,24000 VAH,,36000 VAH,,48000 VAH,
+"",10 KVA,,4000 VAH,,8000 VAH,,16000 VAH,,24000 VAH,,32000 VAH,,48000 VAH,,64000 VAH,
+"",15 KVA,,6000 VAH,,12000 VAH,,24000 VAH,,36000 VAH,,48000 VAH,,72000 VAH,,96000 VAH,
+"",20 KVA,,8000 VAH,,16000 VAH,,32000 VAH,,48000 VAH,,64000 VAH,,96000 VAH,,128000 VAH,
+"",30 KVA,,12000 VAH,,24000 VAH,,48000 VAH,,72000 VAH,,96000 VAH,,144000 VAH,,192000 VAH,
+"",40 KVA,,16000 VAH,,32000 VAH,,64000 VAH,,96000 VAH,,128000 VAH,,192000 VAH,,256000 VAH,
+"",60 KVA,,24000 VAH,,48000 VAH,,96000 VAH,,"144000VAH",,192000 VAH,,288000 VAH,,384000 VAH,
+"",80 KVA,,32000 VAH,,64000 VAH,,"128000VAH",,"192000VAH",,256000 VAH,,384000 VAH,,512000 VAH,
+"","UPSRating",,"15Minutes",,"30Minutes",,"60Minutes",,"90Minutes",,"120Minutes",,"180Minutes",,"240Minutes",
+"",100 KVA,,40000 VAH,,80000 VAH,,"160000VAH",,"240000VAH",,320000 VAH,,480000 VAH,,640000 VAH,
+Excel sheet for explanation to Buyback ATC,,,,,,,
+"S.no","CostofFreshGood(A)","%age of GST onFresh Good asconsidered by sellerat the time of quote(B).","GSTAmountonFreshGood(C)","CostofBuybackitem(D)","%age of GST onBuyback items(E) as fixed bybuyer in the bid","GST Amount onBuyback item (F) asapplicable at thetime of invoice bybuyer","Quote oftheBidder(G={A+C-D})"
+1,100,28,28,20,8,1.6,108
+2,100,9,9,20,8,1.6,89
+3,110,10,11,24,8,1.92,97
+"Seller after the award of the GeM contract, will indicate all column A to G which will not alter their quotedprice indicated in Colum-G"

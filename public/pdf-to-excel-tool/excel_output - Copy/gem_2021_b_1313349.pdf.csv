@@ -1,0 +1,60 @@
+Bid Details,,,
+Bid End Date/Time,,21-07-2021 16:00:00,
+Bid Opening Date/Time,,21-07-2021 16:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Steel,
+Department Name,,Sail,
+Organisation Name,,Steel Authority Of India Limited,
+Office Name,,Rourkela Steel Plant,
+Total Quantity,,38,
+Item Category,,LED Luminaire for High Bay Lighting,
+Years of Past Experience required,,3 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,Certificate (Requestedin ATC),OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,50 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+STANDARDS,,"Installation andcommissioning",,No
+"",,"Scope of installation andcommissioning",,Not applicable
+RATINGS,,"Operating input voltagerange (in Volts)",,100 to 280
+"",,"Luminaire System Wattge(in Watts)",,200
+"",,"Color Temperature (CCT) +/-500 K (in Kelvin)",,6000 K
+"",,"Colour Rendering Index(CRI) (in % age)",,? 70
+"",,"Ingress Protection (IP)Rating of Luminaire (agreedto furnish test certificatesto buyer / consignee ondemand)",,IP 65
+"",,"Impact resistance (Ifclaimbed ""Yes"" - agreed tofurnish test certificates tobuyer / consignee ondemand)",,Yes. IK08 (as per IEC 62262:2002)
+"",,"Minimum operatingtemperature range (in deg.C)",,-10 to 0
+"",,"Maximum operatingtemperature range (in deg.C)",,55.0 - 60.0 Or higher
+SAFETY,,"The luminaire shall beprotected against surgesand transients ( Internal)",,? 6 KV
+"","The luminaire shall beprotected against surgesand transients (External)",,? 10 KV,
+"","Flame/Fire proofcompliance (If claimbed -agreed to furnish testcertificates to buyer /consignee on demand)",,No,
+"","Other compliacne (Ifclaimbed - agreed to furnishtest certificates to buyer /consignee on demand)",,No,
+"",Shape of Luminaire,,Round,
+"",Type of mounting,,Metallic adjustable Brackets with Eye Bolt,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Installation height rangefrom floor level (in m) -Must declare",,11
+"",,Optic Lens,,Yes. Polycarbonate-UV stabilised
+"",,Type of Control Gear,,Constant Current
+"",,"Number of electroniccontrol gear on eachluminaire (power supplies) -(in Nos.)",,2
+"",,"Luminaire fitted withconnecting cables for inputpower",,"ISI Marked 3 Core cable for input power ( Length:250mm )"
+"",,"Accessories for eachluminaire",,"Metallic adjustable Brackets (Stainless steel), SS EyeBolts (as per IS:4190:1984 latest), Set of Bolt,Nut,Washers (SS), Die cast aluminium brackets"
+MARKING,,"Marking/Identificationdetails on inside of eachluminaire and outside ofeach packing box",,"Manufacturer's Name, Model Number, Serial Number,Month and year of manufacturing, Voltage, SystemWattage"
+"",,"Marking/Identificationdetails on each control gear",,"Manufacturer's Name, Model Number"
+CERTIFICATIONS,,"Warranty period (inMonths)",,"24, 36, 48, 60 Or higher"
+"","Availability of test reportsfrom Central Govt.Lab/NABL/ILAC accrediatedlaboratory to proveconformity of thespecification",,Yes,
+"","Agreed to furnish LM 79 ,LM 80 reports from CentralGovernment lab/NABL/ILACaccrediated lab",,"Yes as per IS:16106:2012 latest and as perIS:16105:2012 latest",
+"","Agreed to furnish TM 21report from CentralGovernment lab/NABL/ILACaccredited lab",,Yes,
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+"ADDITIONAL SPECIFICATION(IMPORTANT)",,"HIGH BAY LIGHT WITH REFLECTOR SUITABLE FOR SUSPENDEDAPPLICATIONS IN INDUSTRIAL SHED, 180-300V AC, PF > 0.9, LUMINOUSEFFICACY > 90 LM/W, LUMEN OUTPUT > 18000, CRI >80, COOL WHITEWITH COLOUR TEMPERATURE 5000-8000K, IP 65, BODY TYPE - HIGHPRESSURE ALUMINIUM DIE CAST, EXTRUDED ALUMINUM HEAT SINK FORBETTER THERMAL MANAGEMENT OF LEDS, WORKING LIFE -GREATER THAN50,000HRS, LUX LEVEL AT THE HEIGHT OF 12 M SHALL BE GREATER THAN50 LUMENS."
+ACCESSORIES,,"FOR EACH LIGHT FITTING ,ACCESSORIES FOR MOUNTING THE FITTINGSHALL BE PROVIDED BY SUPPLIER FREE OF COST.THESE SHALL BE PART OFPACKING.EYE BOLT & NUT WITH SPLIT PIN LOCKING ARRANGEMENT TO BEPROVIDED ALONGWITH HANGER FOR SAFE HANGING PURPOSE FROM THEROOF OF THE BAY."
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer769011,OFFICE OF GM I/CBasanta Kumar(STORES & INSPECTION),13860ChowdhuryCENTRAL STORES, SAILROURKELA STEEL PLANT",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Basanta KumarChowdhury",,"769011,OFFICE OF GM I/C(STORES & INSPECTION),CENTRAL STORES, SAILROURKELA STEEL PLANT",,38,,60,

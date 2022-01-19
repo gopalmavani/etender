@@ -1,0 +1,52 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 16:00:00,
+Bid Opening Date/Time,,09-08-2021 16:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,65 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence Research & Development,
+Organisation Name,,Office Of Dg (ecs),
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,IR Camera,
+Years of Past Experience required,,1 Year (s),
+MSE Exemption for Years Of Experience,,Yes,
+Startup Exemption for Years Of Experience,,Yes,
+Document required from seller,,"Experience Criteria,Certificate (Requested inATC),Compliance of BoQ specification and supportingdocument*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,3.00,
+Duration of ePBG required (Months).,,15
+"",Reserved for Make In India products,,Yes,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)Additional featuresWarranty24.0Safety Conformity2g/ IEC 60068-2-6, IP 54Image and opticalLens identificationAutomaticdataF-numberf/1.3IR resolution (Pixels)640 480Digital zoom2x, 4x, 8xImage frequency30.0FocusOne-shot, oneshot LDM, one-shot contrast,ContinuousHorizontal View Field24Vertical View Field18DetectorThermal sensitivity50.0SpecificationDetector type and pitchUncooled microbolometer, 17 ?mImage presentationDisplay Resolution (pixels)640 480and modesColor palettesIron, Rainbow, Rainbow HC, Arctic, Lava, GrayImage modesInfrared, visual, IR Fusion, Picture-in-picture, MSXDisplay Size in Inches3-4, 4-5IndicatorsAlarms SignalAudible alarm with above temperatureMeasurement &Measurement presetsMax. Temperature, Line/Area Thermography, Min.analysisTemperature, Center TemperatureSpotmeter3Data storage andVideo out (pixels)640 480streamingRadiometric IR video recordingReal-time radiometric recordingStorage media16.0BatteryBattery typeRechargeable Li-ion batteryspecifications",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Additional features,,Warranty,,24.0,
+"",Safety Conformity,,"2g/ IEC 60068-2-6, IP 54",,
+"Image and opticaldata",,Lens identification,,Automatic,
+"",F-number,,f/1.3,,
+"",IR resolution (Pixels),,640 480,,
+"",Digital zoom,,"2x, 4x, 8x",,
+"",Image frequency,,30.0,,
+"",Focus,,"One-shot, oneshot LDM, one-shot contrast,Continuous",,
+"",Horizontal View Field,,24,,
+"",Vertical View Field,,18,,
+"DetectorSpecification",,Thermal sensitivity,,50.0,
+"",Detector type and pitch,,"Uncooled microbolometer, 17 ?m",,
+"Image presentationand modes",,Display Resolution (pixels),,640 480,
+"",Color palettes,,"Iron, Rainbow, Rainbow HC, Arctic, Lava, Gray",,
+"",Image modes,,"Infrared, visual, IR Fusion, Picture-in-picture, MSX",,
+"",Display Size in Inches,,"3-4, 4-5",,
+Indicators,,Alarms Signal,,Audible alarm with above temperature,
+"Measurement &analysis",,Measurement presets,,"Max. Temperature, Line/Area Thermography, Min.Temperature, Center Temperature",
+"",Spotmeter,,3,,
+"Data storage andstreaming",,Video out (pixels),,640 480,
+"",Radiometric IR video recording,,Real-time radiometric recording,,
+"",Storage media,,16.0,,
+"Batteryspecifications",,Battery type,,Rechargeable Li-ion battery,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************DEHRADUN160",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********DEHRADUN,,1,,60,

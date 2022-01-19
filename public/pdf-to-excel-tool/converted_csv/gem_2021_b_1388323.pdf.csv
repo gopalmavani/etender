@@ -1,0 +1,34 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 15:00:00,
+Bid Opening Date/Time,,06-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Railways,
+Department Name,,Na,
+Organisation Name,,N/a,
+Office Name,,Central Railway Hq Stores Deptt.,
+Total Quantity,,4,
+Item Category,,power generators and portable generator,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)RATED OUTPUT /Portable Generator typePetrol start, Petrol runSTARTING &RUNNINGRated Output at unity2500power factor at STP (VA)Starting TypeElectric Self startRated output Voltage220 V ACWARRANTYWarranty (year)1, 2, 3 Or higherGENERICProvision of Voltmeter andyesammeter in the output circuitsBATTERYBattery Ah capacity in case of9Electric start Generator (Ah)",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"RATED OUTPUT /STARTING &RUNNING",,Portable Generator type,,"Petrol start, Petrol run",
+"",,"Rated Output at unitypower factor at STP (VA)",,2500,
+"",,Starting Type,,Electric Self start,
+"",,Rated output Voltage,,220 V AC,
+WARRANTY,,Warranty (year),,"1, 2, 3 Or higher",
+GENERIC,,"Provision of Voltmeter andammeter in the output circuits",,yes,
+BATTERY,,"Battery Ah capacity in case ofElectric start Generator (Ah)",,9,
+"Specification ParameterBid Requirement (Allowed Values)NameHIMALAYAN POWER, SWADESH WHISPOWER, HONDA, BIRLA POWER,MAKEYAMAHA, MAHINDRA,GREAVE COTTON.","Specification ParameterName",,Bid Requirement (Allowed Values)
+MAKE,,"HIMALAYAN POWER, SWADESH WHISPOWER, HONDA, BIRLA POWER,YAMAHA, MAHINDRA,GREAVE COTTON.",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer421301,OFFICE OF SMM(ELS)Vishnu Kumar Mata1ELECTRIC LOCO STORE DEPOT415Prasad AwasthiWALDHUNI KALYAN - 421301",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Vishnu Kumar MataPrasad Awasthi",,"421301,OFFICE OF SMM(ELS)ELECTRIC LOCO STORE DEPOTWALDHUNI KALYAN - 421301",,4,,15,

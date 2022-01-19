@@ -1,0 +1,55 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 16:00:00,
+Bid Opening Date/Time,,05-08-2021 16:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Uttar Pradesh,
+Department Name,,Urban Development Department Uttar Pradesh,
+Organisation Name,,"E-municipalities - Eservices To Citizens And Employees OfUrban Local Bodies Of Uttar Pradesh",
+Office Name,,Nagar Panchayat Bharatganj,
+Total Quantity,,150,
+Item Category,,"Led Luminaire (For Road And Street Lights)-IS:10322, IS:16107, IS:16108,IS: 16103,IS:10322",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover,Additional Doc 1(Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,80 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Advisory Bank,,State Bank of India,
+"",EMD Percentage(%),,5.00,
+"",EMD Amount,,63113,
+"",Advisory Bank,,State Bank of India,
+ePBG Percentage(%),,5.00,,
+Duration of ePBG required (Months).,,6,,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","LED Rating (inWatts)/SystemWattage/Rated Power",,90W
+"","Luminaire System Efficacy(Lumen/watt)",,>/= 100 Lm/Watt
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Ingress Protection (IPRating) as per IS:10322(Part 1):1982 latest",,IP66
+"",,"Warranty for freereplacement (in years)",,5
+"ELECTRICALEFFICIENCY",,"Input operating Voltagerange and frequency",,90 to 300 Volts AC at 50 Hz+/-2
+OPTICAL,,LED chip Efficacy,,?130 Lm/Watt
+"THERMALMANAGEMENT",,"Heat sink should be die-castaluminium along withsufficient heat sink fins todissipate heat effectively",,Yes
+"",,"Operating temperaturerange",,-10 deg C to +55 deg C
+PROTECTION,,Short circuit Protection,,Yes
+"",,Over load protecton,,Yes
+"",,Over Voltage protection,,Yes
+"",,Reverse polarity,,Yes
+"",,"The luminaire shall beprotected against surgesand transients ( Internal)",,>/=5KV
+CONSTRUCTIONAL,,"Protection of the entirehousing (both LED sectionand driver section) as perIS:10322 (Part 1):1982latest",,IP66
+"",,"Number of electroniccontrol gear (powersupplies)",,1 No.
+"",,Light Source,,SMD LED Chip as per LM 80/IS16106
+"",,"Length of ISI marked threecore wire (shall be providedalong with supply ofmaterial)",,50 cm
+MARKING,,"""Manufactures Name andand brand on the aluminiumdie cast body """,,Engraved/Embossed
+"",LED Make,,"OSRAM / NICHIA / CREE / SAMSUNG / SEOUL /LUMILEDS / PHILIPS / SYSKA / LUMENMAX / EVERLIGHT/ EDISON / BRIDGELUX / NATIONSTAR / REFOND",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"LM 79 (Photometry)(Ref.IS:16106:2012) reportfrom Central GovernmentLab /NABL/ILAC accrediatedlab. Reports shall be furnishto the buyer / consignee ondemand (LM-79 report shallhave total lumen output,power, PF, Current in Amps,CRI & CCT etc.,",,Yes
+"","LM 80 & TM 21 (Ref.IS:16105:2012) Report andPhoto biological report forLED report from CentralGovernment Lab /NABL/ILACaccrediated lab. Reportsshall be furnish to thebuyer / consignee ondemand (LM-80 report shallhave the Pohoto Biologicalre",,Yes,
+"","Availability of test Reportfrom Central GovernmentLab /NABL/ILAC accrediatedlab to Indian StandradIS:10322/part 5/sec-3/2012and IS 16107 (Part 2/Sec 1): 2012",,Yes,
+"","Seller shall furnish the Typetest reports to the buyer /consignee on demand",,Yes,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer212104,NAGAR PANCHAYAT1Vinod Kumar15030BHARATGANJ ALLAHABAD",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Vinod Kumar,,"212104,NAGAR PANCHAYATBHARATGANJ ALLAHABAD",,150,,30,

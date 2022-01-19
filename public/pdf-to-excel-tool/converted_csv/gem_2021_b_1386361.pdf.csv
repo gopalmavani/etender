@@ -1,0 +1,51 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 19:00:00,
+Bid Opening Date/Time,,05-08-2021 19:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,15 (Days),
+Ministry/State Name,,Ministry Of Finance,
+Department Name,,Department Of Financial Services,
+Organisation Name,,Punjab National Bank (pnb),
+Office Name,,Zonal Office Bhubaneswar,
+Total Quantity,,5,
+Item Category,,Laptop-Notebook,
+"Minimum Average Annual Turnover of theBidder",,1 Lakh (s),
+OEM Average Turnover (Last 3 Years),,12 Lakh (s),
+Years of Past Experience required,,3 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,50 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)ProcessorProcessor MakeIntelProcessor Generation11.0 Or higherNumber of Cores per2, 4, 6, 8 Or higherProcessorProcessor Base Frequency2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 3, 3.1, 3.2, 3.3, 3.4, 3.5,(GHz)3.6, 3.7, 3.8, 3.9, 4, 4.1, 4.2, 4.3, 4.7 Or higherProcessor DescriptionIntel Core i5, Intel Core i7 Or higherProcessor NumberIntel Core i7 1165G7, Intel Core i5 1135G7 Or higherGraphicsSize of Memory in Case of0, 1, 2, 3, 4, 6 Or higherDedicated Graphic Card(GB)Operating SystemOperating System (FactoryWindows 10 ProfessionalPre-Loaded)MemoryRAM Size (GB)8, 16, 32, 64 Or higherStorageType of Drives used toHDD, SSD, SSHD, SSED, PCIe SSD, EMMCpopulate the Internal BaysTotal HDD Capacity (GB)1000, 1500, 2000, 2500, 3000 Or higherCapacity of each SSD (GB)128, 256, 512, 1024, 2048, 0Total SSD Capacity (GB)128, 256, 384, 512, 768, 1024, 1280, 2048, 4096, 0Or higherCapacity of each SSHD (GB)8 GB Flash + 500 GB @5400 rpm, 8 GB Flash + 1000GB @5400 rpm, 8 GB Flash + 2000 GB @5400 rpm,NA Or higherTotal SSHD Capacity in500, 1000, 1500, 0 Or higheraddition to 8 GB Flash (GB)ConnectivityWireless ConnectivityYes, NoDisplayDisplay Size (Inch)15.4, 15.6, 16 Or higherDisplay TypeNon Touch, Touch Or higherDisplay Resolution (Pixels)1366x768, 1440 x 900, 1600 x 900, 1920x1080, 1920x 1200, 2304 x 1440, 2560 x 1600, 2736 x 1824,2880 x 1800, 3200x1800, 3840 x 2160, 2256x1504,3000x2000, 3240x2160, 3272 x 1920, 2880 x 1920,3072 x 1920 Or higherMiscellaneousOptical DriveIntegrated, External, NA Or higherWarrantyBattery Warranty1, 3, 4, 5 Or higherOn Site OEM Warranty3(Year)",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Processor,,Processor Make,,Intel,
+"",,Processor Generation,,11.0 Or higher,
+"",,"Number of Cores perProcessor",,"2, 4, 6, 8 Or higher",
+"",,"Processor Base Frequency(GHz)",,"2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 3, 3.1, 3.2, 3.3, 3.4, 3.5,3.6, 3.7, 3.8, 3.9, 4, 4.1, 4.2, 4.3, 4.7 Or higher",
+"",,Processor Description,,"Intel Core i5, Intel Core i7 Or higher",
+"",,Processor Number,,"Intel Core i7 1165G7, Intel Core i5 1135G7 Or higher",
+Graphics,,"Size of Memory in Case ofDedicated Graphic Card(GB)",,"0, 1, 2, 3, 4, 6 Or higher",
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional,
+Memory,,RAM Size (GB),,"8, 16, 32, 64 Or higher",
+Storage,,"Type of Drives used topopulate the Internal Bays",,"HDD, SSD, SSHD, SSED, PCIe SSD, EMMC",
+"",,Total HDD Capacity (GB),,"1000, 1500, 2000, 2500, 3000 Or higher",
+"",,Capacity of each SSD (GB),,"128, 256, 512, 1024, 2048, 0",
+"",,Total SSD Capacity (GB),,"128, 256, 384, 512, 768, 1024, 1280, 2048, 4096, 0Or higher",
+"",,Capacity of each SSHD (GB),,"8 GB Flash + 500 GB @5400 rpm, 8 GB Flash + 1000GB @5400 rpm, 8 GB Flash + 2000 GB @5400 rpm,NA Or higher",
+"",,"Total SSHD Capacity inaddition to 8 GB Flash (GB)",,"500, 1000, 1500, 0 Or higher",
+Connectivity,,Wireless Connectivity,,"Yes, No",
+Display,,Display Size (Inch),,"15.4, 15.6, 16 Or higher",
+"",,Display Type,,"Non Touch, Touch Or higher",
+"",,Display Resolution (Pixels),,"1366x768, 1440 x 900, 1600 x 900, 1920x1080, 1920x 1200, 2304 x 1440, 2560 x 1600, 2736 x 1824,2880 x 1800, 3200x1800, 3840 x 2160, 2256x1504,3000x2000, 3240x2160, 3272 x 1920, 2880 x 1920,3072 x 1920 Or higher",
+Miscellaneous,,Optical Drive,,"Integrated, External, NA Or higher",
+Warranty,,Battery Warranty,,"1, 3, 4, 5 Or higher",
+"","On Site OEM Warranty(Year)",,3,,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng OfficerPartha Sarathi751030,Zonal Office1515MohapatraBHUBANESWAR",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Partha SarathiMohapatra",,"751030,Zonal OfficeBHUBANESWAR",,5,,15,

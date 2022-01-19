@@ -1,0 +1,73 @@
+Bid Details,,,
+Bid End Date/Time,,09-08-2021 11:00:00,
+Bid Opening Date/Time,,09-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,65 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Atomic Energy,
+Organisation Name,,Nuclear Power Corporation Of India Limited,
+Office Name,,Boisar Maharashtra,
+Total Quantity,,2,
+Item Category,,"Potable water purification system Reverse Osmosis or UVbased",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Standards,,Certification for the product,,CE
+"","Manufacturers QualitySystem Certifications",,ISO 9001:2015,
+"","Manufacturers EnvironmentManagement SystemCertifications",,ISO 14001:2004,
+"","Manufacturers Health andSafety Management SystemCertifications",,ISO 18001:2007,
+"","Maximum Input Water TDSallowed to the system",,2000,
+"","Type of water purificationtechnology",,UV,
+"",Operation,,Fully automatic with auto cut off,
+"",Ultraviolet (UV) LAMP,,Yes,
+"","Conformity to Standard forUltraviolet system",,"IS 14724 (latest) for water purification system withUltraviolet disinfection",
+"","Recovery at 27 degreeCentigrade",,25-35,
+"","Filtration Capacity in liter/hour",,250,
+"","Provision of Arsenicremoval",,Yes,
+"",Provision of Floride removal,,Yes,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Provision of Chlorideremoval",,Yes
+"",Alkaline filter,,Yes,
+"",Storage tank,,Not available,
+"","Type of out put waterStorage Tank",,NA,
+"","Storage Tank Capacity(storage tank external forhigher capacity if requiredto be arranged by buyer)",,NA,
+"",Minimum inlet pressure,,0.3 KG/CM2,
+"",Maximum inlet temperature,,40 DEGREE,
+"",Digital display,,Yes,
+"",Real time TDS display,,Yes,
+"",Real time pH Display,,Yes,
+"",High pressure pump,,Yes,
+"","Raw water/Chemical Rawwater/Chemical CleaningPUMP",,Yes,
+"",Micron Filter,,Yes,
+"","Total Dissolved SolidsRemoval Percentage fromRO Membrane",,25%,
+"",Particulate Filter Porosity,,10 Micro,
+"",Pressure vessel Sand Filter,,Yes,
+"","Pressure vessel carbonFilter",,Yes,
+"","Pressure Vessel Dual MediaFilter",,Yes,
+"",Membrane Housing,,Yes,
+"",Body of filter,,ABS Food grade,
+"",Auto cut,,Yes,
+"",Number of candles,,2,
+"",Power supply,,230 Volt single phase,
+"",Installation Type,,Wall mounted,
+"","Warranty in years includingreplacement of filtersSediment & carbon twice ayear)",,1,
+"","Warranty in years freereplacement of machine",,1,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Antiscalant- where silica isup to 10 ppm/where Mica isup to 100 ppm",,Yes
+"","Availabilty of type test TestREPORT for Filtering Size ofmicron Particles",,Yes,
+"","Availability of test reportfrom Govt/NABL/ilac Lab(Design Evalution Report asper IS:14724",,Yes,
+"","Availability of toll freecenters for customersupport",,Yes,
+"","Installation andCommissioning inclusive inthe scope of Supply*",,Yes,
+"","Availability of NABLAccredited LaboratoryFacility with OEM",,Yes,
+"","Inlet Pipe & Fitting fromraw water scorces to waterpurification system",,"suitable pipe and fitting to be provided by seller up to15 feet",
+"","Pipe & Fitting from Out letto purified water tank",,To be arranged by seller (upto 15ft),
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer401504,TARAPUR MAHASHTRAUdaykumar1SITE, PO TAPP, VIA BOISAR,245Balkrishna ShimpiDIST. PALGHAR",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"UdaykumarBalkrishna Shimpi",,"401504,TARAPUR MAHASHTRASITE, PO TAPP, VIA BOISAR,DIST. PALGHAR",,2,,45,

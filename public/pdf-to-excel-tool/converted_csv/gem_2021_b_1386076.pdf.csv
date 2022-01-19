@@ -1,0 +1,68 @@
+Bid Details,,,
+Bid End Date/Time,,16-08-2021 18:00:00,
+Bid Opening Date/Time,,16-08-2021 18:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Gujarat,
+Department Name,,Education Department Gujarat,
+Organisation Name,,Hemchandracharya North Gujarat University,
+Office Name,,Patan,
+Total Quantity,,1,
+Item Category,,Firewall - NGFW ( PAC Only ),
+"Minimum Average Annual Turnover of theBidder",,5 Lakh (s),
+OEM Average Turnover (Last 3 Years),,5 Lakh (s),
+Years of Past Experience required,,2 Year (s),
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Past Performance,,10 %,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Make,sophos,
+Model,sophosxgs4300with03yearsxstreamprotection,
+Brand Type,Registered Brand,
+"",Specification,,Specification Name,,Bid Requirement (Allowed Values),
+"",,,,,,
+"",Type,,NGFW Or higher,,,
+"",Form Factor (RU),,1,,,
+"",Features,,"Layer 3 - Layer 4, NAT, VPN, Application Visibility andControl (AVC), User Identity, Next GenerationIntrusion Prevention System (IPS), Zero DayProtection / Advance Malware protection, WebSecurity Essentials / URL Filtering",,,
+"",Traffic handled,,"TCP, UDP, HTTP/TCP, TCP/UDP",,,
+"",Packet Size (KB),,1024 Or higher,,,
+"","Throughput with allfeatures enabled(UnderTest Condition) (Mbps)",,"15000, 19000, 20000, 22000, 25000, 26000, 27000,29000, 30000, 32000, 34000, 35000, 39000, 40000,42000, 43000, 44000, 45000, 48000, 50000, 52000,54000, 55000, 60000, 64000, 69000, 70000, 75000,80000, 95000, 120000, 130000, 132000, 148000,153000, 168000, 234000, 260000, 285000, 570000,1200000 Or higher",,,
+"","Throughput (RealWorld/Prod Performance)(Under Test Condition)(Mbps)",,"15000, 19000, 20000, 21000, 22000, 23000, 25000,26000, 27000, 29000, 30000, 32000, 33500, 34000,35000, 39000, 40000, 42000, 43000, 45000, 48000,50000, 53000, 54000, 55000, 60000, 64000, 65000,69000, 70000, 75000, 120000, 130000, 132000,135000, 148000, 153000, 168000, 234000, 260000,320000 Or higher",,,
+"","ConcurrentSession/ConcurrentConnection",,"15M, 20M, 25M, 30M, 32M, 35M, 39.5M, 40M, 55M,60M, 63M, 64M Or higher",,,
+"","New session/Connection persecond",,"300K, 350K, 380K, 390K, 450K, 490K, 500K, 800K,848K, 850K, 900K, 1.1M, 1.75M, 3.5M, 7.5M, 425K Orhigher",,,
+"","Type of Interface SupportedMultiselect",,"GE Copper, 10G SFP+, QSFP+ 40 G, GE SFF, QSFP28100G Or higher",,,
+"",Number of GE Copper interface,,"8, 12, 16, 20, 40 Or higher",,,
+"",Number of 10G SFP+ interface,,"4, 6, 8, 10, 12, 16, 24, 48 Or higher",,,
+"","Number of QSFP+ 40 Ginterface",,"0, 2, 4, 6, 8, 12 Or higher",,,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Number of GE Small Form-Factor Pluggable (SFP)interface",,"0, 2, 4, 6, 8, 10, 12, 16, 20, 40 Or higher"
+"","Number of QSFP28 100 Ginterface",,"0, 2, 4, 6, 8, 12 Or higher",
+"",Number ofcol /WAN Ports,,"8, 12, 16 Or higher",
+"","Number of Ipsec VPN Peerssupported (Site to Site)",,More than 4650.0 Or higher,
+"","Number of Ipsec VPN Peerssupported (Client to Site)",,More than 4650.0 Or higher,
+"","Number of SSL VPN Peerssupported (Client to Site)",,More than 2000.0 Or higher,
+"",Type of Storage Disk,,"HDD, SSD Or higher",
+"",Storage Capacity (GB),,"240, 400, 800, 1000, 2000 Or higher",
+"",Power Supplies,,"Single, Dual Dual Or higher",
+"",Hot Swappable Power Supply,,"Yes, No Or higher",
+"",Redundant Fan,,"Yes, No Or higher",
+"","Hot Swappable (RedundantFan)",,"Yes, No Or higher",
+"",Type of Processor,,"x86, ASIC, Atom Or higher",
+"",High Availability Support,,Yes Or higher,
+"","If Yes, High Availabilityfrom day 1",,"active-active, active-passive, NA Or higher",
+"","Interface Expansion slotssupprted",,"2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,19, 20 Or higher",
+"",Firewall Policies - License,,Yes Or higher,
+"","Details of the Firewall Policiesfor the Firewall provided withthe License",,"Web Security Essentials / URL Filtering, IPS License,Application Visibility License, APT (Advance PersistantThreat) License (Anti Malware Protection , C& Cattacks, Geo IP Protection, Zero Day ThreatProtection), Gateway Anti virus",
+"",NGIPS Sigature supported,,"25000, 30000, 35000, 40000 Or higher",
+"",Security Intelligence,,"IP, URL, Domain",
+"",Certification,,Common Criteria /NDPP/NSS/ICSALabs,
+"","On Site OEM Warranty(Year)",,"3, 5 Or higher",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer384265,UNIVERSITY ROAD, P.B.1Patel BhaveshkumarNo. 21 PATAN (NORTH115GUJARAT)",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Patel Bhaveshkumar,,"384265,UNIVERSITY ROAD, P.B.No. 21 PATAN (NORTHGUJARAT)",,1,,15,

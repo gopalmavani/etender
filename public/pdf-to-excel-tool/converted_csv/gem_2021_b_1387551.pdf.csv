@@ -1,0 +1,49 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 13:00:00,
+Bid Opening Date/Time,,06-08-2021 13:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence,
+Organisation Name,,Border Road Organisation,
+Office Name,,***********,
+Total Quantity,,50,
+Item Category,,Steel Tubes For Structural Purposes-IS:1161,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+Primary product category,,Steel Tubes For Structural Purposes-IS:1161,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,4269,
+Evaluation Method,,Item wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+"",Evaluation Schedules,,Estimated Value,,"Item/CategorySteel Tubes For Structural Purposes-is:1161Steel Tubes For Structural Purposes-is:1161",,"Quantity3515",
+Schedule 1,,2769,,,,,,
+Schedule 2,,1500,,,,,,
+Brand Type,Unbranded,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Class of Tube,,Medium
+"",Construction,,Round
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+SPECIFICATION,,Conformity to specification,,IS 1161:latest
+"",,ISI Marked,,Yes
+MANUFACTURING,,Manufacturing process,,"Electric resistance welded(ERW) or High frequencyinduction welded(HRIW)"
+DIMENSION,,"Nominal Bore for Roundtube(mm)",,20
+"",Length (in metre),,6,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************DEHRADUN3515",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********DEHRADUN,,35,,15,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)ITEMClass of TubeLightConstructionRoundSPECIFICATIONConformity to specificationIS 1161-2014 latestISI MarkedYesMANUFACTURINGManufacturing processElectric resistance welded(ERW) or High frequencyinduction welded(HRIW)DIMENSIONNominal Bore for Round15tube(mm)Length (in metre)6",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+ITEM,,Class of Tube,,Light,
+"",,Construction,,Round,
+SPECIFICATION,,Conformity to specification,,IS 1161-2014 latest,
+"",,ISI Marked,,Yes,
+MANUFACTURING,,Manufacturing process,,"Electric resistance welded(ERW) or High frequencyinduction welded(HRIW)",
+DIMENSION,,"Nominal Bore for Roundtube(mm)",,15,
+"",Length (in metre),,6,,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************DEHRADUN1515",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********DEHRADUN,,15,,15,

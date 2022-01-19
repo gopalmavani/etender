@@ -1,0 +1,87 @@
+Bid Details,,,
+Bid End Date/Time,,10-08-2021 18:00:00,
+Bid Opening Date/Time,,10-08-2021 18:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Ministry Of Home Affairs,
+Department Name,,Central Police Organisation,
+Organisation Name,,Sardar Vallabhbhai Patel National Police Academy,
+Office Name,,Hyderabad,
+Total Quantity,,1,
+Item Category,,HANDHELD BRUSH CUTTER / LINE TRIMMER,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,6 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+TYPE,,Type of Machine,,"Brush Cutter with cutting Blade/ Circular sawattachment"
+"",,Power Source,,Petrol Engine
+"",,Speed control,,Variable Speed
+"",,Transmission,,Low Vibration Centrifugal Clutch
+"",,"Tool-free changing of theattachments",,No
+"",,"Castor Wheels provided tothe feed head",,No
+"",,Handle Type,,Bike Style
+"",,"Type of Harness inclusive inthe scope of supply",,Double shoulder Strap
+PERFORMANCE,,"Cut Width / Diameter(Maximum) in mm",,525 to 549
+"",Shaft Material,,Electro Plated Steel,
+"",Shaft Type,,Straight Shaft,
+"",Shaft configuration,,Split / Splined,
+"",Shaft Length (mm),,1800 to 1849,
+"",Shaft Diameter,,38.0,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"NYLON FEED HEADATTACHMENT",,"Nylon feed headattachment inclusive in thescope of supply",,Yes
+"",Feed head of Line Trimmer,,Bump / Tap & go Type,
+"",Number of Lines,,Single,
+"","Line (Monofilament / Nylon)inclusive in the scope of supply",,Yes,
+"","""If 'Yes', Length of the LineProvided in the Spool",,30.0,
+"","""Line Diameter (Mayindicate '0'if NotApplicable)""",,0.0,
+"","Blade Cutter attachmentinclusive in the scope ofsupply",,Yes,
+"",Blade Material,,High Carbon Steel,
+"",Blade Type,,3 tooth blade,
+"","""Number of 2 teeth Bladesinclusive in the scope ofsupply (May indicate '0'ifNot Applicable)""",,1,
+"","Number of 3 teeth Bladesinclusive in the scope ofsupply",,1,
+"","Number of 4 teeth Bladesinclusive in the scope ofsupply",,0,
+"","Number of 8 teeth Bladesinclusive in the scope ofsupply",,"0, 1, 2 Or higher",
+"","Circular Saw attachmentinclusive in the scope ofsupply",,NA,
+"","""Number of Circular SawBlades inclusive in thescope of supply (Mayindicate '0' if NotApplicable)""",,0,
+"",Circular Saw Material,,NA,
+"","Diameter of the CircularSaw (mm)",,NA,
+"","Number of Teeth in CircularSaw",,0,
+"","Feed head of Blade Cutter /Circular Saw attachment",,NA,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"HEDGE TRIMMERATTACHMENT",,"Hedge Trimmer attachmentinclusive in the scope ofsupply",,No
+"",,Cutting action,,NA
+"",,"Length of Hedge TrimmerBlade (mm)",,NA
+"PRUNER / CHAINSAW ATTACHMENT",,"Pruner (Chain Saw)attachment inclusive in thescope of supply",,NA
+"",,"Length of Pruner (ChainSaw)(mm)",,NA
+"",,Cutter Type,,NA
+"LEAF BLOWERATTACHMENT",,"Leaf Blower attachmentinclusive in the scope ofsupply",,NA
+"",,Maximum Air Speed (km/hr),,0
+GENERIC,,"Other Accessories incusivein the scope of supply",,Debris guard
+"",,"Cable Length (Maximumextension cord length)inclusive in the scope ofsupply",,"0, 10, 15, 20, 25, 30, 35, 50 Or higher"
+ENGINE,,"""Engine Power Rating(Watt)""",,2500.0
+"","""Engine Compliant to latestCPCB norms (May Indicate'NA' if Not Applicable)""",,NA,
+"","""Engine Fuel Tank Capacity(May Indicate '0' if NotApplicable)""",,1.0 - 20.0 Or higher,
+"","""Sound level in dB""",,0.0 - 0.0 Or lower,
+"",Battery Chemistry,,NA,
+"","Battery ConformingSpecification",,NA,
+"","Availability of Test Reportfor Battery as perconforming specification",,"Yes, No",
+"","""Number of Batteries requiredfor operation",,0,
+"","""Number of Batteriessupplied (Inclusive in theScope of Supply)",,0,
+"","""BATTERY CAPACITY (Ah)",,"0, 2, 2.5, 3, 3.5, 4, 5 Or higher",
+"",Battery Charging Time,,0.0 - 0.0 Or lower,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Battery Run Time,,"0, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180 Orhigher"
+"",,"""Battery Charger inclusivein the scope of supply",,NA
+WARRANTY,,Warranty on Equipment,,"1, 2, 3, 4, 5 Or higher"
+"","""Warranty on Prime Mover(May Indicate '0' if NotApplicable)""",,"0, 1, 2, 3, 4, 5 Or higher",
+"",Warranty on Battery,,"0, 1, 2, 3, 4, 5 Or higher",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng OfficerPuvvala Dhanunjaya500052,Shivarampally,1115RaoRajendra nagar, Hyderabad",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Puvvala DhanunjayaRao",,"500052,Shivarampally,Rajendra nagar, Hyderabad",,1,,15,

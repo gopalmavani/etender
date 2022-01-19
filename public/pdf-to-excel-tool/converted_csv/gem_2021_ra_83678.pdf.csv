@@ -1,0 +1,40 @@
+RA Details,,,
+RA Technical End Date/Time,,05-08-2021 18:00:00,
+RA Opening Date/Time,,05-08-2021 18:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,80 (Days),
+Ministry/State Name,,Ministry Of Coal,
+Department Name,,Materials Management,
+Organisation Name,,Northern Coalfields Limited,
+Office Name,,Singrauli,
+Total Quantity,,5278,
+Item Category,,Lithium Base Grease for Industrial Purposes as per IS : 7623,
+Experience Criteria,,1 Year (s),
+MSE Exemption for Years Of Experience,,Yes,
+Startup Exemption for Years Of Experience,,Yes,
+Document required from seller,,"Experience Criteria,Certificate (Requested in ATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated RA Value,,656390,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+Brand Type,Registered Brand
+Specification,Specification Name,Bid Requirement (Allowed Values)
+Types,Type,Extreme pressure ( EP )
+Grade,"Grade of Lithium BaseGrease for IndustrialPurposes",Grade 2
+"""Consistency of workedgrease at 25±5°C : 60double strokes """,265-295 for grade 2,
+"""Free organic acidity (asoleic), percent by mass,Max""","0.1 (for 1, 2, 3 grade)",
+"""Free alkalinity (as LiOH)percent by mass, Max""","0.1 (for 1, 2, 3 grade)",
+"""Heat stability, percent loss bymass, Max""","5 (for 1, 2, 3 grade)",
+"""Oxidation stability ( 100 h)drop in pressure kg/cm2, Max ""","0.5 (for 1, 2, 3 grade)",
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"","""Freedom from deleteriousparticles, permitted number ofscratches, Max""","0.7 (for 1, 2, 3 grade)"
+"","Four ball wear load kg, Min","200 (for EP, EP-3 type)"
+"","Four ball wear scar dia, mm,Max","0.6 (for EP, EP-3 type)"
+"","Timken OK load, (kg), Min",20 for EP type
+"Packing , Markingand Labelling","The material shall bepacked in metal or anyother suitable containers asagreed to between thepurchaser and the supplier",MS Barrels
+Certification,Conformity to specification,IS : 7623 (Latest)
+Test Report Details,"Test Report to be furnished tothe Buyer on demand (Must bedeclared, write NA if Test Reportis not available)",YES
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days
+1,"Immanuel DiwakarBakki","231224,REGIONAL STORES,KAKRI PROJECT, NCL, PO - KAKRI",5278,30

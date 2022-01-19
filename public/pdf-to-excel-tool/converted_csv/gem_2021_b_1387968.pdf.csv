@@ -1,0 +1,101 @@
+Bid Details,,,
+Bid End Date/Time,,07-08-2021 10:00:00,
+Bid Opening Date/Time,,07-08-2021 10:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Ministry Of Coal,
+Department Name,,Materials Management,
+Organisation Name,,Mahanadi Coalfields Limited,
+Office Name,,General Manager Materials Management Mcl Hqr,
+Total Quantity,,1,
+Item Category,,Workstation,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,499965,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Type,,Form Factor,,Desktop
+"",Processor Make,,Intel,
+"",Processor Generation,,"9, NA, 10 Or higher",
+"","Number of Cores perProcessor",,"10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 64 Orhigher",
+"","Processor Base Frequency(GHz)",,"3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 4, 4.1, 4.2, 4.3, 5.2 Orhigher",
+"",Processor Description,,"Intel Core i9, Intel Xeon E Series, Intel Xeon W Series,Intel Xeon Bronze Series, Intel Xeon Silver Series, IntelXeon Gold Series, Intel Xeon Platinum Series Orhigher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Processor Number,,"Intel Core i3-8350K, Intel Core i7-8700, Intel Core i7-8700K, Intel Core i9-7940X, Intel Core i9-7980XE, IntelCore i5- 8300H, Intel Core i5- 8305G, Intel Core i5-8400H, Intel Core i7- 8750H, Intel Core i7- 8850H,Intel Core i5-8365U, Intel Core i5-9300H, Intel Core i5-9400H, Intel Core i7-8565U, Intel Core i7-8665U, IntelCore i7-9700K, Intel Core i9-9820X, Intel Core i9-9900, Intel Core i9-9900K, Intel Core i9-9940X, IntelCore i9-9960X, Intel Core i7-9750H, Intel Core i7-9850H, Intel Core i9-9880H, Intel Core i9-9980HK,Intel Core i7-8550U, Intel Core i9-9980XE, Intel Corei7-9700KF, Intel Core i9-9900KF, Intel Core i7-8650U,Intel Core i9 10980HK, Intel Core i9 10880H, IntelCore i7 10875H, Intel Core i7 10850H, Intel Core i99980HK, Intel Core i7 10750H, Intel Core i9 8950HK,Intel Core i5 10400H, Intel Core i5 10300H, Intel XeonE3 1535M v6, Intel Xeon E3 1505M v6, Intel Xeon E31575M v5, Intel Xeon E3 1535M v5, Intel Xeon E31545M v5, Intel Core i7 10810U, Intel Core i7 10610U,Intel Core i7 10510U, Intel Core i5 10310U, Intel Corei5 10210U, Intel Core i9 10885H, Intel Core i910900K, Intel Core i9 10900, Intel Core i7 10700K,Intel Core i7 10700, Intel Core i5 10600K, Intel Corei5 10600, Intel Core i5 10500, Intel Core i3 10100,Intel Core i9 10980XE, Intel Core i9 10940X, IntelCore i9 10920X, Intel Core i9 10900X Or higher"
+"",,"Number of Socketspopulated with theProcessors",,"1, 2 Or higher"
+"",,Cache (MB),,16.5 - 64.0 Or higher
+Motherboard,,Chipset Number,,"Intel X99, Intel X299 Or higher"
+"",,"Expansion Slots (PCIe x 1)(Number)",,"1, 2, 3, 4 Or higher"
+"",,"Expansion Slots (PCIe x 4)(Number)",,"1, 2, 3 Or higher"
+"",,"Expansion Slots (PCIe x 8)(Number)",,"1, 2 Or higher"
+"",,"Expansion Slots (PCIe x 16)(Number)",,"2, 3, 4 Or higher"
+Graphics,,Graphics Type,,Dedicated/Discrete
+"",,Number of Graphic Cards,,"1, 2, 3, 4 Or higher"
+"",,Graphic Card Description,,"nVIDIA Quadro P5000 16GB, nVIDIA Quadro RTX 500016GB, nVIDIA Quadro P6000 24GB, nVIDIA QuadroGP100 16GB, nVIDIA Quadro RTX 6000 24GB, nVIDIAQuadro RTX 8000 48GB, nVIDIA Quadro GV100 32GB,nVIDIA Tesla V100 SXM2 32GB Or higher"
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional 64 bit
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Applications,,"Applications Compatible withthe Workstation (Requisitedocument may be furnished asand when demanded by thebuyer)",,"Adobe After Effects CS/CC, Adobe Illustrator CC,Adobe Media Encoder CS/CC, Adobe PhotoshopCS/CC, Adobe Premiere Pro CS/CC, AdobeSpeedGrade CC, Autodesk AutoCAD, AutodeskInventor, Autodesk Maya"
+Memory,,RAM Speed (MHz),,"2666, 2933 Or higher"
+"",,Type of Memory,,ECC RDIMM
+"",,RAM Size (GB),,"64, 128, 256, 512, 1024, 2048, 3072, 4096, 96, 192,384, 768, 1536 Or higher"
+"",,"RAM Expandability uptousing spare DIMM Slots(GB)",,"256, 512, 1024, 3072, 4096, 384, 1536, 2048, 768 Orhigher"
+"Primary Storage/Boot Drive",,"Type of Drives used topopulate the internal Bays",,SSD
+"",Number of Drives,,1,
+"",RAID for Operating System,,NA,
+"",Capacity of each Drive (GB),,"512, 600, 768, 800, 900, 1000, 1024, 1200, 1800,2000, 2048, 4000, 4096, 8000, 6000 Or higher",
+"","Type of Drives used topopulate the Internal Bays",,"SATA, SSD",
+"","Number of Internal Bayspopulated with SATA Drive",,"2, 3, 4, 5, 6, 7, 8, 9, 10 Or higher",
+"","Each SATA Drive Capacity(GB)",,"1000, 2000, 4000, 8000, 6000 Or higher",
+"","Speed of each SATA Drive(RPM)",,7200 Or higher,
+"","Total SATA Drive Capacity(GB)",,"2000, 4000, 8000, 3000, 5000, 6000, 7000, 9000,12000, 16000, 20000, 24000, 28000, 32000 Orhigher",
+"","Number of Internal Bayspopulated with SAS Drive",,"0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 Or higher",
+"","Capacity of each SAS Drive(GB)",,"300, 600, 900, 1200, 1800, 800, 0, 4000 Or higher",
+"","Total SAS Drive Capacity(GB)",,"300, 600, 900, 1200, 1800, 2100, 0, 4000 Or higher",
+"","Number of Internal Bayspopulated with SSD Drive",,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10 Or higher",
+"","Capacity of each SSD Drive(GB)",,"512, 1024, 2048, 800 Or higher",
+"",Total SSD Capacity (GB),,"512, 768, 1024, 2048, 4096, 5120, 3072 Or higher",
+"","Number of Internal Bayspopulated with PCIe Drive",,"0, 1, 2, 3, 4, 5, 6, 7, 8 Or higher",
+"","Capacity of each PCIe Drive(GB)",,"128, 256, 512, 1024, 2048, 0 Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Total PCIe Drive Capacity(GB)",,"128, 256, 512, 1024, 2048, 4096, 0, 1536, 6144 Orhigher"
+RAID,,RAID level,,"0, 1, 5, 1+0"
+"",,"Number of RAID ControllerPorts",,"5, 6, 7, 8, 10 Or higher"
+"",,"Speed of RAID ControllerPorts (Gbps)",,"6, 12 Or higher"
+Connectivity,,Type of Ethernet Ports,,Dual Gigabit NIC 10/100/1000
+"",,Number of Ethernet Ports,,"2, 3, 4, 6 Or higher"
+"",,Wireless Connectivity,,"Yes, No Or higher"
+"",,"If Yes, Type of WirelessConnectivity",,"Wi-Fi 802.11b/g/n, Wi-Fi 802.11ac, NA Or higher"
+"",,Bluetooth Connectivity,,"Yes, No Or higher"
+"",,"If Yes, Version of BluetoothAvailable",,"4, 4.1, 4.2, 5, 0 Or higher"
+Ports,,"Number of USB Version 3 point0 / 3 point 1, Gen 1 Ports",,"8, 9, 10 Or higher"
+"",,Number of USB Type C Ports,,2 Or higher
+"",,Number of DP Ports,,"4, 6, 8, 9, 12, 16 Or higher"
+Display,,Display Availability,,Monitor
+"",,Display Size (cm),,"72- 81, 82 - 87, 88 - 93, 94 - 97, 98 - 105, 107 - 110,111 - 115, 116 - 120, 121 - 125, 126 - 130 Or higher"
+"",,Display Type,,"Non Touch, Touch Or higher"
+"",,Panel Type,,"Flat, Curved Or higher"
+"",,Panel Technology,,"IPS, OLED Or higher"
+"",,Display Resolution (Pixels),,"3840 x 2160, 7680 x 4320 Or higher"
+"",,LED Backlit,,Yes Or higher
+"",,TCO Compliance for Monitor,,TCO 07
+"",,Colour Gamut,,"100% AdobeRGB, 100% sRGB, 100% Rec 709, 98%DCI-P3, 99% sRGB, 90% CIE1976, 75% CIE 1931, 45%Color Gamut, 72% Color Gamut, 72sRGB, 92% sRGB,95% sRGB Or higher"
+"",,Monitor Stand,,Height Adjustable Or higher
+Power,,Redundant Power Supply,,"Yes, No Or higher"
+"","Mouse Connectivity, If available",,"Wired, Wireless Or higher",
+"","Type of Mouse, If available",,Optical Scroll,
+"","Keyboard Connectivity, ifavailable",,"Wired, Wireless Or higher",
+"","Type of Keyboard, if available",,Standard with Rupee Symbol Or higher,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Generic,,Security,,S/W Based
+"",,Type of Bundled Software,,"Standard Performance Improvement Software,Artificial Intelligence Based PerformanceImprovement Software, Remote CollaborationSoftware & Performance Advisor Or higher"
+Warranty,,"On Site OEM Warranty(Year)",,"3, 4, 5 Or higher"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer768216,Mahanadi CoalfieldsBingu Om Prakash1Limited GM Office Orient Area160ReddyBrajrajnagar",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Bingu Om PrakashReddy",,"768216,Mahanadi CoalfieldsLimited GM Office Orient AreaBrajrajnagar",,1,,60,

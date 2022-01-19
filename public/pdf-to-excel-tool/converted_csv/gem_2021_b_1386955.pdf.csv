@@ -1,0 +1,37 @@
+Bid Details,,,
+Bid End Date/Time,,11-08-2021 11:00:00,
+Bid Opening Date/Time,,11-08-2021 11:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,1,
+Item Category,,"Medical Training kit with Human mannequins for medicaleducation or training",
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,10 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"","Medical Training Kit shall beequipped for impartingtrainings on:",,"Chest Compression depth, CPR Training, CombinedCPR and Airway Training"
+"","If the Medical Training Kit isequipped for impartingAirway managementtraining {: ETT Intubation,Laryngeal Mask Airway,Combi-Tube and LaryngealTube etc}:",,"Yes, No"
+"","Type of manikin(s) offeredin medical training kit:",,Upper Torso Manikin
+"","Functionality/Featuresavailable in manikin:",,"Airway Hygine system, Mouth to mouth ventilation"
+"","Inbuilt Integrated SkillFeedback system",,Yes
+"",Feedback facility available:,,"Feedback on ventilation, Feedback on chestcompression depth level"
+"","Facility of Digital Sensorsfor Instant Feed Back onVolume,, Depth and",,Chest Compression
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Facility of Airway openingonly when head is correctlyhyper extended",,Yes
+"","Facility of carotid pulseactivation during correctchest compressions",,"Yes, No",
+"",Certification,,"European CE Declaration according to 2014/53/EUand European Directive on Medical Devices",
+"",Warranty,,"3, 5 Or higher",
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************LUCKNOW130",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********LUCKNOW,,1,,30,

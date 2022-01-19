@@ -1,0 +1,54 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 19:00:00,
+Bid Opening Date/Time,,05-08-2021 19:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Defence Research & Development,
+Organisation Name,,Office Of Dg (mss),
+Office Name,,***********,
+Total Quantity,,10,
+Item Category,,All in One PC,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Certificate (Requested in ATC),OEM Authorization Certificate*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Advisory Bank,,State Bank of India,
+"",ePBG Percentage(%),,3.00,
+"",Duration of ePBG required (Months).,,38,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Motherboard,,Chipset Series,,"Intel Q Series, Intel Z Series Or higher"
+"",Chipset Number,,Intel Q470 Or higher,
+"",Processor Make,,Intel,
+"",Processor Generation,,10.0 Or higher,
+"","Number of Cores perProcessor",,"8, 10 Or higher",
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,Processor Description,,"Intel Core i7, Intel Core i9 Or higher"
+"",,Processor Number,,"Intel Core i7 10700, Intel Core i7 10700K, Intel Corei9 10900, Intel Core i9 10900K, 10th-generation IntelCore i7, Turbo Boost up to 5.0GHz Or higher"
+Graphics,,"Size of Memory in Case ofDedicated Graphic Card(GB)",,"3, 4, 8 Or higher"
+Operating System,,"Operating System (FactoryPre-Loaded)",,Windows 10 Professional
+Memory,,RAM Size (GB),,"16, 32, 64 Or higher"
+"",,"RAM Expandability up to(using spare DIMM Slots inGB)",,64 Or higher
+Storage,,"Type of Drives used topopulate the Internal Bays",,"HDD, SSD"
+"",,Total HDD Capacity (GB),,"1000, 1500, 2000, 2500, 3000 Or higher"
+"",,Total SSD Capacity (GB),,"512, 768, 1024, 2048, 4096 Or higher"
+Display,,Display Size (INCHES),,"23.6, 23.8, 27, 34, 37.5 Or higher"
+"",,Display Type,,"Non Touch, Touch Or higher"
+"",,Panel Technology,,"IPS, WVA Or higher"
+"",,Display Resolution (PIXELS),,"1920x1080, 1920 x 1200, 3200x1800, 3840 x 2160,3440 x 1440, 4096x2304, 5120x2880 Or higher"
+"",,"Availability of Webcamintegrated with Display",,Yes
+Warranty,,"On Site OEM Warranty(Year)",,"3, 5 Or higher"
+"Specification ParameterBid Requirement (Allowed Values)NameOEM AUTHORIZATIONTHE SELLER SHOULD SUBMIT BID SPECIFIC OEM AUTHORIZATIONCERTIFICATECERTIFICATE FOR THIS PARTICULAR BID NUMBER","Specification ParameterName",,Bid Requirement (Allowed Values)
+"OEM AUTHORIZATIONCERTIFICATE",,"THE SELLER SHOULD SUBMIT BID SPECIFIC OEM AUTHORIZATIONCERTIFICATE FOR THIS PARTICULAR BID NUMBER",
+S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+S.No.
+1
+"S.No.Document TitleDescriptionApplicable i.r.o. ItemsSPECIFICATION ANDATP DOCUMENTTHE SELLER SHOULD GIVE1COMPLIANCE TO ALL POINTSAll In One PC(10)ViewMENTIONED IN THIS DOCUMENT",S.No.,,,Document Title,,Description,,Applicable i.r.o. Items
+1,,,"SPECIFICATION ANDATP DOCUMENTView",,"THE SELLER SHOULD GIVECOMPLIANCE TO ALL POINTSMENTIONED IN THIS DOCUMENT",,All In One PC(10),

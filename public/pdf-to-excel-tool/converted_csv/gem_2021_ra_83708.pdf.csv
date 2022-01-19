@@ -1,0 +1,50 @@
+RA Details,,,
+RA Technical End Date/Time,,07-08-2021 12:00:00,
+RA Opening Date/Time,,07-08-2021 12:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,60 (Days),
+Ministry/State Name,,Bihar,
+Department Name,,Urban Development & Housing Department Bihar,
+Organisation Name,,Urban Development And Housing Department,
+Office Name,,Nagar Panchayat Bikram,
+Total Quantity,,1,
+Item Category,,Power Generator-DG Set (Upto 900 KVA),
+Average Turnover (Last 3 Years),,6 Lakh (s),
+OEM Average Turnover (Last 3 Years),,48 Lakh (s),
+Experience Criteria,,3 Year (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria,Past Performance,BidderTurnover,Certificate (Requested in ATC),OEM AuthorizationCertificate,OEM Annual Turnover,Additional Doc 1(Requested in ATC),Compliance of BoQ specification andsupporting document*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Past Performance,,80 %,
+Estimated RA Value,,1250000,
+Evaluation Method,,Total value wise evaluation,
+"",Advisory Bank,,State Bank of India,
+"",EMD Percentage(%),,2.00,
+"",EMD Amount,,25000,
+"",Required,,No,
+Brand Type,Registered Brand,
+Specification,Specification Name,Bid Requirement (Allowed Values),
+"Power GeneratorINSTALLATIONCONFIGURATIONS","Power Generatorinstallation configurationsas defined in CPWD GeneralSpecifications for Electricalworks - Part VII (DG Set)","Fixed (Power Generators are permanently installed)""",
+"OUTPUT CAPACITYRATING/ PHASE","Nominal Rated Capacity(kVA)",50,
+ENGINE,Rated Engine Power (kWm),"110 % of the required powered at STP(StandardTemperature Pressure) i.e equal to (Nominal RatedCapacity (KVA) of power generator Any Auxilary powerConsumption by the Power generator) x Powerfactor(0.8) / Alternator efficience Or higher",
+"",Type of governer,"Mechanical, Electronic Or higher",
+"",Rated RPM of Engine (RPM),1500,
+"",Fuel,High Speed Diesel (HSD),
+ALTERNATOR,Voltage Regulation Grade,VG 3 Or higher,
+CONTROL PANEL,Control Panel,Manual Control Panel,
+TRAILER,Trailer,NA for Fixed/Skid Mounted Power Generator,
+"",Pay load of the Trailer,"0, 500, 1000, 2000 Or higher",
+"SCOPE OFINSTALLATION",Installation,"with installation - inclusive in the scope of supply Orhigher",
+"WARRANTY/SERVICES","Warranty on Completepower genertor/DG Set",36 Or higher,
+"","Number of preventivemaintenance visits offeredin an year during warrantyperiod (Supply of allconsumables is the buyer'sresponsibilty)*",2,
+TEST REPORTS,"Test report Available for(Test/approval)","COP Certificate for engine, Type Approval Certificatefor the specified rating of the Power Generator fromany of the designated agency authorized by CPCB",
+"","Specification ParameterName",,Bid Requirement (Allowed Values),
+"",,,,
+"",INSTALLATION,,"BIDDER HAS TO DO COMPLETE INSTALLATION WORK/SUPPLY INCLUDINGCIVIL STRUCTURE, WIRING, EARTHING , CHANGEOVER AND ANY OTHERMANDATORY THINGS REQUIRED.",
+"","Specification ParameterName",,Bid Requirement (Allowed Values),
+"",WARRANTY,,"BIDDER HAS TO TAKE FULL WARRANTY OF THE DG SET FOR 36 MONTHSFOR ANY REPLACEMENT AND REPAIRING ON SITE, NO MONEY WILL BE PAYUPTO THE NEXT 3 YEARS, SAME SHALL BE MENTION ON BIDDERLETTERHEAD",
+"",PREVENTIVE MAINTENANCE,,"BIDDER HAS TO BEAR ALL THE COST OF LUBE OIL, FILTERS, MANPOWERAND ANY OTHER ITEMS REPLACEMENT DURING SCHEDULED MAINTENANCE,WHICH WILL BE CONDUCTED MINIMUM TWO TIMES IN 1 YEAR.",
+"",THIRD PARTY INSPECTION,,"THE SELLER HAS TO CONDUCT A THIRD PARTY INSPECTION AT THEIRPREMISES BEFORE DISPATCH OF THE GOODS FROM THE FOLLOWINGAGENCIES BVI, SGS, TUV AND THE COST OF THE INSPECTION WILL BE INSELLER'S SCOPE. THE TEST CERTIFICATE SHOULD SUBMIT TO THECONSIGNEE ALONG WITH THE DELIVERY OF THE MATERIAL.",
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days,
+1,Mantu Kumar,"801104,NAGAR PANCHAYATBIKRAM, BLOCK ROAD, BIKRAM",1,30,

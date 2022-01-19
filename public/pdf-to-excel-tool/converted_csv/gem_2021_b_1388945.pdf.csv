@@ -1,0 +1,54 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 20:00:00,
+Bid Opening Date/Time,,06-08-2021 20:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Petroleum And Natural Gas,
+Department Name,,Bharat Petroleum Corporation Ltd,
+Organisation Name,,Bharat Petroleum Corporation Ltd,
+Office Name,,Lubes Northern Region,
+Total Quantity,,5,
+Item Category,,Wireless Access Point,
+Years of Past Experience required,,1 Year (s),
+MSE Exemption for Years Of Experience,,Yes,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Experience Criteria*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",Type of Access Point,,Stand alone
+"",Deployment,,Indoor
+"",Mounting,,Ceiling
+"",Number Of Radios,,Dual
+"",Frequency Band,,2.4 GHz & 5.0 GHz
+"",Supported Wi-fi Standards,,"802.11a, 802.11b/g, 802.11 b/g/n, 802.11ac, 802.11a/b/g/n/ac, 802.11ac Wave 1, 802.11ac Wave 2"
+"","Wireless Speed Up to(Mbps)",,"1733, 1750, 1774, 2500, 2974"
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"Max Wireless Signal Rangeim Mts",,"30, 90, 50"
+"",Channel Width (MHz),,"160, 80",
+"",Supported Encryption,,"WEP, WPA-PSK, WPA-TKIP, 802.11i, EAP-TLS, WPA2AES, 802.11, EAP-TLS., WPA AES",
+"",Dedicated Console Port,,"Available, Not Available",
+"",Device Management,,Web-based Configuration Interface (GUI),
+"","Number of MIMO supported &Spatial Streams",,4 x 4 :4,
+"",Number of 10/100/1000 port,,More than 2.0 Or higher,
+"",mGig support,,"Available, Not Available",
+"","Fiber port (in case of outdoorAP)",,Not Available,
+"","On Site OEM Warranty(Years)",,3,
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+WI-FI RADIO SPECIFICATIONS,,"• 5 GHz 802.11ac 4x4 MU-MIMO (1,733 Mbps max rate)-Four RP-SMAconnectors for external antenna operation • 2.4 GHz 802.11n 2x2 MIMO (300Mbps max rate) radios-Two RP-SMA connectors for external antennaoperation at 2.4 GHZ WI-FI RADIO SPECIFICATIONS • AP type: Indoorhardened, dual radio, 5 GHz 802.11ac 4x4 MIMO and 2.4 GHz 802.11n 2x2MIMO • Software-configurable dual radio supports 5 GHz (Radio 0) and 2.4GHz (Radio 1)"
+"WI-FI RADIO SPECIFICATIONS-part2",,"• 5 GHz: Four spatial stream Multiuser (MU) MIMO for up to 1,733 Mbpswireless data rate to up to three MU-MIMO capable client devicessimultaneously • 5 GHz: Four spatial stream Single User (SU) MIMO for up to1,733 Mbps wireless data rate to individual 4x4 VHT80 or 2x2 VHT160 clientdevices • 2.4 GHz: Two spatial stream Single User (SU) MIMO for up to 300Mbps wireless data rate to individual 2x2 HT40 client devices"
+"WI-FI RADIO SPECIFICATIONS-part3",,"• Support for up to 256 associated client devices per radio, and up to 16BSSIDs per radio. • 802.11n high-throughput (HT) support: HT 20/40 •802.11ac very high throughput (VHT) support: VHT 20/40/80/160 •802.11n/ac packet aggregation: A-MPDU, A-MSDU"
+"WI-FI ANTENNA PORTSSPECIFICATIONS",,"• 5 GHz -Four RP-SMA connectors for external antenna operation • 2.4 GHz -Two RP-SMA connectors for external antenna operation"
+"Specification ParameterName",,Bid Requirement (Allowed Values)
+OTHER INTERFACES,,"One 10/100/1000BASE-T Ethernet network interfaces (RJ-45)-Auto-sensinglink speed and MDI/MDX-802.3az Energy Efficient Ethernet (EEE) • One1000BASE-X SFP Port • Bluetooth Low Energy (BLE) radio-Up to 4 dBmtransmit power (class 2) and -91 dBm receive sensitivity • Visual indicator(multi-color LED): For system and radio status • Reset button: Factory reset(during device power up) • Micro USB console interface"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer201102,BHARAT PETROLEUMCORPORATION LTD. MAK LUBE1Ashok Kumar BairwaPLANT,HASTINAPUR YOJNA,515VILLAGE TEELASHAVAJPUR,P.O. LONI",S.No.
+1,
+"S.No.Document TitleDescriptionApplicable i.r.o. Items5 GHz 802.11ac 4x4 MU-MIMO (1,733Mbps max rate)-Four RP-SMAconnectors for external antennaoperation • 2.4 GHz 802.11n 2x2 MIMO(300 Mbps max rate) radios-Two RP-WI-FI RADIOSMA connectors for external antennaSPECIFICATIONSoperation at 2.4 GHZ WI-FI RADIO1SPECIFICATIONS • AP type: IndoorWireless Access Point(5)Viewhardened, dual radio, 5 GHz 802.11ac4x4 MIMO and 2.4 GHz 802.11n 2x2MIMO • Software-configurable dualradio supports 5 GHz (Radio 0) and 2.4GHz (Radio 1) • 5 GHz: Four spatialstream Multiuser (MU) MIMO for up to1,733 Mbps wireles",S.No.,,,Document Title,,Description,,Applicable i.r.o. Items
+1,,,"WI-FI RADIOSPECIFICATIONSView",,"5 GHz 802.11ac 4x4 MU-MIMO (1,733Mbps max rate)-Four RP-SMAconnectors for external antennaoperation • 2.4 GHz 802.11n 2x2 MIMO(300 Mbps max rate) radios-Two RP-SMA connectors for external antennaoperation at 2.4 GHZ WI-FI RADIOSPECIFICATIONS • AP type: Indoorhardened, dual radio, 5 GHz 802.11ac4x4 MIMO and 2.4 GHz 802.11n 2x2MIMO • Software-configurable dualradio supports 5 GHz (Radio 0) and 2.4GHz (Radio 1) • 5 GHz: Four spatialstream Multiuser (MU) MIMO for up to1,733 Mbps wireles",,Wireless Access Point(5),

@@ -1,0 +1,40 @@
+Bid Details,,,
+Bid End Date/Time,,05-08-2021 18:00:00,
+Bid Opening Date/Time,,05-08-2021 18:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,45 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,250,
+Item Category,,Roller Ball Pen,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+Primary product category,,Roller Ball Pen,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)Ink TypeType of InkWater BasedColor of InkInk ColorBluePhysicalLine Width (mm)0.3CharacteristicsTC Ball Tip (mm)0.5Writing Length (Meter)1000",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Ink Type,,Type of Ink,,Water Based,
+Color of Ink,,Ink Color,,Blue,
+"PhysicalCharacteristics",,Line Width (mm),,0.3,
+"",TC Ball Tip (mm),,0.5,,
+"",Writing Length (Meter),,1000,,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************BANGALORE15030",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********BANGALORE,,150,,30,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)Ink TypeType of InkWater BasedColor of InkInk ColorBlack, Red, Green, BluePhysicalLine Width (mm)0.3CharacteristicsTC Ball Tip (mm)0.5Writing Length (Meter)5002",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Ink Type,,Type of Ink,,Water Based,
+Color of Ink,,Ink Color,,"Black, Red, Green, Blue",
+"PhysicalCharacteristics",,Line Width (mm),,0.3,
+"",TC Ball Tip (mm),,0.5,,
+"",Writing Length (Meter),,5002,,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************BANGALORE10030",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********BANGALORE,,100,,30,

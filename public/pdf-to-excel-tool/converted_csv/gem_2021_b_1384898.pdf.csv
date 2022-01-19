@@ -1,0 +1,57 @@
+Bid Details,,,
+Bid End Date/Time,,13-08-2021 15:00:00,
+Bid Opening Date/Time,,13-08-2021 15:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,70 (Days),
+Ministry/State Name,,Gujarat,
+Department Name,,Science And Technology Department Gujarat,
+Organisation Name,,Gujarat Informatics Limited (gil),
+Office Name,,Western Zone,
+Total Quantity,,202,
+Item Category,,Office Suite Software (Version 2.0),
+"Minimum Average Annual Turnover of theBidder",,33 Lakh (s),
+OEM Average Turnover (Last 3 Years),,267 Lakh (s),
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Document required from seller,,"Bidder Turnover,Certificate (Requested in ATC),OEMAuthorization Certificate,OEM Annual Turnover,AdditionalDoc 1 (Requested in ATC),Additional Doc 2 (Requested inATC)*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+Bid to RA enabled,,Yes,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Advisory Bank,,HDFC Bank,
+"",EMD Percentage(%),,2.00,
+"",EMD Amount,,133324,
+"",Required,,No,
+"",MSE Purchase Preference,,No,
+"",MII Purchase Preference,,No,
+Brand Type,Registered Brand,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+BASIC INFORMATION,,Product Type,,Proprietary Suites
+"",Offered Product are,,2. Government Edition,
+"","""Types of Licence (Hint :Select 'NA' if notapplicable)""",,1.Perpetual,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"",,"""Duration of Subscription(in Years) (Hint : Select '0'if not applicable)""",,0.0 - 5.0 Or higher
+"",,Licencing option,,4.Device based
+"",,"Number of CORE /Users/Socket/ Device Supportedfor Each licence (Hint : -Inline with licence optionselected)",,1.0 - 100.0 Or higher
+OFFICE SUITE,,Proprietary Suite,,1. Microsoft Office
+"",,"""Open Source Suite (Hint:-Vendor can offer supportservice to open source suiteon subscription basis)""",,6. Not Applicable
+"",,"Components of Office Suitecovered in the offeredproduct",,"1. Word Processor, 2. Spreadsheet, 3. Presentation, 4.FILE CONVERSION, 5.GRAPHICS"
+"",,"Operating SystemsSupported by the offeredproduct",,1. Windows
+"",,"The offered product havesupport from OEM for",,"1. Updation for Patches and Bug fixes within supoortperiod."
+"",,"Number of Years uptowhich support is availablefrom OEM/Seller forUpdation (Patches and Bugfixes) within support period",,5
+"",,"Number of Years uptowhich support is availablefrom OEM/Seller forUpgradation of versionwithin support period",,NA
+"",,"No of days TrainingProvided at Site",,0
+Word Processor,,Word Processor FEATURES,,"1. Word, 2.Themes, 3. File Annotation, 4.Built in SpellChecker/ Grammer & Style, 5. Dictionary/ Theasaurus,6. Utilities for manupulating and editing text"
+Spreadsheet,,Spreadsheet FEATURES,,"1. Excel, 3.Open XML File Format, 5.Queries,7.Formula Calculation Function, 8.Pivot Table/ Tables"
+Presentation,,PPT FEATURES,,"1. Presentation Tool, 2.Slide Transitions, 3.Themes,4.Power View"
+FILE CONVERSION,,"PDF Editor & ConvertorFeatures",,"1. Word to PDF,, 2. PDF to word,, 3. Excel to PDF,"
+GRAPHICS,,GRAPHICS FEATURES,,"1. GRAPHIC TOOL, 2. Drawings and Diagrams, 3.Pathediting tool, 4. Raster Graphics Editor, 5. VectorGraphics Editor"
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+"COLLABORATIONTOOL",,"COLLABORATION TOOLFEATURES",,"10.Real time Document Co- Authoring,11.Collaboration over Same Platform Suite, 2.Relationships, 5.Exchange Server Support, 6.OutlookSocial Connector"
+GENERIC,,GENERIC FEATURES 1,,"1. Accessibility, 2. Support for many nativelanguages, 3. 3rd Party Add -ons, 4.ActiveX Control,5.Writing Support, 6.Gradient and pattern tools,7.Files and Printing, 8. Editing and Formatting,9.Language Tools, 11.Forms, 12. Reports"
+"",,GENERIC FEATURES 2,,"16. Templates, 18.Equation Editor, 19.VersionInformation, 23. Live Preview, 24.Research Button,25. Bug report, 26. Notetaking software, 27. Emailclient, 28. HTML Editor, 29. Online Editing"
+"",,Cloud storage support for,,4. NA
+"",,"Capacity of cloud storagesupport(in GB) Hint:-Select'0' if not applicable",,0.0 - 10000.0 Or higher
+"SUPPORTEDHARDWAREREQUIREMENTS ATUSEREND",,Processor Supported in Bits,,"32, 64"
+"","Minimum ProcessorConfiguration Required",,1.0ghz(min.),
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer382010,Block no. 2, 2nd Floor,1Patel Hiren BKarmayogi Bhavan, Sector10A,20215Gandhinagar",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,Patel Hiren B,,"382010,Block no. 2, 2nd Floor,Karmayogi Bhavan, Sector10A,Gandhinagar",,202,,15,

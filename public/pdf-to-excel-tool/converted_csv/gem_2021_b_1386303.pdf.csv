@@ -1,0 +1,31 @@
+Bid Details,,,
+Bid End Date/Time,,28-07-2021 19:00:00,
+Bid Opening Date/Time,,28-07-2021 19:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,3,
+Item Category,,Deposit Safe-IS:550,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,2 Days,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Estimated Bid Value,,57000,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Unbranded,
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Specification,,Specification Name,,Bid Requirement (Allowed Values)
+GENERIC,,"Class of Safe as per IS:550Part1",,"Class-D (Door with tool resistance capacity of 15 minand resistance to trapping/fishing deposited envelopsor bags for 15 minutes), Class-C (Door with toolresistance capacity of 30 minutes, other five sideswith tool resisting capacity of 10 min each and safewith fire resisting capacity of 30 min), Class-CC (Doorand all five sides with tool resisting capacity of 15 minand safe with fire resisting capacity of 30 minutes),Class-CCC (Door and all five sides with tool resistingcapacity of 30 min and safe with fire resistingcapacity of 30 min), Class-B (Safe having torch andtool resistance door with 15 min resisting capacityand tool resistance on all 5 sides with 15 minresisting capacity), Class-BB (Safe having torch andtool resisting capacity for 15 min on all sides), Class-BBB (Safe having torch and tool resistance door with30 min resisting capacity and tool resistance on all 5sides with 15 min resisting capacity), Class-A ( Safehaving torch and tool resisting capacity on all sixsides for 30 min each), Class-AA (Safe having torchand tool resisting capacity on all six sides for 60 mineach), Class-AAA ( Safe having torch and toolresisting capacity on all six sides for 90 min each),Class-X ( Safe having torch, tool and explosiveresisting capacity on all six sides for 60 minute each)"
+"",,Size as per IS:550,,"470 SINGLE DOOR, 580 SINGLE DOOR, 850-S SINGLEDOOR, 850-L SINGLE DOOR, 1030 SINGLE DOOR,1340 SINGLE DOOR, 1640 SINGLE DOOR, 1860SINGLE DOOR, 1340 DOUBLE DOOR, 1600 DOUBLEDOOR"
+CERTIFICATION,,"ISI marked (IS:550, Part 1)",,"Yes, NO"
+WARANTEE,,"WARANTEE PERIOD INNUMBER OF YEARS",,"1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer1**********************KAMRUP345",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,***********,,***********KAMRUP,,3,,45,

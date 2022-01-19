@@ -1,0 +1,55 @@
+RA Details,,,
+RA Technical End Date/Time,,05-08-2021 16:00:00,
+RA Opening Date/Time,,05-08-2021 16:30:00,
+RA Life Cycle (From Publish Date),,90 (Days),
+RA Offer Validity (From End Date),,30 (Days),
+Ministry/State Name,,Ministry Of Defence,
+Department Name,,Department Of Military Affairs,
+Organisation Name,,Indian Army,
+Office Name,,***********,
+Total Quantity,,3,
+Item Category,,Computer Printers,
+Experience Criteria,,3 Year (s),
+"MSE Exemption for Years Of Experienceand Turnover",,Yes,
+"Startup Exemption for Years Of Experienceand Turnover",,Yes,
+Document required from seller,,"Experience Criteria,Past Performance,Bidder Turnover*In case any bidder is seeking exemption from Experience /Turnover Criteria, the supporting documents to prove hiseligibility for exemption must be uploaded for evaluation bythe buyer",
+"Time allowed for Technical Clarificationsduring technical evaluation",,3 Days,
+Past Performance,,10 %,
+"Inspection Required (By EmpanelledInspection Authority / Agencies pre-registered with GeM)",,No,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+Brand Type,Registered Brand
+Specification,Specification Name,Bid Requirement (Allowed Values)
+Cartridge Technology,"Composite Cartridge, separate toner and drum Orhigher",
+Printing Technology,Laser,
+Type of Printing,Mono,
+Paper Size,"A4, A3 Or higher",
+"Print Speed per minute asper ISO/IEC 24734 in (A4)Size - Mono","30, 35, 38, 40, 43, 45, 47, 50, 52, 55, 60, 61, 65, 70,71, 75, 80, 85, 90, 95, 100, 105, 110, 31, 32, 62, 33,41, 46, 56, 34 Or higher",
+"Print Speed per minute asper ISO/IEC 24734 in (A4) -Color","4, 7, 8, 10, 12, 15, 16, 18, 20, 25, 30, 35, 40, 45, 50,55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 26,27, 31, 38, 4.4, 5, 5.7, 5.8, 6.8, 10.4, 15.5, 21, 24, 33,46, 34, 19, 0, 14 Or higher",
+Resolution (Dpi),"2400x600, 2400x1200, 3840x600, 4800x1200,5760x1440, 9600x600, 4800x600 Or higher",
+Specification,Specification Name,Bid Requirement (Allowed Values)
+Memory (MB),"2, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096,6144, 384, 768, 1563, 2560, 1536, 1000, 192, 3072 Orhigher",
+Hard Disk Capacity (GB),"0, 8, 128, 160, 256, 320, 500, 1024, 250 Or higher",
+Duplexing Feature,Yes Or higher,
+Duplex Print Speed ( IPM),"15, 18, 24, 30, 34, 43, 50, 58, 22, 26, 36, 38, 40, 41,21, 28, 20 Or higher",
+"Network Interface, if available","Ethernet 10/100/1000, Ethernet 10/100, NA Or higher",
+Wireless Connectivity,"Yes, No Or higher",
+"If Yes, Type of WirelessConnectivity","Wireless (802.11 b/g/n), Wi Fi Direct, NA Or higher",
+USB Port,Yes Or higher,
+Number of Main Paper Trays,"1, 2, 3, 4, 5 Or higher",
+Each Main Paper Tray Capacity,"250, 300, 500, 520, 550, 750, 2000 Or higher",
+Bypass Tray Facility,"Yes, No Or higher",
+"If Yes, Bypass Tray Capacity","1, 10, 50, 100, 150 Or higher",
+"Yield of the cartridge/InkTank/Ink Pack supplied withMachine as per ISO/IEC:19798/2007(E) for Cyan colour(Number of prints)","690, 1200, 5400, 9500, 18000, 22500, 7400, 213,231, 337, 384, 700, 7000, 165, 330, 400, 500, 1500,2500, 2000, 6000, 73000, 15000, 31500, 13500,32000, 7300, 3500, 3000, 8000, 1000, 1300, 1400,2300, 2600, 5000, 13000, 0, 2400, 3300, 5300, 5900,10000, 10300, 12000 Or higher",
+"Yield of the cartridge/InkTank/Ink Pack supplied withMachine as per ISO/IEC:19798/2007(E) for Yellow colour(Number of prints)","690, 1200, 5400, 7400, 9500, 18000, 22500, 87, 96,120, 146, 700, 7000, 330, 165, 400, 500, 1500, 2500,2000, 6000, 73000, 15000, 31500, 13500, 32000,7300, 3500, 3000, 8000, 1000, 1300, 1400, 2300,2600, 5000, 13000, 0, 2400, 3300, 5300, 5900, 10000,10300, 12000 Or higher",
+"Yield of the cartridge/InkTank/Ink Pack supplied withMachine as per ISO/IEC:19752/2004(E) for Black(Number of prints)","6000, 9000, 10000, 12000, 15000, 24000, 29500,37000, 43000, 3100, 6300, 7000, 7500, 11000, 5000,3000, 4000, 6900, 3500, 40000, 13500, 29000,16000, 2600, 13000, 8000, 3300, 5300, 5900, 10300,51500 Or higher",
+"Life of Drum in terms of numberof Prints in case of SeparateDrum and Toner cartridgetechnology -Cyan","48000, 60000, 175000, 270000, 3000, 9200, 30000,18000, 0, 10000, 40000, 82200, 190000 Or higher",
+"Life of Drum in terms of numberof Prints in case of SeparateDrum and Toner cartridgetechnology - Yellow","48000, 60000, 175000, 27000, 3000, 9200, 30000,18000, 0, 10000, 40000, 82200, 190000 Or higher",
+"Life of Drum in terms of numberof Prints in case of SeparateDrum and Toner cartridgetechnology - Magenta","48000, 60000, 175000, 270000, 3000, 9200, 30000,18000, 0, 10000, 40000, 82200, 190000 Or higher",
+"Life of Drum in terms of numberof Prints in case of SeparateDrum and Toner cartridgetechnology - Black","20000, 60000, 120000, 160000, 175000, 500000,400000, 1200000, 12000, 23000, 30000, 18000,40000, 82200, 190000 Or higher",
+Specification,Specification Name,Bid Requirement (Allowed Values)
+"",Duty Cycle (No of Prints/month),"10000, 12000, 15000, 20000, 30000, 40000, 50000,60000, 80000, 100000, 120000, 150000, 175000,200000, 250000, 275000, 300000, 75000, 280000,65000, 153000, 205000 Or higher"
+"On site OEM warranty(Years)","1, 3, 5, 2, 4 Or higher",
+S.No.,"Consignee/Reporting Officer",Address,Quantity,Delivery Days
+1,***********,***********ALLAHABAD,3,15

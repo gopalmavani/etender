@@ -1,0 +1,29 @@
+Bid Details,,,
+Bid End Date/Time,,06-08-2021 18:00:00,
+Bid Opening Date/Time,,06-08-2021 18:30:00,
+Bid Life Cycle (From Publish Date),,90 (Days),
+Bid Offer Validity (From End Date),,75 (Days),
+Ministry/State Name,,Pmo,
+Department Name,,Department Of Atomic Energy,
+Organisation Name,,N/a,
+Office Name,,Directorate Of Purchase And Stores,
+Total Quantity,,1,
+Item Category,,pH Meter,
+"MSE Exemption for Years of Experience andTurnover",,No,
+"Startup Exemption for Years of Experienceand Turnover",,No,
+Bid to RA enabled,,No,
+"Time allowed for Technical Clarificationsduring technical evaluation",,5 Days,
+Evaluation Method,,Total value wise evaluation,
+"",Required,,No,
+"",Required,,No,
+"",MII Purchase Preference,,No,
+"",MSE Purchase Preference,,Yes,
+Brand Type,Registered Brand,
+"SpecificationSpecification NameBid Requirement (Allowed Values)WarrantyWarranty (Year)3CONFIGURATIONTypeMicroprocessor BasedAccuracy (pH)+- 0.05Temperature CompensationAutomaticTypeTemperature Accuracy+- 0.3(Degree C)",Specification,,Specification Name,,Bid Requirement (Allowed Values)
+Warranty,,Warranty (Year),,3,
+CONFIGURATION,,Type,,Microprocessor Based,
+"",Accuracy (pH),,+- 0.05,,
+"","Temperature CompensationType",,Automatic,,
+"","Temperature Accuracy(Degree C)",,+- 0.3,,
+"Consignee/ReportiS.No.AddressQuantityDelivery Daysng Officer400085,Material Receipt CellMahesh Gajanan(MRC), North Gate, Central1160PedhaviStores Unit, BARC, TROMBAY,MUMBAI",S.No.,,"Consignee/Reporting Officer",,Address,,Quantity,,Delivery Days
+1,,"Mahesh GajananPedhavi",,"400085,Material Receipt Cell(MRC), North Gate, CentralStores Unit, BARC, TROMBAY,MUMBAI",,1,,60,
